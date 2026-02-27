@@ -45,8 +45,8 @@
     "name": "SUCIYONO",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-27T18:11:17Z",
-    "cycle": 1
+    "lastUpdate": "2026-02-27T18:12:14Z",
+    "cycle": 2
   },
   {
     "name": "SUMBER REJEKI",
@@ -281,10 +281,10 @@
   },
   {
     "name": "HERDIANA DIYAH S",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-27T15:11:59Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-27T18:12:14Z",
+    "cycle": 1
   },
   {
     "name": "BUDI",
@@ -393,10 +393,10 @@
   },
   {
     "name": "ULFA MARIA",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-27T15:11:59Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-27T18:12:14Z",
+    "cycle": 1
   },
   {
     "name": "TOKO SURYATI",
@@ -498,10 +498,10 @@
   },
   {
     "name": "ISTIQOMAH",
-    "stock": 29,
-    "lastStock": 30,
-    "lastUpdate": "2026-02-27T18:11:17Z",
-    "cycle": 1
+    "stock": 1,
+    "lastStock": 0,
+    "lastUpdate": "2026-02-27T18:12:14Z",
+    "cycle": 2
   },
   {
     "name": "TOKO IRAWAN",
