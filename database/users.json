@@ -45,8 +45,8 @@
     "name": "SUCIYONO",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-27T21:03:27Z",
-    "cycle": 1
+    "lastUpdate": "2026-02-27T21:04:11Z",
+    "cycle": 2
   },
   {
     "name": "SUMBER REJEKI",
@@ -325,8 +325,8 @@
     "name": "DARMAWAN P",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-27T21:03:27Z",
-    "cycle": 1
+    "lastUpdate": "2026-02-27T21:04:11Z",
+    "cycle": 2
   },
   {
     "name": "DIYAH UTAMI",
@@ -500,14 +500,14 @@
     "name": "ISTIQOMAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-27T21:03:27Z",
-    "cycle": 1
+    "lastUpdate": "2026-02-27T21:04:11Z",
+    "cycle": 2
   },
   {
     "name": "TOKO IRAWAN",
-    "stock": 59,
-    "lastStock": 60,
-    "lastUpdate": "2026-02-27T21:02:30Z",
-    "cycle": 0
+    "stock": 1,
+    "lastStock": 0,
+    "lastUpdate": "2026-02-27T21:04:11Z",
+    "cycle": 1
   }
 ]
