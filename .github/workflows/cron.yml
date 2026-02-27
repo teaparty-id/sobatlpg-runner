@@ -1,0 +1,15 @@
+name: Trigger Cronjob
+
+on:
+  workflow_dispatch:
+  schedule:
+     - cron: "0 * * * *"
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Call dispatch
+        if: ${{always()}}
+        uses: peter-evans/repository-dispatch@v3.0.0
+        with:
+          event-type: cron_job
