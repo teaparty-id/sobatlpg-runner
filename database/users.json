@@ -442,10 +442,10 @@
   },
   {
     "name": "HJ. ASLAMIYAH",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-27T18:38:32Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-27T21:38:47Z",
+    "cycle": 1
   },
   {
     "name": "TK. MAJU",
@@ -456,17 +456,17 @@
   },
   {
     "name": "H. JUMAT",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-27T18:38:32Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-27T21:38:47Z",
+    "cycle": 1
   },
   {
     "name": "HARSININGSIH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-27T21:38:19Z",
-    "cycle": 1
+    "lastUpdate": "2026-02-27T21:38:47Z",
+    "cycle": 2
   },
   {
     "name": "CAHYA HERAWATI",
@@ -507,7 +507,7 @@
     "name": "TOKO IRAWAN",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-27T21:38:19Z",
-    "cycle": 3
+    "lastUpdate": "2026-02-27T21:38:47Z",
+    "cycle": 4
   }
 ]
