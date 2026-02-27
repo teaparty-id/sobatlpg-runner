@@ -45,8 +45,8 @@
     "name": "SUCIYONO",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-27T20:44:22Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-27T20:47:02Z",
+    "cycle": 1
   },
   {
     "name": "SUMBER REJEKI",
@@ -190,24 +190,24 @@
   },
   {
     "name": "NADIFATUS SOLEHA",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-27T17:46:40Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-27T20:47:02Z",
+    "cycle": 1
   },
   {
     "name": "SUROSO",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-27T17:46:40Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-27T20:47:02Z",
+    "cycle": 1
   },
   {
     "name": "HADI SUTOYO",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-27T17:46:40Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-27T20:47:02Z",
+    "cycle": 1
   },
   {
     "name": "SRI HIDAYATI",
