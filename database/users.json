@@ -45,8 +45,8 @@
     "name": "SUCIYONO",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-27T18:42:31Z",
-    "cycle": 2
+    "lastUpdate": "2026-02-27T18:43:20Z",
+    "cycle": 3
   },
   {
     "name": "SUMBER REJEKI",
@@ -80,8 +80,8 @@
     "name": "LUTFI A.",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-27T18:42:31Z",
-    "cycle": 1
+    "lastUpdate": "2026-02-27T18:43:20Z",
+    "cycle": 2
   },
   {
     "name": "MOH SAID",
@@ -472,15 +472,15 @@
     "name": "CAHYA HERAWATI",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-27T18:42:31Z",
-    "cycle": 1
+    "lastUpdate": "2026-02-27T18:43:20Z",
+    "cycle": 2
   },
   {
     "name": "MISRI CICI",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-27T15:42:45Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-27T18:43:20Z",
+    "cycle": 1
   },
   {
     "name": "ALFIAN DWI A.",
