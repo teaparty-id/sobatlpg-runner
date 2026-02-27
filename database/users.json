@@ -78,10 +78,10 @@
   },
   {
     "name": "LUTFI A.",
-    "stock": 18,
+    "stock": 14,
     "lastStock": 0,
-    "lastUpdate": "2026-02-27T10:45:40Z",
-    "cycle": 4
+    "lastUpdate": "2026-02-27T10:57:04Z",
+    "cycle": 5
   },
   {
     "name": "MOH SAID",
@@ -92,17 +92,17 @@
   },
   {
     "name": "TOKO 2 PUTRI",
-    "stock": 14,
+    "stock": 7,
     "lastStock": 0,
-    "lastUpdate": "2026-02-27T10:45:40Z",
-    "cycle": 2
+    "lastUpdate": "2026-02-27T10:57:04Z",
+    "cycle": 3
   },
   {
     "name": "TOKO IIN",
-    "stock": 17,
+    "stock": 16,
     "lastStock": 0,
-    "lastUpdate": "2026-02-27T10:45:40Z",
-    "cycle": 2
+    "lastUpdate": "2026-02-27T10:57:04Z",
+    "cycle": 3
   },
   {
     "name": "SUPARMAN",
@@ -211,10 +211,10 @@
   },
   {
     "name": "SRI HIDAYATI",
-    "stock": 23,
+    "stock": 16,
     "lastStock": 0,
-    "lastUpdate": "2026-02-27T10:45:40Z",
-    "cycle": 2
+    "lastUpdate": "2026-02-27T10:57:04Z",
+    "cycle": 3
   },
   {
     "name": "ONG SWI GIOK",
@@ -379,17 +379,17 @@
   },
   {
     "name": "TOKO POJOK",
-    "stock": 101,
+    "stock": 100,
     "lastStock": 0,
-    "lastUpdate": "2026-02-27T10:49:40Z",
-    "cycle": 1
+    "lastUpdate": "2026-02-27T11:00:37Z",
+    "cycle": 2
   },
   {
     "name": "UD RAHMAT",
-    "stock": 31,
+    "stock": 25,
     "lastStock": 0,
-    "lastUpdate": "2026-02-27T10:50:03Z",
-    "cycle": 1
+    "lastUpdate": "2026-02-27T11:01:11Z",
+    "cycle": 2
   },
   {
     "name": "ULFA MARIA",
@@ -421,10 +421,10 @@
   },
   {
     "name": "ABDUL WAFI",
-    "stock": 47,
+    "stock": 45,
     "lastStock": 0,
-    "lastUpdate": "2026-02-27T10:50:27Z",
-    "cycle": 1
+    "lastUpdate": "2026-02-27T11:01:46Z",
+    "cycle": 2
   },
   {
     "name": "YUNIS WAHYUNI",
@@ -449,10 +449,10 @@
   },
   {
     "name": "TK. MAJU",
-    "stock": 26,
+    "stock": 21,
     "lastStock": 0,
-    "lastUpdate": "2026-02-27T10:51:20Z",
-    "cycle": 1
+    "lastUpdate": "2026-02-27T11:02:21Z",
+    "cycle": 2
   },
   {
     "name": "H. JUMAT",
@@ -484,10 +484,10 @@
   },
   {
     "name": "ALFIAN DWI A.",
-    "stock": 87,
+    "stock": 81,
     "lastStock": 0,
-    "lastUpdate": "2026-02-27T10:52:40Z",
-    "cycle": 1
+    "lastUpdate": "2026-02-27T11:04:32Z",
+    "cycle": 2
   },
   {
     "name": "TITIK ISMIATIN",
