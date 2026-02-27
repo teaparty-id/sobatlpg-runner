@@ -101,8 +101,8 @@
     "name": "TOKO IIN",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-27T12:50:36Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-27T15:52:26Z",
+    "cycle": 1
   },
   {
     "name": "SUPARMAN",
@@ -484,10 +484,10 @@
   },
   {
     "name": "ALFIAN DWI A.",
-    "stock": 35,
+    "stock": 30,
     "lastStock": 0,
-    "lastUpdate": "2026-02-27T15:46:51Z",
-    "cycle": 2
+    "lastUpdate": "2026-02-27T15:52:26Z",
+    "cycle": 3
   },
   {
     "name": "TITIK ISMIATIN",
@@ -500,14 +500,14 @@
     "name": "ISTIQOMAH",
     "stock": 29,
     "lastStock": 30,
-    "lastUpdate": "2026-02-27T15:47:47Z",
-    "cycle": 1
+    "lastUpdate": "2026-02-27T15:52:26Z",
+    "cycle": 2
   },
   {
     "name": "TOKO IRAWAN",
-    "stock": 1,
-    "lastStock": 0,
-    "lastUpdate": "2026-02-27T15:48:10Z",
-    "cycle": 1
+    "stock": 59,
+    "lastStock": 60,
+    "lastUpdate": "2026-02-27T15:52:26Z",
+    "cycle": 2
   }
 ]
