@@ -57,24 +57,24 @@
   },
   {
     "name": "JAENAL",
-    "stock": 1,
+    "stock": 51,
     "lastStock": 0,
-    "lastUpdate": "2026-02-27T13:06:48Z",
-    "cycle": 4
+    "lastUpdate": "2026-02-27T13:10:58Z",
+    "cycle": 5
   },
   {
     "name": "JOKO SUWARNO",
-    "stock": 57,
+    "stock": 55,
     "lastStock": 0,
-    "lastUpdate": "2026-02-27T12:59:17Z",
-    "cycle": 3
+    "lastUpdate": "2026-02-27T13:10:58Z",
+    "cycle": 4
   },
   {
     "name": "KARSONO",
-    "stock": 52,
+    "stock": 45,
     "lastStock": 0,
-    "lastUpdate": "2026-02-27T12:59:23Z",
-    "cycle": 3
+    "lastUpdate": "2026-02-27T13:10:58Z",
+    "cycle": 4
   },
   {
     "name": "LUTFI A.",
@@ -211,10 +211,10 @@
   },
   {
     "name": "SRI HIDAYATI",
-    "stock": 5,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-27T12:59:47Z",
-    "cycle": 1
+    "lastUpdate": "2026-02-27T13:10:58Z",
+    "cycle": 2
   },
   {
     "name": "ONG SWI GIOK",
@@ -379,17 +379,17 @@
   },
   {
     "name": "TOKO POJOK",
-    "stock": 79,
+    "stock": 73,
     "lastStock": 0,
-    "lastUpdate": "2026-02-27T13:00:30Z",
-    "cycle": 1
+    "lastUpdate": "2026-02-27T13:13:23Z",
+    "cycle": 2
   },
   {
     "name": "UD RAHMAT",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-27T11:32:36Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-27T13:15:42Z",
+    "cycle": 1
   },
   {
     "name": "ULFA MARIA",
@@ -421,10 +421,10 @@
   },
   {
     "name": "ABDUL WAFI",
-    "stock": 1,
+    "stock": 36,
     "lastStock": 0,
-    "lastUpdate": "2026-02-27T11:32:39Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-27T13:15:50Z",
+    "cycle": 1
   },
   {
     "name": "YUNIS WAHYUNI",
@@ -449,10 +449,10 @@
   },
   {
     "name": "TK. MAJU",
-    "stock": 9,
+    "stock": 8,
     "lastStock": 0,
-    "lastUpdate": "2026-02-27T11:37:48Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-27T13:16:16Z",
+    "cycle": 1
   },
   {
     "name": "H. JUMAT",
@@ -486,8 +486,8 @@
     "name": "ALFIAN DWI A.",
     "stock": 71,
     "lastStock": 0,
-    "lastUpdate": "2026-02-27T11:43:10Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-27T13:17:42Z",
+    "cycle": 1
   },
   {
     "name": "TITIK ISMIATIN",
