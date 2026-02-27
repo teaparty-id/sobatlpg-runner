@@ -46,7 +46,7 @@
     "stock": 1,
     "lastStock": 0,
     "lastUpdate": "2026-02-27T21:37:12Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "SUMBER REJEKI",
@@ -431,21 +431,21 @@
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-02-27T21:37:12Z",
-    "cycle": 4
+    "cycle": 0
   },
   {
     "name": "ROSIDI",
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-02-27T21:37:12Z",
-    "cycle": 4
+    "cycle": 0
   },
   {
     "name": "HJ. ASLAMIYAH",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-27T21:38:47Z",
-    "cycle": 1
+    "lastUpdate": "2026-02-27T21:40:30Z",
+    "cycle": 0
   },
   {
     "name": "TK. MAJU",
@@ -456,17 +456,17 @@
   },
   {
     "name": "H. JUMAT",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-27T21:38:47Z",
-    "cycle": 1
+    "lastUpdate": "2026-02-27T21:40:30Z",
+    "cycle": 0
   },
   {
     "name": "HARSININGSIH",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-27T21:38:47Z",
-    "cycle": 2
+    "lastUpdate": "2026-02-27T21:40:30Z",
+    "cycle": 0
   },
   {
     "name": "CAHYA HERAWATI",
@@ -501,13 +501,13 @@
     "stock": 29,
     "lastStock": 30,
     "lastUpdate": "2026-02-27T21:37:12Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "TOKO IRAWAN",
-    "stock": 1,
-    "lastStock": 0,
-    "lastUpdate": "2026-02-27T21:38:47Z",
-    "cycle": 4
+    "stock": 59,
+    "lastStock": 60,
+    "lastUpdate": "2026-02-27T21:40:30Z",
+    "cycle": 0
   }
 ]
