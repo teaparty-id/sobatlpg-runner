@@ -46,7 +46,7 @@
     "stock": 1,
     "lastStock": 0,
     "lastUpdate": "2026-02-27T17:53:04Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "SUMBER REJEKI",
@@ -270,14 +270,14 @@
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-02-27T17:53:04Z",
-    "cycle": 2
+    "cycle": 0
   },
   {
     "name": "TUSOK",
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-02-27T17:53:04Z",
-    "cycle": 2
+    "cycle": 0
   },
   {
     "name": "HERDIANA DIYAH S",
@@ -501,13 +501,13 @@
     "stock": 29,
     "lastStock": 30,
     "lastUpdate": "2026-02-27T17:53:04Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "TOKO IRAWAN",
-    "stock": 59,
-    "lastStock": 60,
-    "lastUpdate": "2026-02-27T17:53:32Z",
-    "cycle": 4
+    "stock": 1,
+    "lastStock": 0,
+    "lastUpdate": "2026-02-27T17:54:20Z",
+    "cycle": 0
   }
 ]
