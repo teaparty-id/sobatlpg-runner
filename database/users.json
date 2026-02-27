@@ -45,8 +45,8 @@
     "name": "SUCIYONO",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-27T17:57:07Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-27T17:58:03Z",
+    "cycle": 1
   },
   {
     "name": "SUMBER REJEKI",
@@ -225,10 +225,10 @@
   },
   {
     "name": "YUSUF ISMAIL",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-27T14:57:37Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-27T17:58:03Z",
+    "cycle": 1
   },
   {
     "name": "SUPARNI",
@@ -288,17 +288,17 @@
   },
   {
     "name": "BUDI",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-27T14:57:37Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-27T17:58:03Z",
+    "cycle": 1
   },
   {
     "name": "YULI SORAYA",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-27T14:57:37Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-27T17:58:03Z",
+    "cycle": 1
   },
   {
     "name": "SUSILO",
