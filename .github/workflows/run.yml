@@ -36,7 +36,7 @@ jobs:
       - name: Run
         run: |
           chmod +x ./sobatlpg
-          ./sobatlpg
+          ./sobatlpg --proxy
 
       - name: Push Result
         if: ${{ always() }}
