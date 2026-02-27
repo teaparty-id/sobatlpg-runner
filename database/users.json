@@ -46,7 +46,7 @@
     "stock": 1,
     "lastStock": 0,
     "lastUpdate": "2026-02-27T18:01:30Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "SUMBER REJEKI",
@@ -228,7 +228,7 @@
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-02-27T17:59:37Z",
-    "cycle": 3
+    "cycle": 0
   },
   {
     "name": "SUPARNI",
@@ -291,49 +291,49 @@
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-02-27T17:59:37Z",
-    "cycle": 3
+    "cycle": 0
   },
   {
     "name": "YULI SORAYA",
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-02-27T17:59:37Z",
-    "cycle": 3
+    "cycle": 0
   },
   {
     "name": "SUSILO",
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-02-27T18:02:10Z",
-    "cycle": 4
+    "cycle": 0
   },
   {
     "name": "HJ. HAERONI",
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-02-27T18:02:59Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "IMA",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-27T18:04:32Z",
-    "cycle": 3
+    "lastUpdate": "2026-02-27T18:05:12Z",
+    "cycle": 0
   },
   {
     "name": "DARMAWAN P",
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-02-27T18:02:59Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "DIYAH UTAMI",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-27T18:04:32Z",
-    "cycle": 3
+    "lastUpdate": "2026-02-27T18:05:12Z",
+    "cycle": 0
   },
   {
     "name": "SALMAH",
@@ -421,10 +421,10 @@
   },
   {
     "name": "ABDUL WAFI",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-27T18:04:32Z",
-    "cycle": 2
+    "lastUpdate": "2026-02-27T18:05:12Z",
+    "cycle": 0
   },
   {
     "name": "YUNIS WAHYUNI",
@@ -501,13 +501,13 @@
     "stock": 1,
     "lastStock": 0,
     "lastUpdate": "2026-02-27T18:03:51Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "TOKO IRAWAN",
     "stock": 1,
     "lastStock": 0,
     "lastUpdate": "2026-02-27T18:04:32Z",
-    "cycle": 5
+    "cycle": 0
   }
 ]
