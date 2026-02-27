@@ -1,10 +1,10 @@
 [
   {
     "name": "AKBAR RISQ",
-    "stock": 47,
+    "stock": 45,
     "lastStock": 0,
-    "lastUpdate": "2026-02-27T12:35:08Z",
-    "cycle": 2
+    "lastUpdate": "2026-02-27T12:45:12Z",
+    "cycle": 3
   },
   {
     "name": "ATHI HANDAYANI",
@@ -29,52 +29,52 @@
   },
   {
     "name": "BINA MAKMUR",
-    "stock": 20,
+    "stock": 18,
     "lastStock": 0,
-    "lastUpdate": "2026-02-27T12:35:08Z",
-    "cycle": 2
+    "lastUpdate": "2026-02-27T12:45:12Z",
+    "cycle": 3
   },
   {
     "name": "HENDRA KURNIAWAN",
-    "stock": 108,
+    "stock": 105,
     "lastStock": 0,
-    "lastUpdate": "2026-02-27T12:35:08Z",
-    "cycle": 2
+    "lastUpdate": "2026-02-27T12:45:12Z",
+    "cycle": 3
   },
   {
     "name": "SUCIYONO",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-27T12:35:08Z",
-    "cycle": 2
+    "lastUpdate": "2026-02-27T12:45:12Z",
+    "cycle": 3
   },
   {
     "name": "SUMBER REJEKI",
-    "stock": 6,
+    "stock": 0,
     "lastStock": 1,
-    "lastUpdate": "2026-02-27T12:35:38Z",
-    "cycle": 1
+    "lastUpdate": "2026-02-27T12:45:44Z",
+    "cycle": 2
   },
   {
     "name": "JAENAL",
-    "stock": 64,
+    "stock": 58,
     "lastStock": 0,
-    "lastUpdate": "2026-02-27T12:39:30Z",
-    "cycle": 1
+    "lastUpdate": "2026-02-27T12:49:28Z",
+    "cycle": 2
   },
   {
     "name": "JOKO SUWARNO",
-    "stock": 70,
+    "stock": 64,
     "lastStock": 0,
-    "lastUpdate": "2026-02-27T12:39:31Z",
-    "cycle": 1
+    "lastUpdate": "2026-02-27T12:49:39Z",
+    "cycle": 2
   },
   {
     "name": "KARSONO",
-    "stock": 54,
+    "stock": 53,
     "lastStock": 0,
-    "lastUpdate": "2026-02-27T12:39:53Z",
-    "cycle": 1
+    "lastUpdate": "2026-02-27T12:49:40Z",
+    "cycle": 2
   },
   {
     "name": "LUTFI A.",
@@ -99,10 +99,10 @@
   },
   {
     "name": "TOKO IIN",
-    "stock": 3,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-27T11:14:04Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-27T12:50:36Z",
+    "cycle": 1
   },
   {
     "name": "SUPARMAN",
