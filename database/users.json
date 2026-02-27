@@ -45,8 +45,8 @@
     "name": "SUCIYONO",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-27T21:14:19Z",
-    "cycle": 3
+    "lastUpdate": "2026-02-27T21:15:14Z",
+    "cycle": 4
   },
   {
     "name": "SUMBER REJEKI",
@@ -281,10 +281,10 @@
   },
   {
     "name": "HERDIANA DIYAH S",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-27T18:14:26Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-27T21:15:14Z",
+    "cycle": 1
   },
   {
     "name": "BUDI",
@@ -365,17 +365,17 @@
   },
   {
     "name": "SOEKAMTO",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-27T18:14:26Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-27T21:15:14Z",
+    "cycle": 1
   },
   {
     "name": "TOKO TIARA",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-27T18:14:26Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-27T21:15:14Z",
+    "cycle": 1
   },
   {
     "name": "TOKO POJOK",
