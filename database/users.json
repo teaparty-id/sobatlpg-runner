@@ -45,8 +45,8 @@
     "name": "SUCIYONO",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-27T20:48:28Z",
-    "cycle": 3
+    "lastUpdate": "2026-02-27T20:49:51Z",
+    "cycle": 4
   },
   {
     "name": "SUMBER REJEKI",
@@ -234,22 +234,22 @@
     "name": "SUPARNI",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-27T20:48:57Z",
-    "cycle": 1
+    "lastUpdate": "2026-02-27T20:49:51Z",
+    "cycle": 2
   },
   {
     "name": "YOGA RAJAN",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-27T17:49:42Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-27T20:49:51Z",
+    "cycle": 1
   },
   {
     "name": "ARIF FAUZI",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-27T17:49:42Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-27T20:49:51Z",
+    "cycle": 1
   },
   {
     "name": "MOH HAFIF",
