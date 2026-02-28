@@ -45,8 +45,8 @@
     "name": "SUCIYONO",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-28T14:13:48Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-28T17:14:33Z",
+    "cycle": 1
   },
   {
     "name": "JAENAL",
@@ -486,8 +486,8 @@
     "name": "TITIK ISMIATIN",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-28T17:13:12Z",
-    "cycle": 3
+    "lastUpdate": "2026-02-28T17:14:33Z",
+    "cycle": 4
   },
   {
     "name": "ISTIQOMAH",
@@ -507,14 +507,14 @@
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-28T17:13:12Z",
-    "cycle": 3
+    "lastUpdate": "2026-02-28T17:14:33Z",
+    "cycle": 4
   },
   {
     "name": "SUMBER REJEKI",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-28T17:13:12Z",
-    "cycle": 3
+    "lastUpdate": "2026-02-28T17:14:33Z",
+    "cycle": 4
   }
 ]
