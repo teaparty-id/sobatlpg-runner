@@ -43,10 +43,10 @@
   },
   {
     "name": "SUCIYONO",
-    "stock": 52,
+    "stock": 44,
     "lastStock": 0,
-    "lastUpdate": "2026-02-28T10:34:51Z",
-    "cycle": 2
+    "lastUpdate": "2026-02-28T10:39:52Z",
+    "cycle": 3
   },
   {
     "name": "SUMBER REJEKI",
@@ -514,7 +514,7 @@
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-28T10:34:51Z",
-    "cycle": 2
+    "lastUpdate": "2026-02-28T10:39:52Z",
+    "cycle": 3
   }
 ]
