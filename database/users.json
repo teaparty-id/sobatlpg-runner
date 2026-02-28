@@ -64,10 +64,10 @@
   },
   {
     "name": "JOKO SUWARNO",
-    "stock": 4,
+    "stock": 2,
     "lastStock": 0,
-    "lastUpdate": "2026-02-28T08:50:16Z",
-    "cycle": 4
+    "lastUpdate": "2026-02-28T09:01:04Z",
+    "cycle": 5
   },
   {
     "name": "KARSONO",
@@ -220,8 +220,8 @@
     "name": "ONG SWI GIOK",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-28T05:56:34Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-28T09:01:04Z",
+    "cycle": 1
   },
   {
     "name": "YUSUF ISMAIL",
@@ -379,10 +379,10 @@
   },
   {
     "name": "TOKO POJOK",
-    "stock": 8,
+    "stock": 2,
     "lastStock": 0,
-    "lastUpdate": "2026-02-28T08:50:16Z",
-    "cycle": 3
+    "lastUpdate": "2026-02-28T09:01:04Z",
+    "cycle": 4
   },
   {
     "name": "UD RAHMAT",
@@ -421,10 +421,10 @@
   },
   {
     "name": "ABDUL WAFI",
-    "stock": 2,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-28T08:50:16Z",
-    "cycle": 3
+    "lastUpdate": "2026-02-28T09:01:04Z",
+    "cycle": 4
   },
   {
     "name": "YUNIS WAHYUNI",
@@ -449,10 +449,10 @@
   },
   {
     "name": "TK. MAJU",
-    "stock": 13,
+    "stock": 11,
     "lastStock": 0,
-    "lastUpdate": "2026-02-28T08:50:16Z",
-    "cycle": 2
+    "lastUpdate": "2026-02-28T09:01:33Z",
+    "cycle": 3
   },
   {
     "name": "H. JUMAT",
@@ -484,17 +484,17 @@
   },
   {
     "name": "ALFIAN DWI A.",
-    "stock": 11,
+    "stock": 10,
     "lastStock": 0,
-    "lastUpdate": "2026-02-28T08:54:53Z",
-    "cycle": 1
+    "lastUpdate": "2026-02-28T09:04:25Z",
+    "cycle": 2
   },
   {
     "name": "TITIK ISMIATIN",
-    "stock": 21,
+    "stock": 14,
     "lastStock": 3,
-    "lastUpdate": "2026-02-28T08:55:57Z",
-    "cycle": 1
+    "lastUpdate": "2026-02-28T09:06:09Z",
+    "cycle": 2
   },
   {
     "name": "ISTIQOMAH",
@@ -505,9 +505,9 @@
   },
   {
     "name": "TOKO IRAWAN",
-    "stock": 13,
+    "stock": 6,
     "lastStock": 60,
-    "lastUpdate": "2026-02-28T08:56:05Z",
-    "cycle": 1
+    "lastUpdate": "2026-02-28T09:06:20Z",
+    "cycle": 2
   }
 ]
