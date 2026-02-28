@@ -486,8 +486,8 @@
     "name": "TITIK ISMIATIN",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-28T20:50:52Z",
-    "cycle": 2
+    "lastUpdate": "2026-02-28T20:51:24Z",
+    "cycle": 3
   },
   {
     "name": "ISTIQOMAH",
@@ -507,14 +507,14 @@
     "name": "SUMBER REJEKI",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-28T20:50:52Z",
-    "cycle": 2
+    "lastUpdate": "2026-02-28T20:51:24Z",
+    "cycle": 3
   },
   {
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-28T20:50:52Z",
-    "cycle": 2
+    "lastUpdate": "2026-02-28T20:51:24Z",
+    "cycle": 3
   }
 ]
