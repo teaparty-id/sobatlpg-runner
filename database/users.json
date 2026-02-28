@@ -29,10 +29,10 @@
   },
   {
     "name": "BINA MAKMUR",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-28T18:44:47Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-28T21:45:26Z",
+    "cycle": 1
   },
   {
     "name": "HENDRA KURNIAWAN",
@@ -176,10 +176,10 @@
   },
   {
     "name": "BAMBANG HARTONO",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-28T18:44:47Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-28T21:45:26Z",
+    "cycle": 1
   },
   {
     "name": "NADIFATUS SOLEHA",
@@ -514,7 +514,7 @@
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-28T21:43:56Z",
-    "cycle": 3
+    "lastUpdate": "2026-02-28T21:45:26Z",
+    "cycle": 4
   }
 ]
