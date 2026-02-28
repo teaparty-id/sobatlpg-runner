@@ -8,10 +8,10 @@
   },
   {
     "name": "ATHI HANDAYANI",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-28T14:19:12Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-28T17:19:38Z",
+    "cycle": 1
   },
   {
     "name": "CINDRAWATI",
@@ -486,8 +486,8 @@
     "name": "TITIK ISMIATIN",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-28T17:19:07Z",
-    "cycle": 3
+    "lastUpdate": "2026-02-28T17:19:38Z",
+    "cycle": 4
   },
   {
     "name": "ISTIQOMAH",
@@ -507,14 +507,14 @@
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-28T17:19:07Z",
-    "cycle": 3
+    "lastUpdate": "2026-02-28T17:19:38Z",
+    "cycle": 4
   },
   {
     "name": "SUMBER REJEKI",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-28T17:19:07Z",
-    "cycle": 3
+    "lastUpdate": "2026-02-28T17:19:38Z",
+    "cycle": 4
   }
 ]
