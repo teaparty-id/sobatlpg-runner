@@ -29,10 +29,10 @@
   },
   {
     "name": "BINA MAKMUR",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-28T15:40:42Z",
-    "cycle": 2
+    "lastUpdate": "2026-02-28T15:41:27Z",
+    "cycle": 3
   },
   {
     "name": "HENDRA KURNIAWAN",
@@ -52,8 +52,8 @@
     "name": "SUMBER REJEKI",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-28T15:40:42Z",
-    "cycle": 2
+    "lastUpdate": "2026-02-28T15:41:27Z",
+    "cycle": 3
   },
   {
     "name": "JAENAL",
@@ -493,8 +493,8 @@
     "name": "TITIK ISMIATIN",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-28T15:40:42Z",
-    "cycle": 2
+    "lastUpdate": "2026-02-28T15:41:27Z",
+    "cycle": 3
   },
   {
     "name": "ISTIQOMAH",
@@ -514,7 +514,7 @@
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-28T15:40:42Z",
-    "cycle": 2
+    "lastUpdate": "2026-02-28T15:41:27Z",
+    "cycle": 3
   }
 ]
