@@ -155,10 +155,10 @@
   },
   {
     "name": "BISTON MANURUNG",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-28T12:27:59Z",
-    "cycle": 3
+    "lastUpdate": "2026-02-28T12:28:40Z",
+    "cycle": 4
   },
   {
     "name": "JAMILAH",
@@ -169,10 +169,10 @@
   },
   {
     "name": "YUDA",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-28T12:27:59Z",
-    "cycle": 3
+    "lastUpdate": "2026-02-28T12:28:40Z",
+    "cycle": 4
   },
   {
     "name": "SRI UTAMI",
@@ -493,8 +493,8 @@
     "name": "TITIK ISMIATIN",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-28T12:27:59Z",
-    "cycle": 3
+    "lastUpdate": "2026-02-28T12:28:40Z",
+    "cycle": 4
   },
   {
     "name": "ISTIQOMAH",
@@ -514,7 +514,7 @@
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-28T12:27:59Z",
-    "cycle": 3
+    "lastUpdate": "2026-02-28T12:28:40Z",
+    "cycle": 4
   }
 ]
