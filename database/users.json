@@ -45,8 +45,8 @@
     "name": "SUCIYONO",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-28T09:54:56Z",
-    "cycle": 4
+    "lastUpdate": "2026-02-28T09:56:15Z",
+    "cycle": 5
   },
   {
     "name": "SUMBER REJEKI",
@@ -297,22 +297,22 @@
     "name": "YULI SORAYA",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-28T09:55:27Z",
-    "cycle": 1
+    "lastUpdate": "2026-02-28T09:56:15Z",
+    "cycle": 2
   },
   {
     "name": "SUSILO",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-28T09:55:29Z",
-    "cycle": 1
+    "lastUpdate": "2026-02-28T09:56:15Z",
+    "cycle": 2
   },
   {
     "name": "HJ. HAERONI",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-28T06:48:03Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-28T09:56:15Z",
+    "cycle": 1
   },
   {
     "name": "IMA",
