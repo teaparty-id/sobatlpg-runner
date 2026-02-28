@@ -141,10 +141,10 @@
   },
   {
     "name": "LUKMAN BS",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-28T15:27:01Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-28T18:27:14Z",
+    "cycle": 1
   },
   {
     "name": "BISTON MANURUNG",
@@ -514,7 +514,7 @@
     "name": "SUMBER REJEKI",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-28T18:26:45Z",
-    "cycle": 2
+    "lastUpdate": "2026-02-28T18:27:14Z",
+    "cycle": 3
   }
 ]
