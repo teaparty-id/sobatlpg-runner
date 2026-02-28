@@ -11,7 +11,7 @@
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-02-28T14:19:12Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "CINDRAWATI",
@@ -52,8 +52,8 @@
     "name": "SUMBER REJEKI",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-28T14:26:36Z",
-    "cycle": 4
+    "lastUpdate": "2026-02-28T14:27:22Z",
+    "cycle": 0
   },
   {
     "name": "JAENAL",
@@ -494,7 +494,7 @@
     "stock": 1,
     "lastStock": 0,
     "lastUpdate": "2026-02-28T14:23:34Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "ISTIQOMAH",
@@ -515,6 +515,6 @@
     "stock": 1,
     "lastStock": 0,
     "lastUpdate": "2026-02-28T14:23:34Z",
-    "cycle": 5
+    "cycle": 0
   }
 ]
