@@ -330,10 +330,10 @@
   },
   {
     "name": "SALMAH",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-28T22:33:55Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-28T22:35:31Z",
+    "cycle": 1
   },
   {
     "name": "TOKO ANITA",
@@ -477,17 +477,17 @@
   },
   {
     "name": "ALFIAN DWI A.",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-28T22:33:55Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-28T22:35:31Z",
+    "cycle": 1
   },
   {
     "name": "TITIK ISMIATIN",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-28T22:29:18Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-28T22:35:31Z",
+    "cycle": 1
   },
   {
     "name": "ISTIQOMAH",
@@ -507,8 +507,8 @@
     "name": "SUMBER REJEKI",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-28T22:30:37Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-28T22:35:31Z",
+    "cycle": 1
   },
   {
     "name": "DJAMIAH",
