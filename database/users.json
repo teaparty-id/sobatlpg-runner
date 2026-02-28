@@ -414,10 +414,10 @@
   },
   {
     "name": "ABDUL WAFI",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-28T21:06:44Z",
-    "cycle": 3
+    "lastUpdate": "2026-02-28T21:07:26Z",
+    "cycle": 4
   },
   {
     "name": "YUNIS WAHYUNI",
@@ -486,8 +486,8 @@
     "name": "TITIK ISMIATIN",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-28T21:06:44Z",
-    "cycle": 3
+    "lastUpdate": "2026-02-28T21:07:26Z",
+    "cycle": 4
   },
   {
     "name": "ISTIQOMAH",
@@ -507,14 +507,14 @@
     "name": "SUMBER REJEKI",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-28T21:06:44Z",
-    "cycle": 3
+    "lastUpdate": "2026-02-28T21:07:26Z",
+    "cycle": 4
   },
   {
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-28T21:06:44Z",
-    "cycle": 2
+    "lastUpdate": "2026-02-28T21:07:26Z",
+    "cycle": 3
   }
 ]
