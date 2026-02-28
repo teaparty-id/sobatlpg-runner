@@ -38,8 +38,8 @@
     "name": "HENDRA KURNIAWAN",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-28T12:39:38Z",
-    "cycle": 1
+    "lastUpdate": "2026-02-28T12:41:20Z",
+    "cycle": 2
   },
   {
     "name": "SUCIYONO",
@@ -493,8 +493,8 @@
     "name": "TITIK ISMIATIN",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-28T12:39:38Z",
-    "cycle": 3
+    "lastUpdate": "2026-02-28T12:41:20Z",
+    "cycle": 4
   },
   {
     "name": "ISTIQOMAH",
@@ -514,7 +514,7 @@
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-28T12:39:38Z",
-    "cycle": 3
+    "lastUpdate": "2026-02-28T12:41:20Z",
+    "cycle": 4
   }
 ]
