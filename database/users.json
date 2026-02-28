@@ -487,7 +487,7 @@
     "stock": 1,
     "lastStock": 0,
     "lastUpdate": "2026-02-28T20:33:12Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "ISTIQOMAH",
@@ -508,13 +508,13 @@
     "stock": 1,
     "lastStock": 0,
     "lastUpdate": "2026-02-28T20:33:12Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-28T20:33:40Z",
-    "cycle": 4
+    "lastUpdate": "2026-02-28T20:34:18Z",
+    "cycle": 0
   }
 ]
