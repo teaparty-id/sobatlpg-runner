@@ -85,17 +85,17 @@
   },
   {
     "name": "TOKO 2 PUTRI",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-28T18:24:52Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-28T21:25:13Z",
+    "cycle": 1
   },
   {
     "name": "TOKO IIN",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-28T18:24:52Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-28T21:25:13Z",
+    "cycle": 1
   },
   {
     "name": "SUPARMAN",
@@ -120,17 +120,17 @@
   },
   {
     "name": "P. SUK",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-28T18:24:52Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-28T21:25:13Z",
+    "cycle": 1
   },
   {
     "name": "JONI H",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-28T18:24:52Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-28T21:25:13Z",
+    "cycle": 1
   },
   {
     "name": "ROSA V",
