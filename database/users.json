@@ -29,10 +29,10 @@
   },
   {
     "name": "BINA MAKMUR",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-28T15:41:27Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-28T18:42:26Z",
+    "cycle": 1
   },
   {
     "name": "HENDRA KURNIAWAN",
@@ -507,14 +507,14 @@
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-28T18:41:05Z",
-    "cycle": 4
+    "lastUpdate": "2026-02-28T18:42:26Z",
+    "cycle": 5
   },
   {
     "name": "SUMBER REJEKI",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-28T18:41:36Z",
-    "cycle": 4
+    "lastUpdate": "2026-02-28T18:42:26Z",
+    "cycle": 5
   }
 ]
