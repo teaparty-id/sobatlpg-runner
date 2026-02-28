@@ -22,10 +22,10 @@
   },
   {
     "name": "EDI SUGENG SARIPAN",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-28T10:57:13Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-28T13:57:16Z",
+    "cycle": 1
   },
   {
     "name": "BINA MAKMUR",
@@ -493,8 +493,8 @@
     "name": "TITIK ISMIATIN",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-28T13:56:34Z",
-    "cycle": 3
+    "lastUpdate": "2026-02-28T13:57:16Z",
+    "cycle": 4
   },
   {
     "name": "ISTIQOMAH",
@@ -514,7 +514,7 @@
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-28T13:56:34Z",
-    "cycle": 3
+    "lastUpdate": "2026-02-28T13:57:16Z",
+    "cycle": 4
   }
 ]
