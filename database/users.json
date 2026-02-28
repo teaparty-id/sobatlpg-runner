@@ -52,8 +52,8 @@
     "name": "SUMBER REJEKI",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-28T15:49:12Z",
-    "cycle": 3
+    "lastUpdate": "2026-02-28T15:50:08Z",
+    "cycle": 4
   },
   {
     "name": "JAENAL",
@@ -246,10 +246,10 @@
   },
   {
     "name": "ARIF FAUZI",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-28T12:49:42Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-28T15:50:08Z",
+    "cycle": 1
   },
   {
     "name": "MOH HAFIF",
@@ -260,17 +260,17 @@
   },
   {
     "name": "SAMSUL ARIFIN",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-28T12:49:42Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-28T15:50:08Z",
+    "cycle": 1
   },
   {
     "name": "WIKAN K",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-28T12:49:42Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-28T15:50:08Z",
+    "cycle": 1
   },
   {
     "name": "TUSOK",
