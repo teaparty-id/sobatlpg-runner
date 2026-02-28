@@ -239,10 +239,10 @@
   },
   {
     "name": "ARIF FAUZI",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-28T19:04:04Z",
-    "cycle": 2
+    "lastUpdate": "2026-02-28T19:04:56Z",
+    "cycle": 3
   },
   {
     "name": "MOH HAFIF",
@@ -253,10 +253,10 @@
   },
   {
     "name": "SAMSUL ARIFIN",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-28T19:04:04Z",
-    "cycle": 2
+    "lastUpdate": "2026-02-28T19:04:56Z",
+    "cycle": 3
   },
   {
     "name": "WIKAN K",
@@ -323,10 +323,10 @@
   },
   {
     "name": "DIYAH UTAMI",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-28T16:03:18Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-28T19:04:56Z",
+    "cycle": 1
   },
   {
     "name": "SALMAH",
@@ -353,8 +353,8 @@
     "name": "UD SAMAN HADI",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-28T16:03:18Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-28T19:04:56Z",
+    "cycle": 1
   },
   {
     "name": "SOEKAMTO",
