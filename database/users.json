@@ -52,8 +52,8 @@
     "name": "SUMBER REJEKI",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-28T15:59:17Z",
-    "cycle": 1
+    "lastUpdate": "2026-02-28T15:59:49Z",
+    "cycle": 2
   },
   {
     "name": "JAENAL",
@@ -295,24 +295,24 @@
   },
   {
     "name": "YULI SORAYA",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-28T12:59:25Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-28T15:59:49Z",
+    "cycle": 1
   },
   {
     "name": "SUSILO",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-28T12:59:25Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-28T15:59:49Z",
+    "cycle": 1
   },
   {
     "name": "HJ. HAERONI",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-28T12:59:25Z",
-    "cycle": 0
+    "lastUpdate": "2026-02-28T15:59:49Z",
+    "cycle": 1
   },
   {
     "name": "IMA",
