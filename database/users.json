@@ -57,10 +57,10 @@
   },
   {
     "name": "JOKO SUWARNO",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-28T21:51:17Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-01T00:51:22Z",
+    "cycle": 1
   },
   {
     "name": "KARSONO",
@@ -246,10 +246,10 @@
   },
   {
     "name": "MOH HAFIF",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-28T21:51:17Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-01T00:51:22Z",
+    "cycle": 1
   },
   {
     "name": "SAMSUL ARIFIN",
@@ -514,7 +514,7 @@
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-01T00:50:37Z",
-    "cycle": 3
+    "lastUpdate": "2026-03-01T00:51:22Z",
+    "cycle": 4
   }
 ]
