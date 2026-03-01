@@ -60,7 +60,7 @@
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-03-01T03:53:47Z",
-    "cycle": 3
+    "cycle": 0
   },
   {
     "name": "KARSONO",
@@ -249,7 +249,7 @@
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-03-01T03:53:47Z",
-    "cycle": 3
+    "cycle": 0
   },
   {
     "name": "SAMSUL ARIFIN",
@@ -487,7 +487,7 @@
     "stock": 1,
     "lastStock": 0,
     "lastUpdate": "2026-03-01T03:55:36Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "ISTIQOMAH",
@@ -508,13 +508,13 @@
     "stock": 1,
     "lastStock": 0,
     "lastUpdate": "2026-03-01T03:55:36Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-01T03:56:08Z",
-    "cycle": 4
+    "lastUpdate": "2026-03-01T03:56:52Z",
+    "cycle": 0
   }
 ]
