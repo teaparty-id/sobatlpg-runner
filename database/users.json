@@ -185,15 +185,15 @@
     "name": "NADIFATUS SOLEHA",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-01T12:48:14Z",
-    "cycle": 2
+    "lastUpdate": "2026-03-01T12:49:00Z",
+    "cycle": 3
   },
   {
     "name": "SUROSO",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-01T12:48:14Z",
-    "cycle": 2
+    "lastUpdate": "2026-03-01T12:49:00Z",
+    "cycle": 3
   },
   {
     "name": "HADI SUTOYO",
@@ -218,10 +218,10 @@
   },
   {
     "name": "YUSUF ISMAIL",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-01T09:48:59Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-01T12:49:00Z",
+    "cycle": 1
   },
   {
     "name": "SUPARNI",
