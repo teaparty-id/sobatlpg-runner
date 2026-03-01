@@ -113,10 +113,10 @@
   },
   {
     "name": "ERNA PUJIATI",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-01T03:42:33Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-01T06:43:00Z",
+    "cycle": 1
   },
   {
     "name": "P. SUK",
@@ -136,8 +136,8 @@
     "name": "ROSA V",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-01T06:42:17Z",
-    "cycle": 1
+    "lastUpdate": "2026-03-01T06:43:00Z",
+    "cycle": 2
   },
   {
     "name": "LUKMAN BS",
@@ -169,10 +169,10 @@
   },
   {
     "name": "SRI UTAMI",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-01T03:42:33Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-01T06:43:00Z",
+    "cycle": 1
   },
   {
     "name": "BAMBANG HARTONO",
@@ -183,10 +183,10 @@
   },
   {
     "name": "NADIFATUS SOLEHA",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-01T03:42:33Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-01T06:43:00Z",
+    "cycle": 1
   },
   {
     "name": "SUROSO",
