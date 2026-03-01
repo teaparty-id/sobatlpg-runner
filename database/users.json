@@ -239,10 +239,10 @@
   },
   {
     "name": "ARIF FAUZI",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-01T01:21:41Z",
-    "cycle": 2
+    "lastUpdate": "2026-03-01T01:22:18Z",
+    "cycle": 3
   },
   {
     "name": "MOH HAFIF",
@@ -253,10 +253,10 @@
   },
   {
     "name": "SAMSUL ARIFIN",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-01T01:21:41Z",
-    "cycle": 2
+    "lastUpdate": "2026-03-01T01:22:18Z",
+    "cycle": 3
   },
   {
     "name": "WIKAN K",
@@ -302,17 +302,17 @@
   },
   {
     "name": "HJ. HAERONI",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-01T01:21:41Z",
-    "cycle": 2
+    "lastUpdate": "2026-03-01T01:22:18Z",
+    "cycle": 3
   },
   {
     "name": "IMA",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-01T01:21:41Z",
-    "cycle": 2
+    "lastUpdate": "2026-03-01T01:22:18Z",
+    "cycle": 3
   },
   {
     "name": "DARMAWAN P",
@@ -430,8 +430,8 @@
     "name": "ROSIDI",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-02-28T22:22:43Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-01T01:22:49Z",
+    "cycle": 1
   },
   {
     "name": "HJ. ASLAMIYAH",
@@ -442,10 +442,10 @@
   },
   {
     "name": "TK. MAJU",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-02-28T22:22:43Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-01T01:22:49Z",
+    "cycle": 1
   },
   {
     "name": "H. JUMAT",
@@ -486,8 +486,8 @@
     "name": "TITIK ISMIATIN",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-01T01:19:22Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-01T01:22:49Z",
+    "cycle": 1
   },
   {
     "name": "ISTIQOMAH",
@@ -507,8 +507,8 @@
     "name": "SUMBER REJEKI",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-01T01:19:22Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-01T01:22:54Z",
+    "cycle": 1
   },
   {
     "name": "DJAMIAH",
