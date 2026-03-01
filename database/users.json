@@ -11,7 +11,7 @@
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-03-01T20:28:55Z",
-    "cycle": 3
+    "cycle": 0
   },
   {
     "name": "CINDRAWATI",
@@ -486,8 +486,8 @@
     "name": "TITIK ISMIATIN",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-01T20:29:56Z",
-    "cycle": 4
+    "lastUpdate": "2026-03-01T20:30:42Z",
+    "cycle": 0
   },
   {
     "name": "ISTIQOMAH",
@@ -507,14 +507,14 @@
     "name": "SUMBER REJEKI",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-01T20:29:56Z",
-    "cycle": 4
+    "lastUpdate": "2026-03-01T20:30:42Z",
+    "cycle": 0
   },
   {
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-01T20:29:56Z",
-    "cycle": 4
+    "lastUpdate": "2026-03-01T20:30:42Z",
+    "cycle": 0
   }
 ]
