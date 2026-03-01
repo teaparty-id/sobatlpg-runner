@@ -113,10 +113,10 @@
   },
   {
     "name": "ERNA PUJIATI",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-01T15:49:24Z",
-    "cycle": 2
+    "lastUpdate": "2026-03-01T15:50:23Z",
+    "cycle": 3
   },
   {
     "name": "P. SUK",
@@ -183,17 +183,17 @@
   },
   {
     "name": "NADIFATUS SOLEHA",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-01T12:49:31Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-01T15:50:23Z",
+    "cycle": 1
   },
   {
     "name": "SUROSO",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-01T12:49:31Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-01T15:50:23Z",
+    "cycle": 1
   },
   {
     "name": "HADI SUTOYO",
@@ -218,10 +218,10 @@
   },
   {
     "name": "YUSUF ISMAIL",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-01T12:49:31Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-01T15:50:23Z",
+    "cycle": 1
   },
   {
     "name": "SUPARNI",
