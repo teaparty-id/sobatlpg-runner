@@ -31,8 +31,8 @@
     "name": "BINA MAKMUR",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-01T18:56:10Z",
-    "cycle": 1
+    "lastUpdate": "2026-03-01T18:56:53Z",
+    "cycle": 2
   },
   {
     "name": "HENDRA KURNIAWAN",
@@ -136,15 +136,15 @@
     "name": "ROSA V",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-01T18:56:10Z",
-    "cycle": 1
+    "lastUpdate": "2026-03-01T18:56:53Z",
+    "cycle": 2
   },
   {
     "name": "LUKMAN BS",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-01T18:56:10Z",
-    "cycle": 1
+    "lastUpdate": "2026-03-01T18:56:53Z",
+    "cycle": 2
   },
   {
     "name": "BISTON MANURUNG",
@@ -176,10 +176,10 @@
   },
   {
     "name": "BAMBANG HARTONO",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-01T15:55:54Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-01T18:56:53Z",
+    "cycle": 1
   },
   {
     "name": "NADIFATUS SOLEHA",
