@@ -129,8 +129,8 @@
     "name": "JONI H",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-01T15:40:42Z",
-    "cycle": 1
+    "lastUpdate": "2026-03-01T15:41:19Z",
+    "cycle": 2
   },
   {
     "name": "ROSA V",
@@ -164,8 +164,8 @@
     "name": "YUDA",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-01T15:40:42Z",
-    "cycle": 1
+    "lastUpdate": "2026-03-01T15:41:19Z",
+    "cycle": 2
   },
   {
     "name": "SRI UTAMI",
@@ -339,8 +339,8 @@
     "name": "TOKO ANITA",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-01T15:40:42Z",
-    "cycle": 1
+    "lastUpdate": "2026-03-01T15:41:19Z",
+    "cycle": 2
   },
   {
     "name": "TK. LUCKY",
@@ -514,7 +514,7 @@
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-01T15:40:42Z",
-    "cycle": 4
+    "lastUpdate": "2026-03-01T15:41:19Z",
+    "cycle": 5
   }
 ]
