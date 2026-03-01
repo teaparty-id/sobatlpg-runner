@@ -15,10 +15,10 @@
   },
   {
     "name": "CINDRAWATI",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-01T01:31:06Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-01T04:31:19Z",
+    "cycle": 1
   },
   {
     "name": "EDI SUGENG SARIPAN",
@@ -421,10 +421,10 @@
   },
   {
     "name": "YUNIS WAHYUNI",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-01T01:31:06Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-01T04:31:19Z",
+    "cycle": 1
   },
   {
     "name": "ROSIDI",
@@ -486,8 +486,8 @@
     "name": "TITIK ISMIATIN",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-01T04:30:47Z",
-    "cycle": 3
+    "lastUpdate": "2026-03-01T04:31:19Z",
+    "cycle": 4
   },
   {
     "name": "ISTIQOMAH",
@@ -498,10 +498,10 @@
   },
   {
     "name": "TOKO IRAWAN",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-01T01:31:06Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-01T04:31:19Z",
+    "cycle": 1
   },
   {
     "name": "SUMBER REJEKI",
