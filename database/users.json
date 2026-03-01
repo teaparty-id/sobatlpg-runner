@@ -255,8 +255,8 @@
     "name": "SAMSUL ARIFIN",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-01T13:35:51Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-01T16:36:15Z",
+    "cycle": 1
   },
   {
     "name": "WIKAN K",
@@ -402,15 +402,15 @@
     "name": "SUDJIONO",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-01T13:35:51Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-01T16:36:15Z",
+    "cycle": 1
   },
   {
     "name": "ANDRI HERU CAHYONO",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-01T13:35:51Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-01T16:36:15Z",
+    "cycle": 1
   },
   {
     "name": "ABDUL WAFI",
@@ -486,8 +486,8 @@
     "name": "TITIK ISMIATIN",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-01T16:35:46Z",
-    "cycle": 3
+    "lastUpdate": "2026-03-01T16:36:15Z",
+    "cycle": 4
   },
   {
     "name": "ISTIQOMAH",
@@ -507,14 +507,14 @@
     "name": "SUMBER REJEKI",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-01T16:35:46Z",
-    "cycle": 3
+    "lastUpdate": "2026-03-01T16:36:54Z",
+    "cycle": 4
   },
   {
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-01T16:35:46Z",
-    "cycle": 3
+    "lastUpdate": "2026-03-01T16:36:54Z",
+    "cycle": 4
   }
 ]
