@@ -323,10 +323,10 @@
   },
   {
     "name": "DIYAH UTAMI",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-01T16:20:55Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-01T19:21:10Z",
+    "cycle": 1
   },
   {
     "name": "SALMAH",
@@ -344,10 +344,10 @@
   },
   {
     "name": "TK. LUCKY",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-01T16:20:55Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-01T19:21:10Z",
+    "cycle": 1
   },
   {
     "name": "UD SAMAN HADI",
@@ -507,14 +507,14 @@
     "name": "SUMBER REJEKI",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-01T19:19:57Z",
-    "cycle": 3
+    "lastUpdate": "2026-03-01T19:21:10Z",
+    "cycle": 4
   },
   {
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-01T19:20:24Z",
-    "cycle": 2
+    "lastUpdate": "2026-03-01T19:21:10Z",
+    "cycle": 3
   }
 ]
