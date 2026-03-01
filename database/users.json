@@ -134,10 +134,10 @@
   },
   {
     "name": "ROSA V",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-01T03:41:50Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-01T06:42:17Z",
+    "cycle": 1
   },
   {
     "name": "LUKMAN BS",
@@ -486,8 +486,8 @@
     "name": "TITIK ISMIATIN",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-01T06:40:35Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-01T06:42:17Z",
+    "cycle": 1
   },
   {
     "name": "ISTIQOMAH",
@@ -507,14 +507,14 @@
     "name": "SUMBER REJEKI",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-01T06:40:35Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-01T06:42:17Z",
+    "cycle": 1
   },
   {
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-01T06:41:36Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-01T06:42:17Z",
+    "cycle": 1
   }
 ]
