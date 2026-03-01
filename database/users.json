@@ -1,10 +1,10 @@
 [
   {
     "name": "AKBAR RISQ",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-01T12:57:52Z",
-    "cycle": 3
+    "lastUpdate": "2026-03-01T12:58:59Z",
+    "cycle": 0
   },
   {
     "name": "ATHI HANDAYANI",
@@ -32,14 +32,14 @@
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-03-01T12:53:29Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "HENDRA KURNIAWAN",
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-03-01T12:55:39Z",
-    "cycle": 3
+    "cycle": 0
   },
   {
     "name": "SUCIYONO",
@@ -137,14 +137,14 @@
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-03-01T12:55:39Z",
-    "cycle": 4
+    "cycle": 0
   },
   {
     "name": "LUKMAN BS",
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-03-01T12:55:39Z",
-    "cycle": 3
+    "cycle": 0
   },
   {
     "name": "BISTON MANURUNG",
@@ -179,7 +179,7 @@
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-03-01T12:55:39Z",
-    "cycle": 3
+    "cycle": 0
   },
   {
     "name": "NADIFATUS SOLEHA",
@@ -228,14 +228,14 @@
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-03-01T12:52:32Z",
-    "cycle": 4
+    "cycle": 0
   },
   {
     "name": "YOGA RAJAN",
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-03-01T12:50:14Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "ARIF FAUZI",
@@ -249,7 +249,7 @@
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-03-01T12:56:09Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "SAMSUL ARIFIN",
@@ -487,7 +487,7 @@
     "stock": 1,
     "lastStock": 0,
     "lastUpdate": "2026-03-01T12:53:29Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "ISTIQOMAH",
@@ -508,13 +508,13 @@
     "stock": 1,
     "lastStock": 0,
     "lastUpdate": "2026-03-01T12:53:29Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
     "lastUpdate": "2026-03-01T12:56:54Z",
-    "cycle": 5
+    "cycle": 0
   }
 ]
