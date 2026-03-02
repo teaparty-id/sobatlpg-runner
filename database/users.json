@@ -73,8 +73,8 @@
     "name": "LUTFI A.",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-02T19:49:03Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-02T23:04:02Z",
+    "cycle": 1
   },
   {
     "name": "MOH SAID",
@@ -87,8 +87,8 @@
     "name": "TOKO 2 PUTRI",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-02T19:49:03Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-02T23:04:02Z",
+    "cycle": 1
   },
   {
     "name": "TOKO IIN",
@@ -164,29 +164,29 @@
     "name": "YUDA",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-02T19:49:03Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-02T23:04:02Z",
+    "cycle": 1
   },
   {
     "name": "SRI UTAMI",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-02T19:49:35Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-02T23:04:34Z",
+    "cycle": 1
   },
   {
     "name": "BAMBANG HARTONO",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-02T19:52:00Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-02T23:04:37Z",
+    "cycle": 1
   },
   {
     "name": "NADIFATUS SOLEHA",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-02T19:52:00Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-02T23:04:44Z",
+    "cycle": 1
   },
   {
     "name": "SUROSO",
