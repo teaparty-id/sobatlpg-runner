@@ -17,8 +17,8 @@
     "name": "CINDRAWATI",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-02T20:31:17Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-02T23:31:36Z",
+    "cycle": 1
   },
   {
     "name": "EDI SUGENG SARIPAN",
@@ -78,10 +78,10 @@
   },
   {
     "name": "MOH SAID",
-    "stock": 0,
+    "stock": 45,
     "lastStock": 0,
-    "lastUpdate": "2026-03-02T20:31:17Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-02T23:31:36Z",
+    "cycle": 1
   },
   {
     "name": "TOKO 2 PUTRI",
@@ -176,10 +176,10 @@
   },
   {
     "name": "BAMBANG HARTONO",
-    "stock": 23,
+    "stock": 9,
     "lastStock": 0,
-    "lastUpdate": "2026-03-02T23:25:15Z",
-    "cycle": 3
+    "lastUpdate": "2026-03-02T23:31:36Z",
+    "cycle": 4
   },
   {
     "name": "NADIFATUS SOLEHA",
@@ -234,29 +234,29 @@
     "name": "YOGA RAJAN",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-02T23:25:48Z",
-    "cycle": 1
+    "lastUpdate": "2026-03-02T23:32:05Z",
+    "cycle": 2
   },
   {
     "name": "ARIF FAUZI",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-02T20:09:10Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-02T23:32:32Z",
+    "cycle": 1
   },
   {
     "name": "MOH HAFIF",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-02T20:11:44Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-02T23:32:58Z",
+    "cycle": 1
   },
   {
     "name": "SAMSUL ARIFIN",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-02T20:11:44Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-02T23:33:26Z",
+    "cycle": 1
   },
   {
     "name": "WIKAN K",
