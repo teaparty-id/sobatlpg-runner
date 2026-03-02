@@ -73,7 +73,7 @@
     "name": "LUTFI A.",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-02T13:39:50Z",
+    "lastUpdate": "2026-03-02T16:39:54Z",
     "cycle": 0
   },
   {
@@ -171,14 +171,14 @@
     "name": "SRI UTAMI",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-02T13:39:50Z",
+    "lastUpdate": "2026-03-02T16:39:54Z",
     "cycle": 0
   },
   {
     "name": "BAMBANG HARTONO",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-02T13:39:50Z",
+    "lastUpdate": "2026-03-02T16:39:54Z",
     "cycle": 0
   },
   {
@@ -514,7 +514,7 @@
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-02T16:38:55Z",
-    "cycle": 4
+    "lastUpdate": "2026-03-02T16:39:54Z",
+    "cycle": 0
   }
 ]
