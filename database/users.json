@@ -66,8 +66,8 @@
     "name": "KARSONO",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-02T13:08:16Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-02T16:08:46Z",
+    "cycle": 1
   },
   {
     "name": "LUTFI A.",
@@ -514,7 +514,7 @@
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-02T16:07:58Z",
-    "cycle": 3
+    "lastUpdate": "2026-03-02T16:08:46Z",
+    "cycle": 4
   }
 ]
