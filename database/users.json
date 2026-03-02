@@ -8,10 +8,10 @@
   },
   {
     "name": "ATHI HANDAYANI",
-    "stock": 0,
+    "stock": 45,
     "lastStock": 0,
-    "lastUpdate": "2026-03-02T20:46:35Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-02T23:46:53Z",
+    "cycle": 1
   },
   {
     "name": "CINDRAWATI",
@@ -22,10 +22,10 @@
   },
   {
     "name": "EDI SUGENG SARIPAN",
-    "stock": 0,
+    "stock": 52,
     "lastStock": 0,
-    "lastUpdate": "2026-03-02T20:46:35Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-02T23:46:53Z",
+    "cycle": 1
   },
   {
     "name": "BINA MAKMUR",
@@ -50,17 +50,17 @@
   },
   {
     "name": "JAENAL",
-    "stock": 0,
+    "stock": 93,
     "lastStock": 0,
-    "lastUpdate": "2026-03-02T20:46:35Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-02T23:46:53Z",
+    "cycle": 1
   },
   {
     "name": "JOKO SUWARNO",
-    "stock": 41,
+    "stock": 26,
     "lastStock": 0,
-    "lastUpdate": "2026-03-02T23:25:15Z",
-    "cycle": 2
+    "lastUpdate": "2026-03-02T23:46:53Z",
+    "cycle": 3
   },
   {
     "name": "KARSONO",
@@ -78,10 +78,10 @@
   },
   {
     "name": "MOH SAID",
-    "stock": 45,
+    "stock": 29,
     "lastStock": 0,
-    "lastUpdate": "2026-03-02T23:31:36Z",
-    "cycle": 1
+    "lastUpdate": "2026-03-02T23:50:08Z",
+    "cycle": 2
   },
   {
     "name": "TOKO 2 PUTRI",
@@ -176,10 +176,10 @@
   },
   {
     "name": "BAMBANG HARTONO",
-    "stock": 9,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-02T23:31:36Z",
-    "cycle": 4
+    "lastUpdate": "2026-03-02T23:52:56Z",
+    "cycle": 5
   },
   {
     "name": "NADIFATUS SOLEHA",
@@ -232,17 +232,17 @@
   },
   {
     "name": "YOGA RAJAN",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-02T23:32:05Z",
-    "cycle": 2
+    "lastUpdate": "2026-03-02T23:52:59Z",
+    "cycle": 3
   },
   {
     "name": "ARIF FAUZI",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-02T23:32:32Z",
-    "cycle": 1
+    "lastUpdate": "2026-03-02T23:53:28Z",
+    "cycle": 2
   },
   {
     "name": "MOH HAFIF",
@@ -253,10 +253,10 @@
   },
   {
     "name": "SAMSUL ARIFIN",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-02T23:33:26Z",
-    "cycle": 1
+    "lastUpdate": "2026-03-02T23:53:49Z",
+    "cycle": 2
   },
   {
     "name": "WIKAN K",
