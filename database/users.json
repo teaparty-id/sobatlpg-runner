@@ -304,15 +304,15 @@
     "name": "HJ. HAERONI",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-01T22:33:51Z",
+    "lastUpdate": "2026-03-02T01:33:59Z",
     "cycle": 0
   },
   {
     "name": "IMA",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-02T01:33:17Z",
-    "cycle": 3
+    "lastUpdate": "2026-03-02T01:33:59Z",
+    "cycle": 0
   },
   {
     "name": "DARMAWAN P",
@@ -430,14 +430,14 @@
     "name": "ROSIDI",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-01T22:33:51Z",
+    "lastUpdate": "2026-03-02T01:33:59Z",
     "cycle": 0
   },
   {
     "name": "HJ. ASLAMIYAH",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-01T22:33:51Z",
+    "lastUpdate": "2026-03-02T01:33:59Z",
     "cycle": 0
   },
   {
@@ -486,8 +486,8 @@
     "name": "TITIK ISMIATIN",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-02T01:33:17Z",
-    "cycle": 4
+    "lastUpdate": "2026-03-02T01:34:31Z",
+    "cycle": 0
   },
   {
     "name": "ISTIQOMAH",
@@ -507,14 +507,14 @@
     "name": "SUMBER REJEKI",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-02T01:33:17Z",
-    "cycle": 4
+    "lastUpdate": "2026-03-02T01:34:31Z",
+    "cycle": 0
   },
   {
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-02T01:33:17Z",
-    "cycle": 4
+    "lastUpdate": "2026-03-02T01:34:33Z",
+    "cycle": 0
   }
 ]
