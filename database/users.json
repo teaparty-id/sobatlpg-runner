@@ -451,8 +451,8 @@
     "name": "H. JUMAT",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-02T15:16:56Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-02T18:17:07Z",
+    "cycle": 1
   },
   {
     "name": "HARSININGSIH",
@@ -514,7 +514,7 @@
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-02T18:16:03Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-02T18:17:07Z",
+    "cycle": 1
   }
 ]
