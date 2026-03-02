@@ -134,17 +134,17 @@
   },
   {
     "name": "ROSA V",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-01T22:06:45Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-02T01:07:45Z",
+    "cycle": 1
   },
   {
     "name": "LUKMAN BS",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-01T22:06:45Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-02T01:07:45Z",
+    "cycle": 1
   },
   {
     "name": "BISTON MANURUNG",
@@ -507,14 +507,14 @@
     "name": "SUMBER REJEKI",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-02T01:06:37Z",
-    "cycle": 4
+    "lastUpdate": "2026-03-02T01:07:45Z",
+    "cycle": 5
   },
   {
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-02T01:06:37Z",
-    "cycle": 3
+    "lastUpdate": "2026-03-02T01:07:45Z",
+    "cycle": 4
   }
 ]
