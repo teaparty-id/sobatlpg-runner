@@ -164,8 +164,8 @@
     "name": "YUDA",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-02T00:47:02Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-02T03:47:19Z",
+    "cycle": 1
   },
   {
     "name": "SRI UTAMI",
@@ -514,7 +514,7 @@
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-02T03:46:36Z",
-    "cycle": 2
+    "lastUpdate": "2026-03-02T03:47:19Z",
+    "cycle": 3
   }
 ]
