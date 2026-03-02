@@ -207,7 +207,7 @@
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-03-02T04:47:02Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "ONG SWI GIOK",
@@ -333,7 +333,7 @@
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-03-02T04:47:02Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "TOKO ANITA",
@@ -424,7 +424,7 @@
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-03-02T04:49:16Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "ROSIDI",
@@ -459,14 +459,14 @@
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-03-02T04:49:16Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "CAHYA HERAWATI",
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-03-02T04:49:16Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "MISRI CICI",
@@ -480,7 +480,7 @@
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-03-02T04:49:16Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "TITIK ISMIATIN",
@@ -491,17 +491,17 @@
   },
   {
     "name": "ISTIQOMAH",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-02T04:51:41Z",
-    "cycle": 4
+    "lastUpdate": "2026-03-02T04:52:11Z",
+    "cycle": 0
   },
   {
     "name": "TOKO IRAWAN",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-02T04:51:41Z",
-    "cycle": 1
+    "lastUpdate": "2026-03-02T04:52:11Z",
+    "cycle": 0
   },
   {
     "name": "SUMBER REJEKI",
@@ -515,6 +515,6 @@
     "stock": 1,
     "lastStock": 0,
     "lastUpdate": "2026-03-02T04:50:39Z",
-    "cycle": 5
+    "cycle": 0
   }
 ]
