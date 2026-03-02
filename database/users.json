@@ -102,7 +102,7 @@
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-03-02T06:31:02Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "HJ LILIK LAILIYAH",
@@ -199,7 +199,7 @@
     "name": "HADI SUTOYO",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-02T03:33:35Z",
+    "lastUpdate": "2026-03-02T06:34:06Z",
     "cycle": 0
   },
   {
@@ -514,7 +514,7 @@
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-02T06:33:22Z",
-    "cycle": 4
+    "lastUpdate": "2026-03-02T06:34:06Z",
+    "cycle": 0
   }
 ]
