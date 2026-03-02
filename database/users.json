@@ -73,8 +73,8 @@
     "name": "LUTFI A.",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-02T16:39:54Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-02T19:49:03Z",
+    "cycle": 1
   },
   {
     "name": "MOH SAID",
@@ -87,8 +87,8 @@
     "name": "TOKO 2 PUTRI",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-02T16:45:40Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-02T19:49:03Z",
+    "cycle": 1
   },
   {
     "name": "TOKO IIN",
@@ -155,45 +155,45 @@
   },
   {
     "name": "JAMILAH",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-02T19:33:40Z",
-    "cycle": 2
+    "lastUpdate": "2026-03-02T19:49:03Z",
+    "cycle": 3
   },
   {
     "name": "YUDA",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-02T19:33:40Z",
-    "cycle": 2
+    "lastUpdate": "2026-03-02T19:49:03Z",
+    "cycle": 3
   },
   {
     "name": "SRI UTAMI",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-02T16:39:54Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-02T19:49:35Z",
+    "cycle": 1
   },
   {
     "name": "BAMBANG HARTONO",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-02T16:39:54Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-02T19:49:35Z",
+    "cycle": 1
   },
   {
     "name": "NADIFATUS SOLEHA",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-02T16:45:40Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-02T19:49:37Z",
+    "cycle": 1
   },
   {
     "name": "SUROSO",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-02T16:45:40Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-02T19:49:41Z",
+    "cycle": 1
   },
   {
     "name": "HADI SUTOYO",
