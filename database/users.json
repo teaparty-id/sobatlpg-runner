@@ -414,10 +414,10 @@
   },
   {
     "name": "ABDUL WAFI",
-    "stock": 14,
+    "stock": 6,
     "lastStock": 0,
-    "lastUpdate": "2026-03-03T08:08:19Z",
-    "cycle": 1
+    "lastUpdate": "2026-03-03T08:11:34Z",
+    "cycle": 2
   },
   {
     "name": "YUNIS WAHYUNI",
@@ -514,7 +514,7 @@
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-03T08:08:19Z",
-    "cycle": 1
+    "lastUpdate": "2026-03-03T08:11:34Z",
+    "cycle": 2
   }
 ]
