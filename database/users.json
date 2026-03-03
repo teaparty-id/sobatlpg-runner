@@ -122,8 +122,8 @@
     "name": "P. SUK",
     "stock": 0,
     "lastStock": 18,
-    "lastUpdate": "2026-03-03T01:21:42Z",
-    "cycle": 1
+    "lastUpdate": "2026-03-03T04:23:32Z",
+    "cycle": 2
   },
   {
     "name": "JONI H",
@@ -451,8 +451,8 @@
     "name": "H. JUMAT",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-03T01:22:13Z",
-    "cycle": 1
+    "lastUpdate": "2026-03-03T04:23:32Z",
+    "cycle": 2
   },
   {
     "name": "HARSININGSIH",
@@ -477,17 +477,17 @@
   },
   {
     "name": "ALFIAN DWI A.",
-    "stock": 61,
+    "stock": 51,
     "lastStock": 0,
-    "lastUpdate": "2026-03-03T04:17:01Z",
-    "cycle": 3
+    "lastUpdate": "2026-03-03T04:23:32Z",
+    "cycle": 4
   },
   {
     "name": "TITIK ISMIATIN",
-    "stock": 67,
+    "stock": 53,
     "lastStock": 3,
-    "lastUpdate": "2026-03-03T04:17:01Z",
-    "cycle": 2
+    "lastUpdate": "2026-03-03T04:23:32Z",
+    "cycle": 3
   },
   {
     "name": "ISTIQOMAH",
@@ -505,16 +505,16 @@
   },
   {
     "name": "SUMBER REJEKI",
-    "stock": 68,
+    "stock": 50,
     "lastStock": 1,
-    "lastUpdate": "2026-03-03T04:17:32Z",
-    "cycle": 1
+    "lastUpdate": "2026-03-03T04:24:03Z",
+    "cycle": 2
   },
   {
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-03T04:17:32Z",
-    "cycle": 2
+    "lastUpdate": "2026-03-03T04:24:03Z",
+    "cycle": 3
   }
 ]
