@@ -87,8 +87,8 @@
     "name": "TOKO 2 PUTRI",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-03T12:25:59Z",
-    "cycle": 1
+    "lastUpdate": "2026-03-03T12:27:22Z",
+    "cycle": 2
   },
   {
     "name": "TOKO IIN",
@@ -143,8 +143,8 @@
     "name": "LUKMAN BS",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-03T12:25:59Z",
-    "cycle": 1
+    "lastUpdate": "2026-03-03T12:27:22Z",
+    "cycle": 2
   },
   {
     "name": "BISTON MANURUNG",
@@ -204,10 +204,10 @@
   },
   {
     "name": "SRI HIDAYATI",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-03T09:26:44Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-03T12:27:22Z",
+    "cycle": 1
   },
   {
     "name": "ONG SWI GIOK",
