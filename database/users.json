@@ -171,8 +171,8 @@
     "name": "SRI UTAMI",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-03T06:16:18Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-03T09:16:50Z",
+    "cycle": 1
   },
   {
     "name": "BAMBANG HARTONO",
@@ -185,8 +185,8 @@
     "name": "NADIFATUS SOLEHA",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-03T06:16:48Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-03T09:16:50Z",
+    "cycle": 1
   },
   {
     "name": "SUROSO",
@@ -514,7 +514,7 @@
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-03T09:16:02Z",
-    "cycle": 3
+    "lastUpdate": "2026-03-03T09:16:50Z",
+    "cycle": 4
   }
 ]
