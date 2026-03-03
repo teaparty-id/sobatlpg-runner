@@ -253,10 +253,10 @@
   },
   {
     "name": "SAMSUL ARIFIN",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-03T09:32:35Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-03T12:33:56Z",
+    "cycle": 1
   },
   {
     "name": "WIKAN K",
@@ -514,7 +514,7 @@
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-03T12:32:18Z",
-    "cycle": 1
+    "lastUpdate": "2026-03-03T12:33:56Z",
+    "cycle": 2
   }
 ]
