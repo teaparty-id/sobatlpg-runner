@@ -183,10 +183,10 @@
   },
   {
     "name": "NADIFATUS SOLEHA",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-04T05:50:04Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-04T08:50:16Z",
+    "cycle": 1
   },
   {
     "name": "SUROSO",
@@ -274,10 +274,10 @@
   },
   {
     "name": "HERDIANA DIYAH S",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-04T05:50:04Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-04T08:50:16Z",
+    "cycle": 1
   },
   {
     "name": "BUDI",
@@ -514,7 +514,7 @@
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-04T08:49:11Z",
-    "cycle": 3
+    "lastUpdate": "2026-03-04T08:50:16Z",
+    "cycle": 4
   }
 ]
