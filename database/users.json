@@ -249,14 +249,14 @@
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-03-04T16:56:04Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "SAMSUL ARIFIN",
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-03-04T16:56:04Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "WIKAN K",
@@ -466,14 +466,14 @@
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-03-04T16:56:04Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "MISRI CICI",
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-03-04T16:56:04Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "ALFIAN DWI A.",
@@ -514,7 +514,7 @@
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-04T16:58:54Z",
-    "cycle": 4
+    "lastUpdate": "2026-03-04T16:59:43Z",
+    "cycle": 0
   }
 ]
