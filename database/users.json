@@ -381,8 +381,8 @@
     "name": "UD RAHMAT",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-04T18:14:50Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-04T21:15:28Z",
+    "cycle": 1
   },
   {
     "name": "ULFA MARIA",
@@ -514,7 +514,7 @@
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-04T21:14:42Z",
-    "cycle": 3
+    "lastUpdate": "2026-03-04T21:15:28Z",
+    "cycle": 4
   }
 ]
