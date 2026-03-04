@@ -241,8 +241,8 @@
     "name": "ARIF FAUZI",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-04T04:46:53Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-04T07:47:00Z",
+    "cycle": 1
   },
   {
     "name": "MOH HAFIF",
@@ -465,8 +465,8 @@
     "name": "CAHYA HERAWATI",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-04T04:46:53Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-04T07:47:00Z",
+    "cycle": 1
   },
   {
     "name": "MISRI CICI",
@@ -514,7 +514,7 @@
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-04T07:46:18Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-04T07:47:00Z",
+    "cycle": 1
   }
 ]
