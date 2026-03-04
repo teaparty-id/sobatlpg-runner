@@ -66,8 +66,8 @@
     "name": "KARSONO",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-04T11:55:09Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-04T14:55:33Z",
+    "cycle": 1
   },
   {
     "name": "LUTFI A.",
@@ -344,10 +344,10 @@
   },
   {
     "name": "TK. LUCKY",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-04T11:55:09Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-04T14:55:33Z",
+    "cycle": 1
   },
   {
     "name": "UD SAMAN HADI",
@@ -514,7 +514,7 @@
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-04T14:54:44Z",
-    "cycle": 1
+    "lastUpdate": "2026-03-04T14:55:33Z",
+    "cycle": 2
   }
 ]
