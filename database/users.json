@@ -241,8 +241,8 @@
     "name": "ARIF FAUZI",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-04T19:48:36Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-04T22:49:18Z",
+    "cycle": 1
   },
   {
     "name": "MOH HAFIF",
@@ -514,7 +514,7 @@
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-04T22:48:30Z",
-    "cycle": 3
+    "lastUpdate": "2026-03-04T22:49:18Z",
+    "cycle": 4
   }
 ]
