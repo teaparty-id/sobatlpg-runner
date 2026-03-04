@@ -1,24 +1,24 @@
 [
   {
     "name": "AKBAR RISQ",
-    "stock": 52,
+    "stock": 39,
     "lastStock": 0,
-    "lastUpdate": "2026-03-04T00:56:19Z",
-    "cycle": 2
+    "lastUpdate": "2026-03-04T01:09:31Z",
+    "cycle": 3
   },
   {
     "name": "ATHI HANDAYANI",
-    "stock": 35,
+    "stock": 25,
     "lastStock": 0,
-    "lastUpdate": "2026-03-04T00:56:19Z",
-    "cycle": 2
+    "lastUpdate": "2026-03-04T01:09:31Z",
+    "cycle": 3
   },
   {
     "name": "CINDRAWATI",
-    "stock": 25,
+    "stock": 14,
     "lastStock": 0,
-    "lastUpdate": "2026-03-04T00:56:19Z",
-    "cycle": 2
+    "lastUpdate": "2026-03-04T01:09:31Z",
+    "cycle": 3
   },
   {
     "name": "EDI SUGENG SARIPAN",
@@ -36,17 +36,17 @@
   },
   {
     "name": "HENDRA KURNIAWAN",
-    "stock": 53,
+    "stock": 37,
     "lastStock": 0,
-    "lastUpdate": "2026-03-04T00:56:19Z",
-    "cycle": 2
+    "lastUpdate": "2026-03-04T01:09:31Z",
+    "cycle": 3
   },
   {
     "name": "SUCIYONO",
-    "stock": 77,
+    "stock": 63,
     "lastStock": 0,
-    "lastUpdate": "2026-03-04T01:01:00Z",
-    "cycle": 2
+    "lastUpdate": "2026-03-04T01:15:32Z",
+    "cycle": 3
   },
   {
     "name": "JAENAL",
@@ -183,31 +183,31 @@
   },
   {
     "name": "NADIFATUS SOLEHA",
-    "stock": 36,
+    "stock": 29,
     "lastStock": 0,
-    "lastUpdate": "2026-03-04T01:05:50Z",
-    "cycle": 1
+    "lastUpdate": "2026-03-04T01:15:43Z",
+    "cycle": 2
   },
   {
     "name": "SUROSO",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-03T21:03:33Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-04T01:15:52Z",
+    "cycle": 1
   },
   {
     "name": "HADI SUTOYO",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-03T21:03:33Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-04T01:16:23Z",
+    "cycle": 1
   },
   {
     "name": "SRI HIDAYATI",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-03T21:04:03Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-04T01:16:55Z",
+    "cycle": 1
   },
   {
     "name": "ONG SWI GIOK",
