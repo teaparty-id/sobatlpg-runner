@@ -11,14 +11,14 @@
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-03-04T20:26:15Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "CINDRAWATI",
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-03-04T20:26:15Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "EDI SUGENG SARIPAN",
@@ -39,7 +39,7 @@
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-03-04T20:27:09Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "SUCIYONO",
@@ -514,7 +514,7 @@
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-04T20:29:20Z",
-    "cycle": 4
+    "lastUpdate": "2026-03-04T20:30:21Z",
+    "cycle": 0
   }
 ]
