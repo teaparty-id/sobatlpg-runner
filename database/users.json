@@ -1,24 +1,24 @@
 [
   {
     "name": "AKBAR RISQ",
-    "stock": 39,
+    "stock": 31,
     "lastStock": 0,
-    "lastUpdate": "2026-03-04T01:09:31Z",
-    "cycle": 3
+    "lastUpdate": "2026-03-04T01:22:18Z",
+    "cycle": 4
   },
   {
     "name": "ATHI HANDAYANI",
-    "stock": 25,
+    "stock": 9,
     "lastStock": 0,
-    "lastUpdate": "2026-03-04T01:09:31Z",
-    "cycle": 3
+    "lastUpdate": "2026-03-04T01:22:18Z",
+    "cycle": 4
   },
   {
     "name": "CINDRAWATI",
-    "stock": 14,
+    "stock": 6,
     "lastStock": 0,
-    "lastUpdate": "2026-03-04T01:09:31Z",
-    "cycle": 3
+    "lastUpdate": "2026-03-04T01:22:18Z",
+    "cycle": 4
   },
   {
     "name": "EDI SUGENG SARIPAN",
@@ -36,17 +36,17 @@
   },
   {
     "name": "HENDRA KURNIAWAN",
-    "stock": 37,
+    "stock": 26,
     "lastStock": 0,
-    "lastUpdate": "2026-03-04T01:09:31Z",
-    "cycle": 3
+    "lastUpdate": "2026-03-04T01:22:18Z",
+    "cycle": 4
   },
   {
     "name": "SUCIYONO",
-    "stock": 63,
+    "stock": 52,
     "lastStock": 0,
-    "lastUpdate": "2026-03-04T01:15:32Z",
-    "cycle": 3
+    "lastUpdate": "2026-03-04T01:27:16Z",
+    "cycle": 4
   },
   {
     "name": "JAENAL",
@@ -183,10 +183,10 @@
   },
   {
     "name": "NADIFATUS SOLEHA",
-    "stock": 29,
+    "stock": 22,
     "lastStock": 0,
-    "lastUpdate": "2026-03-04T01:15:43Z",
-    "cycle": 2
+    "lastUpdate": "2026-03-04T01:27:17Z",
+    "cycle": 3
   },
   {
     "name": "SUROSO",
@@ -220,22 +220,22 @@
     "name": "YUSUF ISMAIL",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-03T21:37:03Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-04T01:28:14Z",
+    "cycle": 1
   },
   {
     "name": "SUPARNI",
-    "stock": 0,
+    "stock": 38,
     "lastStock": 0,
-    "lastUpdate": "2026-03-03T21:06:26Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-04T01:28:14Z",
+    "cycle": 1
   },
   {
     "name": "YOGA RAJAN",
-    "stock": 0,
+    "stock": 60,
     "lastStock": 0,
-    "lastUpdate": "2026-03-03T21:06:26Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-04T01:28:44Z",
+    "cycle": 1
   },
   {
     "name": "ARIF FAUZI",
