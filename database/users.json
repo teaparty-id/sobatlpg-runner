@@ -80,8 +80,8 @@
     "name": "MOH SAID",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-04T17:39:38Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-04T20:40:00Z",
+    "cycle": 1
   },
   {
     "name": "TOKO 2 PUTRI",
@@ -514,7 +514,7 @@
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-04T20:39:13Z",
-    "cycle": 1
+    "lastUpdate": "2026-03-04T20:40:00Z",
+    "cycle": 2
   }
 ]
