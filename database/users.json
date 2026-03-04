@@ -288,10 +288,10 @@
   },
   {
     "name": "YULI SORAYA",
-    "stock": 22,
+    "stock": 9,
     "lastStock": 0,
-    "lastUpdate": "2026-03-04T09:13:58Z",
-    "cycle": 2
+    "lastUpdate": "2026-03-04T09:19:25Z",
+    "cycle": 3
   },
   {
     "name": "SUSILO",
@@ -514,7 +514,7 @@
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-04T09:13:58Z",
-    "cycle": 3
+    "lastUpdate": "2026-03-04T09:19:25Z",
+    "cycle": 4
   }
 ]
