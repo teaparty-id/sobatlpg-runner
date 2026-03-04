@@ -129,8 +129,8 @@
     "name": "JONI H",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-04T17:49:31Z",
-    "cycle": 3
+    "lastUpdate": "2026-03-04T17:50:03Z",
+    "cycle": 4
   },
   {
     "name": "ROSA V",
@@ -260,10 +260,10 @@
   },
   {
     "name": "WIKAN K",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-04T14:49:58Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-04T17:50:03Z",
+    "cycle": 1
   },
   {
     "name": "TUSOK",
@@ -514,7 +514,7 @@
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-04T17:49:31Z",
-    "cycle": 3
+    "lastUpdate": "2026-03-04T17:50:03Z",
+    "cycle": 4
   }
 ]
