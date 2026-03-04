@@ -297,8 +297,8 @@
     "name": "SUSILO",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-04T18:10:04Z",
-    "cycle": 1
+    "lastUpdate": "2026-03-04T18:11:03Z",
+    "cycle": 2
   },
   {
     "name": "HJ. HAERONI",
@@ -514,7 +514,7 @@
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-04T18:10:04Z",
-    "cycle": 3
+    "lastUpdate": "2026-03-04T18:11:03Z",
+    "cycle": 4
   }
 ]
