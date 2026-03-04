@@ -143,8 +143,8 @@
     "name": "LUKMAN BS",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-04T12:09:17Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-04T15:09:51Z",
+    "cycle": 1
   },
   {
     "name": "BISTON MANURUNG",
@@ -297,15 +297,15 @@
     "name": "SUSILO",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-04T12:09:17Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-04T15:09:51Z",
+    "cycle": 1
   },
   {
     "name": "HJ. HAERONI",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-04T12:09:17Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-04T15:09:51Z",
+    "cycle": 1
   },
   {
     "name": "IMA",
@@ -514,7 +514,7 @@
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-04T15:09:04Z",
-    "cycle": 2
+    "lastUpdate": "2026-03-04T15:09:51Z",
+    "cycle": 3
   }
 ]
