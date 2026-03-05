@@ -87,8 +87,8 @@
     "name": "TOKO 2 PUTRI",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-05T10:42:17Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-05T13:42:49Z",
+    "cycle": 1
   },
   {
     "name": "TOKO IIN",
@@ -220,8 +220,8 @@
     "name": "YUSUF ISMAIL",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-05T10:42:17Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-05T13:42:49Z",
+    "cycle": 1
   },
   {
     "name": "SUPARNI",
@@ -514,7 +514,7 @@
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-05T13:42:05Z",
-    "cycle": 2
+    "lastUpdate": "2026-03-05T13:42:49Z",
+    "cycle": 3
   }
 ]
