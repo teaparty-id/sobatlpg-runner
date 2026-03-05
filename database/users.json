@@ -403,7 +403,7 @@
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-03-05T08:07:02Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "ANDRI HERU CAHYONO",
@@ -452,14 +452,14 @@
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-03-05T08:07:02Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "HARSININGSIH",
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-03-05T08:07:02Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "CAHYA HERAWATI",
@@ -484,10 +484,10 @@
   },
   {
     "name": "TITIK ISMIATIN",
-    "stock": 1,
-    "lastStock": 0,
-    "lastUpdate": "2026-03-05T08:10:39Z",
-    "cycle": 4
+    "stock": 0,
+    "lastStock": 3,
+    "lastUpdate": "2026-03-05T08:11:12Z",
+    "cycle": 0
   },
   {
     "name": "ISTIQOMAH",
@@ -515,6 +515,6 @@
     "stock": 1,
     "lastStock": 0,
     "lastUpdate": "2026-03-05T08:10:09Z",
-    "cycle": 5
+    "cycle": 0
   }
 ]
