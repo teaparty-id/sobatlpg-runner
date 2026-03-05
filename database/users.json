@@ -50,10 +50,10 @@
   },
   {
     "name": "JAENAL",
-    "stock": 55,
+    "stock": 48,
     "lastStock": 0,
-    "lastUpdate": "2026-03-05T03:41:20Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-05T04:04:38Z",
+    "cycle": 1
   },
   {
     "name": "JOKO SUWARNO",
@@ -141,17 +141,17 @@
   },
   {
     "name": "LUKMAN BS",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-05T01:03:47Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-05T04:04:38Z",
+    "cycle": 1
   },
   {
     "name": "BISTON MANURUNG",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-05T01:04:18Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-05T04:04:38Z",
+    "cycle": 1
   },
   {
     "name": "JAMILAH",
@@ -372,10 +372,10 @@
   },
   {
     "name": "TOKO POJOK",
-    "stock": 32,
+    "stock": 24,
     "lastStock": 0,
-    "lastUpdate": "2026-03-05T03:56:57Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-05T04:04:38Z",
+    "cycle": 1
   },
   {
     "name": "UD RAHMAT",
