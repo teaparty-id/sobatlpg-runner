@@ -283,8 +283,8 @@
     "name": "BUDI",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-05T07:41:37Z",
-    "cycle": 1
+    "lastUpdate": "2026-03-05T07:42:35Z",
+    "cycle": 2
   },
   {
     "name": "YULI SORAYA",
@@ -316,10 +316,10 @@
   },
   {
     "name": "DARMAWAN P",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-05T04:41:49Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-05T07:42:35Z",
+    "cycle": 1
   },
   {
     "name": "DIYAH UTAMI",
@@ -514,7 +514,7 @@
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-05T07:41:37Z",
-    "cycle": 2
+    "lastUpdate": "2026-03-05T07:42:35Z",
+    "cycle": 3
   }
 ]
