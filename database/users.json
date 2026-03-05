@@ -50,10 +50,10 @@
   },
   {
     "name": "JAENAL",
-    "stock": 16,
+    "stock": 10,
     "lastStock": 0,
-    "lastUpdate": "2026-03-05T04:31:37Z",
-    "cycle": 1
+    "lastUpdate": "2026-03-05T04:36:25Z",
+    "cycle": 2
   },
   {
     "name": "JOKO SUWARNO",
@@ -374,8 +374,8 @@
     "name": "TOKO POJOK",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-05T04:31:37Z",
-    "cycle": 1
+    "lastUpdate": "2026-03-05T04:36:25Z",
+    "cycle": 2
   },
   {
     "name": "UD RAHMAT",
@@ -514,7 +514,7 @@
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-05T04:31:37Z",
-    "cycle": 1
+    "lastUpdate": "2026-03-05T04:36:25Z",
+    "cycle": 2
   }
 ]
