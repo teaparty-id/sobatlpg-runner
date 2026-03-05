@@ -162,31 +162,31 @@
   },
   {
     "name": "YUDA",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-05T13:21:01Z",
-    "cycle": 3
+    "lastUpdate": "2026-03-05T13:21:40Z",
+    "cycle": 4
   },
   {
     "name": "SRI UTAMI",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-05T10:21:24Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-05T13:21:40Z",
+    "cycle": 1
   },
   {
     "name": "BAMBANG HARTONO",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-05T10:21:24Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-05T13:21:40Z",
+    "cycle": 1
   },
   {
     "name": "NADIFATUS SOLEHA",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-05T10:21:24Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-05T13:21:40Z",
+    "cycle": 1
   },
   {
     "name": "SUROSO",
@@ -234,8 +234,8 @@
     "name": "YOGA RAJAN",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-05T10:21:24Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-05T13:22:07Z",
+    "cycle": 1
   },
   {
     "name": "ARIF FAUZI",
@@ -260,10 +260,10 @@
   },
   {
     "name": "WIKAN K",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-05T10:21:57Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-05T13:22:08Z",
+    "cycle": 1
   },
   {
     "name": "TUSOK",
@@ -514,7 +514,7 @@
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-05T13:21:01Z",
-    "cycle": 3
+    "lastUpdate": "2026-03-05T13:22:10Z",
+    "cycle": 4
   }
 ]
