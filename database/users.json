@@ -367,15 +367,15 @@
     "name": "TOKO TIARA",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-05T13:52:09Z",
-    "cycle": 1
+    "lastUpdate": "2026-03-05T13:53:07Z",
+    "cycle": 2
   },
   {
     "name": "TOKO POJOK",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-05T13:52:09Z",
-    "cycle": 1
+    "lastUpdate": "2026-03-05T13:53:07Z",
+    "cycle": 2
   },
   {
     "name": "UD RAHMAT",
@@ -514,7 +514,7 @@
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-05T13:52:09Z",
-    "cycle": 2
+    "lastUpdate": "2026-03-05T13:53:07Z",
+    "cycle": 3
   }
 ]
