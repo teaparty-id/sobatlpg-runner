@@ -192,22 +192,22 @@
     "name": "SUROSO",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-05T04:30:41Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-05T07:30:41Z",
+    "cycle": 1
   },
   {
     "name": "HADI SUTOYO",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-05T04:30:41Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-05T07:30:41Z",
+    "cycle": 1
   },
   {
     "name": "SRI HIDAYATI",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-05T04:30:41Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-05T07:30:41Z",
+    "cycle": 1
   },
   {
     "name": "ONG SWI GIOK",
@@ -514,7 +514,7 @@
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-05T07:29:01Z",
-    "cycle": 1
+    "lastUpdate": "2026-03-05T07:30:41Z",
+    "cycle": 2
   }
 ]
