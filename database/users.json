@@ -4,14 +4,14 @@
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-03-05T13:10:03Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "ATHI HANDAYANI",
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-03-05T13:10:03Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "CINDRAWATI",
@@ -25,28 +25,28 @@
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-03-05T13:10:03Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "BINA MAKMUR",
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-03-05T13:10:03Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "HENDRA KURNIAWAN",
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-03-05T13:10:33Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "SUCIYONO",
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-03-05T13:12:54Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "JAENAL",
@@ -60,28 +60,28 @@
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-03-05T13:12:54Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "KARSONO",
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-03-05T13:12:54Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "LUTFI A.",
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-03-05T13:12:54Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "MOH SAID",
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-03-05T13:15:50Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "TOKO 2 PUTRI",
@@ -95,7 +95,7 @@
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-03-05T13:15:50Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "SUPARMAN",
@@ -109,28 +109,28 @@
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-03-05T13:15:50Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "ERNA PUJIATI",
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-03-05T13:15:50Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "P. SUK",
     "stock": 0,
     "lastStock": 18,
     "lastUpdate": "2026-03-05T13:16:21Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "JONI H",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-05T13:17:50Z",
-    "cycle": 3
+    "lastUpdate": "2026-03-05T13:18:22Z",
+    "cycle": 0
   },
   {
     "name": "ROSA V",
@@ -515,6 +515,6 @@
     "stock": 1,
     "lastStock": 0,
     "lastUpdate": "2026-03-05T13:13:24Z",
-    "cycle": 5
+    "cycle": 0
   }
 ]
