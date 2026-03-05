@@ -22,10 +22,10 @@
   },
   {
     "name": "EDI SUGENG SARIPAN",
-    "stock": 33,
+    "stock": 18,
     "lastStock": 0,
-    "lastUpdate": "2026-03-05T00:48:05Z",
-    "cycle": 2
+    "lastUpdate": "2026-03-05T00:59:43Z",
+    "cycle": 3
   },
   {
     "name": "BINA MAKMUR",
@@ -50,10 +50,10 @@
   },
   {
     "name": "JAENAL",
-    "stock": 92,
+    "stock": 83,
     "lastStock": 0,
-    "lastUpdate": "2026-03-05T00:48:05Z",
-    "cycle": 1
+    "lastUpdate": "2026-03-05T00:59:43Z",
+    "cycle": 2
   },
   {
     "name": "JOKO SUWARNO",
@@ -64,10 +64,10 @@
   },
   {
     "name": "KARSONO",
-    "stock": 27,
+    "stock": 14,
     "lastStock": 0,
-    "lastUpdate": "2026-03-05T00:48:05Z",
-    "cycle": 4
+    "lastUpdate": "2026-03-05T00:59:43Z",
+    "cycle": 5
   },
   {
     "name": "LUTFI A.",
@@ -92,10 +92,10 @@
   },
   {
     "name": "TOKO IIN",
-    "stock": 32,
+    "stock": 21,
     "lastStock": 0,
-    "lastUpdate": "2026-03-05T00:53:07Z",
-    "cycle": 2
+    "lastUpdate": "2026-03-05T00:59:43Z",
+    "cycle": 3
   },
   {
     "name": "SUPARMAN",
@@ -129,36 +129,36 @@
     "name": "JONI H",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-04T20:51:05Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-05T01:02:46Z",
+    "cycle": 1
   },
   {
     "name": "ROSA V",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-04T20:48:36Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-05T01:03:16Z",
+    "cycle": 1
   },
   {
     "name": "LUKMAN BS",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-04T21:10:43Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-05T01:03:47Z",
+    "cycle": 1
   },
   {
     "name": "BISTON MANURUNG",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-04T21:32:01Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-05T01:04:18Z",
+    "cycle": 1
   },
   {
     "name": "JAMILAH",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-04T21:34:37Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-05T01:04:49Z",
+    "cycle": 1
   },
   {
     "name": "YUDA",
