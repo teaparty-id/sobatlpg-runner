@@ -130,7 +130,7 @@
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-03-05T20:24:19Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "ROSA V",
@@ -151,7 +151,7 @@
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-03-05T20:24:19Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "JAMILAH",
@@ -165,14 +165,14 @@
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-03-05T20:24:19Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "SRI UTAMI",
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-03-05T20:24:19Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "BAMBANG HARTONO",
@@ -207,21 +207,21 @@
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-03-05T20:27:05Z",
-    "cycle": 4
+    "cycle": 0
   },
   {
     "name": "ONG SWI GIOK",
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-03-05T20:27:05Z",
-    "cycle": 4
+    "cycle": 0
   },
   {
     "name": "YUSUF ISMAIL",
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-03-05T20:27:05Z",
-    "cycle": 4
+    "cycle": 0
   },
   {
     "name": "SUPARNI",
@@ -514,7 +514,7 @@
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-05T20:27:05Z",
-    "cycle": 4
+    "lastUpdate": "2026-03-05T20:27:59Z",
+    "cycle": 0
   }
 ]
