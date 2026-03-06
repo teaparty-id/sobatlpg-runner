@@ -319,13 +319,13 @@
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-03-06T17:34:47Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "DIYAH UTAMI",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-06T14:36:26Z",
+    "lastUpdate": "2026-03-06T17:37:06Z",
     "cycle": 0
   },
   {
@@ -333,7 +333,7 @@
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-03-06T17:34:47Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "TOKO ANITA",
@@ -514,7 +514,7 @@
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-06T17:36:21Z",
-    "cycle": 4
+    "lastUpdate": "2026-03-06T17:37:06Z",
+    "cycle": 0
   }
 ]
