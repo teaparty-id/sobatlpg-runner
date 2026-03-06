@@ -507,14 +507,14 @@
     "name": "SUMBER REJEKI",
     "stock": 0,
     "lastStock": 1,
-    "lastUpdate": "2026-03-06T10:56:56Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-06T13:57:34Z",
+    "cycle": 1
   },
   {
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-06T13:56:48Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-06T13:57:34Z",
+    "cycle": 1
   }
 ]
