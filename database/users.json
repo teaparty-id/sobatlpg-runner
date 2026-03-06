@@ -213,8 +213,8 @@
     "name": "ONG SWI GIOK",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-06T01:53:03Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-06T04:57:15Z",
+    "cycle": 1
   },
   {
     "name": "YUSUF ISMAIL",
@@ -227,8 +227,8 @@
     "name": "SUPARNI",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-06T01:57:03Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-06T04:57:15Z",
+    "cycle": 1
   },
   {
     "name": "YOGA RAJAN",
@@ -484,10 +484,10 @@
   },
   {
     "name": "TITIK ISMIATIN",
-    "stock": 3,
+    "stock": 0,
     "lastStock": 3,
-    "lastUpdate": "2026-03-06T04:51:22Z",
-    "cycle": 3
+    "lastUpdate": "2026-03-06T04:57:15Z",
+    "cycle": 4
   },
   {
     "name": "ISTIQOMAH",
@@ -514,7 +514,7 @@
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-06T04:51:50Z",
-    "cycle": 1
+    "lastUpdate": "2026-03-06T04:57:15Z",
+    "cycle": 2
   }
 ]
