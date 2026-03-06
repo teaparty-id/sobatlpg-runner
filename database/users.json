@@ -388,22 +388,22 @@
     "name": "ULFA MARIA",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-06T05:36:08Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-06T08:36:21Z",
+    "cycle": 1
   },
   {
     "name": "TOKO SURYATI",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-06T05:36:08Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-06T08:36:21Z",
+    "cycle": 1
   },
   {
     "name": "SUDJIONO",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-06T05:36:08Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-06T08:36:21Z",
+    "cycle": 1
   },
   {
     "name": "ANDRI HERU CAHYONO",
@@ -514,7 +514,7 @@
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-06T08:35:33Z",
-    "cycle": 1
+    "lastUpdate": "2026-03-06T08:36:21Z",
+    "cycle": 2
   }
 ]
