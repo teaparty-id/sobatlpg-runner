@@ -185,8 +185,8 @@
     "name": "NADIFATUS SOLEHA",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-06T22:57:53Z",
-    "cycle": 2
+    "lastUpdate": "2026-03-06T22:58:35Z",
+    "cycle": 3
   },
   {
     "name": "SUROSO",
@@ -199,8 +199,8 @@
     "name": "HADI SUTOYO",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-06T22:57:53Z",
-    "cycle": 1
+    "lastUpdate": "2026-03-06T22:58:35Z",
+    "cycle": 2
   },
   {
     "name": "SRI HIDAYATI",
@@ -507,14 +507,14 @@
     "name": "SUMBER REJEKI",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-06T22:57:53Z",
-    "cycle": 1
+    "lastUpdate": "2026-03-06T22:58:35Z",
+    "cycle": 2
   },
   {
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-06T22:57:53Z",
-    "cycle": 2
+    "lastUpdate": "2026-03-06T22:58:35Z",
+    "cycle": 3
   }
 ]
