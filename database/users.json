@@ -227,15 +227,15 @@
     "name": "SUPARNI",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-06T20:03:10Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-06T23:03:11Z",
+    "cycle": 1
   },
   {
     "name": "YOGA RAJAN",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-06T20:03:10Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-06T23:03:11Z",
+    "cycle": 1
   },
   {
     "name": "ARIF FAUZI",
@@ -486,8 +486,8 @@
     "name": "TITIK ISMIATIN",
     "stock": 0,
     "lastStock": 3,
-    "lastUpdate": "2026-03-06T20:03:10Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-06T23:03:11Z",
+    "cycle": 1
   },
   {
     "name": "ISTIQOMAH",
@@ -514,7 +514,7 @@
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-06T23:02:42Z",
-    "cycle": 3
+    "lastUpdate": "2026-03-06T23:03:11Z",
+    "cycle": 4
   }
 ]
