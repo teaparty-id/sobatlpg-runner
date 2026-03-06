@@ -129,8 +129,8 @@
     "name": "JONI H",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-06T04:36:33Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-06T07:36:41Z",
+    "cycle": 1
   },
   {
     "name": "ROSA V",
@@ -381,8 +381,8 @@
     "name": "UD RAHMAT",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-06T04:36:33Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-06T07:36:41Z",
+    "cycle": 1
   },
   {
     "name": "ULFA MARIA",
@@ -514,7 +514,7 @@
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-06T07:35:56Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-06T07:36:41Z",
+    "cycle": 1
   }
 ]
