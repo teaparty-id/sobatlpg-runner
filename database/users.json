@@ -346,15 +346,15 @@
     "name": "TK. LUCKY",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-06T17:41:09Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-06T20:41:42Z",
+    "cycle": 1
   },
   {
     "name": "UD SAMAN HADI",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-06T17:41:09Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-06T20:41:42Z",
+    "cycle": 1
   },
   {
     "name": "SOEKAMTO",
@@ -514,7 +514,7 @@
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-06T20:40:59Z",
-    "cycle": 3
+    "lastUpdate": "2026-03-06T20:41:42Z",
+    "cycle": 4
   }
 ]
