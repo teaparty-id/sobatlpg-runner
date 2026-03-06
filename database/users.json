@@ -206,8 +206,8 @@
     "name": "SRI HIDAYATI",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-06T08:23:49Z",
-    "cycle": 1
+    "lastUpdate": "2026-03-06T08:24:49Z",
+    "cycle": 2
   },
   {
     "name": "ONG SWI GIOK",
@@ -309,10 +309,10 @@
   },
   {
     "name": "IMA",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-06T05:24:00Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-06T08:24:49Z",
+    "cycle": 1
   },
   {
     "name": "DARMAWAN P",
@@ -514,7 +514,7 @@
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-06T08:23:49Z",
-    "cycle": 3
+    "lastUpdate": "2026-03-06T08:24:49Z",
+    "cycle": 4
   }
 ]
