@@ -52,8 +52,8 @@
     "name": "JAENAL",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-06T09:01:27Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-06T12:04:53Z",
+    "cycle": 1
   },
   {
     "name": "JOKO SUWARNO",
@@ -493,15 +493,15 @@
     "name": "ISTIQOMAH",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-06T08:59:57Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-06T12:04:53Z",
+    "cycle": 1
   },
   {
     "name": "TOKO IRAWAN",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-06T08:59:57Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-06T12:04:53Z",
+    "cycle": 1
   },
   {
     "name": "SUMBER REJEKI",
@@ -514,7 +514,7 @@
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-06T11:59:46Z",
-    "cycle": 2
+    "lastUpdate": "2026-03-06T12:04:53Z",
+    "cycle": 3
   }
 ]
