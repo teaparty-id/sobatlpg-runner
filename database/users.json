@@ -52,7 +52,7 @@
     "name": "JAENAL",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-06T06:01:07Z",
+    "lastUpdate": "2026-03-06T09:01:27Z",
     "cycle": 0
   },
   {
@@ -494,14 +494,14 @@
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-03-06T08:59:57Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "TOKO IRAWAN",
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-03-06T08:59:57Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "SUMBER REJEKI",
@@ -514,7 +514,7 @@
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-06T09:00:44Z",
-    "cycle": 4
+    "lastUpdate": "2026-03-06T09:01:27Z",
+    "cycle": 0
   }
 ]
