@@ -234,15 +234,15 @@
     "name": "YOGA RAJAN",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-07T11:59:30Z",
-    "cycle": 1
+    "lastUpdate": "2026-03-07T12:00:00Z",
+    "cycle": 2
   },
   {
     "name": "ARIF FAUZI",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-07T11:59:30Z",
-    "cycle": 1
+    "lastUpdate": "2026-03-07T12:00:00Z",
+    "cycle": 2
   },
   {
     "name": "MOH HAFIF",
@@ -514,7 +514,7 @@
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-07T11:59:30Z",
-    "cycle": 1
+    "lastUpdate": "2026-03-07T12:00:00Z",
+    "cycle": 2
   }
 ]
