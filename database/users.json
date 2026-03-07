@@ -10,15 +10,15 @@
     "name": "ATHI HANDAYANI",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-07T19:19:07Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-07T22:19:13Z",
+    "cycle": 1
   },
   {
     "name": "CINDRAWATI",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-07T19:19:07Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-07T22:19:13Z",
+    "cycle": 1
   },
   {
     "name": "EDI SUGENG SARIPAN",
@@ -36,10 +36,10 @@
   },
   {
     "name": "HENDRA KURNIAWAN",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-07T19:19:07Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-07T22:19:13Z",
+    "cycle": 1
   },
   {
     "name": "SUCIYONO",
@@ -514,7 +514,7 @@
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-07T22:18:24Z",
-    "cycle": 2
+    "lastUpdate": "2026-03-07T22:19:13Z",
+    "cycle": 3
   }
 ]
