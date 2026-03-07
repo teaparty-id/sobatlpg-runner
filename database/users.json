@@ -192,8 +192,8 @@
     "name": "SUROSO",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-07T03:01:08Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-07T06:06:16Z",
+    "cycle": 1
   },
   {
     "name": "HADI SUTOYO",
@@ -246,45 +246,45 @@
   },
   {
     "name": "MOH HAFIF",
-    "stock": 25,
+    "stock": 12,
     "lastStock": 0,
-    "lastUpdate": "2026-03-07T06:00:26Z",
-    "cycle": 2
+    "lastUpdate": "2026-03-07T06:06:16Z",
+    "cycle": 3
   },
   {
     "name": "SAMSUL ARIFIN",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-07T03:01:08Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-07T06:06:16Z",
+    "cycle": 1
   },
   {
     "name": "WIKAN K",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-07T03:01:08Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-07T06:06:16Z",
+    "cycle": 1
   },
   {
     "name": "TUSOK",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-07T03:01:08Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-07T06:06:44Z",
+    "cycle": 1
   },
   {
     "name": "HERDIANA DIYAH S",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-07T03:06:43Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-07T06:06:45Z",
+    "cycle": 1
   },
   {
     "name": "BUDI",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-07T03:01:40Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-07T06:06:47Z",
+    "cycle": 1
   },
   {
     "name": "YULI SORAYA",
