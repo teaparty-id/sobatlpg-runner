@@ -85,10 +85,10 @@
   },
   {
     "name": "TOKO 2 PUTRI",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-07T04:26:54Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-07T07:27:13Z",
+    "cycle": 1
   },
   {
     "name": "TOKO IIN",
@@ -514,7 +514,7 @@
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-07T07:26:43Z",
-    "cycle": 2
+    "lastUpdate": "2026-03-07T07:27:13Z",
+    "cycle": 3
   }
 ]
