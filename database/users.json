@@ -134,10 +134,10 @@
   },
   {
     "name": "ROSA V",
-    "stock": 5,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-07T23:52:08Z",
-    "cycle": 2
+    "lastUpdate": "2026-03-07T23:55:55Z",
+    "cycle": 3
   },
   {
     "name": "LUKMAN BS",
@@ -155,38 +155,38 @@
   },
   {
     "name": "JAMILAH",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-07T23:52:38Z",
-    "cycle": 1
+    "lastUpdate": "2026-03-07T23:55:55Z",
+    "cycle": 2
   },
   {
     "name": "YUDA",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-07T20:55:50Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-07T23:55:55Z",
+    "cycle": 1
   },
   {
     "name": "SRI UTAMI",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-07T23:52:39Z",
-    "cycle": 1
+    "lastUpdate": "2026-03-07T23:55:55Z",
+    "cycle": 2
   },
   {
     "name": "BAMBANG HARTONO",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-07T20:47:52Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-07T23:56:25Z",
+    "cycle": 1
   },
   {
     "name": "NADIFATUS SOLEHA",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-07T20:53:36Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-07T23:56:26Z",
+    "cycle": 1
   },
   {
     "name": "SUROSO",
@@ -514,7 +514,7 @@
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-07T23:41:49Z",
-    "cycle": 2
+    "lastUpdate": "2026-03-07T23:56:26Z",
+    "cycle": 3
   }
 ]
