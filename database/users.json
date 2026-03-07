@@ -1,10 +1,10 @@
 [
   {
     "name": "AKBAR RISQ",
-    "stock": 57,
+    "stock": 43,
     "lastStock": 0,
-    "lastUpdate": "2026-03-07T02:13:23Z",
-    "cycle": 4
+    "lastUpdate": "2026-03-07T02:28:34Z",
+    "cycle": 5
   },
   {
     "name": "ATHI HANDAYANI",
@@ -29,10 +29,10 @@
   },
   {
     "name": "BINA MAKMUR",
-    "stock": 65,
+    "stock": 53,
     "lastStock": 0,
-    "lastUpdate": "2026-03-07T02:13:23Z",
-    "cycle": 3
+    "lastUpdate": "2026-03-07T02:28:34Z",
+    "cycle": 4
   },
   {
     "name": "HENDRA KURNIAWAN",
@@ -78,10 +78,10 @@
   },
   {
     "name": "MOH SAID",
-    "stock": 41,
+    "stock": 32,
     "lastStock": 0,
-    "lastUpdate": "2026-03-07T02:20:02Z",
-    "cycle": 2
+    "lastUpdate": "2026-03-07T02:28:34Z",
+    "cycle": 3
   },
   {
     "name": "TOKO 2 PUTRI",
@@ -92,10 +92,10 @@
   },
   {
     "name": "TOKO IIN",
-    "stock": 17,
+    "stock": 7,
     "lastStock": 0,
-    "lastUpdate": "2026-03-07T02:21:27Z",
-    "cycle": 3
+    "lastUpdate": "2026-03-07T02:28:34Z",
+    "cycle": 4
   },
   {
     "name": "SUPARMAN",
@@ -115,36 +115,36 @@
     "name": "ERNA PUJIATI",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-06T22:34:17Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-07T02:34:03Z",
+    "cycle": 1
   },
   {
     "name": "P. SUK",
     "stock": 0,
     "lastStock": 18,
-    "lastUpdate": "2026-03-06T22:39:40Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-07T02:34:31Z",
+    "cycle": 1
   },
   {
     "name": "JONI H",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-06T22:37:16Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-07T02:34:32Z",
+    "cycle": 1
   },
   {
     "name": "ROSA V",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-06T22:44:03Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-07T02:34:39Z",
+    "cycle": 1
   },
   {
     "name": "LUKMAN BS",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-06T22:44:03Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-07T02:34:58Z",
+    "cycle": 1
   },
   {
     "name": "BISTON MANURUNG",
