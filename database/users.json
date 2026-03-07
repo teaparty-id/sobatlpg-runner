@@ -78,10 +78,10 @@
   },
   {
     "name": "MOH SAID",
-    "stock": 19,
+    "stock": 3,
     "lastStock": 0,
-    "lastUpdate": "2026-03-07T02:36:07Z",
-    "cycle": 4
+    "lastUpdate": "2026-03-07T02:42:34Z",
+    "cycle": 5
   },
   {
     "name": "TOKO 2 PUTRI",
@@ -162,45 +162,45 @@
   },
   {
     "name": "YUDA",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-07T02:37:05Z",
-    "cycle": 1
+    "lastUpdate": "2026-03-07T02:42:34Z",
+    "cycle": 2
   },
   {
     "name": "SRI UTAMI",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-06T22:51:50Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-07T02:42:34Z",
+    "cycle": 1
   },
   {
     "name": "BAMBANG HARTONO",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-06T22:51:50Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-07T02:42:34Z",
+    "cycle": 1
   },
   {
     "name": "NADIFATUS SOLEHA",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-06T22:59:20Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-07T02:43:04Z",
+    "cycle": 1
   },
   {
     "name": "SUROSO",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-06T22:55:14Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-07T02:43:05Z",
+    "cycle": 1
   },
   {
     "name": "HADI SUTOYO",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-06T22:59:20Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-07T02:43:05Z",
+    "cycle": 1
   },
   {
     "name": "SRI HIDAYATI",
