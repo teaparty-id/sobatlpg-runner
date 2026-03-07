@@ -374,8 +374,8 @@
     "name": "TOKO POJOK",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-07T11:31:04Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-07T14:31:24Z",
+    "cycle": 1
   },
   {
     "name": "UD RAHMAT",
@@ -514,7 +514,7 @@
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-07T14:30:37Z",
-    "cycle": 1
+    "lastUpdate": "2026-03-07T14:31:24Z",
+    "cycle": 2
   }
 ]
