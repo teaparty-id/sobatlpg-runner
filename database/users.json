@@ -470,10 +470,10 @@
   },
   {
     "name": "MISRI CICI",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-07T12:40:05Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-07T15:40:10Z",
+    "cycle": 1
   },
   {
     "name": "ALFIAN DWI A.",
@@ -514,7 +514,7 @@
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-07T15:39:43Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-07T15:40:10Z",
+    "cycle": 1
   }
 ]
