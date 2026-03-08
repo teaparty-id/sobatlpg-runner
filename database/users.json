@@ -190,10 +190,10 @@
   },
   {
     "name": "SUROSO",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-08T18:17:15Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-08T21:17:58Z",
+    "cycle": 1
   },
   {
     "name": "HADI SUTOYO",
@@ -234,8 +234,8 @@
     "name": "YOGA RAJAN",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-08T18:17:15Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-08T21:17:58Z",
+    "cycle": 1
   },
   {
     "name": "ARIF FAUZI",
@@ -514,7 +514,7 @@
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-08T21:17:11Z",
-    "cycle": 1
+    "lastUpdate": "2026-03-08T21:17:58Z",
+    "cycle": 2
   }
 ]
