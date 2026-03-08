@@ -437,8 +437,8 @@
     "name": "HJ. ASLAMIYAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-08T21:42:44Z",
-    "cycle": 1
+    "lastUpdate": "2026-03-08T21:43:32Z",
+    "cycle": 2
   },
   {
     "name": "TK. MAJU",
@@ -456,10 +456,10 @@
   },
   {
     "name": "HARSININGSIH",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-08T18:43:16Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-08T21:43:32Z",
+    "cycle": 1
   },
   {
     "name": "CAHYA HERAWATI",
