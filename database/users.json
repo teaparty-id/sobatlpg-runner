@@ -94,8 +94,8 @@
     "name": "TOKO IIN",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-08T05:56:06Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-08T05:58:02Z",
+    "cycle": 1
   },
   {
     "name": "SUPARMAN",
@@ -514,7 +514,7 @@
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-08T05:53:16Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-08T05:58:02Z",
+    "cycle": 1
   }
 ]
