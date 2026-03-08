@@ -45,8 +45,8 @@
     "name": "SUCIYONO",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-08T13:31:48Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-08T16:32:00Z",
+    "cycle": 1
   },
   {
     "name": "JAENAL",
@@ -514,7 +514,7 @@
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-08T16:31:19Z",
-    "cycle": 1
+    "lastUpdate": "2026-03-08T16:32:00Z",
+    "cycle": 2
   }
 ]
