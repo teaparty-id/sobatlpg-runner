@@ -18,7 +18,7 @@
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-03-08T13:24:55Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "EDI SUGENG SARIPAN",
@@ -39,7 +39,7 @@
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-03-08T13:22:24Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "SUCIYONO",
@@ -514,7 +514,7 @@
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-08T13:25:42Z",
-    "cycle": 4
+    "lastUpdate": "2026-03-08T13:26:25Z",
+    "cycle": 0
   }
 ]
