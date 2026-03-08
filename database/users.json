@@ -101,8 +101,8 @@
     "name": "SUPARMAN",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-08T17:31:42Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-08T20:31:45Z",
+    "cycle": 1
   },
   {
     "name": "HJ LILIK LAILIYAH",
@@ -514,7 +514,7 @@
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-08T20:30:58Z",
-    "cycle": 3
+    "lastUpdate": "2026-03-08T20:31:45Z",
+    "cycle": 4
   }
 ]
