@@ -358,10 +358,10 @@
   },
   {
     "name": "SOEKAMTO",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-08T06:32:49Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-08T09:33:17Z",
+    "cycle": 1
   },
   {
     "name": "TOKO TIARA",
@@ -514,7 +514,7 @@
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-08T09:32:46Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-08T09:33:17Z",
+    "cycle": 1
   }
 ]
