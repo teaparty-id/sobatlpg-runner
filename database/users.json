@@ -437,8 +437,8 @@
     "name": "HJ. ASLAMIYAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-08T21:44:01Z",
-    "cycle": 3
+    "lastUpdate": "2026-03-08T21:44:28Z",
+    "cycle": 4
   },
   {
     "name": "TK. MAJU",
@@ -458,15 +458,15 @@
     "name": "HARSININGSIH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-08T21:44:01Z",
-    "cycle": 2
+    "lastUpdate": "2026-03-08T21:44:28Z",
+    "cycle": 3
   },
   {
     "name": "CAHYA HERAWATI",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-08T18:44:02Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-08T21:44:28Z",
+    "cycle": 1
   },
   {
     "name": "MISRI CICI",
@@ -498,10 +498,10 @@
   },
   {
     "name": "TOKO IRAWAN",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-08T18:44:02Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-08T21:44:28Z",
+    "cycle": 1
   },
   {
     "name": "SUMBER REJEKI",
