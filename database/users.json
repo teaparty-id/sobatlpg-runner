@@ -94,8 +94,8 @@
     "name": "TOKO IIN",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-08T06:00:09Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-08T09:00:10Z",
+    "cycle": 1
   },
   {
     "name": "SUPARMAN",
@@ -185,8 +185,8 @@
     "name": "NADIFATUS SOLEHA",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-08T06:00:09Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-08T09:00:10Z",
+    "cycle": 1
   },
   {
     "name": "SUROSO",
@@ -206,15 +206,15 @@
     "name": "SRI HIDAYATI",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-08T06:00:09Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-08T09:00:10Z",
+    "cycle": 1
   },
   {
     "name": "ONG SWI GIOK",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-08T06:00:09Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-08T09:00:10Z",
+    "cycle": 1
   },
   {
     "name": "YUSUF ISMAIL",
@@ -514,7 +514,7 @@
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-08T08:59:09Z",
-    "cycle": 2
+    "lastUpdate": "2026-03-08T09:00:41Z",
+    "cycle": 3
   }
 ]
