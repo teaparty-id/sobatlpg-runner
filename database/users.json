@@ -456,10 +456,10 @@
   },
   {
     "name": "HARSININGSIH",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-08T09:40:29Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-08T12:40:31Z",
+    "cycle": 1
   },
   {
     "name": "CAHYA HERAWATI",
@@ -514,7 +514,7 @@
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-08T12:39:30Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-08T12:40:31Z",
+    "cycle": 1
   }
 ]
