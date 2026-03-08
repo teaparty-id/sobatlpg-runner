@@ -134,10 +134,10 @@
   },
   {
     "name": "ROSA V",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-08T11:57:29Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-08T14:57:51Z",
+    "cycle": 1
   },
   {
     "name": "LUKMAN BS",
@@ -162,17 +162,17 @@
   },
   {
     "name": "YUDA",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-08T11:57:29Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-08T14:57:51Z",
+    "cycle": 1
   },
   {
     "name": "SRI UTAMI",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-08T11:57:29Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-08T14:57:51Z",
+    "cycle": 1
   },
   {
     "name": "BAMBANG HARTONO",
@@ -514,7 +514,7 @@
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-08T14:57:19Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-08T14:57:51Z",
+    "cycle": 1
   }
 ]
