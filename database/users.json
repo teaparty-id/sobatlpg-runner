@@ -479,8 +479,8 @@
     "name": "ALFIAN DWI A.",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-08T05:12:34Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-08T08:12:42Z",
+    "cycle": 1
   },
   {
     "name": "TITIK ISMIATIN",
@@ -514,7 +514,7 @@
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-08T08:11:56Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-08T08:12:42Z",
+    "cycle": 1
   }
 ]
