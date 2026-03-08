@@ -344,10 +344,10 @@
   },
   {
     "name": "TK. LUCKY",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-08T09:28:59Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-08T12:29:12Z",
+    "cycle": 1
   },
   {
     "name": "UD SAMAN HADI",
@@ -514,7 +514,7 @@
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-08T12:28:28Z",
-    "cycle": 2
+    "lastUpdate": "2026-03-08T12:29:12Z",
+    "cycle": 3
   }
 ]
