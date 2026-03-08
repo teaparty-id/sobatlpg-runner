@@ -53,7 +53,7 @@
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-03-08T12:05:01Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "JOKO SUWARNO",
@@ -95,7 +95,7 @@
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-03-08T12:05:01Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "SUPARMAN",
@@ -137,7 +137,7 @@
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-03-08T11:57:29Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "LUKMAN BS",
@@ -158,35 +158,35 @@
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-03-08T11:59:50Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "YUDA",
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-03-08T11:57:29Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "SRI UTAMI",
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-03-08T11:57:29Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "BAMBANG HARTONO",
     "stock": 23,
     "lastStock": 0,
     "lastUpdate": "2026-03-08T12:05:01Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "NADIFATUS SOLEHA",
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-03-08T12:05:01Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "SUROSO",
@@ -200,27 +200,27 @@
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-03-08T12:05:31Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "SRI HIDAYATI",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-08T12:05:31Z",
-    "cycle": 1
+    "lastUpdate": "2026-03-08T12:09:28Z",
+    "cycle": 0
   },
   {
     "name": "ONG SWI GIOK",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-08T12:05:38Z",
-    "cycle": 1
+    "lastUpdate": "2026-03-08T12:09:28Z",
+    "cycle": 0
   },
   {
     "name": "YUSUF ISMAIL",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-08T09:03:54Z",
+    "lastUpdate": "2026-03-08T12:09:28Z",
     "cycle": 0
   },
   {
@@ -514,7 +514,7 @@
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-08T11:59:50Z",
-    "cycle": 4
+    "lastUpdate": "2026-03-08T12:09:28Z",
+    "cycle": 0
   }
 ]
