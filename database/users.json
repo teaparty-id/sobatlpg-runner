@@ -129,8 +129,8 @@
     "name": "JONI H",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-08T05:36:34Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-08T08:36:46Z",
+    "cycle": 1
   },
   {
     "name": "ROSA V",
@@ -514,7 +514,7 @@
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-08T08:36:02Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-08T08:36:46Z",
+    "cycle": 1
   }
 ]
