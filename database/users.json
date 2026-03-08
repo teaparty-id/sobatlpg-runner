@@ -176,10 +176,10 @@
   },
   {
     "name": "BAMBANG HARTONO",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-08T12:25:10Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-08T15:25:48Z",
+    "cycle": 1
   },
   {
     "name": "NADIFATUS SOLEHA",
@@ -330,10 +330,10 @@
   },
   {
     "name": "SALMAH",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-08T12:25:10Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-08T15:25:48Z",
+    "cycle": 1
   },
   {
     "name": "TOKO ANITA",
@@ -514,7 +514,7 @@
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-08T15:25:03Z",
-    "cycle": 2
+    "lastUpdate": "2026-03-08T15:25:48Z",
+    "cycle": 3
   }
 ]
