@@ -249,7 +249,7 @@
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-03-08T03:14:47Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "SAMSUL ARIFIN",
@@ -270,7 +270,7 @@
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-03-08T03:12:15Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "HERDIANA DIYAH S",
@@ -284,14 +284,14 @@
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-03-08T03:14:47Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "YULI SORAYA",
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-03-08T03:14:47Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "SUSILO",
@@ -514,7 +514,7 @@
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-08T03:14:47Z",
-    "cycle": 4
+    "lastUpdate": "2026-03-08T03:15:48Z",
+    "cycle": 0
   }
 ]
