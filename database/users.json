@@ -435,10 +435,10 @@
   },
   {
     "name": "HJ. ASLAMIYAH",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-08T18:42:34Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-08T21:42:44Z",
+    "cycle": 1
   },
   {
     "name": "TK. MAJU",
@@ -514,7 +514,7 @@
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-08T21:41:47Z",
-    "cycle": 4
+    "lastUpdate": "2026-03-08T21:42:44Z",
+    "cycle": 5
   }
 ]
