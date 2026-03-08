@@ -297,8 +297,8 @@
     "name": "SUSILO",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-08T03:24:15Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-08T06:24:34Z",
+    "cycle": 1
   },
   {
     "name": "HJ. HAERONI",
@@ -323,24 +323,24 @@
   },
   {
     "name": "DIYAH UTAMI",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-08T03:24:15Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-08T06:24:34Z",
+    "cycle": 1
   },
   {
     "name": "SALMAH",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-08T03:24:15Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-08T06:24:34Z",
+    "cycle": 1
   },
   {
     "name": "TOKO ANITA",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-08T03:24:15Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-08T06:24:34Z",
+    "cycle": 1
   },
   {
     "name": "TK. LUCKY",
