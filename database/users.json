@@ -116,7 +116,7 @@
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-03-08T11:54:01Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "P. SUK",
@@ -144,14 +144,14 @@
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-03-08T11:54:01Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "BISTON MANURUNG",
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-03-08T11:54:49Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "JAMILAH",
@@ -514,7 +514,7 @@
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-08T11:56:05Z",
-    "cycle": 4
+    "lastUpdate": "2026-03-08T11:56:49Z",
+    "cycle": 0
   }
 ]
