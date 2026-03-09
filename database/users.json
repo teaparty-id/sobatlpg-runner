@@ -10,8 +10,8 @@
     "name": "ATHI HANDAYANI",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-08T22:21:42Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-09T01:24:50Z",
+    "cycle": 1
   },
   {
     "name": "CINDRAWATI",
@@ -36,10 +36,10 @@
   },
   {
     "name": "HENDRA KURNIAWAN",
-    "stock": 0,
+    "stock": 72,
     "lastStock": 0,
-    "lastUpdate": "2026-03-08T22:23:37Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-09T01:24:50Z",
+    "cycle": 1
   },
   {
     "name": "SUCIYONO",
@@ -57,10 +57,10 @@
   },
   {
     "name": "JOKO SUWARNO",
-    "stock": 37,
+    "stock": 33,
     "lastStock": 0,
-    "lastUpdate": "2026-03-09T01:17:36Z",
-    "cycle": 3
+    "lastUpdate": "2026-03-09T01:24:50Z",
+    "cycle": 4
   },
   {
     "name": "KARSONO",
@@ -71,17 +71,17 @@
   },
   {
     "name": "LUTFI A.",
-    "stock": 63,
+    "stock": 51,
     "lastStock": 0,
-    "lastUpdate": "2026-03-09T01:17:36Z",
-    "cycle": 3
+    "lastUpdate": "2026-03-09T01:24:50Z",
+    "cycle": 4
   },
   {
     "name": "MOH SAID",
-    "stock": 47,
+    "stock": 33,
     "lastStock": 0,
-    "lastUpdate": "2026-03-09T01:17:36Z",
-    "cycle": 1
+    "lastUpdate": "2026-03-09T01:25:23Z",
+    "cycle": 2
   },
   {
     "name": "TOKO 2 PUTRI",
@@ -393,10 +393,10 @@
   },
   {
     "name": "TOKO SURYATI",
-    "stock": 25,
+    "stock": 12,
     "lastStock": 0,
-    "lastUpdate": "2026-03-09T01:17:36Z",
-    "cycle": 3
+    "lastUpdate": "2026-03-09T01:29:07Z",
+    "cycle": 4
   },
   {
     "name": "SUDJIONO",
