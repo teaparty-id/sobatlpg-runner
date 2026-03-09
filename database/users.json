@@ -53,7 +53,7 @@
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-03-09T05:50:00Z",
-    "cycle": 3
+    "cycle": 0
   },
   {
     "name": "JOKO SUWARNO",
@@ -375,7 +375,7 @@
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-03-09T05:55:22Z",
-    "cycle": 4
+    "cycle": 0
   },
   {
     "name": "UD RAHMAT",
@@ -417,7 +417,7 @@
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-03-09T05:50:00Z",
-    "cycle": 3
+    "cycle": 0
   },
   {
     "name": "YUNIS WAHYUNI",
@@ -514,7 +514,7 @@
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-09T05:55:22Z",
-    "cycle": 4
+    "lastUpdate": "2026-03-09T05:58:24Z",
+    "cycle": 0
   }
 ]
