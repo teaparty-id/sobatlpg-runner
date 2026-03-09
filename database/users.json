@@ -38,8 +38,8 @@
     "name": "HENDRA KURNIAWAN",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-09T03:59:39Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-09T05:15:19Z",
+    "cycle": 1
   },
   {
     "name": "SUCIYONO",
@@ -50,10 +50,10 @@
   },
   {
     "name": "JAENAL",
-    "stock": 40,
+    "stock": 33,
     "lastStock": 0,
-    "lastUpdate": "2026-03-09T03:59:39Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-09T05:15:19Z",
+    "cycle": 1
   },
   {
     "name": "JOKO SUWARNO",
@@ -108,8 +108,8 @@
     "name": "HJ LILIK LAILIYAH",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-09T02:14:38Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-09T05:15:19Z",
+    "cycle": 1
   },
   {
     "name": "ERNA PUJIATI",
@@ -372,10 +372,10 @@
   },
   {
     "name": "TOKO POJOK",
-    "stock": 31,
+    "stock": 21,
     "lastStock": 0,
-    "lastUpdate": "2026-03-09T04:40:33Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-09T05:15:19Z",
+    "cycle": 1
   },
   {
     "name": "UD RAHMAT",
@@ -414,10 +414,10 @@
   },
   {
     "name": "ABDUL WAFI",
-    "stock": 26,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-09T04:47:15Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-09T05:15:49Z",
+    "cycle": 1
   },
   {
     "name": "YUNIS WAHYUNI",
