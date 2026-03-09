@@ -8,10 +8,10 @@
   },
   {
     "name": "ATHI HANDAYANI",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-09T10:30:11Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-09T13:30:24Z",
+    "cycle": 1
   },
   {
     "name": "CINDRAWATI",
@@ -409,8 +409,8 @@
     "name": "ANDRI HERU CAHYONO",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-09T13:29:53Z",
-    "cycle": 2
+    "lastUpdate": "2026-03-09T13:30:24Z",
+    "cycle": 3
   },
   {
     "name": "ABDUL WAFI",
