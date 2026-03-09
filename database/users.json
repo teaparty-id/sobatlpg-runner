@@ -220,15 +220,15 @@
     "name": "YUSUF ISMAIL",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-09T16:18:04Z",
-    "cycle": 1
+    "lastUpdate": "2026-03-09T16:18:55Z",
+    "cycle": 2
   },
   {
     "name": "SUPARNI",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-09T16:18:06Z",
-    "cycle": 1
+    "lastUpdate": "2026-03-09T16:18:55Z",
+    "cycle": 2
   },
   {
     "name": "YOGA RAJAN",
@@ -514,7 +514,7 @@
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-09T16:18:06Z",
-    "cycle": 1
+    "lastUpdate": "2026-03-09T16:18:55Z",
+    "cycle": 2
   }
 ]
