@@ -311,8 +311,8 @@
     "name": "IMA",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-09T22:30:03Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-09T22:31:36Z",
+    "cycle": 1
   },
   {
     "name": "DARMAWAN P",
@@ -514,7 +514,7 @@
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-09T22:28:17Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-09T22:31:36Z",
+    "cycle": 1
   }
 ]
