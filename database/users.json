@@ -442,10 +442,10 @@
   },
   {
     "name": "TK. MAJU",
-    "stock": 41,
+    "stock": 31,
     "lastStock": 0,
-    "lastUpdate": "2026-03-09T02:50:33Z",
-    "cycle": 3
+    "lastUpdate": "2026-03-09T02:57:08Z",
+    "cycle": 4
   },
   {
     "name": "H. JUMAT",
@@ -484,10 +484,10 @@
   },
   {
     "name": "TITIK ISMIATIN",
-    "stock": 70,
+    "stock": 56,
     "lastStock": 3,
-    "lastUpdate": "2026-03-09T02:50:33Z",
-    "cycle": 2
+    "lastUpdate": "2026-03-09T02:57:08Z",
+    "cycle": 3
   },
   {
     "name": "ISTIQOMAH",
@@ -505,10 +505,10 @@
   },
   {
     "name": "SUMBER REJEKI",
-    "stock": 70,
+    "stock": 55,
     "lastStock": 1,
-    "lastUpdate": "2026-03-09T02:50:33Z",
-    "cycle": 2
+    "lastUpdate": "2026-03-09T02:57:08Z",
+    "cycle": 3
   },
   {
     "name": "DJAMIAH",
