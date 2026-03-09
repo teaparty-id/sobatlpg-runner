@@ -52,8 +52,8 @@
     "name": "JAENAL",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-09T05:48:37Z",
-    "cycle": 1
+    "lastUpdate": "2026-03-09T05:49:20Z",
+    "cycle": 2
   },
   {
     "name": "JOKO SUWARNO",
@@ -374,8 +374,8 @@
     "name": "TOKO POJOK",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-09T05:48:37Z",
-    "cycle": 1
+    "lastUpdate": "2026-03-09T05:49:20Z",
+    "cycle": 2
   },
   {
     "name": "UD RAHMAT",
@@ -416,8 +416,8 @@
     "name": "ABDUL WAFI",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-09T05:48:37Z",
-    "cycle": 1
+    "lastUpdate": "2026-03-09T05:49:20Z",
+    "cycle": 2
   },
   {
     "name": "YUNIS WAHYUNI",
@@ -514,7 +514,7 @@
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-09T05:48:37Z",
-    "cycle": 1
+    "lastUpdate": "2026-03-09T05:49:20Z",
+    "cycle": 2
   }
 ]
