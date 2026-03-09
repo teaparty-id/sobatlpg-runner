@@ -444,8 +444,8 @@
     "name": "TK. MAJU",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-09T10:41:46Z",
-    "cycle": 1
+    "lastUpdate": "2026-03-09T10:42:38Z",
+    "cycle": 2
   },
   {
     "name": "H. JUMAT",
@@ -458,15 +458,15 @@
     "name": "HARSININGSIH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-09T10:41:46Z",
-    "cycle": 1
+    "lastUpdate": "2026-03-09T10:42:38Z",
+    "cycle": 2
   },
   {
     "name": "CAHYA HERAWATI",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-09T07:41:49Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-09T10:42:38Z",
+    "cycle": 1
   },
   {
     "name": "MISRI CICI",
