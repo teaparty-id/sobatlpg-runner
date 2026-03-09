@@ -458,15 +458,15 @@
     "name": "HARSININGSIH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-09T19:46:24Z",
-    "cycle": 1
+    "lastUpdate": "2026-03-09T19:47:26Z",
+    "cycle": 2
   },
   {
     "name": "CAHYA HERAWATI",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-09T16:46:41Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-09T19:47:26Z",
+    "cycle": 1
   },
   {
     "name": "MISRI CICI",
@@ -514,7 +514,7 @@
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-09T19:43:42Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-09T19:47:26Z",
+    "cycle": 1
   }
 ]
