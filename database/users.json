@@ -50,10 +50,10 @@
   },
   {
     "name": "JAENAL",
-    "stock": 94,
+    "stock": 88,
     "lastStock": 0,
-    "lastUpdate": "2026-03-09T00:05:30Z",
-    "cycle": 1
+    "lastUpdate": "2026-03-09T00:11:40Z",
+    "cycle": 2
   },
   {
     "name": "JOKO SUWARNO",
@@ -92,10 +92,10 @@
   },
   {
     "name": "TOKO IIN",
-    "stock": 67,
+    "stock": 54,
     "lastStock": 0,
-    "lastUpdate": "2026-03-09T00:05:30Z",
-    "cycle": 1
+    "lastUpdate": "2026-03-09T00:11:40Z",
+    "cycle": 2
   },
   {
     "name": "SUPARMAN",
@@ -148,10 +148,10 @@
   },
   {
     "name": "BISTON MANURUNG",
-    "stock": 15,
+    "stock": 2,
     "lastStock": 0,
-    "lastUpdate": "2026-03-09T00:05:30Z",
-    "cycle": 2
+    "lastUpdate": "2026-03-09T00:11:40Z",
+    "cycle": 3
   },
   {
     "name": "JAMILAH",
@@ -162,17 +162,17 @@
   },
   {
     "name": "YUDA",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-09T00:06:34Z",
-    "cycle": 1
+    "lastUpdate": "2026-03-09T00:11:40Z",
+    "cycle": 2
   },
   {
     "name": "SRI UTAMI",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-08T20:59:05Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-09T00:12:10Z",
+    "cycle": 1
   },
   {
     "name": "BAMBANG HARTONO",
@@ -183,10 +183,10 @@
   },
   {
     "name": "NADIFATUS SOLEHA",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-08T21:05:23Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-09T00:12:37Z",
+    "cycle": 1
   },
   {
     "name": "SUROSO",
