@@ -360,8 +360,8 @@
     "name": "SOEKAMTO",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-09T19:46:24Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-09T22:47:00Z",
+    "cycle": 1
   },
   {
     "name": "TOKO TIARA",
@@ -435,17 +435,17 @@
   },
   {
     "name": "HJ. ASLAMIYAH",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-09T19:46:24Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-09T22:47:00Z",
+    "cycle": 1
   },
   {
     "name": "TK. MAJU",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-09T19:46:24Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-09T22:47:00Z",
+    "cycle": 1
   },
   {
     "name": "H. JUMAT",
@@ -514,7 +514,7 @@
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-09T22:46:18Z",
-    "cycle": 2
+    "lastUpdate": "2026-03-09T22:47:00Z",
+    "cycle": 3
   }
 ]
