@@ -1,10 +1,10 @@
 [
   {
     "name": "AKBAR RISQ",
-    "stock": 63,
+    "stock": 51,
     "lastStock": 0,
-    "lastUpdate": "2026-03-09T02:05:06Z",
-    "cycle": 3
+    "lastUpdate": "2026-03-09T02:17:45Z",
+    "cycle": 4
   },
   {
     "name": "ATHI HANDAYANI",
@@ -15,10 +15,10 @@
   },
   {
     "name": "CINDRAWATI",
-    "stock": 29,
+    "stock": 16,
     "lastStock": 0,
-    "lastUpdate": "2026-03-09T02:05:06Z",
-    "cycle": 3
+    "lastUpdate": "2026-03-09T02:17:45Z",
+    "cycle": 4
   },
   {
     "name": "EDI SUGENG SARIPAN",
@@ -29,24 +29,24 @@
   },
   {
     "name": "BINA MAKMUR",
-    "stock": 70,
+    "stock": 61,
     "lastStock": 0,
-    "lastUpdate": "2026-03-09T02:05:06Z",
-    "cycle": 3
-  },
-  {
-    "name": "HENDRA KURNIAWAN",
-    "stock": 51,
-    "lastStock": 0,
-    "lastUpdate": "2026-03-09T02:05:06Z",
+    "lastUpdate": "2026-03-09T02:17:45Z",
     "cycle": 4
   },
   {
-    "name": "SUCIYONO",
-    "stock": 64,
+    "name": "HENDRA KURNIAWAN",
+    "stock": 39,
     "lastStock": 0,
-    "lastUpdate": "2026-03-09T02:10:15Z",
-    "cycle": 3
+    "lastUpdate": "2026-03-09T02:17:45Z",
+    "cycle": 5
+  },
+  {
+    "name": "SUCIYONO",
+    "stock": 57,
+    "lastStock": 0,
+    "lastUpdate": "2026-03-09T02:23:33Z",
+    "cycle": 4
   },
   {
     "name": "JAENAL",
@@ -64,10 +64,10 @@
   },
   {
     "name": "KARSONO",
-    "stock": 53,
+    "stock": 42,
     "lastStock": 0,
-    "lastUpdate": "2026-03-09T02:11:09Z",
-    "cycle": 3
+    "lastUpdate": "2026-03-09T02:24:27Z",
+    "cycle": 4
   },
   {
     "name": "LUTFI A.",
@@ -85,10 +85,10 @@
   },
   {
     "name": "TOKO 2 PUTRI",
-    "stock": 24,
+    "stock": 6,
     "lastStock": 0,
-    "lastUpdate": "2026-03-09T02:11:41Z",
-    "cycle": 1
+    "lastUpdate": "2026-03-09T02:24:44Z",
+    "cycle": 2
   },
   {
     "name": "TOKO IIN",
@@ -393,10 +393,10 @@
   },
   {
     "name": "TOKO SURYATI",
-    "stock": 12,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-09T01:29:07Z",
-    "cycle": 4
+    "lastUpdate": "2026-03-09T02:26:14Z",
+    "cycle": 5
   },
   {
     "name": "SUDJIONO",
