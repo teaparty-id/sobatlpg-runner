@@ -38,8 +38,8 @@
     "name": "HENDRA KURNIAWAN",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-09T08:24:03Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-09T11:24:10Z",
+    "cycle": 1
   },
   {
     "name": "SUCIYONO",
@@ -514,7 +514,7 @@
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-09T11:23:24Z",
-    "cycle": 2
+    "lastUpdate": "2026-03-09T11:24:10Z",
+    "cycle": 3
   }
 ]
