@@ -45,8 +45,8 @@
     "name": "SUCIYONO",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-10T22:54:52Z",
-    "cycle": 1
+    "lastUpdate": "2026-03-10T22:56:05Z",
+    "cycle": 2
   },
   {
     "name": "JAENAL",
@@ -64,10 +64,10 @@
   },
   {
     "name": "KARSONO",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-10T19:55:04Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-10T22:56:05Z",
+    "cycle": 1
   },
   {
     "name": "LUTFI A.",
@@ -514,7 +514,7 @@
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-10T22:54:11Z",
-    "cycle": 2
+    "lastUpdate": "2026-03-10T22:56:05Z",
+    "cycle": 3
   }
 ]
