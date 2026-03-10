@@ -169,10 +169,10 @@
   },
   {
     "name": "SRI UTAMI",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-10T07:28:32Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-10T07:29:00Z",
+    "cycle": 1
   },
   {
     "name": "BAMBANG HARTONO",
@@ -514,7 +514,7 @@
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-10T07:28:04Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-10T07:29:00Z",
+    "cycle": 1
   }
 ]
