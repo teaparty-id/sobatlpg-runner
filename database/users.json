@@ -234,7 +234,7 @@
     "name": "YOGA RAJAN",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-10T12:00:13Z",
+    "lastUpdate": "2026-03-10T15:03:20Z",
     "cycle": 0
   },
   {
@@ -305,41 +305,41 @@
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-03-10T14:57:06Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "IMA",
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-03-10T14:57:06Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "DARMAWAN P",
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-03-10T14:57:06Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "DIYAH UTAMI",
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-03-10T14:57:06Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "SALMAH",
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-03-10T14:59:58Z",
-    "cycle": 2
+    "cycle": 0
   },
   {
     "name": "TOKO ANITA",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-10T12:00:13Z",
+    "lastUpdate": "2026-03-10T15:03:20Z",
     "cycle": 0
   },
   {
@@ -514,7 +514,7 @@
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-10T14:59:58Z",
-    "cycle": 4
+    "lastUpdate": "2026-03-10T15:03:20Z",
+    "cycle": 0
   }
 ]
