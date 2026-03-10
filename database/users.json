@@ -452,7 +452,7 @@
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-03-10T13:36:16Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "HARSININGSIH",
@@ -514,7 +514,7 @@
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-10T13:37:00Z",
-    "cycle": 4
+    "lastUpdate": "2026-03-10T13:38:09Z",
+    "cycle": 0
   }
 ]
