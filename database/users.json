@@ -57,10 +57,10 @@
   },
   {
     "name": "JOKO SUWARNO",
-    "stock": 0,
+    "stock": 62,
     "lastStock": 0,
-    "lastUpdate": "2026-03-09T21:36:31Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-10T00:37:26Z",
+    "cycle": 1
   },
   {
     "name": "KARSONO",
@@ -71,10 +71,10 @@
   },
   {
     "name": "LUTFI A.",
-    "stock": 0,
+    "stock": 82,
     "lastStock": 0,
-    "lastUpdate": "2026-03-09T21:30:27Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-10T00:37:26Z",
+    "cycle": 1
   },
   {
     "name": "MOH SAID",
@@ -143,8 +143,8 @@
     "name": "LUKMAN BS",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-09T21:30:27Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-10T00:37:26Z",
+    "cycle": 1
   },
   {
     "name": "BISTON MANURUNG",
@@ -372,10 +372,10 @@
   },
   {
     "name": "TOKO POJOK",
-    "stock": 87,
+    "stock": 83,
     "lastStock": 0,
-    "lastUpdate": "2026-03-10T00:30:01Z",
-    "cycle": 2
+    "lastUpdate": "2026-03-10T00:37:26Z",
+    "cycle": 3
   },
   {
     "name": "UD RAHMAT",
@@ -414,10 +414,10 @@
   },
   {
     "name": "ABDUL WAFI",
-    "stock": 95,
+    "stock": 89,
     "lastStock": 0,
-    "lastUpdate": "2026-03-10T00:30:01Z",
-    "cycle": 2
+    "lastUpdate": "2026-03-10T00:37:57Z",
+    "cycle": 3
   },
   {
     "name": "YUNIS WAHYUNI",
@@ -477,10 +477,10 @@
   },
   {
     "name": "ALFIAN DWI A.",
-    "stock": 95,
+    "stock": 88,
     "lastStock": 0,
-    "lastUpdate": "2026-03-10T00:30:32Z",
-    "cycle": 1
+    "lastUpdate": "2026-03-10T00:42:46Z",
+    "cycle": 2
   },
   {
     "name": "TITIK ISMIATIN",
@@ -491,10 +491,10 @@
   },
   {
     "name": "ISTIQOMAH",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-10T00:30:40Z",
-    "cycle": 1
+    "lastUpdate": "2026-03-10T00:43:11Z",
+    "cycle": 2
   },
   {
     "name": "TOKO IRAWAN",
@@ -505,16 +505,16 @@
   },
   {
     "name": "SUMBER REJEKI",
-    "stock": 0,
+    "stock": 69,
     "lastStock": 1,
-    "lastUpdate": "2026-03-09T21:19:02Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-10T00:43:38Z",
+    "cycle": 1
   },
   {
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-10T00:07:34Z",
-    "cycle": 1
+    "lastUpdate": "2026-03-10T00:43:40Z",
+    "cycle": 2
   }
 ]
