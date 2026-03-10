@@ -186,7 +186,7 @@
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-03-10T13:49:30Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "SUROSO",
@@ -514,7 +514,7 @@
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-10T13:51:43Z",
-    "cycle": 4
+    "lastUpdate": "2026-03-10T13:52:30Z",
+    "cycle": 0
   }
 ]
