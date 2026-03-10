@@ -1,17 +1,17 @@
 [
   {
     "name": "AKBAR RISQ",
-    "stock": 56,
+    "stock": 44,
     "lastStock": 0,
-    "lastUpdate": "2026-03-10T01:22:59Z",
-    "cycle": 4
+    "lastUpdate": "2026-03-10T01:38:08Z",
+    "cycle": 5
   },
   {
     "name": "ATHI HANDAYANI",
-    "stock": 0,
+    "stock": 50,
     "lastStock": 0,
-    "lastUpdate": "2026-03-09T22:34:25Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-10T01:38:08Z",
+    "cycle": 1
   },
   {
     "name": "CINDRAWATI",
@@ -22,17 +22,17 @@
   },
   {
     "name": "EDI SUGENG SARIPAN",
-    "stock": 51,
+    "stock": 43,
     "lastStock": 0,
-    "lastUpdate": "2026-03-10T01:22:59Z",
-    "cycle": 1
+    "lastUpdate": "2026-03-10T01:38:08Z",
+    "cycle": 2
   },
   {
     "name": "BINA MAKMUR",
-    "stock": 93,
+    "stock": 85,
     "lastStock": 0,
-    "lastUpdate": "2026-03-10T01:22:59Z",
-    "cycle": 1
+    "lastUpdate": "2026-03-10T01:38:08Z",
+    "cycle": 2
   },
   {
     "name": "HENDRA KURNIAWAN",
@@ -43,10 +43,10 @@
   },
   {
     "name": "SUCIYONO",
-    "stock": 71,
+    "stock": 58,
     "lastStock": 0,
-    "lastUpdate": "2026-03-10T01:22:59Z",
-    "cycle": 3
+    "lastUpdate": "2026-03-10T01:42:07Z",
+    "cycle": 4
   },
   {
     "name": "JAENAL",
@@ -64,10 +64,10 @@
   },
   {
     "name": "KARSONO",
-    "stock": 48,
+    "stock": 47,
     "lastStock": 0,
-    "lastUpdate": "2026-03-10T01:28:47Z",
-    "cycle": 2
+    "lastUpdate": "2026-03-10T01:44:01Z",
+    "cycle": 3
   },
   {
     "name": "LUTFI A.",
@@ -92,10 +92,10 @@
   },
   {
     "name": "TOKO IIN",
-    "stock": 33,
+    "stock": 19,
     "lastStock": 0,
-    "lastUpdate": "2026-03-10T01:29:27Z",
-    "cycle": 3
+    "lastUpdate": "2026-03-10T01:44:34Z",
+    "cycle": 4
   },
   {
     "name": "SUPARMAN",
@@ -183,10 +183,10 @@
   },
   {
     "name": "NADIFATUS SOLEHA",
-    "stock": 11,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-10T01:32:26Z",
-    "cycle": 2
+    "lastUpdate": "2026-03-10T01:45:12Z",
+    "cycle": 3
   },
   {
     "name": "SUROSO",
@@ -199,8 +199,8 @@
     "name": "HADI SUTOYO",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-09T21:59:10Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-10T01:48:30Z",
+    "cycle": 1
   },
   {
     "name": "SRI HIDAYATI",
