@@ -1,10 +1,10 @@
 [
   {
     "name": "AKBAR RISQ",
-    "stock": 0,
+    "stock": 82,
     "lastStock": 0,
-    "lastUpdate": "2026-03-09T21:45:43Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-10T00:49:45Z",
+    "cycle": 1
   },
   {
     "name": "ATHI HANDAYANI",
@@ -57,10 +57,10 @@
   },
   {
     "name": "JOKO SUWARNO",
-    "stock": 62,
+    "stock": 52,
     "lastStock": 0,
-    "lastUpdate": "2026-03-10T00:37:26Z",
-    "cycle": 1
+    "lastUpdate": "2026-03-10T00:49:45Z",
+    "cycle": 2
   },
   {
     "name": "KARSONO",
@@ -71,10 +71,10 @@
   },
   {
     "name": "LUTFI A.",
-    "stock": 82,
+    "stock": 66,
     "lastStock": 0,
-    "lastUpdate": "2026-03-10T00:37:26Z",
-    "cycle": 1
+    "lastUpdate": "2026-03-10T00:49:45Z",
+    "cycle": 2
   },
   {
     "name": "MOH SAID",
@@ -150,8 +150,8 @@
     "name": "BISTON MANURUNG",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-09T21:39:07Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-10T00:49:45Z",
+    "cycle": 1
   },
   {
     "name": "JAMILAH",
@@ -372,10 +372,10 @@
   },
   {
     "name": "TOKO POJOK",
-    "stock": 83,
+    "stock": 79,
     "lastStock": 0,
-    "lastUpdate": "2026-03-10T00:37:26Z",
-    "cycle": 3
+    "lastUpdate": "2026-03-10T00:50:18Z",
+    "cycle": 4
   },
   {
     "name": "UD RAHMAT",
@@ -414,10 +414,10 @@
   },
   {
     "name": "ABDUL WAFI",
-    "stock": 89,
+    "stock": 79,
     "lastStock": 0,
-    "lastUpdate": "2026-03-10T00:37:57Z",
-    "cycle": 3
+    "lastUpdate": "2026-03-10T00:54:44Z",
+    "cycle": 4
   },
   {
     "name": "YUNIS WAHYUNI",
@@ -477,10 +477,10 @@
   },
   {
     "name": "ALFIAN DWI A.",
-    "stock": 88,
+    "stock": 79,
     "lastStock": 0,
-    "lastUpdate": "2026-03-10T00:42:46Z",
-    "cycle": 2
+    "lastUpdate": "2026-03-10T00:56:00Z",
+    "cycle": 3
   },
   {
     "name": "TITIK ISMIATIN",
@@ -505,16 +505,16 @@
   },
   {
     "name": "SUMBER REJEKI",
-    "stock": 69,
+    "stock": 55,
     "lastStock": 1,
-    "lastUpdate": "2026-03-10T00:43:38Z",
-    "cycle": 1
+    "lastUpdate": "2026-03-10T00:56:06Z",
+    "cycle": 2
   },
   {
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-10T00:43:40Z",
-    "cycle": 2
+    "lastUpdate": "2026-03-10T00:56:33Z",
+    "cycle": 3
   }
 ]
