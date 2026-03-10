@@ -1,10 +1,10 @@
 [
   {
     "name": "AKBAR RISQ",
-    "stock": 70,
+    "stock": 56,
     "lastStock": 0,
-    "lastUpdate": "2026-03-10T01:09:21Z",
-    "cycle": 3
+    "lastUpdate": "2026-03-10T01:22:59Z",
+    "cycle": 4
   },
   {
     "name": "ATHI HANDAYANI",
@@ -22,17 +22,17 @@
   },
   {
     "name": "EDI SUGENG SARIPAN",
-    "stock": 0,
+    "stock": 51,
     "lastStock": 0,
-    "lastUpdate": "2026-03-09T22:18:10Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-10T01:22:59Z",
+    "cycle": 1
   },
   {
     "name": "BINA MAKMUR",
-    "stock": 0,
+    "stock": 93,
     "lastStock": 0,
-    "lastUpdate": "2026-03-09T22:18:10Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-10T01:22:59Z",
+    "cycle": 1
   },
   {
     "name": "HENDRA KURNIAWAN",
@@ -43,10 +43,10 @@
   },
   {
     "name": "SUCIYONO",
-    "stock": 82,
+    "stock": 71,
     "lastStock": 0,
-    "lastUpdate": "2026-03-10T01:09:21Z",
-    "cycle": 2
+    "lastUpdate": "2026-03-10T01:22:59Z",
+    "cycle": 3
   },
   {
     "name": "JAENAL",
@@ -57,24 +57,24 @@
   },
   {
     "name": "JOKO SUWARNO",
-    "stock": 45,
+    "stock": 37,
     "lastStock": 0,
-    "lastUpdate": "2026-03-10T01:09:21Z",
-    "cycle": 4
+    "lastUpdate": "2026-03-10T01:27:32Z",
+    "cycle": 5
   },
   {
     "name": "KARSONO",
-    "stock": 53,
+    "stock": 48,
     "lastStock": 0,
-    "lastUpdate": "2026-03-10T01:09:21Z",
-    "cycle": 1
+    "lastUpdate": "2026-03-10T01:28:47Z",
+    "cycle": 2
   },
   {
     "name": "LUTFI A.",
-    "stock": 52,
+    "stock": 35,
     "lastStock": 0,
-    "lastUpdate": "2026-03-10T01:15:24Z",
-    "cycle": 4
+    "lastUpdate": "2026-03-10T01:29:13Z",
+    "cycle": 5
   },
   {
     "name": "MOH SAID",
@@ -92,10 +92,10 @@
   },
   {
     "name": "TOKO IIN",
-    "stock": 46,
+    "stock": 33,
     "lastStock": 0,
-    "lastUpdate": "2026-03-10T01:15:34Z",
-    "cycle": 2
+    "lastUpdate": "2026-03-10T01:29:27Z",
+    "cycle": 3
   },
   {
     "name": "SUPARMAN",
@@ -183,10 +183,10 @@
   },
   {
     "name": "NADIFATUS SOLEHA",
-    "stock": 25,
+    "stock": 11,
     "lastStock": 0,
-    "lastUpdate": "2026-03-10T01:16:26Z",
-    "cycle": 1
+    "lastUpdate": "2026-03-10T01:32:26Z",
+    "cycle": 2
   },
   {
     "name": "SUROSO",
