@@ -302,59 +302,59 @@
   },
   {
     "name": "HJ. HAERONI",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-10T02:32:03Z",
-    "cycle": 3
+    "lastUpdate": "2026-03-10T02:32:44Z",
+    "cycle": 4
   },
   {
     "name": "IMA",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-10T02:32:03Z",
-    "cycle": 3
+    "lastUpdate": "2026-03-10T02:32:44Z",
+    "cycle": 4
   },
   {
     "name": "DARMAWAN P",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-10T02:32:03Z",
-    "cycle": 2
+    "lastUpdate": "2026-03-10T02:32:44Z",
+    "cycle": 3
   },
   {
     "name": "DIYAH UTAMI",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-10T02:32:03Z",
-    "cycle": 2
+    "lastUpdate": "2026-03-10T02:32:44Z",
+    "cycle": 3
   },
   {
     "name": "SALMAH",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-09T22:30:39Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-10T02:33:14Z",
+    "cycle": 1
   },
   {
     "name": "TOKO ANITA",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-09T22:30:39Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-10T02:33:14Z",
+    "cycle": 1
   },
   {
     "name": "TK. LUCKY",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-09T22:30:39Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-10T02:33:15Z",
+    "cycle": 1
   },
   {
     "name": "UD SAMAN HADI",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-09T22:34:25Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-10T02:33:15Z",
+    "cycle": 1
   },
   {
     "name": "SOEKAMTO",
