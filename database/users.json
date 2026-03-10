@@ -227,8 +227,8 @@
     "name": "SUPARNI",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-10T17:50:23Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-10T20:50:32Z",
+    "cycle": 1
   },
   {
     "name": "YOGA RAJAN",
@@ -283,15 +283,15 @@
     "name": "BUDI",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-10T17:50:23Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-10T20:50:32Z",
+    "cycle": 1
   },
   {
     "name": "YULI SORAYA",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-10T17:50:23Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-10T20:50:32Z",
+    "cycle": 1
   },
   {
     "name": "SUSILO",
@@ -514,7 +514,7 @@
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-10T20:49:32Z",
-    "cycle": 1
+    "lastUpdate": "2026-03-10T20:50:32Z",
+    "cycle": 2
   }
 ]
