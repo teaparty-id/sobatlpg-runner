@@ -106,10 +106,10 @@
   },
   {
     "name": "HJ LILIK LAILIYAH",
-    "stock": 16,
+    "stock": 2,
     "lastStock": 0,
-    "lastUpdate": "2026-03-10T09:47:14Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-10T09:53:05Z",
+    "cycle": 1
   },
   {
     "name": "ERNA PUJIATI",
@@ -514,7 +514,7 @@
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-10T09:44:04Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-10T09:53:05Z",
+    "cycle": 1
   }
 ]
