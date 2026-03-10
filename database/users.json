@@ -130,7 +130,7 @@
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-03-10T12:48:18Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "ROSA V",
@@ -514,7 +514,7 @@
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-10T12:49:04Z",
-    "cycle": 4
+    "lastUpdate": "2026-03-10T12:49:47Z",
+    "cycle": 0
   }
 ]
