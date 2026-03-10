@@ -494,7 +494,7 @@
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-03-10T10:43:04Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "TOKO IRAWAN",
@@ -514,7 +514,7 @@
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-10T10:43:04Z",
-    "cycle": 4
+    "lastUpdate": "2026-03-10T10:43:50Z",
+    "cycle": 0
   }
 ]
