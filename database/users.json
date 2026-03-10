@@ -8,10 +8,10 @@
   },
   {
     "name": "ATHI HANDAYANI",
-    "stock": 50,
+    "stock": 40,
     "lastStock": 0,
-    "lastUpdate": "2026-03-10T01:38:08Z",
-    "cycle": 1
+    "lastUpdate": "2026-03-10T01:51:43Z",
+    "cycle": 2
   },
   {
     "name": "CINDRAWATI",
@@ -22,17 +22,17 @@
   },
   {
     "name": "EDI SUGENG SARIPAN",
-    "stock": 43,
+    "stock": 32,
     "lastStock": 0,
-    "lastUpdate": "2026-03-10T01:38:08Z",
-    "cycle": 2
+    "lastUpdate": "2026-03-10T01:51:43Z",
+    "cycle": 3
   },
   {
     "name": "BINA MAKMUR",
-    "stock": 85,
+    "stock": 71,
     "lastStock": 0,
-    "lastUpdate": "2026-03-10T01:38:08Z",
-    "cycle": 2
+    "lastUpdate": "2026-03-10T01:51:43Z",
+    "cycle": 3
   },
   {
     "name": "HENDRA KURNIAWAN",
@@ -43,10 +43,10 @@
   },
   {
     "name": "SUCIYONO",
-    "stock": 58,
+    "stock": 48,
     "lastStock": 0,
-    "lastUpdate": "2026-03-10T01:42:07Z",
-    "cycle": 4
+    "lastUpdate": "2026-03-10T01:51:43Z",
+    "cycle": 5
   },
   {
     "name": "JAENAL",
@@ -64,10 +64,10 @@
   },
   {
     "name": "KARSONO",
-    "stock": 47,
+    "stock": 39,
     "lastStock": 0,
-    "lastUpdate": "2026-03-10T01:44:01Z",
-    "cycle": 3
+    "lastUpdate": "2026-03-10T01:56:36Z",
+    "cycle": 4
   },
   {
     "name": "LUTFI A.",
@@ -92,10 +92,10 @@
   },
   {
     "name": "TOKO IIN",
-    "stock": 19,
+    "stock": 4,
     "lastStock": 0,
-    "lastUpdate": "2026-03-10T01:44:34Z",
-    "cycle": 4
+    "lastUpdate": "2026-03-10T01:57:26Z",
+    "cycle": 5
   },
   {
     "name": "SUPARMAN",
@@ -206,22 +206,22 @@
     "name": "SRI HIDAYATI",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-09T22:18:10Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-10T01:58:06Z",
+    "cycle": 1
   },
   {
     "name": "ONG SWI GIOK",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-09T22:18:10Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-10T01:58:39Z",
+    "cycle": 1
   },
   {
     "name": "YUSUF ISMAIL",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-09T22:21:05Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-10T01:58:40Z",
+    "cycle": 1
   },
   {
     "name": "SUPARNI",
