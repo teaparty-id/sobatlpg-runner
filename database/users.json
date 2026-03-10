@@ -151,28 +151,28 @@
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-03-10T07:25:30Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "JAMILAH",
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-03-10T07:25:30Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "YUDA",
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-03-10T07:25:30Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "SRI UTAMI",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-10T07:28:04Z",
-    "cycle": 4
+    "lastUpdate": "2026-03-10T07:28:32Z",
+    "cycle": 0
   },
   {
     "name": "BAMBANG HARTONO",
@@ -515,6 +515,6 @@
     "stock": 1,
     "lastStock": 0,
     "lastUpdate": "2026-03-10T07:28:04Z",
-    "cycle": 5
+    "cycle": 0
   }
 ]
