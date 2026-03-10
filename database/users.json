@@ -263,7 +263,7 @@
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-03-10T08:28:57Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "TUSOK",
@@ -514,7 +514,7 @@
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-10T08:30:48Z",
-    "cycle": 4
+    "lastUpdate": "2026-03-10T08:31:18Z",
+    "cycle": 0
   }
 ]
