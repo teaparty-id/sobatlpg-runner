@@ -24,8 +24,8 @@
     "name": "EDI SUGENG SARIPAN",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-10T18:31:27Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-10T21:32:02Z",
+    "cycle": 1
   },
   {
     "name": "BINA MAKMUR",
@@ -514,7 +514,7 @@
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-10T21:31:12Z",
-    "cycle": 3
+    "lastUpdate": "2026-03-10T21:32:02Z",
+    "cycle": 4
   }
 ]
