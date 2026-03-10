@@ -59,8 +59,8 @@
     "name": "JOKO SUWARNO",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-10T07:14:23Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-10T10:14:51Z",
+    "cycle": 1
   },
   {
     "name": "KARSONO",
@@ -94,8 +94,8 @@
     "name": "TOKO IIN",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-10T07:14:23Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-10T10:14:51Z",
+    "cycle": 1
   },
   {
     "name": "SUPARMAN",
@@ -514,7 +514,7 @@
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-10T10:14:04Z",
-    "cycle": 3
+    "lastUpdate": "2026-03-10T10:14:51Z",
+    "cycle": 4
   }
 ]
