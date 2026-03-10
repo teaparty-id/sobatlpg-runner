@@ -241,15 +241,15 @@
     "name": "ARIF FAUZI",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-10T17:27:28Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-10T20:27:56Z",
+    "cycle": 1
   },
   {
     "name": "MOH HAFIF",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-10T17:27:28Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-10T20:27:56Z",
+    "cycle": 1
   },
   {
     "name": "SAMSUL ARIFIN",
@@ -514,7 +514,7 @@
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-10T20:27:03Z",
-    "cycle": 2
+    "lastUpdate": "2026-03-10T20:27:56Z",
+    "cycle": 3
   }
 ]
