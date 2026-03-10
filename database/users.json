@@ -3,8 +3,8 @@
     "name": "AKBAR RISQ",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-10T17:45:38Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-10T20:45:44Z",
+    "cycle": 1
   },
   {
     "name": "ATHI HANDAYANI",
@@ -38,8 +38,8 @@
     "name": "HENDRA KURNIAWAN",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-10T17:45:38Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-10T20:45:44Z",
+    "cycle": 1
   },
   {
     "name": "SUCIYONO",
@@ -514,7 +514,7 @@
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-10T20:44:45Z",
-    "cycle": 2
+    "lastUpdate": "2026-03-10T20:45:44Z",
+    "cycle": 3
   }
 ]
