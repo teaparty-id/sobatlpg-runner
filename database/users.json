@@ -101,7 +101,7 @@
     "name": "SUPARMAN",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-10T12:23:05Z",
+    "lastUpdate": "2026-03-10T15:23:52Z",
     "cycle": 0
   },
   {
@@ -122,7 +122,7 @@
     "name": "P. SUK",
     "stock": 0,
     "lastStock": 18,
-    "lastUpdate": "2026-03-10T12:23:05Z",
+    "lastUpdate": "2026-03-10T15:23:52Z",
     "cycle": 0
   },
   {
@@ -473,7 +473,7 @@
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-03-10T15:20:27Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "ALFIAN DWI A.",
@@ -514,7 +514,7 @@
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-10T15:23:02Z",
-    "cycle": 4
+    "lastUpdate": "2026-03-10T15:23:52Z",
+    "cycle": 0
   }
 ]
