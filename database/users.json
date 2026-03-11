@@ -410,7 +410,7 @@
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-03-11T09:55:27Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "TK. MAJU",
@@ -430,7 +430,7 @@
     "name": "HARSININGSIH",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-11T06:57:30Z",
+    "lastUpdate": "2026-03-11T09:57:44Z",
     "cycle": 0
   },
   {
@@ -486,8 +486,8 @@
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-11T09:56:56Z",
-    "cycle": 4
+    "lastUpdate": "2026-03-11T09:57:44Z",
+    "cycle": 0
   },
   {
     "name": "SUPARMAN",
