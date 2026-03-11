@@ -50,10 +50,10 @@
   },
   {
     "name": "JAENAL",
-    "stock": 86,
+    "stock": 80,
     "lastStock": 0,
-    "lastUpdate": "2026-03-11T23:14:09Z",
-    "cycle": 2
+    "lastUpdate": "2026-03-11T23:18:01Z",
+    "cycle": 3
   },
   {
     "name": "JOKO SUWARNO",
@@ -486,8 +486,8 @@
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-11T23:14:09Z",
-    "cycle": 4
+    "lastUpdate": "2026-03-11T23:18:01Z",
+    "cycle": 5
   },
   {
     "name": "SUPARMAN",
