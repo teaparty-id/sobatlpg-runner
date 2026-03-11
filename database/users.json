@@ -101,8 +101,8 @@
     "name": "SUPARMAN",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-11T03:26:53Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-11T06:26:59Z",
+    "cycle": 1
   },
   {
     "name": "HJ LILIK LAILIYAH",
@@ -122,8 +122,8 @@
     "name": "P. SUK",
     "stock": 0,
     "lastStock": 18,
-    "lastUpdate": "2026-03-11T03:26:53Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-11T06:26:59Z",
+    "cycle": 1
   },
   {
     "name": "JONI H",
@@ -267,38 +267,38 @@
   },
   {
     "name": "TUSOK",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-11T06:26:15Z",
-    "cycle": 3
+    "lastUpdate": "2026-03-11T06:26:59Z",
+    "cycle": 4
   },
   {
     "name": "HERDIANA DIYAH S",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-11T06:26:15Z",
-    "cycle": 3
+    "lastUpdate": "2026-03-11T06:26:59Z",
+    "cycle": 4
   },
   {
     "name": "BUDI",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-11T06:26:15Z",
-    "cycle": 3
+    "lastUpdate": "2026-03-11T06:27:28Z",
+    "cycle": 4
   },
   {
     "name": "YULI SORAYA",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-11T03:26:53Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-11T06:27:30Z",
+    "cycle": 1
   },
   {
     "name": "SUSILO",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-11T03:26:53Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-11T06:27:30Z",
+    "cycle": 1
   },
   {
     "name": "HJ. HAERONI",
@@ -309,10 +309,10 @@
   },
   {
     "name": "IMA",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-11T03:27:27Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-11T06:27:31Z",
+    "cycle": 1
   },
   {
     "name": "DARMAWAN P",
