@@ -127,10 +127,10 @@
   },
   {
     "name": "LUKMAN BS",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-11T09:08:41Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-11T12:08:54Z",
+    "cycle": 1
   },
   {
     "name": "BISTON MANURUNG",
@@ -486,8 +486,8 @@
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-11T12:08:23Z",
-    "cycle": 4
+    "lastUpdate": "2026-03-11T12:08:54Z",
+    "cycle": 5
   },
   {
     "name": "SUPARMAN",
