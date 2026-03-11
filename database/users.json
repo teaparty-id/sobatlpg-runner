@@ -309,10 +309,10 @@
   },
   {
     "name": "TOKO ANITA",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-11T15:49:04Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-11T18:49:11Z",
+    "cycle": 1
   },
   {
     "name": "TK. LUCKY",
@@ -379,10 +379,10 @@
   },
   {
     "name": "ANDRI HERU CAHYONO",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-11T15:49:04Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-11T18:49:11Z",
+    "cycle": 1
   },
   {
     "name": "ABDUL WAFI",
@@ -486,8 +486,8 @@
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-11T18:48:26Z",
-    "cycle": 1
+    "lastUpdate": "2026-03-11T18:49:11Z",
+    "cycle": 2
   },
   {
     "name": "SUPARMAN",
