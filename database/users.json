@@ -220,29 +220,29 @@
     "name": "YUSUF ISMAIL",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-11T03:18:38Z",
-    "cycle": 1
+    "lastUpdate": "2026-03-11T03:20:21Z",
+    "cycle": 2
   },
   {
     "name": "SUPARNI",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-11T03:18:39Z",
-    "cycle": 1
+    "lastUpdate": "2026-03-11T03:20:21Z",
+    "cycle": 2
   },
   {
     "name": "YOGA RAJAN",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-11T00:07:36Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-11T03:20:21Z",
+    "cycle": 1
   },
   {
     "name": "ARIF FAUZI",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-10T23:32:36Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-11T03:20:21Z",
+    "cycle": 1
   },
   {
     "name": "MOH HAFIF",
