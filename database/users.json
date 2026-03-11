@@ -435,10 +435,10 @@
   },
   {
     "name": "HJ. ASLAMIYAH",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-11T03:53:36Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-11T06:54:03Z",
+    "cycle": 1
   },
   {
     "name": "TK. MAJU",
@@ -456,10 +456,10 @@
   },
   {
     "name": "HARSININGSIH",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-11T03:53:36Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-11T06:54:03Z",
+    "cycle": 1
   },
   {
     "name": "CAHYA HERAWATI",
@@ -514,7 +514,7 @@
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-11T06:53:13Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-11T06:54:03Z",
+    "cycle": 1
   }
 ]
