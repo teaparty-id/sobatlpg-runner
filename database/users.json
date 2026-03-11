@@ -393,10 +393,10 @@
   },
   {
     "name": "TOKO SURYATI",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-11T06:35:23Z",
-    "cycle": 4
+    "lastUpdate": "2026-03-11T06:35:54Z",
+    "cycle": 5
   },
   {
     "name": "SUDJIONO",
@@ -449,10 +449,10 @@
   },
   {
     "name": "H. JUMAT",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-11T06:35:23Z",
-    "cycle": 4
+    "lastUpdate": "2026-03-11T06:35:54Z",
+    "cycle": 5
   },
   {
     "name": "HARSININGSIH",
@@ -514,7 +514,7 @@
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-11T06:35:23Z",
-    "cycle": 3
+    "lastUpdate": "2026-03-11T06:35:54Z",
+    "cycle": 4
   }
 ]
