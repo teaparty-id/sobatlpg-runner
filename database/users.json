@@ -29,10 +29,10 @@
   },
   {
     "name": "BINA MAKMUR",
-    "stock": 27,
+    "stock": 20,
     "lastStock": 0,
-    "lastUpdate": "2026-03-11T04:02:01Z",
-    "cycle": 1
+    "lastUpdate": "2026-03-11T04:07:49Z",
+    "cycle": 2
   },
   {
     "name": "HENDRA KURNIAWAN",
@@ -43,38 +43,38 @@
   },
   {
     "name": "SUCIYONO",
-    "stock": 12,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-11T04:02:01Z",
-    "cycle": 1
+    "lastUpdate": "2026-03-11T04:07:49Z",
+    "cycle": 2
   },
   {
     "name": "JAENAL",
-    "stock": 1,
+    "stock": 39,
     "lastStock": 0,
-    "lastUpdate": "2026-03-11T04:02:01Z",
-    "cycle": 1
+    "lastUpdate": "2026-03-11T04:07:49Z",
+    "cycle": 2
   },
   {
     "name": "JOKO SUWARNO",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-11T04:02:01Z",
-    "cycle": 1
+    "lastUpdate": "2026-03-11T04:07:49Z",
+    "cycle": 2
   },
   {
     "name": "KARSONO",
-    "stock": 10,
+    "stock": 2,
     "lastStock": 0,
-    "lastUpdate": "2026-03-11T02:57:03Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-11T04:11:10Z",
+    "cycle": 1
   },
   {
     "name": "LUTFI A.",
-    "stock": 24,
+    "stock": 13,
     "lastStock": 0,
-    "lastUpdate": "2026-03-11T02:57:10Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-11T04:12:54Z",
+    "cycle": 1
   },
   {
     "name": "MOH SAID",
@@ -302,10 +302,10 @@
   },
   {
     "name": "HJ. HAERONI",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-11T03:29:06Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-11T04:14:00Z",
+    "cycle": 1
   },
   {
     "name": "IMA",
@@ -423,15 +423,15 @@
     "name": "YUNIS WAHYUNI",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-11T01:09:57Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-11T04:14:30Z",
+    "cycle": 1
   },
   {
     "name": "ROSIDI",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-11T01:03:34Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-11T04:14:37Z",
+    "cycle": 1
   },
   {
     "name": "HJ. ASLAMIYAH",
