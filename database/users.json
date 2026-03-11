@@ -262,8 +262,8 @@
     "name": "YULI SORAYA",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-11T21:36:08Z",
-    "cycle": 1
+    "lastUpdate": "2026-03-11T21:37:02Z",
+    "cycle": 2
   },
   {
     "name": "SUSILO",
@@ -281,10 +281,10 @@
   },
   {
     "name": "IMA",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-11T18:36:34Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-11T21:37:02Z",
+    "cycle": 1
   },
   {
     "name": "DARMAWAN P",
@@ -486,8 +486,8 @@
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-11T21:35:26Z",
-    "cycle": 3
+    "lastUpdate": "2026-03-11T21:37:02Z",
+    "cycle": 4
   },
   {
     "name": "SUPARMAN",
