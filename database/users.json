@@ -36,10 +36,10 @@
   },
   {
     "name": "HENDRA KURNIAWAN",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-11T15:19:06Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-11T18:19:33Z",
+    "cycle": 1
   },
   {
     "name": "SUCIYONO",
@@ -183,17 +183,17 @@
   },
   {
     "name": "HADI SUTOYO",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-11T15:19:06Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-11T18:19:33Z",
+    "cycle": 1
   },
   {
     "name": "SRI HIDAYATI",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-11T15:19:06Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-11T18:19:33Z",
+    "cycle": 1
   },
   {
     "name": "ONG SWI GIOK",
@@ -486,8 +486,8 @@
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-11T18:19:03Z",
-    "cycle": 2
+    "lastUpdate": "2026-03-11T18:19:33Z",
+    "cycle": 3
   },
   {
     "name": "SUPARMAN",
