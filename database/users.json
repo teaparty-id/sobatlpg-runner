@@ -297,8 +297,8 @@
     "name": "DIYAH UTAMI",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-11T21:39:19Z",
-    "cycle": 1
+    "lastUpdate": "2026-03-11T21:40:09Z",
+    "cycle": 2
   },
   {
     "name": "SALMAH",
@@ -337,10 +337,10 @@
   },
   {
     "name": "TOKO TIARA",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-11T18:39:24Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-11T21:40:09Z",
+    "cycle": 1
   },
   {
     "name": "TOKO POJOK",
@@ -486,8 +486,8 @@
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-11T21:37:34Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-11T21:40:09Z",
+    "cycle": 1
   },
   {
     "name": "SUPARMAN",
