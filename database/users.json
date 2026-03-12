@@ -309,10 +309,10 @@
   },
   {
     "name": "TOKO ANITA",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-12T11:49:19Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-12T14:49:49Z",
+    "cycle": 1
   },
   {
     "name": "TK. LUCKY",
@@ -486,8 +486,8 @@
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-12T14:48:42Z",
-    "cycle": 3
+    "lastUpdate": "2026-03-12T14:49:49Z",
+    "cycle": 4
   },
   {
     "name": "SUPARMAN",
