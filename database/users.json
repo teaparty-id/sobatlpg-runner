@@ -64,10 +64,10 @@
   },
   {
     "name": "KARSONO",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-12T17:50:28Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-12T20:50:46Z",
+    "cycle": 1
   },
   {
     "name": "LUTFI A.",
@@ -239,10 +239,10 @@
   },
   {
     "name": "SAMSUL ARIFIN",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-12T17:50:28Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-12T20:50:46Z",
+    "cycle": 1
   },
   {
     "name": "HERDIANA DIYAH S",
@@ -290,15 +290,15 @@
     "name": "DARMAWAN P",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-12T20:50:16Z",
-    "cycle": 3
+    "lastUpdate": "2026-03-12T20:50:46Z",
+    "cycle": 4
   },
   {
     "name": "DIYAH UTAMI",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-12T17:50:28Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-12T20:50:46Z",
+    "cycle": 1
   },
   {
     "name": "SALMAH",
