@@ -85,17 +85,17 @@
   },
   {
     "name": "TOKO 2 PUTRI",
-    "stock": 31,
+    "stock": 19,
     "lastStock": 0,
-    "lastUpdate": "2026-03-12T23:23:47Z",
-    "cycle": 2
+    "lastUpdate": "2026-03-12T23:34:33Z",
+    "cycle": 3
   },
   {
     "name": "TOKO IIN",
-    "stock": 51,
+    "stock": 38,
     "lastStock": 0,
-    "lastUpdate": "2026-03-12T23:28:39Z",
-    "cycle": 2
+    "lastUpdate": "2026-03-12T23:34:33Z",
+    "cycle": 3
   },
   {
     "name": "HJ LILIK LAILIYAH",
@@ -486,8 +486,8 @@
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-12T23:28:43Z",
-    "cycle": 4
+    "lastUpdate": "2026-03-12T23:34:33Z",
+    "cycle": 5
   },
   {
     "name": "SUPARMAN",
