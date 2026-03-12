@@ -248,15 +248,15 @@
     "name": "HERDIANA DIYAH S",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-12T20:47:05Z",
-    "cycle": 3
+    "lastUpdate": "2026-03-12T20:47:38Z",
+    "cycle": 4
   },
   {
     "name": "BUDI",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-12T17:47:37Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-12T20:47:38Z",
+    "cycle": 1
   },
   {
     "name": "YULI SORAYA",
@@ -267,17 +267,17 @@
   },
   {
     "name": "SUSILO",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-12T17:47:37Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-12T20:47:38Z",
+    "cycle": 1
   },
   {
     "name": "HJ. HAERONI",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-12T17:47:37Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-12T20:47:38Z",
+    "cycle": 1
   },
   {
     "name": "IMA",
