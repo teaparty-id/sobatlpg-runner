@@ -213,29 +213,29 @@
     "name": "SUPARNI",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-12T17:42:15Z",
-    "cycle": 1
+    "lastUpdate": "2026-03-12T17:43:12Z",
+    "cycle": 2
   },
   {
     "name": "YOGA RAJAN",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-12T17:42:16Z",
-    "cycle": 1
+    "lastUpdate": "2026-03-12T17:43:12Z",
+    "cycle": 2
   },
   {
     "name": "ARIF FAUZI",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-12T17:42:18Z",
-    "cycle": 1
+    "lastUpdate": "2026-03-12T17:43:12Z",
+    "cycle": 2
   },
   {
     "name": "MOH HAFIF",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-12T14:35:46Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-12T17:43:12Z",
+    "cycle": 1
   },
   {
     "name": "SAMSUL ARIFIN",
