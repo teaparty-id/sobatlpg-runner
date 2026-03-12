@@ -347,7 +347,7 @@
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-03-12T19:04:54Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "UD RAHMAT",
@@ -486,8 +486,8 @@
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-12T19:11:27Z",
-    "cycle": 4
+    "lastUpdate": "2026-03-12T19:12:11Z",
+    "cycle": 0
   },
   {
     "name": "SUPARMAN",
