@@ -43,10 +43,10 @@
   },
   {
     "name": "SUCIYONO",
-    "stock": 74,
+    "stock": 65,
     "lastStock": 0,
-    "lastUpdate": "2026-03-12T01:30:19Z",
-    "cycle": 2
+    "lastUpdate": "2026-03-12T01:42:11Z",
+    "cycle": 3
   },
   {
     "name": "JAENAL",
@@ -57,24 +57,24 @@
   },
   {
     "name": "JOKO SUWARNO",
-    "stock": 56,
+    "stock": 45,
     "lastStock": 0,
-    "lastUpdate": "2026-03-12T01:30:19Z",
-    "cycle": 1
+    "lastUpdate": "2026-03-12T01:42:11Z",
+    "cycle": 2
   },
   {
     "name": "KARSONO",
-    "stock": 62,
+    "stock": 56,
     "lastStock": 0,
-    "lastUpdate": "2026-03-12T01:30:19Z",
-    "cycle": 1
+    "lastUpdate": "2026-03-12T01:42:11Z",
+    "cycle": 2
   },
   {
     "name": "LUTFI A.",
-    "stock": 80,
+    "stock": 65,
     "lastStock": 0,
-    "lastUpdate": "2026-03-12T01:30:19Z",
-    "cycle": 1
+    "lastUpdate": "2026-03-12T01:42:11Z",
+    "cycle": 2
   },
   {
     "name": "MOH SAID",
@@ -344,10 +344,10 @@
   },
   {
     "name": "TOKO POJOK",
-    "stock": 92,
+    "stock": 85,
     "lastStock": 0,
-    "lastUpdate": "2026-03-12T01:36:03Z",
-    "cycle": 1
+    "lastUpdate": "2026-03-12T01:47:32Z",
+    "cycle": 2
   },
   {
     "name": "UD RAHMAT",
@@ -360,29 +360,29 @@
     "name": "ULFA MARIA",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-11T21:48:08Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-12T01:47:42Z",
+    "cycle": 1
   },
   {
     "name": "TOKO SURYATI",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-11T21:44:38Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-12T01:48:13Z",
+    "cycle": 1
   },
   {
     "name": "SUDJIONO",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-11T21:48:08Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-12T01:48:45Z",
+    "cycle": 1
   },
   {
     "name": "ANDRI HERU CAHYONO",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-11T21:51:40Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-12T01:49:12Z",
+    "cycle": 1
   },
   {
     "name": "ABDUL WAFI",
