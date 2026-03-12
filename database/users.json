@@ -479,8 +479,8 @@
     "name": "SUMBER REJEKI",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-12T03:29:50Z",
-    "cycle": 3
+    "lastUpdate": "2026-03-12T03:30:34Z",
+    "cycle": 4
   },
   {
     "name": "DJAMIAH",
@@ -507,14 +507,14 @@
     "name": "WIKAN K",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-12T03:29:50Z",
-    "cycle": 1
+    "lastUpdate": "2026-03-12T03:30:34Z",
+    "cycle": 2
   },
   {
     "name": "TUSOK",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-11T21:50:02Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-12T03:30:34Z",
+    "cycle": 1
   }
 ]
