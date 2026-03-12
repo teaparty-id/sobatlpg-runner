@@ -164,8 +164,8 @@
     "name": "BAMBANG HARTONO",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-12T11:09:21Z",
-    "cycle": 1
+    "lastUpdate": "2026-03-12T11:10:19Z",
+    "cycle": 2
   },
   {
     "name": "NADIFATUS SOLEHA",
@@ -176,10 +176,10 @@
   },
   {
     "name": "SUROSO",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-12T08:09:21Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-12T11:10:19Z",
+    "cycle": 1
   },
   {
     "name": "HADI SUTOYO",
@@ -486,8 +486,8 @@
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-12T11:07:28Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-12T11:10:19Z",
+    "cycle": 1
   },
   {
     "name": "SUPARMAN",
