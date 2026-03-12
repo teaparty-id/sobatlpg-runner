@@ -87,8 +87,8 @@
     "name": "TOKO 2 PUTRI",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-12T11:03:28Z",
-    "cycle": 1
+    "lastUpdate": "2026-03-12T11:04:27Z",
+    "cycle": 2
   },
   {
     "name": "TOKO IIN",
@@ -106,10 +106,10 @@
   },
   {
     "name": "ERNA PUJIATI",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-12T08:03:42Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-12T11:04:27Z",
+    "cycle": 1
   },
   {
     "name": "JONI H",
@@ -486,8 +486,8 @@
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-12T11:01:13Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-12T11:04:27Z",
+    "cycle": 1
   },
   {
     "name": "SUPARMAN",
