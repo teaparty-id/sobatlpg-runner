@@ -29,10 +29,10 @@
   },
   {
     "name": "BINA MAKMUR",
-    "stock": 58,
+    "stock": 50,
     "lastStock": 0,
-    "lastUpdate": "2026-03-12T03:10:00Z",
-    "cycle": 4
+    "lastUpdate": "2026-03-12T03:23:27Z",
+    "cycle": 5
   },
   {
     "name": "HENDRA KURNIAWAN",
@@ -122,43 +122,43 @@
     "name": "ROSA V",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-12T00:17:33Z",
-    "cycle": 1
+    "lastUpdate": "2026-03-12T03:23:27Z",
+    "cycle": 2
   },
   {
     "name": "LUKMAN BS",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-12T00:18:04Z",
-    "cycle": 1
+    "lastUpdate": "2026-03-12T03:23:27Z",
+    "cycle": 2
   },
   {
     "name": "BISTON MANURUNG",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-12T00:18:05Z",
-    "cycle": 1
+    "lastUpdate": "2026-03-12T03:23:27Z",
+    "cycle": 2
   },
   {
     "name": "JAMILAH",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-12T00:18:26Z",
-    "cycle": 1
+    "lastUpdate": "2026-03-12T03:24:01Z",
+    "cycle": 2
   },
   {
     "name": "YUDA",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-12T00:18:35Z",
-    "cycle": 1
+    "lastUpdate": "2026-03-12T03:24:02Z",
+    "cycle": 2
   },
   {
     "name": "SRI UTAMI",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-12T00:19:47Z",
-    "cycle": 1
+    "lastUpdate": "2026-03-12T03:24:03Z",
+    "cycle": 2
   },
   {
     "name": "BAMBANG HARTONO",
