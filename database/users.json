@@ -94,8 +94,8 @@
     "name": "TOKO IIN",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-12T20:06:46Z",
-    "cycle": 1
+    "lastUpdate": "2026-03-12T20:07:34Z",
+    "cycle": 2
   },
   {
     "name": "HJ LILIK LAILIYAH",
@@ -106,10 +106,10 @@
   },
   {
     "name": "ERNA PUJIATI",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-12T17:06:53Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-12T20:07:34Z",
+    "cycle": 1
   },
   {
     "name": "JONI H",
@@ -486,8 +486,8 @@
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-12T20:06:46Z",
-    "cycle": 2
+    "lastUpdate": "2026-03-12T20:07:34Z",
+    "cycle": 3
   },
   {
     "name": "SUPARMAN",
