@@ -11,21 +11,21 @@
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-03-12T17:00:34Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "CINDRAWATI",
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-03-12T17:02:50Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "EDI SUGENG SARIPAN",
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-03-12T17:00:34Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "BINA MAKMUR",
@@ -46,7 +46,7 @@
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-03-12T17:00:34Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "JAENAL",
@@ -60,7 +60,7 @@
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-03-12T17:02:50Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "KARSONO",
@@ -80,7 +80,7 @@
     "name": "MOH SAID",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-12T14:03:54Z",
+    "lastUpdate": "2026-03-12T17:04:25Z",
     "cycle": 0
   },
   {
@@ -486,8 +486,8 @@
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-12T17:02:50Z",
-    "cycle": 4
+    "lastUpdate": "2026-03-12T17:04:25Z",
+    "cycle": 0
   },
   {
     "name": "SUPARMAN",
