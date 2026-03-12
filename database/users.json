@@ -449,10 +449,10 @@
   },
   {
     "name": "ALFIAN DWI A.",
-    "stock": 5,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-12T10:08:40Z",
-    "cycle": 2
+    "lastUpdate": "2026-03-12T10:13:33Z",
+    "cycle": 3
   },
   {
     "name": "TITIK ISMIATIN",
@@ -486,8 +486,8 @@
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-12T10:08:40Z",
-    "cycle": 2
+    "lastUpdate": "2026-03-12T10:13:33Z",
+    "cycle": 3
   },
   {
     "name": "SUPARMAN",
