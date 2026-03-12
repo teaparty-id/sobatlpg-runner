@@ -500,21 +500,21 @@
     "name": "P. SUK",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-12T14:36:17Z",
-    "cycle": 1
+    "lastUpdate": "2026-03-12T14:37:18Z",
+    "cycle": 2
   },
   {
     "name": "WIKAN K",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-12T14:36:17Z",
-    "cycle": 1
+    "lastUpdate": "2026-03-12T14:37:18Z",
+    "cycle": 2
   },
   {
     "name": "TUSOK",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-12T11:36:53Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-12T14:37:18Z",
+    "cycle": 1
   }
 ]
