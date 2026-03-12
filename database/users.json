@@ -22,10 +22,10 @@
   },
   {
     "name": "EDI SUGENG SARIPAN",
-    "stock": 21,
+    "stock": 10,
     "lastStock": 0,
-    "lastUpdate": "2026-03-12T01:06:36Z",
-    "cycle": 4
+    "lastUpdate": "2026-03-12T01:13:55Z",
+    "cycle": 5
   },
   {
     "name": "BINA MAKMUR",
@@ -253,10 +253,10 @@
   },
   {
     "name": "BUDI",
-    "stock": 13,
+    "stock": 4,
     "lastStock": 0,
-    "lastUpdate": "2026-03-12T01:06:36Z",
-    "cycle": 3
+    "lastUpdate": "2026-03-12T01:13:55Z",
+    "cycle": 4
   },
   {
     "name": "YULI SORAYA",
@@ -295,31 +295,31 @@
   },
   {
     "name": "DIYAH UTAMI",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-12T01:07:09Z",
-    "cycle": 1
+    "lastUpdate": "2026-03-12T01:13:55Z",
+    "cycle": 2
   },
   {
     "name": "SALMAH",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-11T21:39:19Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-12T01:13:55Z",
+    "cycle": 1
   },
   {
     "name": "TOKO ANITA",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-11T21:53:56Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-12T01:14:24Z",
+    "cycle": 1
   },
   {
     "name": "TK. LUCKY",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-11T21:54:41Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-12T01:14:26Z",
+    "cycle": 1
   },
   {
     "name": "UD SAMAN HADI",
