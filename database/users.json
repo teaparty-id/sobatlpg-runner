@@ -368,7 +368,7 @@
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-03-13T07:59:53Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "SUDJIONO",
@@ -382,7 +382,7 @@
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-03-13T07:59:53Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "ABDUL WAFI",
@@ -452,7 +452,7 @@
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-03-13T07:57:49Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "TITIK ISMIATIN",
@@ -486,8 +486,8 @@
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-13T08:01:26Z",
-    "cycle": 4
+    "lastUpdate": "2026-03-13T08:02:10Z",
+    "cycle": 0
   },
   {
     "name": "SUPARMAN",
