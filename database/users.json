@@ -143,8 +143,8 @@
     "name": "JAMILAH",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-13T18:05:00Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-13T21:05:05Z",
+    "cycle": 1
   },
   {
     "name": "YUDA",
@@ -227,15 +227,15 @@
     "name": "ARIF FAUZI",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-13T18:05:00Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-13T21:05:05Z",
+    "cycle": 1
   },
   {
     "name": "MOH HAFIF",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-13T18:05:00Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-13T21:05:05Z",
+    "cycle": 1
   },
   {
     "name": "SAMSUL ARIFIN",
@@ -486,29 +486,29 @@
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-13T21:04:35Z",
-    "cycle": 2
+    "lastUpdate": "2026-03-13T21:05:05Z",
+    "cycle": 3
   },
   {
     "name": "SUPARMAN",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-13T21:04:35Z",
-    "cycle": 2
+    "lastUpdate": "2026-03-13T21:05:36Z",
+    "cycle": 3
   },
   {
     "name": "P. SUK",
-    "stock": 0,
-    "lastStock": 18,
-    "lastUpdate": "2026-03-13T18:05:00Z",
-    "cycle": 0
+    "stock": 1,
+    "lastStock": 0,
+    "lastUpdate": "2026-03-13T21:05:36Z",
+    "cycle": 1
   },
   {
     "name": "WIKAN K",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-13T18:05:30Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-13T21:05:36Z",
+    "cycle": 1
   },
   {
     "name": "TUSOK",
