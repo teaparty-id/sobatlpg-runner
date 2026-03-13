@@ -50,10 +50,10 @@
   },
   {
     "name": "JAENAL",
-    "stock": 24,
+    "stock": 18,
     "lastStock": 0,
-    "lastUpdate": "2026-03-13T06:20:12Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-13T06:39:47Z",
+    "cycle": 1
   },
   {
     "name": "JOKO SUWARNO",
@@ -344,10 +344,10 @@
   },
   {
     "name": "TOKO POJOK",
-    "stock": 42,
+    "stock": 38,
     "lastStock": 0,
-    "lastUpdate": "2026-03-13T06:33:50Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-13T06:39:47Z",
+    "cycle": 1
   },
   {
     "name": "UD RAHMAT",
@@ -386,10 +386,10 @@
   },
   {
     "name": "ABDUL WAFI",
-    "stock": 37,
+    "stock": 32,
     "lastStock": 0,
-    "lastUpdate": "2026-03-13T06:33:50Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-13T06:39:47Z",
+    "cycle": 1
   },
   {
     "name": "YUNIS WAHYUNI",
@@ -449,10 +449,10 @@
   },
   {
     "name": "ALFIAN DWI A.",
-    "stock": 33,
+    "stock": 27,
     "lastStock": 0,
-    "lastUpdate": "2026-03-13T06:33:50Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-13T06:39:47Z",
+    "cycle": 1
   },
   {
     "name": "TITIK ISMIATIN",
@@ -486,8 +486,8 @@
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-13T06:33:50Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-13T06:43:59Z",
+    "cycle": 1
   },
   {
     "name": "SUPARMAN",
