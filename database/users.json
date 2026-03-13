@@ -39,14 +39,14 @@
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-03-13T11:58:15Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "SUCIYONO",
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-03-13T11:58:15Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "JAENAL",
@@ -144,7 +144,7 @@
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-03-13T12:00:37Z",
-    "cycle": 2
+    "cycle": 0
   },
   {
     "name": "YUDA",
@@ -486,15 +486,15 @@
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-13T12:01:24Z",
-    "cycle": 4
+    "lastUpdate": "2026-03-13T12:02:10Z",
+    "cycle": 0
   },
   {
     "name": "SUPARMAN",
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-03-13T12:00:37Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "P. SUK",
