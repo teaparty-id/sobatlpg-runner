@@ -477,17 +477,17 @@
   },
   {
     "name": "SUMBER REJEKI",
-    "stock": 8,
+    "stock": 0,
     "lastStock": 1,
-    "lastUpdate": "2026-03-13T05:44:51Z",
-    "cycle": 4
+    "lastUpdate": "2026-03-13T05:50:08Z",
+    "cycle": 5
   },
   {
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-13T05:44:51Z",
-    "cycle": 2
+    "lastUpdate": "2026-03-13T05:50:08Z",
+    "cycle": 3
   },
   {
     "name": "SUPARMAN",
