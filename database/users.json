@@ -36,24 +36,24 @@
   },
   {
     "name": "HENDRA KURNIAWAN",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-13T05:56:02Z",
-    "cycle": 2
+    "lastUpdate": "2026-03-13T05:56:42Z",
+    "cycle": 3
   },
   {
     "name": "SUCIYONO",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-13T05:56:02Z",
-    "cycle": 2
+    "lastUpdate": "2026-03-13T05:56:42Z",
+    "cycle": 3
   },
   {
     "name": "JAENAL",
-    "stock": 1,
+    "stock": 32,
     "lastStock": 0,
-    "lastUpdate": "2026-03-13T05:56:02Z",
-    "cycle": 2
+    "lastUpdate": "2026-03-13T05:56:42Z",
+    "cycle": 3
   },
   {
     "name": "JOKO SUWARNO",
@@ -64,10 +64,10 @@
   },
   {
     "name": "KARSONO",
-    "stock": 1,
+    "stock": 11,
     "lastStock": 0,
-    "lastUpdate": "2026-03-13T05:56:02Z",
-    "cycle": 2
+    "lastUpdate": "2026-03-13T05:56:42Z",
+    "cycle": 3
   },
   {
     "name": "LUTFI A.",
@@ -344,10 +344,10 @@
   },
   {
     "name": "TOKO POJOK",
-    "stock": 65,
+    "stock": 58,
     "lastStock": 0,
-    "lastUpdate": "2026-03-13T05:14:46Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-13T06:00:12Z",
+    "cycle": 1
   },
   {
     "name": "UD RAHMAT",
@@ -386,10 +386,10 @@
   },
   {
     "name": "ABDUL WAFI",
-    "stock": 59,
+    "stock": 52,
     "lastStock": 0,
-    "lastUpdate": "2026-03-13T05:22:40Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-13T06:00:46Z",
+    "cycle": 1
   },
   {
     "name": "YUNIS WAHYUNI",
@@ -414,10 +414,10 @@
   },
   {
     "name": "TK. MAJU",
-    "stock": 7,
+    "stock": 3,
     "lastStock": 0,
-    "lastUpdate": "2026-03-13T05:34:27Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-13T06:01:20Z",
+    "cycle": 1
   },
   {
     "name": "H. JUMAT",
@@ -449,10 +449,10 @@
   },
   {
     "name": "ALFIAN DWI A.",
-    "stock": 64,
+    "stock": 57,
     "lastStock": 0,
-    "lastUpdate": "2026-03-13T05:44:51Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-13T06:04:04Z",
+    "cycle": 1
   },
   {
     "name": "TITIK ISMIATIN",
@@ -486,8 +486,8 @@
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-13T05:54:30Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-13T06:05:36Z",
+    "cycle": 1
   },
   {
     "name": "SUPARMAN",
