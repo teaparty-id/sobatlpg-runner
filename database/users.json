@@ -486,8 +486,8 @@
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-13T11:39:45Z",
-    "cycle": 1
+    "lastUpdate": "2026-03-13T11:43:05Z",
+    "cycle": 2
   },
   {
     "name": "SUPARMAN",
@@ -498,10 +498,10 @@
   },
   {
     "name": "P. SUK",
-    "stock": 1,
-    "lastStock": 0,
-    "lastUpdate": "2026-03-13T11:39:47Z",
-    "cycle": 1
+    "stock": 0,
+    "lastStock": 18,
+    "lastUpdate": "2026-03-13T11:43:05Z",
+    "cycle": 2
   },
   {
     "name": "WIKAN K",
