@@ -141,10 +141,10 @@
   },
   {
     "name": "JAMILAH",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-13T12:00:37Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-13T15:01:49Z",
+    "cycle": 1
   },
   {
     "name": "YUDA",
@@ -486,15 +486,15 @@
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-13T14:59:40Z",
-    "cycle": 4
+    "lastUpdate": "2026-03-13T15:01:49Z",
+    "cycle": 5
   },
   {
     "name": "SUPARMAN",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-13T12:00:37Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-13T15:01:49Z",
+    "cycle": 1
   },
   {
     "name": "P. SUK",
@@ -514,7 +514,7 @@
     "name": "TUSOK",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-13T15:00:12Z",
-    "cycle": 2
+    "lastUpdate": "2026-03-13T15:01:49Z",
+    "cycle": 3
   }
 ]
