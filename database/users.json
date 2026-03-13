@@ -169,10 +169,10 @@
   },
   {
     "name": "NADIFATUS SOLEHA",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-13T20:13:24Z",
-    "cycle": 3
+    "lastUpdate": "2026-03-13T20:13:58Z",
+    "cycle": 4
   },
   {
     "name": "SUROSO",
@@ -344,10 +344,10 @@
   },
   {
     "name": "TOKO POJOK",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-13T20:13:24Z",
-    "cycle": 3
+    "lastUpdate": "2026-03-13T20:13:58Z",
+    "cycle": 4
   },
   {
     "name": "UD RAHMAT",
@@ -486,8 +486,8 @@
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-13T20:13:24Z",
-    "cycle": 2
+    "lastUpdate": "2026-03-13T20:13:58Z",
+    "cycle": 3
   },
   {
     "name": "SUPARMAN",
