@@ -74,7 +74,7 @@
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-03-14T06:41:02Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "MOH SAID",
@@ -88,7 +88,7 @@
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-03-14T06:32:27Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "TOKO IIN",
@@ -102,42 +102,42 @@
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-03-14T06:32:27Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "ERNA PUJIATI",
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-03-14T06:32:27Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "JONI H",
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-03-14T06:32:27Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "ROSA V",
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-03-14T06:32:59Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "LUKMAN BS",
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-03-14T06:35:18Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "BISTON MANURUNG",
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-03-14T06:35:18Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "JAMILAH",
@@ -158,21 +158,21 @@
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-03-14T06:35:18Z",
-    "cycle": 3
+    "cycle": 0
   },
   {
     "name": "BAMBANG HARTONO",
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-03-14T06:41:02Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "NADIFATUS SOLEHA",
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-03-14T06:41:02Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "SUROSO",
@@ -347,7 +347,7 @@
     "stock": 27,
     "lastStock": 0,
     "lastUpdate": "2026-03-14T06:35:18Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "UD RAHMAT",
@@ -389,7 +389,7 @@
     "stock": 10,
     "lastStock": 0,
     "lastUpdate": "2026-03-14T06:35:49Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "YUNIS WAHYUNI",
@@ -452,7 +452,7 @@
     "stock": 1,
     "lastStock": 0,
     "lastUpdate": "2026-03-14T06:35:53Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "TITIK ISMIATIN",
@@ -486,8 +486,8 @@
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-14T06:42:49Z",
-    "cycle": 4
+    "lastUpdate": "2026-03-14T06:43:32Z",
+    "cycle": 0
   },
   {
     "name": "SUPARMAN",
