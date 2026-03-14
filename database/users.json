@@ -225,10 +225,10 @@
   },
   {
     "name": "ARIF FAUZI",
-    "stock": 16,
+    "stock": 4,
     "lastStock": 0,
-    "lastUpdate": "2026-03-14T10:11:33Z",
-    "cycle": 1
+    "lastUpdate": "2026-03-14T10:15:09Z",
+    "cycle": 2
   },
   {
     "name": "MOH HAFIF",
@@ -248,8 +248,8 @@
     "name": "HERDIANA DIYAH S",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-14T07:11:58Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-14T10:15:09Z",
+    "cycle": 1
   },
   {
     "name": "BUDI",
@@ -486,8 +486,8 @@
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-14T10:11:33Z",
-    "cycle": 3
+    "lastUpdate": "2026-03-14T10:15:09Z",
+    "cycle": 4
   },
   {
     "name": "SUPARMAN",
