@@ -414,10 +414,10 @@
   },
   {
     "name": "TK. MAJU",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-14T10:40:59Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-14T13:41:32Z",
+    "cycle": 1
   },
   {
     "name": "H. JUMAT",
@@ -486,8 +486,8 @@
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-14T13:40:48Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-14T13:41:32Z",
+    "cycle": 1
   },
   {
     "name": "SUPARMAN",
