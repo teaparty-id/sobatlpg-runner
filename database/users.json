@@ -337,45 +337,45 @@
   },
   {
     "name": "TOKO TIARA",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-14T01:08:42Z",
-    "cycle": 3
-  },
-  {
-    "name": "TOKO POJOK",
-    "stock": 1,
-    "lastStock": 0,
-    "lastUpdate": "2026-03-14T01:08:42Z",
+    "lastUpdate": "2026-03-14T01:09:24Z",
     "cycle": 4
   },
   {
-    "name": "UD RAHMAT",
-    "stock": 1,
+    "name": "TOKO POJOK",
+    "stock": 88,
     "lastStock": 0,
-    "lastUpdate": "2026-03-14T01:08:42Z",
-    "cycle": 3
+    "lastUpdate": "2026-03-14T01:09:24Z",
+    "cycle": 5
+  },
+  {
+    "name": "UD RAHMAT",
+    "stock": 0,
+    "lastStock": 0,
+    "lastUpdate": "2026-03-14T01:09:24Z",
+    "cycle": 4
   },
   {
     "name": "ULFA MARIA",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-14T01:08:42Z",
-    "cycle": 2
+    "lastUpdate": "2026-03-14T01:09:24Z",
+    "cycle": 3
   },
   {
     "name": "TOKO SURYATI",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-13T20:52:46Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-14T01:09:56Z",
+    "cycle": 1
   },
   {
     "name": "SUDJIONO",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-13T20:52:46Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-14T01:09:57Z",
+    "cycle": 1
   },
   {
     "name": "ANDRI HERU CAHYONO",
