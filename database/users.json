@@ -267,17 +267,17 @@
   },
   {
     "name": "SUSILO",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-14T16:23:09Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-14T19:23:11Z",
+    "cycle": 1
   },
   {
     "name": "HJ. HAERONI",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-14T16:23:09Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-14T19:23:11Z",
+    "cycle": 1
   },
   {
     "name": "IMA",
@@ -486,8 +486,8 @@
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-14T19:22:43Z",
-    "cycle": 1
+    "lastUpdate": "2026-03-14T19:23:11Z",
+    "cycle": 2
   },
   {
     "name": "SUPARMAN",
