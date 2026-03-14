@@ -190,10 +190,10 @@
   },
   {
     "name": "SRI HIDAYATI",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-14T13:11:25Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-14T16:11:26Z",
+    "cycle": 1
   },
   {
     "name": "ONG SWI GIOK",
@@ -211,10 +211,10 @@
   },
   {
     "name": "SUPARNI",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-14T13:11:25Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-14T16:11:26Z",
+    "cycle": 1
   },
   {
     "name": "YOGA RAJAN",
@@ -486,8 +486,8 @@
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-14T16:10:43Z",
-    "cycle": 1
+    "lastUpdate": "2026-03-14T16:11:26Z",
+    "cycle": 2
   },
   {
     "name": "SUPARMAN",
