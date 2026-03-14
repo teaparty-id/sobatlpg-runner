@@ -456,10 +456,10 @@
   },
   {
     "name": "TITIK ISMIATIN",
-    "stock": 0,
+    "stock": 27,
     "lastStock": 3,
-    "lastUpdate": "2026-03-14T20:21:40Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-14T23:24:44Z",
+    "cycle": 1
   },
   {
     "name": "ISTIQOMAH",
@@ -486,8 +486,8 @@
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-14T23:20:48Z",
-    "cycle": 2
+    "lastUpdate": "2026-03-14T23:24:44Z",
+    "cycle": 3
   },
   {
     "name": "SUPARMAN",
@@ -498,10 +498,10 @@
   },
   {
     "name": "P. SUK",
-    "stock": 0,
+    "stock": 5,
     "lastStock": 18,
-    "lastUpdate": "2026-03-14T20:22:34Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-14T23:24:44Z",
+    "cycle": 1
   },
   {
     "name": "WIKAN K",
