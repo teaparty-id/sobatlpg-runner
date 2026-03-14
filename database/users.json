@@ -15,10 +15,10 @@
   },
   {
     "name": "CINDRAWATI",
-    "stock": 0,
+    "stock": 8,
     "lastStock": 0,
-    "lastUpdate": "2026-03-14T20:14:59Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-14T23:15:09Z",
+    "cycle": 1
   },
   {
     "name": "EDI SUGENG SARIPAN",
@@ -486,8 +486,8 @@
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-14T23:14:27Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-14T23:15:09Z",
+    "cycle": 1
   },
   {
     "name": "SUPARMAN",
