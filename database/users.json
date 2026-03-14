@@ -374,29 +374,29 @@
     "name": "SUDJIONO",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-14T04:18:28Z",
-    "cycle": 1
+    "lastUpdate": "2026-03-14T04:19:16Z",
+    "cycle": 2
   },
   {
     "name": "ANDRI HERU CAHYONO",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-14T04:18:30Z",
-    "cycle": 1
-  },
-  {
-    "name": "ABDUL WAFI",
-    "stock": 76,
-    "lastStock": 0,
-    "lastUpdate": "2026-03-14T03:54:04Z",
+    "lastUpdate": "2026-03-14T04:19:16Z",
     "cycle": 2
   },
   {
-    "name": "YUNIS WAHYUNI",
-    "stock": 0,
+    "name": "ABDUL WAFI",
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-14T01:14:49Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-14T04:19:16Z",
+    "cycle": 3
+  },
+  {
+    "name": "YUNIS WAHYUNI",
+    "stock": 1,
+    "lastStock": 0,
+    "lastUpdate": "2026-03-14T04:19:16Z",
+    "cycle": 1
   },
   {
     "name": "ROSIDI",
