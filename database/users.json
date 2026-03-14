@@ -325,8 +325,8 @@
     "name": "UD SAMAN HADI",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-14T10:30:58Z",
-    "cycle": 1
+    "lastUpdate": "2026-03-14T10:31:54Z",
+    "cycle": 2
   },
   {
     "name": "SOEKAMTO",
@@ -344,10 +344,10 @@
   },
   {
     "name": "TOKO POJOK",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-14T07:31:24Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-14T10:31:54Z",
+    "cycle": 1
   },
   {
     "name": "UD RAHMAT",
@@ -486,8 +486,8 @@
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-14T10:30:58Z",
-    "cycle": 2
+    "lastUpdate": "2026-03-14T10:31:54Z",
+    "cycle": 3
   },
   {
     "name": "SUPARMAN",
