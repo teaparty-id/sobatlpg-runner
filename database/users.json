@@ -143,15 +143,15 @@
     "name": "JAMILAH",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-14T16:04:25Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-14T19:04:38Z",
+    "cycle": 1
   },
   {
     "name": "YUDA",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-14T16:04:25Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-14T19:04:38Z",
+    "cycle": 1
   },
   {
     "name": "SRI UTAMI",
@@ -185,8 +185,8 @@
     "name": "HADI SUTOYO",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-14T16:04:25Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-14T19:04:38Z",
+    "cycle": 1
   },
   {
     "name": "SRI HIDAYATI",
@@ -486,8 +486,8 @@
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-14T19:03:52Z",
-    "cycle": 3
+    "lastUpdate": "2026-03-14T19:04:38Z",
+    "cycle": 4
   },
   {
     "name": "SUPARMAN",
