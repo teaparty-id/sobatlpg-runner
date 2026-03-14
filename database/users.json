@@ -92,10 +92,10 @@
   },
   {
     "name": "TOKO IIN",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-14T09:55:09Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-14T12:56:53Z",
+    "cycle": 1
   },
   {
     "name": "HJ LILIK LAILIYAH",
@@ -386,10 +386,10 @@
   },
   {
     "name": "ABDUL WAFI",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-14T09:55:09Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-14T12:56:53Z",
+    "cycle": 1
   },
   {
     "name": "YUNIS WAHYUNI",
@@ -486,8 +486,8 @@
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-14T12:55:04Z",
-    "cycle": 3
+    "lastUpdate": "2026-03-14T12:56:53Z",
+    "cycle": 4
   },
   {
     "name": "SUPARMAN",
