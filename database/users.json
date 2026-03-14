@@ -486,15 +486,15 @@
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-14T19:58:21Z",
-    "cycle": 3
+    "lastUpdate": "2026-03-14T19:59:50Z",
+    "cycle": 4
   },
   {
     "name": "SUPARMAN",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-14T16:58:27Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-14T19:59:50Z",
+    "cycle": 1
   },
   {
     "name": "P. SUK",
