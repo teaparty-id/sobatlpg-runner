@@ -274,10 +274,10 @@
   },
   {
     "name": "HJ. HAERONI",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-14T10:21:10Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-14T13:21:38Z",
+    "cycle": 1
   },
   {
     "name": "IMA",
@@ -486,8 +486,8 @@
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-14T13:21:06Z",
-    "cycle": 4
+    "lastUpdate": "2026-03-14T13:21:38Z",
+    "cycle": 5
   },
   {
     "name": "SUPARMAN",
