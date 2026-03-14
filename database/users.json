@@ -8,10 +8,10 @@
   },
   {
     "name": "ATHI HANDAYANI",
-    "stock": 40,
+    "stock": 26,
     "lastStock": 0,
-    "lastUpdate": "2026-03-14T00:04:03Z",
-    "cycle": 2
+    "lastUpdate": "2026-03-14T00:16:50Z",
+    "cycle": 3
   },
   {
     "name": "CINDRAWATI",
@@ -22,10 +22,10 @@
   },
   {
     "name": "EDI SUGENG SARIPAN",
-    "stock": 29,
+    "stock": 21,
     "lastStock": 0,
-    "lastUpdate": "2026-03-14T00:04:03Z",
-    "cycle": 3
+    "lastUpdate": "2026-03-14T00:16:50Z",
+    "cycle": 4
   },
   {
     "name": "BINA MAKMUR",
@@ -36,17 +36,17 @@
   },
   {
     "name": "HENDRA KURNIAWAN",
-    "stock": 75,
+    "stock": 69,
     "lastStock": 0,
-    "lastUpdate": "2026-03-14T00:04:03Z",
-    "cycle": 1
+    "lastUpdate": "2026-03-14T00:16:50Z",
+    "cycle": 2
   },
   {
     "name": "SUCIYONO",
-    "stock": 94,
+    "stock": 90,
     "lastStock": 0,
-    "lastUpdate": "2026-03-14T00:04:03Z",
-    "cycle": 1
+    "lastUpdate": "2026-03-14T00:16:50Z",
+    "cycle": 2
   },
   {
     "name": "JAENAL",
@@ -64,10 +64,10 @@
   },
   {
     "name": "KARSONO",
-    "stock": 0,
+    "stock": 70,
     "lastStock": 0,
-    "lastUpdate": "2026-03-13T21:21:44Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-14T00:22:26Z",
+    "cycle": 1
   },
   {
     "name": "LUTFI A.",
@@ -78,10 +78,10 @@
   },
   {
     "name": "MOH SAID",
-    "stock": 37,
+    "stock": 25,
     "lastStock": 0,
-    "lastUpdate": "2026-03-14T00:10:00Z",
-    "cycle": 3
+    "lastUpdate": "2026-03-14T00:22:32Z",
+    "cycle": 4
   },
   {
     "name": "TOKO 2 PUTRI",
@@ -92,10 +92,10 @@
   },
   {
     "name": "TOKO IIN",
-    "stock": 57,
+    "stock": 45,
     "lastStock": 0,
-    "lastUpdate": "2026-03-14T00:11:46Z",
-    "cycle": 1
+    "lastUpdate": "2026-03-14T00:22:40Z",
+    "cycle": 2
   },
   {
     "name": "HJ LILIK LAILIYAH",
@@ -108,8 +108,8 @@
     "name": "ERNA PUJIATI",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-13T20:37:25Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-14T00:24:21Z",
+    "cycle": 1
   },
   {
     "name": "JONI H",
@@ -122,8 +122,8 @@
     "name": "ROSA V",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-13T20:37:25Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-14T00:24:55Z",
+    "cycle": 1
   },
   {
     "name": "LUKMAN BS",
