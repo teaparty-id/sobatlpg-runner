@@ -52,29 +52,29 @@
     "name": "JAENAL",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-15T20:50:00Z",
-    "cycle": 1
+    "lastUpdate": "2026-03-15T20:51:00Z",
+    "cycle": 2
   },
   {
     "name": "JOKO SUWARNO",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-15T20:50:01Z",
-    "cycle": 1
+    "lastUpdate": "2026-03-15T20:51:00Z",
+    "cycle": 2
   },
   {
     "name": "KARSONO",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-15T15:40:41Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-15T20:51:00Z",
+    "cycle": 1
   },
   {
     "name": "LUTFI A.",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-15T16:08:47Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-15T20:51:00Z",
+    "cycle": 1
   },
   {
     "name": "MOH SAID",
