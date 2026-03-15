@@ -288,10 +288,10 @@
   },
   {
     "name": "DARMAWAN P",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-15T13:34:56Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-15T16:35:16Z",
+    "cycle": 1
   },
   {
     "name": "DIYAH UTAMI",
@@ -330,10 +330,10 @@
   },
   {
     "name": "SOEKAMTO",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-15T13:34:56Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-15T16:35:16Z",
+    "cycle": 1
   },
   {
     "name": "TOKO TIARA",
@@ -514,7 +514,7 @@
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-15T16:34:31Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-15T16:35:16Z",
+    "cycle": 1
   }
 ]
