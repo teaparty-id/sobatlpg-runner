@@ -18,7 +18,7 @@
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-03-15T14:22:59Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "EDI SUGENG SARIPAN",
@@ -486,15 +486,15 @@
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-15T14:23:54Z",
-    "cycle": 4
+    "lastUpdate": "2026-03-15T14:24:40Z",
+    "cycle": 0
   },
   {
     "name": "SUPARMAN",
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-03-15T14:22:59Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "P. SUK",
