@@ -109,7 +109,7 @@
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-03-15T15:57:22Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "JONI H",
@@ -158,14 +158,14 @@
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-03-15T15:57:22Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "BAMBANG HARTONO",
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-03-15T15:58:08Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "NADIFATUS SOLEHA",
@@ -486,8 +486,8 @@
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-15T15:58:52Z",
-    "cycle": 4
+    "lastUpdate": "2026-03-15T15:59:19Z",
+    "cycle": 0
   },
   {
     "name": "SUPARMAN",
