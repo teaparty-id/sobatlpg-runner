@@ -94,8 +94,8 @@
     "name": "TOKO IIN",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-15T13:19:25Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-15T16:19:55Z",
+    "cycle": 1
   },
   {
     "name": "HJ LILIK LAILIYAH",
@@ -192,15 +192,15 @@
     "name": "SRI HIDAYATI",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-15T13:19:25Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-15T16:19:55Z",
+    "cycle": 1
   },
   {
     "name": "ONG SWI GIOK",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-15T13:19:25Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-15T16:19:55Z",
+    "cycle": 1
   },
   {
     "name": "YUSUF ISMAIL",
@@ -514,7 +514,7 @@
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-15T16:19:11Z",
-    "cycle": 3
+    "lastUpdate": "2026-03-15T16:19:55Z",
+    "cycle": 4
   }
 ]
