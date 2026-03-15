@@ -295,10 +295,10 @@
   },
   {
     "name": "DIYAH UTAMI",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-15T04:31:31Z",
-    "cycle": 4
+    "lastUpdate": "2026-03-15T04:31:59Z",
+    "cycle": 0
   },
   {
     "name": "SALMAH",
@@ -312,7 +312,7 @@
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-03-15T04:29:49Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "TK. LUCKY",
@@ -486,8 +486,8 @@
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-15T04:31:31Z",
-    "cycle": 4
+    "lastUpdate": "2026-03-15T04:31:59Z",
+    "cycle": 0
   },
   {
     "name": "SUPARMAN",
