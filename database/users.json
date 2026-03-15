@@ -507,14 +507,14 @@
     "name": "TUSOK",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-15T21:23:53Z",
-    "cycle": 1
+    "lastUpdate": "2026-03-15T21:24:42Z",
+    "cycle": 2
   },
   {
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-15T20:28:28Z",
-    "cycle": 1
+    "lastUpdate": "2026-03-15T21:24:42Z",
+    "cycle": 2
   }
 ]
