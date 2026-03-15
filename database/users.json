@@ -60,14 +60,14 @@
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-03-15T15:40:41Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "KARSONO",
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-03-15T15:40:41Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "LUTFI A.",
@@ -123,7 +123,7 @@
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-03-15T15:42:47Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "LUKMAN BS",
@@ -486,8 +486,8 @@
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-15T15:43:32Z",
-    "cycle": 4
+    "lastUpdate": "2026-03-15T15:44:14Z",
+    "cycle": 0
   },
   {
     "name": "SUPARMAN",
