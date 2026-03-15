@@ -57,17 +57,17 @@
   },
   {
     "name": "JOKO SUWARNO",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-15T09:38:38Z",
-    "cycle": 1
+    "lastUpdate": "2026-03-15T09:39:23Z",
+    "cycle": 2
   },
   {
     "name": "KARSONO",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-15T09:38:38Z",
-    "cycle": 1
+    "lastUpdate": "2026-03-15T09:39:23Z",
+    "cycle": 2
   },
   {
     "name": "LUTFI A.",
@@ -120,10 +120,10 @@
   },
   {
     "name": "ROSA V",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-15T09:38:38Z",
-    "cycle": 3
+    "lastUpdate": "2026-03-15T09:39:23Z",
+    "cycle": 4
   },
   {
     "name": "LUKMAN BS",
@@ -486,8 +486,8 @@
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-15T09:38:38Z",
-    "cycle": 3
+    "lastUpdate": "2026-03-15T09:39:23Z",
+    "cycle": 4
   },
   {
     "name": "SUPARMAN",
