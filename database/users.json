@@ -220,8 +220,8 @@
     "name": "YOGA RAJAN",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-15T01:17:54Z",
-    "cycle": 1
+    "lastUpdate": "2026-03-15T01:19:12Z",
+    "cycle": 2
   },
   {
     "name": "ARIF FAUZI",
@@ -241,15 +241,15 @@
     "name": "SAMSUL ARIFIN",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-15T01:17:54Z",
-    "cycle": 1
+    "lastUpdate": "2026-03-15T01:19:12Z",
+    "cycle": 2
   },
   {
     "name": "HERDIANA DIYAH S",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-14T22:18:24Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-15T01:19:12Z",
+    "cycle": 1
   },
   {
     "name": "BUDI",
@@ -451,8 +451,8 @@
     "name": "ALFIAN DWI A.",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-15T01:09:21Z",
-    "cycle": 2
+    "lastUpdate": "2026-03-15T01:19:12Z",
+    "cycle": 3
   },
   {
     "name": "TITIK ISMIATIN",
