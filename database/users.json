@@ -120,10 +120,10 @@
   },
   {
     "name": "ROSA V",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-15T06:37:06Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-15T09:37:23Z",
+    "cycle": 1
   },
   {
     "name": "LUKMAN BS",
@@ -486,8 +486,8 @@
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-15T09:36:33Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-15T09:37:23Z",
+    "cycle": 1
   },
   {
     "name": "SUPARMAN",
