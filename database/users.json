@@ -8,10 +8,10 @@
   },
   {
     "name": "ATHI HANDAYANI",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-15T17:56:32Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-15T20:56:40Z",
+    "cycle": 1
   },
   {
     "name": "CINDRAWATI",
@@ -115,22 +115,22 @@
     "name": "JONI H",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-15T20:55:47Z",
-    "cycle": 1
+    "lastUpdate": "2026-03-15T20:56:40Z",
+    "cycle": 2
   },
   {
     "name": "ROSA V",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-15T20:55:48Z",
-    "cycle": 1
+    "lastUpdate": "2026-03-15T20:56:40Z",
+    "cycle": 2
   },
   {
     "name": "LUKMAN BS",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-15T20:55:52Z",
-    "cycle": 1
+    "lastUpdate": "2026-03-15T20:56:40Z",
+    "cycle": 2
   },
   {
     "name": "BISTON MANURUNG",
