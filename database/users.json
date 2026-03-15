@@ -183,10 +183,10 @@
   },
   {
     "name": "HADI SUTOYO",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-15T07:14:53Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-15T10:15:04Z",
+    "cycle": 1
   },
   {
     "name": "SRI HIDAYATI",
@@ -486,8 +486,8 @@
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-15T10:14:31Z",
-    "cycle": 1
+    "lastUpdate": "2026-03-15T10:15:04Z",
+    "cycle": 2
   },
   {
     "name": "SUPARMAN",
