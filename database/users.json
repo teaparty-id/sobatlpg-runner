@@ -64,10 +64,10 @@
   },
   {
     "name": "KARSONO",
-    "stock": 8,
+    "stock": 4,
     "lastStock": 0,
-    "lastUpdate": "2026-03-17T10:17:56Z",
-    "cycle": 4
+    "lastUpdate": "2026-03-17T10:28:26Z",
+    "cycle": 5
   },
   {
     "name": "LUTFI A.",
@@ -337,10 +337,10 @@
   },
   {
     "name": "TOKO POJOK",
-    "stock": 39,
+    "stock": 33,
     "lastStock": 0,
-    "lastUpdate": "2026-03-17T10:17:56Z",
-    "cycle": 4
+    "lastUpdate": "2026-03-17T10:28:26Z",
+    "cycle": 5
   },
   {
     "name": "UD RAHMAT",
@@ -379,10 +379,10 @@
   },
   {
     "name": "ABDUL WAFI",
-    "stock": 82,
+    "stock": 76,
     "lastStock": 0,
-    "lastUpdate": "2026-03-17T10:17:56Z",
-    "cycle": 3
+    "lastUpdate": "2026-03-17T10:28:26Z",
+    "cycle": 4
   },
   {
     "name": "YUNIS WAHYUNI",
@@ -409,8 +409,8 @@
     "name": "TK. MAJU",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-17T07:22:52Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-17T10:28:26Z",
+    "cycle": 1
   },
   {
     "name": "H. JUMAT",
@@ -428,10 +428,10 @@
   },
   {
     "name": "CAHYA HERAWATI",
-    "stock": 25,
+    "stock": 16,
     "lastStock": 0,
-    "lastUpdate": "2026-03-17T10:18:45Z",
-    "cycle": 1
+    "lastUpdate": "2026-03-17T10:29:15Z",
+    "cycle": 2
   },
   {
     "name": "MISRI CICI",
@@ -442,10 +442,10 @@
   },
   {
     "name": "ALFIAN DWI A.",
-    "stock": 103,
+    "stock": 97,
     "lastStock": 0,
-    "lastUpdate": "2026-03-17T10:22:24Z",
-    "cycle": 1
+    "lastUpdate": "2026-03-17T10:31:40Z",
+    "cycle": 2
   },
   {
     "name": "ISTIQOMAH",
@@ -472,22 +472,22 @@
     "name": "SUPARMAN",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-17T07:10:15Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-17T10:33:27Z",
+    "cycle": 1
   },
   {
     "name": "P. SUK",
     "stock": 0,
     "lastStock": 18,
-    "lastUpdate": "2026-03-17T07:19:51Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-17T10:33:57Z",
+    "cycle": 1
   },
   {
     "name": "WIKAN K",
-    "stock": 0,
+    "stock": 12,
     "lastStock": 0,
-    "lastUpdate": "2026-03-17T07:20:06Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-17T10:34:16Z",
+    "cycle": 1
   },
   {
     "name": "TUSOK",
