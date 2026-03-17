@@ -395,7 +395,7 @@
     "name": "ROSIDI",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-17T13:15:45Z",
+    "lastUpdate": "2026-03-17T16:16:00Z",
     "cycle": 0
   },
   {
@@ -416,14 +416,14 @@
     "name": "H. JUMAT",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-17T13:15:45Z",
+    "lastUpdate": "2026-03-17T16:16:00Z",
     "cycle": 0
   },
   {
     "name": "HARSININGSIH",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-17T13:15:45Z",
+    "lastUpdate": "2026-03-17T16:16:00Z",
     "cycle": 0
   },
   {
@@ -500,8 +500,8 @@
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-17T16:15:16Z",
-    "cycle": 4
+    "lastUpdate": "2026-03-17T16:16:00Z",
+    "cycle": 0
   },
   {
     "name": "TITIK ISMIATIN",
