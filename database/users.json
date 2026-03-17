@@ -53,7 +53,7 @@
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-03-17T15:21:39Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "JOKO SUWARNO",
@@ -116,7 +116,7 @@
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-03-17T15:21:39Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "ROSA V",
@@ -137,7 +137,7 @@
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-03-17T15:21:39Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "JAMILAH",
@@ -211,10 +211,10 @@
   },
   {
     "name": "YOGA RAJAN",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-17T15:24:11Z",
-    "cycle": 3
+    "lastUpdate": "2026-03-17T15:24:52Z",
+    "cycle": 0
   },
   {
     "name": "ARIF FAUZI",
@@ -501,7 +501,7 @@
     "stock": 1,
     "lastStock": 0,
     "lastUpdate": "2026-03-17T15:24:11Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "TITIK ISMIATIN",
