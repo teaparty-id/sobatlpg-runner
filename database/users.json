@@ -127,10 +127,10 @@
   },
   {
     "name": "LUKMAN BS",
-    "stock": 15,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-17T02:38:20Z",
-    "cycle": 4
+    "lastUpdate": "2026-03-17T02:44:36Z",
+    "cycle": 5
   },
   {
     "name": "BISTON MANURUNG",
@@ -155,17 +155,17 @@
   },
   {
     "name": "BAMBANG HARTONO",
-    "stock": 19,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-17T02:38:20Z",
-    "cycle": 3
+    "lastUpdate": "2026-03-17T02:44:36Z",
+    "cycle": 4
   },
   {
     "name": "NADIFATUS SOLEHA",
-    "stock": 10,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-17T02:38:20Z",
-    "cycle": 4
+    "lastUpdate": "2026-03-17T02:44:36Z",
+    "cycle": 5
   },
   {
     "name": "SUROSO",
@@ -255,8 +255,8 @@
     "name": "YULI SORAYA",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-16T14:35:33Z",
-    "cycle": 1
+    "lastUpdate": "2026-03-17T02:44:36Z",
+    "cycle": 2
   },
   {
     "name": "SUSILO",
