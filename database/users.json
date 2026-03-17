@@ -211,10 +211,10 @@
   },
   {
     "name": "YOGA RAJAN",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-17T18:25:38Z",
-    "cycle": 2
+    "lastUpdate": "2026-03-17T18:26:10Z",
+    "cycle": 0
   },
   {
     "name": "ARIF FAUZI",
@@ -501,7 +501,7 @@
     "stock": 1,
     "lastStock": 0,
     "lastUpdate": "2026-03-17T18:25:38Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "TITIK ISMIATIN",
