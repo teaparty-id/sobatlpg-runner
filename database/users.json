@@ -304,22 +304,22 @@
     "name": "TOKO ANITA",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-17T06:18:40Z",
-    "cycle": 1
+    "lastUpdate": "2026-03-17T06:19:31Z",
+    "cycle": 2
   },
   {
     "name": "TK. LUCKY",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-17T06:18:42Z",
-    "cycle": 1
+    "lastUpdate": "2026-03-17T06:19:31Z",
+    "cycle": 2
   },
   {
     "name": "UD SAMAN HADI",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-17T06:18:42Z",
-    "cycle": 1
+    "lastUpdate": "2026-03-17T06:19:31Z",
+    "cycle": 2
   },
   {
     "name": "SOEKAMTO",
@@ -330,10 +330,10 @@
   },
   {
     "name": "TOKO TIARA",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-17T03:02:15Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-17T06:19:31Z",
+    "cycle": 1
   },
   {
     "name": "TOKO POJOK",
