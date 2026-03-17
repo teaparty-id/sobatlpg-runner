@@ -85,10 +85,10 @@
   },
   {
     "name": "TOKO 2 PUTRI",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-17T12:06:49Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-17T15:07:07Z",
+    "cycle": 1
   },
   {
     "name": "TOKO IIN",
@@ -185,8 +185,8 @@
     "name": "SRI HIDAYATI",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-17T15:06:33Z",
-    "cycle": 3
+    "lastUpdate": "2026-03-17T15:07:07Z",
+    "cycle": 4
   },
   {
     "name": "ONG SWI GIOK",
@@ -500,8 +500,8 @@
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-17T15:06:33Z",
-    "cycle": 3
+    "lastUpdate": "2026-03-17T15:07:07Z",
+    "cycle": 4
   },
   {
     "name": "TITIK ISMIATIN",
