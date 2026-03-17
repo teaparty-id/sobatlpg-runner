@@ -288,17 +288,17 @@
   },
   {
     "name": "DIYAH UTAMI",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-17T12:32:46Z",
-    "cycle": 2
+    "lastUpdate": "2026-03-17T12:34:09Z",
+    "cycle": 3
   },
   {
     "name": "SALMAH",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-17T12:32:46Z",
-    "cycle": 2
+    "lastUpdate": "2026-03-17T12:34:09Z",
+    "cycle": 3
   },
   {
     "name": "TOKO ANITA",
@@ -323,31 +323,31 @@
   },
   {
     "name": "SOEKAMTO",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-17T12:32:46Z",
-    "cycle": 2
+    "lastUpdate": "2026-03-17T12:34:09Z",
+    "cycle": 3
   },
   {
     "name": "TOKO TIARA",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-17T12:32:46Z",
-    "cycle": 1
+    "lastUpdate": "2026-03-17T12:34:09Z",
+    "cycle": 2
   },
   {
     "name": "TOKO POJOK",
-    "stock": 6,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-17T12:10:22Z",
-    "cycle": 1
+    "lastUpdate": "2026-03-17T12:34:44Z",
+    "cycle": 2
   },
   {
     "name": "UD RAHMAT",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-17T09:32:07Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-17T12:34:45Z",
+    "cycle": 1
   },
   {
     "name": "ULFA MARIA",
@@ -379,10 +379,10 @@
   },
   {
     "name": "ABDUL WAFI",
-    "stock": 50,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-17T12:10:35Z",
-    "cycle": 1
+    "lastUpdate": "2026-03-17T12:34:45Z",
+    "cycle": 2
   },
   {
     "name": "YUNIS WAHYUNI",
@@ -442,10 +442,10 @@
   },
   {
     "name": "ALFIAN DWI A.",
-    "stock": 38,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-17T12:11:20Z",
-    "cycle": 1
+    "lastUpdate": "2026-03-17T12:34:47Z",
+    "cycle": 2
   },
   {
     "name": "ISTIQOMAH",
