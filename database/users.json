@@ -207,7 +207,7 @@
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-03-17T15:50:08Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "YOGA RAJAN",
@@ -375,7 +375,7 @@
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-03-17T15:50:08Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "ABDUL WAFI",
@@ -500,8 +500,8 @@
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-17T15:50:08Z",
-    "cycle": 4
+    "lastUpdate": "2026-03-17T15:50:57Z",
+    "cycle": 0
   },
   {
     "name": "TITIK ISMIATIN",
