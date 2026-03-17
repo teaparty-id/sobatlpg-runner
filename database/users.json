@@ -87,8 +87,8 @@
     "name": "TOKO 2 PUTRI",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-17T05:56:11Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-17T09:01:09Z",
+    "cycle": 1
   },
   {
     "name": "TOKO IIN",
@@ -157,36 +157,36 @@
     "name": "BAMBANG HARTONO",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-17T05:59:52Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-17T09:01:09Z",
+    "cycle": 1
   },
   {
     "name": "NADIFATUS SOLEHA",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-17T06:00:20Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-17T09:01:09Z",
+    "cycle": 1
   },
   {
     "name": "SUROSO",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-17T06:00:35Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-17T09:01:09Z",
+    "cycle": 1
   },
   {
     "name": "HADI SUTOYO",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-17T06:01:10Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-17T09:01:42Z",
+    "cycle": 1
   },
   {
     "name": "SRI HIDAYATI",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-17T06:01:40Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-17T09:01:43Z",
+    "cycle": 1
   },
   {
     "name": "ONG SWI GIOK",
@@ -337,10 +337,10 @@
   },
   {
     "name": "TOKO POJOK",
-    "stock": 59,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-17T08:55:02Z",
-    "cycle": 2
+    "lastUpdate": "2026-03-17T09:01:43Z",
+    "cycle": 3
   },
   {
     "name": "UD RAHMAT",
