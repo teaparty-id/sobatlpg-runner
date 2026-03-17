@@ -88,7 +88,7 @@
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-03-17T21:08:42Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "TOKO IIN",
@@ -144,7 +144,7 @@
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-03-17T21:08:42Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "YUDA",
@@ -158,7 +158,7 @@
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-03-17T21:07:58Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "NADIFATUS SOLEHA",
@@ -183,10 +183,10 @@
   },
   {
     "name": "SRI HIDAYATI",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-17T21:10:39Z",
-    "cycle": 4
+    "lastUpdate": "2026-03-17T21:11:09Z",
+    "cycle": 0
   },
   {
     "name": "ONG SWI GIOK",
@@ -311,7 +311,7 @@
     "name": "TK. LUCKY",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-17T18:10:49Z",
+    "lastUpdate": "2026-03-17T21:11:09Z",
     "cycle": 0
   },
   {
@@ -501,7 +501,7 @@
     "stock": 1,
     "lastStock": 0,
     "lastUpdate": "2026-03-17T21:10:39Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "TITIK ISMIATIN",
