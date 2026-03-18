@@ -491,17 +491,17 @@
   },
   {
     "name": "TUSOK",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-18T16:44:38Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-18T19:44:55Z",
+    "cycle": 1
   },
   {
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-18T19:44:06Z",
-    "cycle": 4
+    "lastUpdate": "2026-03-18T19:44:55Z",
+    "cycle": 5
   },
   {
     "name": "TITIK ISMIATIN",
