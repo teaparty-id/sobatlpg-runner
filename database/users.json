@@ -109,7 +109,7 @@
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-03-18T21:12:19Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "JONI H",
@@ -305,35 +305,35 @@
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-03-18T21:12:19Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "TK. LUCKY",
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-03-18T21:12:19Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "UD SAMAN HADI",
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-03-18T21:12:19Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "SOEKAMTO",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-18T21:14:35Z",
-    "cycle": 4
+    "lastUpdate": "2026-03-18T21:15:05Z",
+    "cycle": 0
   },
   {
     "name": "TOKO TIARA",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-18T21:14:35Z",
-    "cycle": 1
+    "lastUpdate": "2026-03-18T21:15:05Z",
+    "cycle": 0
   },
   {
     "name": "TOKO POJOK",
@@ -407,10 +407,10 @@
   },
   {
     "name": "TK. MAJU",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-18T21:14:35Z",
-    "cycle": 1
+    "lastUpdate": "2026-03-18T21:15:05Z",
+    "cycle": 0
   },
   {
     "name": "H. JUMAT",
@@ -501,7 +501,7 @@
     "stock": 1,
     "lastStock": 0,
     "lastUpdate": "2026-03-18T21:14:03Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "TITIK ISMIATIN",
