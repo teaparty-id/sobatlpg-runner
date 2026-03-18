@@ -88,13 +88,13 @@
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-03-18T20:43:09Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "TOKO IIN",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-18T17:46:12Z",
+    "lastUpdate": "2026-03-18T20:46:18Z",
     "cycle": 0
   },
   {
@@ -500,8 +500,8 @@
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-18T20:45:29Z",
-    "cycle": 4
+    "lastUpdate": "2026-03-18T20:46:18Z",
+    "cycle": 0
   },
   {
     "name": "TITIK ISMIATIN",
