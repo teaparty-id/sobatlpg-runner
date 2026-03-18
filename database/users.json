@@ -43,10 +43,10 @@
   },
   {
     "name": "SUCIYONO",
-    "stock": 87,
+    "stock": 76,
     "lastStock": 0,
-    "lastUpdate": "2026-03-18T23:16:44Z",
-    "cycle": 1
+    "lastUpdate": "2026-03-18T23:23:35Z",
+    "cycle": 2
   },
   {
     "name": "JAENAL",
@@ -57,10 +57,10 @@
   },
   {
     "name": "JOKO SUWARNO",
-    "stock": 59,
+    "stock": 50,
     "lastStock": 0,
-    "lastUpdate": "2026-03-18T23:16:44Z",
-    "cycle": 1
+    "lastUpdate": "2026-03-18T23:23:35Z",
+    "cycle": 2
   },
   {
     "name": "KARSONO",
@@ -500,8 +500,8 @@
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-18T23:16:44Z",
-    "cycle": 3
+    "lastUpdate": "2026-03-18T23:23:35Z",
+    "cycle": 4
   },
   {
     "name": "TITIK ISMIATIN",
