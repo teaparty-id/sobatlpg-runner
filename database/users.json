@@ -18,7 +18,7 @@
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-03-18T01:23:35Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "EDI SUGENG SARIPAN",
@@ -396,7 +396,7 @@
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-03-18T01:20:51Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "HJ. ASLAMIYAH",
@@ -417,14 +417,14 @@
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-03-18T01:20:51Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "HARSININGSIH",
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-03-18T01:20:51Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "CAHYA HERAWATI",
@@ -445,7 +445,7 @@
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-03-18T01:23:35Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "ISTIQOMAH",
@@ -500,8 +500,8 @@
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-18T01:23:35Z",
-    "cycle": 4
+    "lastUpdate": "2026-03-18T01:24:44Z",
+    "cycle": 0
   },
   {
     "name": "TITIK ISMIATIN",
