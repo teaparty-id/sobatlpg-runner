@@ -395,8 +395,8 @@
     "name": "ROSIDI",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-18T15:34:35Z",
-    "cycle": 1
+    "lastUpdate": "2026-03-18T15:35:30Z",
+    "cycle": 2
   },
   {
     "name": "HJ. ASLAMIYAH",
@@ -500,15 +500,15 @@
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-18T15:34:36Z",
-    "cycle": 3
+    "lastUpdate": "2026-03-18T15:35:30Z",
+    "cycle": 4
   },
   {
     "name": "TITIK ISMIATIN",
-    "stock": 14,
-    "lastStock": 3,
-    "lastUpdate": "2026-03-18T15:27:27Z",
-    "cycle": 2
+    "stock": 1,
+    "lastStock": 0,
+    "lastUpdate": "2026-03-18T15:35:30Z",
+    "cycle": 3
   },
   {
     "name": "SRI UTAMI",
