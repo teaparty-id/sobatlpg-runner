@@ -344,10 +344,10 @@
   },
   {
     "name": "UD RAHMAT",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-17T21:43:06Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-18T00:43:29Z",
+    "cycle": 1
   },
   {
     "name": "ULFA MARIA",
@@ -358,10 +358,10 @@
   },
   {
     "name": "TOKO SURYATI",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-17T21:43:06Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-18T00:43:29Z",
+    "cycle": 1
   },
   {
     "name": "SUDJIONO",
@@ -500,8 +500,8 @@
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-18T00:43:02Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-18T00:43:29Z",
+    "cycle": 1
   },
   {
     "name": "TITIK ISMIATIN",
