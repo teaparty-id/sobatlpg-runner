@@ -1,10 +1,10 @@
 [
   {
     "name": "AKBAR RISQ",
-    "stock": 85,
+    "stock": 79,
     "lastStock": 0,
-    "lastUpdate": "2026-03-18T08:07:03Z",
-    "cycle": 1
+    "lastUpdate": "2026-03-18T08:22:23Z",
+    "cycle": 2
   },
   {
     "name": "ATHI HANDAYANI",
@@ -64,17 +64,17 @@
   },
   {
     "name": "KARSONO",
-    "stock": 67,
+    "stock": 65,
     "lastStock": 0,
-    "lastUpdate": "2026-03-18T08:07:03Z",
-    "cycle": 1
+    "lastUpdate": "2026-03-18T08:22:23Z",
+    "cycle": 2
   },
   {
     "name": "LUTFI A.",
-    "stock": 1,
+    "stock": 95,
     "lastStock": 0,
-    "lastUpdate": "2026-03-18T08:07:03Z",
-    "cycle": 2
+    "lastUpdate": "2026-03-18T08:22:23Z",
+    "cycle": 3
   },
   {
     "name": "MOH SAID",
@@ -302,17 +302,17 @@
   },
   {
     "name": "TOKO ANITA",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-18T05:14:11Z",
-    "cycle": 1
+    "lastUpdate": "2026-03-18T08:22:23Z",
+    "cycle": 2
   },
   {
     "name": "TK. LUCKY",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-18T08:07:03Z",
-    "cycle": 4
+    "lastUpdate": "2026-03-18T08:23:06Z",
+    "cycle": 5
   },
   {
     "name": "UD SAMAN HADI",
@@ -339,15 +339,15 @@
     "name": "TOKO POJOK",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-18T08:08:35Z",
-    "cycle": 3
+    "lastUpdate": "2026-03-18T08:24:20Z",
+    "cycle": 4
   },
   {
     "name": "UD RAHMAT",
-    "stock": 52,
+    "stock": 41,
     "lastStock": 0,
-    "lastUpdate": "2026-03-18T08:01:33Z",
-    "cycle": 2
+    "lastUpdate": "2026-03-18T08:25:26Z",
+    "cycle": 3
   },
   {
     "name": "ULFA MARIA",
@@ -358,10 +358,10 @@
   },
   {
     "name": "TOKO SURYATI",
-    "stock": 46,
+    "stock": 43,
     "lastStock": 0,
-    "lastUpdate": "2026-03-18T08:09:55Z",
-    "cycle": 1
+    "lastUpdate": "2026-03-18T08:26:35Z",
+    "cycle": 2
   },
   {
     "name": "SUDJIONO",
@@ -374,8 +374,8 @@
     "name": "ANDRI HERU CAHYONO",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-18T03:51:30Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-18T08:27:40Z",
+    "cycle": 1
   },
   {
     "name": "ABDUL WAFI",
