@@ -71,10 +71,10 @@
   },
   {
     "name": "LUTFI A.",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-18T14:52:52Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-18T17:54:01Z",
+    "cycle": 1
   },
   {
     "name": "MOH SAID",
@@ -185,22 +185,22 @@
     "name": "SRI HIDAYATI",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-18T17:53:04Z",
-    "cycle": 1
+    "lastUpdate": "2026-03-18T17:54:01Z",
+    "cycle": 2
   },
   {
     "name": "ONG SWI GIOK",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-18T17:53:05Z",
-    "cycle": 1
+    "lastUpdate": "2026-03-18T17:54:01Z",
+    "cycle": 2
   },
   {
     "name": "YUSUF ISMAIL",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-18T14:53:23Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-18T17:54:01Z",
+    "cycle": 1
   },
   {
     "name": "SUPARNI",
