@@ -169,10 +169,10 @@
   },
   {
     "name": "SUROSO",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-18T06:20:22Z",
-    "cycle": 1
+    "lastUpdate": "2026-03-18T09:26:21Z",
+    "cycle": 2
   },
   {
     "name": "HADI SUTOYO",
@@ -465,8 +465,8 @@
     "name": "SUMBER REJEKI",
     "stock": 70,
     "lastStock": 1,
-    "lastUpdate": "2026-03-18T09:20:25Z",
-    "cycle": 3
+    "lastUpdate": "2026-03-18T09:26:21Z",
+    "cycle": 4
   },
   {
     "name": "SUPARMAN",
@@ -505,16 +505,16 @@
   },
   {
     "name": "TITIK ISMIATIN",
-    "stock": 1,
-    "lastStock": 0,
-    "lastUpdate": "2026-03-18T09:20:27Z",
-    "cycle": 1
+    "stock": 72,
+    "lastStock": 3,
+    "lastUpdate": "2026-03-18T09:26:21Z",
+    "cycle": 2
   },
   {
     "name": "SRI UTAMI",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-18T04:59:27Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-18T09:26:21Z",
+    "cycle": 1
   }
 ]
