@@ -36,10 +36,10 @@
   },
   {
     "name": "HENDRA KURNIAWAN",
-    "stock": 64,
+    "stock": 62,
     "lastStock": 0,
-    "lastUpdate": "2026-03-18T06:19:48Z",
-    "cycle": 3
+    "lastUpdate": "2026-03-18T06:29:21Z",
+    "cycle": 4
   },
   {
     "name": "SUCIYONO",
@@ -50,10 +50,10 @@
   },
   {
     "name": "JAENAL",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-18T03:26:58Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-18T06:29:21Z",
+    "cycle": 1
   },
   {
     "name": "JOKO SUWARNO",
@@ -85,10 +85,10 @@
   },
   {
     "name": "TOKO 2 PUTRI",
-    "stock": 57,
+    "stock": 44,
     "lastStock": 0,
-    "lastUpdate": "2026-03-18T06:19:48Z",
-    "cycle": 2
+    "lastUpdate": "2026-03-18T06:29:21Z",
+    "cycle": 3
   },
   {
     "name": "TOKO IIN",
@@ -113,10 +113,10 @@
   },
   {
     "name": "JONI H",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-18T03:26:58Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-18T06:29:21Z",
+    "cycle": 1
   },
   {
     "name": "ROSA V",
@@ -136,8 +136,8 @@
     "name": "BISTON MANURUNG",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-18T03:26:58Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-18T06:29:54Z",
+    "cycle": 1
   },
   {
     "name": "JAMILAH",
@@ -164,8 +164,8 @@
     "name": "NADIFATUS SOLEHA",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-18T06:20:20Z",
-    "cycle": 1
+    "lastUpdate": "2026-03-18T06:30:31Z",
+    "cycle": 2
   },
   {
     "name": "SUROSO",
@@ -176,10 +176,10 @@
   },
   {
     "name": "HADI SUTOYO",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-18T03:08:00Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-18T06:30:31Z",
+    "cycle": 1
   },
   {
     "name": "SRI HIDAYATI",
