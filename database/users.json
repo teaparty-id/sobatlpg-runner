@@ -87,15 +87,15 @@
     "name": "TOKO 2 PUTRI",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-19T17:51:48Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-19T20:52:04Z",
+    "cycle": 1
   },
   {
     "name": "TOKO IIN",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-19T17:51:48Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-19T20:52:04Z",
+    "cycle": 1
   },
   {
     "name": "HJ LILIK LAILIYAH",
@@ -108,8 +108,8 @@
     "name": "ERNA PUJIATI",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-19T17:51:48Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-19T20:52:04Z",
+    "cycle": 1
   },
   {
     "name": "JONI H",
@@ -129,15 +129,15 @@
     "name": "LUKMAN BS",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-19T17:51:48Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-19T20:52:04Z",
+    "cycle": 1
   },
   {
     "name": "BISTON MANURUNG",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-19T17:52:21Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-19T20:52:34Z",
+    "cycle": 1
   },
   {
     "name": "JAMILAH",
@@ -500,8 +500,8 @@
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-19T20:51:15Z",
-    "cycle": 4
+    "lastUpdate": "2026-03-19T20:52:35Z",
+    "cycle": 5
   },
   {
     "name": "TITIK ISMIATIN",
