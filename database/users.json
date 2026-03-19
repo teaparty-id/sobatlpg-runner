@@ -101,8 +101,8 @@
     "name": "HJ LILIK LAILIYAH",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-19T12:13:20Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-19T15:13:24Z",
+    "cycle": 1
   },
   {
     "name": "ERNA PUJIATI",
@@ -421,52 +421,52 @@
   },
   {
     "name": "HARSININGSIH",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-19T15:12:40Z",
-    "cycle": 3
+    "lastUpdate": "2026-03-19T15:13:24Z",
+    "cycle": 4
   },
   {
     "name": "CAHYA HERAWATI",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-19T15:12:40Z",
-    "cycle": 3
+    "lastUpdate": "2026-03-19T15:13:24Z",
+    "cycle": 4
   },
   {
     "name": "MISRI CICI",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-19T15:12:40Z",
-    "cycle": 2
+    "lastUpdate": "2026-03-19T15:13:24Z",
+    "cycle": 3
   },
   {
     "name": "ALFIAN DWI A.",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-19T15:12:40Z",
-    "cycle": 2
+    "lastUpdate": "2026-03-19T15:13:54Z",
+    "cycle": 3
   },
   {
     "name": "ISTIQOMAH",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-19T11:57:17Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-19T15:13:55Z",
+    "cycle": 1
   },
   {
     "name": "TOKO IRAWAN",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-19T11:43:31Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-19T15:13:55Z",
+    "cycle": 1
   },
   {
     "name": "SUMBER REJEKI",
-    "stock": 0,
-    "lastStock": 1,
-    "lastUpdate": "2026-03-19T11:57:17Z",
-    "cycle": 0
+    "stock": 1,
+    "lastStock": 0,
+    "lastUpdate": "2026-03-19T15:13:56Z",
+    "cycle": 1
   },
   {
     "name": "SUPARMAN",
