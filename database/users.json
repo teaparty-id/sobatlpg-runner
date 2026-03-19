@@ -319,21 +319,21 @@
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-03-19T11:27:10Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "SOEKAMTO",
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-03-19T11:29:34Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "TOKO TIARA",
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-03-19T11:27:10Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "TOKO POJOK",
@@ -347,7 +347,7 @@
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-03-19T11:27:10Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "ULFA MARIA",
@@ -500,8 +500,8 @@
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-19T11:29:34Z",
-    "cycle": 4
+    "lastUpdate": "2026-03-19T11:30:20Z",
+    "cycle": 0
   },
   {
     "name": "TITIK ISMIATIN",
