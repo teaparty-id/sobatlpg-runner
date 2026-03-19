@@ -1,10 +1,10 @@
 [
   {
     "name": "AKBAR RISQ",
-    "stock": 23,
+    "stock": 16,
     "lastStock": 0,
-    "lastUpdate": "2026-03-19T06:44:32Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-19T07:16:20Z",
+    "cycle": 1
   },
   {
     "name": "ATHI HANDAYANI",
@@ -29,17 +29,17 @@
   },
   {
     "name": "BINA MAKMUR",
-    "stock": 2,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-19T06:44:32Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-19T07:16:20Z",
+    "cycle": 1
   },
   {
     "name": "HENDRA KURNIAWAN",
-    "stock": 13,
+    "stock": 12,
     "lastStock": 0,
-    "lastUpdate": "2026-03-19T06:44:32Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-19T07:16:20Z",
+    "cycle": 1
   },
   {
     "name": "SUCIYONO",
@@ -50,24 +50,24 @@
   },
   {
     "name": "JAENAL",
-    "stock": 16,
+    "stock": 11,
     "lastStock": 0,
-    "lastUpdate": "2026-03-19T06:56:53Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-19T07:16:20Z",
+    "cycle": 1
   },
   {
     "name": "JOKO SUWARNO",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-19T04:11:19Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-19T07:18:40Z",
+    "cycle": 1
   },
   {
     "name": "KARSONO",
-    "stock": 12,
+    "stock": 6,
     "lastStock": 0,
-    "lastUpdate": "2026-03-19T06:56:53Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-19T07:19:54Z",
+    "cycle": 1
   },
   {
     "name": "LUTFI A.",
@@ -80,8 +80,8 @@
     "name": "MOH SAID",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-19T04:13:03Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-19T07:21:26Z",
+    "cycle": 1
   },
   {
     "name": "TOKO 2 PUTRI",
@@ -337,10 +337,10 @@
   },
   {
     "name": "TOKO POJOK",
-    "stock": 19,
+    "stock": 12,
     "lastStock": 0,
-    "lastUpdate": "2026-03-19T07:11:07Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-19T07:22:02Z",
+    "cycle": 1
   },
   {
     "name": "UD RAHMAT",
@@ -379,10 +379,10 @@
   },
   {
     "name": "ABDUL WAFI",
-    "stock": 30,
+    "stock": 24,
     "lastStock": 0,
-    "lastUpdate": "2026-03-19T07:04:38Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-19T07:23:09Z",
+    "cycle": 1
   },
   {
     "name": "YUNIS WAHYUNI",
