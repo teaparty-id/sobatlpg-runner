@@ -24,8 +24,8 @@
     "name": "EDI SUGENG SARIPAN",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-19T03:49:12Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-19T06:56:53Z",
+    "cycle": 1
   },
   {
     "name": "BINA MAKMUR",
@@ -50,10 +50,10 @@
   },
   {
     "name": "JAENAL",
-    "stock": 21,
+    "stock": 16,
     "lastStock": 0,
-    "lastUpdate": "2026-03-19T06:44:32Z",
-    "cycle": 4
+    "lastUpdate": "2026-03-19T06:56:53Z",
+    "cycle": 5
   },
   {
     "name": "JOKO SUWARNO",
@@ -64,10 +64,10 @@
   },
   {
     "name": "KARSONO",
-    "stock": 15,
+    "stock": 12,
     "lastStock": 0,
-    "lastUpdate": "2026-03-19T06:49:47Z",
-    "cycle": 4
+    "lastUpdate": "2026-03-19T06:56:53Z",
+    "cycle": 5
   },
   {
     "name": "LUTFI A.",
@@ -337,10 +337,10 @@
   },
   {
     "name": "TOKO POJOK",
-    "stock": 34,
+    "stock": 29,
     "lastStock": 0,
-    "lastUpdate": "2026-03-19T06:50:25Z",
-    "cycle": 2
+    "lastUpdate": "2026-03-19T06:56:53Z",
+    "cycle": 3
   },
   {
     "name": "UD RAHMAT",
@@ -379,10 +379,10 @@
   },
   {
     "name": "ABDUL WAFI",
-    "stock": 42,
+    "stock": 37,
     "lastStock": 0,
-    "lastUpdate": "2026-03-19T06:50:39Z",
-    "cycle": 3
+    "lastUpdate": "2026-03-19T06:57:32Z",
+    "cycle": 4
   },
   {
     "name": "YUNIS WAHYUNI",
@@ -442,10 +442,10 @@
   },
   {
     "name": "ALFIAN DWI A.",
-    "stock": 38,
+    "stock": 31,
     "lastStock": 0,
-    "lastUpdate": "2026-03-19T06:51:47Z",
-    "cycle": 2
+    "lastUpdate": "2026-03-19T07:00:22Z",
+    "cycle": 3
   },
   {
     "name": "ISTIQOMAH",
@@ -500,8 +500,8 @@
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-19T06:53:59Z",
-    "cycle": 2
+    "lastUpdate": "2026-03-19T07:01:25Z",
+    "cycle": 3
   },
   {
     "name": "TITIK ISMIATIN",
@@ -514,7 +514,7 @@
     "name": "SRI UTAMI",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-19T03:02:12Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-19T07:01:53Z",
+    "cycle": 1
   }
 ]
