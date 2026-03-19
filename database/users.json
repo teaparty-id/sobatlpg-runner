@@ -115,15 +115,15 @@
     "name": "JONI H",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-19T21:29:01Z",
-    "cycle": 2
+    "lastUpdate": "2026-03-19T21:29:31Z",
+    "cycle": 3
   },
   {
     "name": "ROSA V",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-19T21:29:01Z",
-    "cycle": 1
+    "lastUpdate": "2026-03-19T21:29:31Z",
+    "cycle": 2
   },
   {
     "name": "LUKMAN BS",
@@ -500,8 +500,8 @@
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-19T21:29:01Z",
-    "cycle": 3
+    "lastUpdate": "2026-03-19T21:29:31Z",
+    "cycle": 4
   },
   {
     "name": "TITIK ISMIATIN",
