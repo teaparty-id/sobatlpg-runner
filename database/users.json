@@ -8,10 +8,10 @@
   },
   {
     "name": "ATHI HANDAYANI",
-    "stock": 36,
+    "stock": 22,
     "lastStock": 0,
-    "lastUpdate": "2026-03-19T02:18:35Z",
-    "cycle": 2
+    "lastUpdate": "2026-03-19T02:31:40Z",
+    "cycle": 3
   },
   {
     "name": "CINDRAWATI",
@@ -36,10 +36,10 @@
   },
   {
     "name": "HENDRA KURNIAWAN",
-    "stock": 73,
+    "stock": 67,
     "lastStock": 0,
-    "lastUpdate": "2026-03-19T02:18:35Z",
-    "cycle": 2
+    "lastUpdate": "2026-03-19T02:31:40Z",
+    "cycle": 3
   },
   {
     "name": "SUCIYONO",
@@ -64,10 +64,10 @@
   },
   {
     "name": "KARSONO",
-    "stock": 62,
+    "stock": 60,
     "lastStock": 0,
-    "lastUpdate": "2026-03-19T02:18:35Z",
-    "cycle": 4
+    "lastUpdate": "2026-03-19T02:31:40Z",
+    "cycle": 5
   },
   {
     "name": "LUTFI A.",
@@ -407,10 +407,10 @@
   },
   {
     "name": "TK. MAJU",
-    "stock": 40,
+    "stock": 33,
     "lastStock": 0,
-    "lastUpdate": "2026-03-19T02:19:16Z",
-    "cycle": 4
+    "lastUpdate": "2026-03-19T02:31:40Z",
+    "cycle": 5
   },
   {
     "name": "H. JUMAT",
@@ -442,17 +442,17 @@
   },
   {
     "name": "ALFIAN DWI A.",
-    "stock": 88,
+    "stock": 82,
     "lastStock": 0,
-    "lastUpdate": "2026-03-19T02:23:02Z",
-    "cycle": 2
+    "lastUpdate": "2026-03-19T02:36:57Z",
+    "cycle": 3
   },
   {
     "name": "ISTIQOMAH",
-    "stock": 10,
+    "stock": 5,
     "lastStock": 0,
-    "lastUpdate": "2026-03-19T02:23:56Z",
-    "cycle": 2
+    "lastUpdate": "2026-03-19T02:37:17Z",
+    "cycle": 3
   },
   {
     "name": "TOKO IRAWAN",
@@ -463,24 +463,24 @@
   },
   {
     "name": "SUMBER REJEKI",
-    "stock": 58,
+    "stock": 51,
     "lastStock": 1,
-    "lastUpdate": "2026-03-19T02:24:10Z",
-    "cycle": 2
+    "lastUpdate": "2026-03-19T02:37:20Z",
+    "cycle": 3
   },
   {
     "name": "SUPARMAN",
-    "stock": 17,
+    "stock": 5,
     "lastStock": 0,
-    "lastUpdate": "2026-03-19T02:24:21Z",
-    "cycle": 1
+    "lastUpdate": "2026-03-19T02:37:38Z",
+    "cycle": 2
   },
   {
     "name": "P. SUK",
     "stock": 0,
     "lastStock": 18,
-    "lastUpdate": "2026-03-18T22:44:22Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-19T02:41:23Z",
+    "cycle": 1
   },
   {
     "name": "WIKAN K",
