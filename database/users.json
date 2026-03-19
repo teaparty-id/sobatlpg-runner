@@ -1,10 +1,10 @@
 [
   {
     "name": "AKBAR RISQ",
-    "stock": 28,
+    "stock": 24,
     "lastStock": 0,
-    "lastUpdate": "2026-03-19T06:20:05Z",
-    "cycle": 3
+    "lastUpdate": "2026-03-19T06:30:52Z",
+    "cycle": 4
   },
   {
     "name": "ATHI HANDAYANI",
@@ -29,17 +29,17 @@
   },
   {
     "name": "BINA MAKMUR",
-    "stock": 17,
+    "stock": 11,
     "lastStock": 0,
-    "lastUpdate": "2026-03-19T06:20:05Z",
-    "cycle": 3
+    "lastUpdate": "2026-03-19T06:30:52Z",
+    "cycle": 4
   },
   {
     "name": "HENDRA KURNIAWAN",
-    "stock": 22,
+    "stock": 19,
     "lastStock": 0,
-    "lastUpdate": "2026-03-19T06:20:05Z",
-    "cycle": 3
+    "lastUpdate": "2026-03-19T06:30:52Z",
+    "cycle": 4
   },
   {
     "name": "SUCIYONO",
@@ -50,10 +50,10 @@
   },
   {
     "name": "JAENAL",
-    "stock": 33,
+    "stock": 27,
     "lastStock": 0,
-    "lastUpdate": "2026-03-19T06:23:50Z",
-    "cycle": 2
+    "lastUpdate": "2026-03-19T06:30:52Z",
+    "cycle": 3
   },
   {
     "name": "JOKO SUWARNO",
@@ -64,10 +64,10 @@
   },
   {
     "name": "KARSONO",
-    "stock": 20,
+    "stock": 16,
     "lastStock": 0,
-    "lastUpdate": "2026-03-19T06:25:50Z",
-    "cycle": 2
+    "lastUpdate": "2026-03-19T06:34:42Z",
+    "cycle": 3
   },
   {
     "name": "LUTFI A.",
@@ -337,10 +337,10 @@
   },
   {
     "name": "TOKO POJOK",
-    "stock": 48,
+    "stock": 37,
     "lastStock": 0,
-    "lastUpdate": "2026-03-19T05:17:50Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-19T06:35:34Z",
+    "cycle": 1
   },
   {
     "name": "UD RAHMAT",
@@ -379,10 +379,10 @@
   },
   {
     "name": "ABDUL WAFI",
-    "stock": 54,
+    "stock": 49,
     "lastStock": 0,
-    "lastUpdate": "2026-03-19T06:13:37Z",
-    "cycle": 1
+    "lastUpdate": "2026-03-19T06:37:56Z",
+    "cycle": 2
   },
   {
     "name": "YUNIS WAHYUNI",
@@ -442,10 +442,10 @@
   },
   {
     "name": "ALFIAN DWI A.",
-    "stock": 50,
+    "stock": 44,
     "lastStock": 0,
-    "lastUpdate": "2026-03-19T05:50:59Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-19T06:38:12Z",
+    "cycle": 1
   },
   {
     "name": "ISTIQOMAH",
@@ -500,8 +500,8 @@
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-19T05:56:42Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-19T06:38:42Z",
+    "cycle": 1
   },
   {
     "name": "TITIK ISMIATIN",
