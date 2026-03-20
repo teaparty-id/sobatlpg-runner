@@ -1,10 +1,10 @@
 [
   {
     "name": "AKBAR RISQ",
-    "stock": 46,
+    "stock": 42,
     "lastStock": 0,
-    "lastUpdate": "2026-03-20T07:19:40Z",
-    "cycle": 2
+    "lastUpdate": "2026-03-20T07:34:35Z",
+    "cycle": 3
   },
   {
     "name": "ATHI HANDAYANI",
@@ -29,38 +29,38 @@
   },
   {
     "name": "BINA MAKMUR",
-    "stock": 17,
+    "stock": 9,
     "lastStock": 0,
-    "lastUpdate": "2026-03-20T07:19:40Z",
-    "cycle": 2
+    "lastUpdate": "2026-03-20T07:34:35Z",
+    "cycle": 3
   },
   {
     "name": "HENDRA KURNIAWAN",
-    "stock": 19,
+    "stock": 9,
     "lastStock": 0,
-    "lastUpdate": "2026-03-20T07:19:40Z",
-    "cycle": 2
+    "lastUpdate": "2026-03-20T07:34:35Z",
+    "cycle": 3
   },
   {
     "name": "SUCIYONO",
-    "stock": 19,
+    "stock": 15,
     "lastStock": 0,
-    "lastUpdate": "2026-03-20T07:19:40Z",
-    "cycle": 2
+    "lastUpdate": "2026-03-20T07:34:35Z",
+    "cycle": 3
   },
   {
     "name": "JAENAL",
-    "stock": 25,
+    "stock": 19,
     "lastStock": 0,
-    "lastUpdate": "2026-03-20T07:25:35Z",
-    "cycle": 2
+    "lastUpdate": "2026-03-20T07:40:00Z",
+    "cycle": 3
   },
   {
     "name": "JOKO SUWARNO",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-20T04:38:05Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-20T07:40:52Z",
+    "cycle": 1
   },
   {
     "name": "KARSONO",
@@ -337,10 +337,10 @@
   },
   {
     "name": "TOKO POJOK",
-    "stock": 35,
+    "stock": 28,
     "lastStock": 0,
-    "lastUpdate": "2026-03-20T07:26:09Z",
-    "cycle": 2
+    "lastUpdate": "2026-03-20T07:41:20Z",
+    "cycle": 3
   },
   {
     "name": "UD RAHMAT",
@@ -379,10 +379,10 @@
   },
   {
     "name": "ABDUL WAFI",
-    "stock": 67,
+    "stock": 66,
     "lastStock": 0,
-    "lastUpdate": "2026-03-20T07:27:56Z",
-    "cycle": 1
+    "lastUpdate": "2026-03-20T07:41:54Z",
+    "cycle": 2
   },
   {
     "name": "YUNIS WAHYUNI",
@@ -407,10 +407,10 @@
   },
   {
     "name": "TK. MAJU",
-    "stock": 6,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-20T07:29:56Z",
-    "cycle": 1
+    "lastUpdate": "2026-03-20T07:42:53Z",
+    "cycle": 2
   },
   {
     "name": "H. JUMAT",
