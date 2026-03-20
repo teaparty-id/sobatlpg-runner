@@ -375,7 +375,7 @@
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-03-20T21:14:39Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "ABDUL WAFI",
@@ -386,10 +386,10 @@
   },
   {
     "name": "YUNIS WAHYUNI",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-20T21:16:22Z",
-    "cycle": 4
+    "lastUpdate": "2026-03-20T21:16:50Z",
+    "cycle": 0
   },
   {
     "name": "ROSIDI",
@@ -493,8 +493,8 @@
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-20T21:16:22Z",
-    "cycle": 4
+    "lastUpdate": "2026-03-20T21:16:50Z",
+    "cycle": 0
   },
   {
     "name": "TITIK ISMIATIN",
