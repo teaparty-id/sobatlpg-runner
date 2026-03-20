@@ -484,17 +484,17 @@
   },
   {
     "name": "WIKAN K",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-20T15:50:45Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-20T18:50:55Z",
+    "cycle": 1
   },
   {
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-20T18:50:19Z",
-    "cycle": 3
+    "lastUpdate": "2026-03-20T18:50:55Z",
+    "cycle": 4
   },
   {
     "name": "TITIK ISMIATIN",
