@@ -351,24 +351,24 @@
   },
   {
     "name": "ULFA MARIA",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-20T11:59:20Z",
-    "cycle": 1
+    "lastUpdate": "2026-03-20T12:00:01Z",
+    "cycle": 2
   },
   {
     "name": "TOKO SURYATI",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-20T11:59:20Z",
-    "cycle": 1
+    "lastUpdate": "2026-03-20T12:00:01Z",
+    "cycle": 2
   },
   {
     "name": "SUDJIONO",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-20T11:59:20Z",
-    "cycle": 1
+    "lastUpdate": "2026-03-20T12:00:01Z",
+    "cycle": 2
   },
   {
     "name": "ANDRI HERU CAHYONO",
@@ -493,8 +493,8 @@
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-20T11:59:20Z",
-    "cycle": 1
+    "lastUpdate": "2026-03-20T12:00:01Z",
+    "cycle": 2
   },
   {
     "name": "TITIK ISMIATIN",
