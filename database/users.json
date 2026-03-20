@@ -22,10 +22,10 @@
   },
   {
     "name": "EDI SUGENG SARIPAN",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-20T08:53:36Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-20T11:54:11Z",
+    "cycle": 1
   },
   {
     "name": "BINA MAKMUR",
@@ -316,24 +316,24 @@
   },
   {
     "name": "UD SAMAN HADI",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-20T08:53:36Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-20T11:54:11Z",
+    "cycle": 1
   },
   {
     "name": "SOEKAMTO",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-20T08:53:36Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-20T11:54:11Z",
+    "cycle": 1
   },
   {
     "name": "TOKO TIARA",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-20T08:53:36Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-20T11:54:11Z",
+    "cycle": 1
   },
   {
     "name": "TOKO POJOK",
