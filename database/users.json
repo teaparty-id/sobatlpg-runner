@@ -25,7 +25,7 @@
     "stock": 1,
     "lastStock": 0,
     "lastUpdate": "2026-03-20T17:59:49Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "BINA MAKMUR",
@@ -312,28 +312,28 @@
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-03-20T17:56:10Z",
-    "cycle": 2
+    "cycle": 0
   },
   {
     "name": "UD SAMAN HADI",
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-03-20T17:57:02Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "SOEKAMTO",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-20T17:59:49Z",
-    "cycle": 2
+    "lastUpdate": "2026-03-20T18:00:21Z",
+    "cycle": 0
   },
   {
     "name": "TOKO TIARA",
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-03-20T17:57:02Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "TOKO POJOK",
@@ -494,7 +494,7 @@
     "stock": 1,
     "lastStock": 0,
     "lastUpdate": "2026-03-20T17:58:21Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "TITIK ISMIATIN",
