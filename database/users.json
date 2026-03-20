@@ -78,24 +78,24 @@
   },
   {
     "name": "MOH SAID",
-    "stock": 27,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-20T01:29:38Z",
-    "cycle": 3
-  },
-  {
-    "name": "TOKO 2 PUTRI",
-    "stock": 12,
-    "lastStock": 0,
-    "lastUpdate": "2026-03-20T01:29:38Z",
+    "lastUpdate": "2026-03-20T01:35:56Z",
     "cycle": 4
   },
   {
-    "name": "TOKO IIN",
-    "stock": 53,
+    "name": "TOKO 2 PUTRI",
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-20T01:29:38Z",
-    "cycle": 3
+    "lastUpdate": "2026-03-20T01:35:56Z",
+    "cycle": 5
+  },
+  {
+    "name": "TOKO IIN",
+    "stock": 1,
+    "lastStock": 0,
+    "lastUpdate": "2026-03-20T01:35:56Z",
+    "cycle": 4
   },
   {
     "name": "HJ LILIK LAILIYAH",
@@ -155,10 +155,10 @@
   },
   {
     "name": "BAMBANG HARTONO",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-19T20:55:30Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-20T01:35:56Z",
+    "cycle": 1
   },
   {
     "name": "NADIFATUS SOLEHA",
