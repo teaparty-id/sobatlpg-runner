@@ -25,7 +25,7 @@
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-03-20T18:01:04Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "BINA MAKMUR",
@@ -354,21 +354,21 @@
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-03-20T18:01:04Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "TOKO SURYATI",
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-03-20T18:01:04Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "SUDJIONO",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-20T18:03:58Z",
-    "cycle": 2
+    "lastUpdate": "2026-03-20T18:04:27Z",
+    "cycle": 0
   },
   {
     "name": "ANDRI HERU CAHYONO",
@@ -494,7 +494,7 @@
     "stock": 1,
     "lastStock": 0,
     "lastUpdate": "2026-03-20T18:03:30Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "TITIK ISMIATIN",
