@@ -379,10 +379,10 @@
   },
   {
     "name": "ABDUL WAFI",
-    "stock": 91,
+    "stock": 85,
     "lastStock": 0,
-    "lastUpdate": "2026-03-20T03:01:21Z",
-    "cycle": 4
+    "lastUpdate": "2026-03-20T03:14:58Z",
+    "cycle": 5
   },
   {
     "name": "YUNIS WAHYUNI",
@@ -407,17 +407,17 @@
   },
   {
     "name": "TK. MAJU",
-    "stock": 58,
+    "stock": 55,
     "lastStock": 0,
-    "lastUpdate": "2026-03-20T03:02:21Z",
-    "cycle": 4
+    "lastUpdate": "2026-03-20T03:14:58Z",
+    "cycle": 5
   },
   {
     "name": "H. JUMAT",
-    "stock": 21,
+    "stock": 15,
     "lastStock": 0,
-    "lastUpdate": "2026-03-20T03:04:55Z",
-    "cycle": 4
+    "lastUpdate": "2026-03-20T03:14:58Z",
+    "cycle": 5
   },
   {
     "name": "HARSININGSIH",
@@ -442,10 +442,10 @@
   },
   {
     "name": "ALFIAN DWI A.",
-    "stock": 91,
+    "stock": 85,
     "lastStock": 0,
-    "lastUpdate": "2026-03-20T03:07:04Z",
-    "cycle": 2
+    "lastUpdate": "2026-03-20T03:14:58Z",
+    "cycle": 3
   },
   {
     "name": "ISTIQOMAH",
@@ -458,36 +458,36 @@
     "name": "TOKO IRAWAN",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-19T21:21:13Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-20T03:19:08Z",
+    "cycle": 1
   },
   {
     "name": "SUMBER REJEKI",
-    "stock": 0,
+    "stock": 71,
     "lastStock": 1,
-    "lastUpdate": "2026-03-19T21:21:13Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-20T03:19:44Z",
+    "cycle": 1
   },
   {
     "name": "SUPARMAN",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-19T21:23:50Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-20T03:19:48Z",
+    "cycle": 1
   },
   {
     "name": "P. SUK",
     "stock": 0,
     "lastStock": 18,
-    "lastUpdate": "2026-03-19T21:23:50Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-20T03:20:04Z",
+    "cycle": 1
   },
   {
     "name": "WIKAN K",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-19T21:23:50Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-20T03:20:20Z",
+    "cycle": 1
   },
   {
     "name": "TUSOK",
