@@ -46,7 +46,7 @@
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-03-20T14:38:58Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "JAENAL",
@@ -123,7 +123,7 @@
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-03-20T14:38:58Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "LUKMAN BS",
@@ -186,14 +186,14 @@
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-03-20T14:38:58Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "ONG SWI GIOK",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-20T14:40:50Z",
-    "cycle": 2
+    "lastUpdate": "2026-03-20T14:41:22Z",
+    "cycle": 0
   },
   {
     "name": "YUSUF ISMAIL",
@@ -494,7 +494,7 @@
     "stock": 1,
     "lastStock": 0,
     "lastUpdate": "2026-03-20T14:40:50Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "TITIK ISMIATIN",
