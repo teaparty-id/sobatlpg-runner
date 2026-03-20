@@ -248,8 +248,8 @@
     "name": "BUDI",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-20T08:43:40Z",
-    "cycle": 2
+    "lastUpdate": "2026-03-20T08:44:26Z",
+    "cycle": 3
   },
   {
     "name": "YULI SORAYA",
@@ -262,22 +262,22 @@
     "name": "SUSILO",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-20T08:43:40Z",
-    "cycle": 2
+    "lastUpdate": "2026-03-20T08:44:26Z",
+    "cycle": 3
   },
   {
     "name": "HJ. HAERONI",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-20T05:43:54Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-20T08:44:26Z",
+    "cycle": 1
   },
   {
     "name": "IMA",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-20T05:43:54Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-20T08:44:26Z",
+    "cycle": 1
   },
   {
     "name": "DARMAWAN P",
