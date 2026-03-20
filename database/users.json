@@ -52,8 +52,8 @@
     "name": "JAENAL",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-20T20:33:56Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-20T23:34:27Z",
+    "cycle": 1
   },
   {
     "name": "JOKO SUWARNO",
@@ -134,38 +134,38 @@
   },
   {
     "name": "BISTON MANURUNG",
-    "stock": 14,
+    "stock": 5,
     "lastStock": 0,
-    "lastUpdate": "2026-03-20T23:29:39Z",
-    "cycle": 3
+    "lastUpdate": "2026-03-20T23:34:27Z",
+    "cycle": 4
   },
   {
     "name": "JAMILAH",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-20T20:30:13Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-20T23:34:27Z",
+    "cycle": 1
   },
   {
     "name": "YUDA",
-    "stock": 0,
+    "stock": 5,
     "lastStock": 0,
-    "lastUpdate": "2026-03-20T20:33:13Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-20T23:34:27Z",
+    "cycle": 1
   },
   {
     "name": "BAMBANG HARTONO",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-20T20:30:13Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-20T23:34:59Z",
+    "cycle": 1
   },
   {
     "name": "NADIFATUS SOLEHA",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-20T20:30:13Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-20T23:35:07Z",
+    "cycle": 1
   },
   {
     "name": "SUROSO",
