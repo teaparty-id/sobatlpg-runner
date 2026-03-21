@@ -3,7 +3,7 @@
     "name": "AKBAR RISQ",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-21T15:23:04Z",
+    "lastUpdate": "2026-03-21T18:23:24Z",
     "cycle": 0
   },
   {
@@ -347,7 +347,7 @@
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-03-21T18:21:52Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "ULFA MARIA",
@@ -395,7 +395,7 @@
     "name": "ROSIDI",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-21T15:23:04Z",
+    "lastUpdate": "2026-03-21T18:23:24Z",
     "cycle": 0
   },
   {
@@ -493,8 +493,8 @@
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-21T18:22:40Z",
-    "cycle": 4
+    "lastUpdate": "2026-03-21T18:23:24Z",
+    "cycle": 0
   },
   {
     "name": "TITIK ISMIATIN",
