@@ -11,13 +11,13 @@
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-03-21T00:51:54Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "CINDRAWATI",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-20T22:02:20Z",
+    "lastUpdate": "2026-03-21T01:06:48Z",
     "cycle": 0
   },
   {
@@ -382,7 +382,7 @@
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-03-21T00:51:54Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "YUNIS WAHYUNI",
@@ -417,7 +417,7 @@
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-03-21T00:51:54Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "HARSININGSIH",
@@ -456,16 +456,16 @@
   },
   {
     "name": "TOKO IRAWAN",
-    "stock": 12,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-21T01:01:25Z",
-    "cycle": 4
+    "lastUpdate": "2026-03-21T01:06:48Z",
+    "cycle": 0
   },
   {
     "name": "SUMBER REJEKI",
     "stock": 0,
     "lastStock": 1,
-    "lastUpdate": "2026-03-20T22:04:49Z",
+    "lastUpdate": "2026-03-21T01:06:48Z",
     "cycle": 0
   },
   {
@@ -473,48 +473,48 @@
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-03-21T00:45:47Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "P. SUK",
     "stock": 0,
     "lastStock": 18,
     "lastUpdate": "2026-03-21T00:45:47Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "WIKAN K",
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-03-21T00:57:04Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
     "lastUpdate": "2026-03-21T00:52:26Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "TITIK ISMIATIN",
     "stock": 0,
     "lastStock": 3,
     "lastUpdate": "2026-03-21T00:57:04Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "SRI UTAMI",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-20T22:01:36Z",
+    "lastUpdate": "2026-03-21T01:06:48Z",
     "cycle": 0
   },
   {
     "name": "TUSOK",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-20T22:06:21Z",
+    "lastUpdate": "2026-03-21T01:07:16Z",
     "cycle": 0
   }
 ]
