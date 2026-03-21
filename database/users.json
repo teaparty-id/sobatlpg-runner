@@ -120,10 +120,10 @@
   },
   {
     "name": "ROSA V",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-21T11:43:43Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-21T14:43:56Z",
+    "cycle": 1
   },
   {
     "name": "LUKMAN BS",
@@ -493,8 +493,8 @@
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-21T14:42:03Z",
-    "cycle": 2
+    "lastUpdate": "2026-03-21T14:43:56Z",
+    "cycle": 3
   },
   {
     "name": "TITIK ISMIATIN",
