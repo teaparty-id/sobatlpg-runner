@@ -199,8 +199,8 @@
     "name": "YUSUF ISMAIL",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-21T11:50:44Z",
-    "cycle": 3
+    "lastUpdate": "2026-03-21T11:51:12Z",
+    "cycle": 4
   },
   {
     "name": "SUPARNI",
@@ -225,10 +225,10 @@
   },
   {
     "name": "MOH HAFIF",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-21T08:50:57Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-21T11:51:12Z",
+    "cycle": 1
   },
   {
     "name": "SAMSUL ARIFIN",
