@@ -36,10 +36,10 @@
   },
   {
     "name": "HENDRA KURNIAWAN",
-    "stock": 0,
+    "stock": 37,
     "lastStock": 0,
-    "lastUpdate": "2026-03-21T20:20:30Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-21T23:21:20Z",
+    "cycle": 1
   },
   {
     "name": "SUCIYONO",
@@ -85,10 +85,10 @@
   },
   {
     "name": "TOKO 2 PUTRI",
-    "stock": 0,
+    "stock": 27,
     "lastStock": 0,
-    "lastUpdate": "2026-03-21T20:20:30Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-21T23:21:20Z",
+    "cycle": 1
   },
   {
     "name": "TOKO IIN",
@@ -493,8 +493,8 @@
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-21T23:20:26Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-21T23:21:20Z",
+    "cycle": 1
   },
   {
     "name": "TITIK ISMIATIN",
