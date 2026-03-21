@@ -95,7 +95,7 @@
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-03-21T10:16:19Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "HJ LILIK LAILIYAH",
@@ -255,7 +255,7 @@
     "name": "YULI SORAYA",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-21T07:17:13Z",
+    "lastUpdate": "2026-03-21T10:17:55Z",
     "cycle": 0
   },
   {
@@ -493,8 +493,8 @@
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-21T10:17:07Z",
-    "cycle": 4
+    "lastUpdate": "2026-03-21T10:17:55Z",
+    "cycle": 0
   },
   {
     "name": "TITIK ISMIATIN",
