@@ -493,8 +493,8 @@
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-21T04:08:32Z",
-    "cycle": 1
+    "lastUpdate": "2026-03-21T04:09:04Z",
+    "cycle": 2
   },
   {
     "name": "TITIK ISMIATIN",
@@ -512,9 +512,9 @@
   },
   {
     "name": "TUSOK",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-21T04:08:32Z",
-    "cycle": 1
+    "lastUpdate": "2026-03-21T04:09:04Z",
+    "cycle": 2
   }
 ]
