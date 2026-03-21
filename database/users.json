@@ -102,7 +102,7 @@
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-03-21T14:23:47Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "ERNA PUJIATI",
@@ -493,8 +493,8 @@
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-21T14:25:13Z",
-    "cycle": 4
+    "lastUpdate": "2026-03-21T14:25:44Z",
+    "cycle": 0
   },
   {
     "name": "TITIK ISMIATIN",
