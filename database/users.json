@@ -46,7 +46,7 @@
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-03-21T14:42:03Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "JAENAL",
@@ -120,10 +120,10 @@
   },
   {
     "name": "ROSA V",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-21T14:45:43Z",
-    "cycle": 4
+    "lastUpdate": "2026-03-21T14:46:14Z",
+    "cycle": 0
   },
   {
     "name": "LUKMAN BS",
@@ -137,7 +137,7 @@
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-03-21T14:42:03Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "JAMILAH",
@@ -151,7 +151,7 @@
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-03-21T14:42:03Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "BAMBANG HARTONO",
@@ -164,7 +164,7 @@
     "name": "NADIFATUS SOLEHA",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-21T11:46:05Z",
+    "lastUpdate": "2026-03-21T14:46:14Z",
     "cycle": 0
   },
   {
@@ -178,7 +178,7 @@
     "name": "HADI SUTOYO",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-21T11:46:05Z",
+    "lastUpdate": "2026-03-21T14:46:14Z",
     "cycle": 0
   },
   {
@@ -494,7 +494,7 @@
     "stock": 1,
     "lastStock": 0,
     "lastUpdate": "2026-03-21T14:45:14Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "TITIK ISMIATIN",
