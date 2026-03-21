@@ -323,10 +323,10 @@
   },
   {
     "name": "SOEKAMTO",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-21T18:10:59Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-21T21:11:26Z",
+    "cycle": 1
   },
   {
     "name": "TOKO TIARA",
@@ -365,10 +365,10 @@
   },
   {
     "name": "SUDJIONO",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-21T18:10:59Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-21T21:11:26Z",
+    "cycle": 1
   },
   {
     "name": "ANDRI HERU CAHYONO",
@@ -493,8 +493,8 @@
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-21T21:10:57Z",
-    "cycle": 3
+    "lastUpdate": "2026-03-21T21:11:26Z",
+    "cycle": 4
   },
   {
     "name": "TITIK ISMIATIN",
