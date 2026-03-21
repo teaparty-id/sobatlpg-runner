@@ -269,22 +269,22 @@
     "name": "HJ. HAERONI",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-21T02:57:06Z",
-    "cycle": 3
+    "lastUpdate": "2026-03-21T02:57:37Z",
+    "cycle": 4
   },
   {
     "name": "IMA",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-20T23:57:22Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-21T02:57:37Z",
+    "cycle": 1
   },
   {
     "name": "DARMAWAN P",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-20T23:57:22Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-21T02:57:37Z",
+    "cycle": 1
   },
   {
     "name": "DIYAH UTAMI",
@@ -295,10 +295,10 @@
   },
   {
     "name": "SALMAH",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-20T23:57:22Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-21T02:57:37Z",
+    "cycle": 1
   },
   {
     "name": "TOKO ANITA",
