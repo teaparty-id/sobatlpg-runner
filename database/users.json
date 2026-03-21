@@ -358,10 +358,10 @@
   },
   {
     "name": "TOKO SURYATI",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-21T06:04:11Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-21T09:04:17Z",
+    "cycle": 1
   },
   {
     "name": "SUDJIONO",
@@ -493,8 +493,8 @@
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-21T09:03:45Z",
-    "cycle": 1
+    "lastUpdate": "2026-03-21T09:04:17Z",
+    "cycle": 2
   },
   {
     "name": "TITIK ISMIATIN",
