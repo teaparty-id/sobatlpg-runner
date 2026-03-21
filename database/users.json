@@ -288,10 +288,10 @@
   },
   {
     "name": "DIYAH UTAMI",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-21T02:55:52Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-21T05:56:00Z",
+    "cycle": 1
   },
   {
     "name": "SALMAH",
@@ -493,8 +493,8 @@
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-21T05:55:28Z",
-    "cycle": 2
+    "lastUpdate": "2026-03-21T05:56:00Z",
+    "cycle": 3
   },
   {
     "name": "TITIK ISMIATIN",
