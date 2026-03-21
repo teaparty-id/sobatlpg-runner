@@ -225,10 +225,10 @@
   },
   {
     "name": "MOH HAFIF",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-21T02:49:08Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-21T05:49:14Z",
+    "cycle": 1
   },
   {
     "name": "SAMSUL ARIFIN",
@@ -493,8 +493,8 @@
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-21T05:48:47Z",
-    "cycle": 2
+    "lastUpdate": "2026-03-21T05:49:14Z",
+    "cycle": 3
   },
   {
     "name": "TITIK ISMIATIN",
