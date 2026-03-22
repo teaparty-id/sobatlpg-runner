@@ -358,10 +358,10 @@
   },
   {
     "name": "TOKO SURYATI",
-    "stock": 33,
+    "stock": 26,
     "lastStock": 0,
-    "lastUpdate": "2026-03-22T07:09:22Z",
-    "cycle": 2
+    "lastUpdate": "2026-03-22T07:14:17Z",
+    "cycle": 3
   },
   {
     "name": "SUDJIONO",
@@ -416,22 +416,22 @@
     "name": "H. JUMAT",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-22T04:10:34Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-22T07:14:17Z",
+    "cycle": 1
   },
   {
     "name": "HARSININGSIH",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-22T04:11:06Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-22T07:14:17Z",
+    "cycle": 1
   },
   {
     "name": "CAHYA HERAWATI",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-22T04:11:40Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-22T07:14:17Z",
+    "cycle": 1
   },
   {
     "name": "MISRI CICI",
@@ -493,8 +493,8 @@
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-22T07:09:22Z",
-    "cycle": 2
+    "lastUpdate": "2026-03-22T07:14:51Z",
+    "cycle": 3
   },
   {
     "name": "TITIK ISMIATIN",
