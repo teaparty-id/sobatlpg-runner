@@ -379,10 +379,10 @@
   },
   {
     "name": "ABDUL WAFI",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-22T11:46:03Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-22T14:46:47Z",
+    "cycle": 1
   },
   {
     "name": "YUNIS WAHYUNI",
@@ -493,8 +493,8 @@
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-22T14:45:50Z",
-    "cycle": 4
+    "lastUpdate": "2026-03-22T14:46:47Z",
+    "cycle": 5
   },
   {
     "name": "TITIK ISMIATIN",
