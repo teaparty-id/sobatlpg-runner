@@ -318,22 +318,22 @@
     "name": "UD SAMAN HADI",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-22T19:03:21Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-22T22:03:21Z",
+    "cycle": 1
   },
   {
     "name": "SOEKAMTO",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-22T19:03:21Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-22T22:03:21Z",
+    "cycle": 1
   },
   {
     "name": "TOKO TIARA",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-22T19:03:21Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-22T22:03:21Z",
+    "cycle": 1
   },
   {
     "name": "TOKO POJOK",
@@ -493,8 +493,8 @@
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-22T22:01:11Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-22T22:03:21Z",
+    "cycle": 1
   },
   {
     "name": "TITIK ISMIATIN",
