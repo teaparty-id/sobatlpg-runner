@@ -319,21 +319,21 @@
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-03-22T22:03:21Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "SOEKAMTO",
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-03-22T22:03:21Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "TOKO TIARA",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-22T22:05:16Z",
-    "cycle": 4
+    "lastUpdate": "2026-03-22T22:05:44Z",
+    "cycle": 0
   },
   {
     "name": "TOKO POJOK",
@@ -493,8 +493,8 @@
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-22T22:05:16Z",
-    "cycle": 4
+    "lastUpdate": "2026-03-22T22:05:44Z",
+    "cycle": 0
   },
   {
     "name": "TITIK ISMIATIN",
