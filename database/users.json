@@ -480,28 +480,28 @@
     "stock": 0,
     "lastStock": 18,
     "lastUpdate": "2026-03-22T07:44:17Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "WIKAN K",
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-03-22T07:44:17Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
     "lastUpdate": "2026-03-22T07:44:17Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "TITIK ISMIATIN",
-    "stock": 1,
-    "lastStock": 0,
-    "lastUpdate": "2026-03-22T07:46:03Z",
-    "cycle": 4
+    "stock": 0,
+    "lastStock": 3,
+    "lastUpdate": "2026-03-22T07:46:34Z",
+    "cycle": 0
   },
   {
     "name": "SRI UTAMI",
