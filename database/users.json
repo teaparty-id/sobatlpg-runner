@@ -36,24 +36,24 @@
   },
   {
     "name": "HENDRA KURNIAWAN",
-    "stock": 14,
+    "stock": 8,
     "lastStock": 0,
-    "lastUpdate": "2026-03-21T23:43:29Z",
-    "cycle": 4
+    "lastUpdate": "2026-03-21T23:53:18Z",
+    "cycle": 5
   },
   {
     "name": "SUCIYONO",
-    "stock": 0,
+    "stock": 65,
     "lastStock": 0,
-    "lastUpdate": "2026-03-21T20:43:43Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-21T23:53:18Z",
+    "cycle": 1
   },
   {
     "name": "JAENAL",
-    "stock": 61,
+    "stock": 58,
     "lastStock": 0,
-    "lastUpdate": "2026-03-21T23:43:29Z",
-    "cycle": 1
+    "lastUpdate": "2026-03-21T23:53:18Z",
+    "cycle": 2
   },
   {
     "name": "JOKO SUWARNO",
@@ -64,10 +64,10 @@
   },
   {
     "name": "KARSONO",
-    "stock": 28,
+    "stock": 23,
     "lastStock": 0,
-    "lastUpdate": "2026-03-21T23:43:29Z",
-    "cycle": 3
+    "lastUpdate": "2026-03-21T23:53:18Z",
+    "cycle": 4
   },
   {
     "name": "LUTFI A.",
@@ -78,10 +78,10 @@
   },
   {
     "name": "MOH SAID",
-    "stock": 12,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-21T23:43:29Z",
-    "cycle": 3
+    "lastUpdate": "2026-03-21T23:58:53Z",
+    "cycle": 4
   },
   {
     "name": "TOKO 2 PUTRI",
@@ -122,8 +122,8 @@
     "name": "ROSA V",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-21T20:49:14Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-21T23:59:12Z",
+    "cycle": 1
   },
   {
     "name": "LUKMAN BS",
@@ -171,8 +171,8 @@
     "name": "SUROSO",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-21T20:52:33Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-21T23:59:38Z",
+    "cycle": 1
   },
   {
     "name": "HADI SUTOYO",
@@ -185,15 +185,15 @@
     "name": "SRI HIDAYATI",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-21T20:50:05Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-21T23:59:48Z",
+    "cycle": 1
   },
   {
     "name": "ONG SWI GIOK",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-21T20:50:05Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-22T00:00:09Z",
+    "cycle": 1
   },
   {
     "name": "YUSUF ISMAIL",
