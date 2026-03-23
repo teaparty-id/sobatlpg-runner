@@ -232,10 +232,10 @@
   },
   {
     "name": "SAMSUL ARIFIN",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-23T10:58:18Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-23T13:58:59Z",
+    "cycle": 1
   },
   {
     "name": "HERDIANA DIYAH S",
@@ -493,8 +493,8 @@
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-23T13:57:53Z",
-    "cycle": 3
+    "lastUpdate": "2026-03-23T13:58:59Z",
+    "cycle": 4
   },
   {
     "name": "TITIK ISMIATIN",
