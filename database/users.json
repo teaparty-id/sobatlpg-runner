@@ -1,10 +1,10 @@
 [
   {
     "name": "AKBAR RISQ",
-    "stock": 25,
+    "stock": 23,
     "lastStock": 0,
-    "lastUpdate": "2026-03-23T05:47:45Z",
-    "cycle": 1
+    "lastUpdate": "2026-03-23T06:00:20Z",
+    "cycle": 2
   },
   {
     "name": "ATHI HANDAYANI",
@@ -29,45 +29,45 @@
   },
   {
     "name": "BINA MAKMUR",
-    "stock": 41,
+    "stock": 34,
     "lastStock": 0,
-    "lastUpdate": "2026-03-23T05:47:45Z",
-    "cycle": 1
+    "lastUpdate": "2026-03-23T06:00:20Z",
+    "cycle": 2
   },
   {
     "name": "HENDRA KURNIAWAN",
-    "stock": 31,
+    "stock": 25,
     "lastStock": 0,
-    "lastUpdate": "2026-03-23T05:47:45Z",
-    "cycle": 1
+    "lastUpdate": "2026-03-23T06:00:20Z",
+    "cycle": 2
   },
   {
     "name": "SUCIYONO",
-    "stock": 11,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-23T05:47:45Z",
-    "cycle": 1
+    "lastUpdate": "2026-03-23T06:00:20Z",
+    "cycle": 2
   },
   {
     "name": "JAENAL",
-    "stock": 49,
+    "stock": 42,
     "lastStock": 0,
-    "lastUpdate": "2026-03-23T05:52:25Z",
-    "cycle": 1
+    "lastUpdate": "2026-03-23T06:04:13Z",
+    "cycle": 2
   },
   {
     "name": "JOKO SUWARNO",
-    "stock": 22,
+    "stock": 16,
     "lastStock": 0,
-    "lastUpdate": "2026-03-23T05:53:39Z",
-    "cycle": 1
+    "lastUpdate": "2026-03-23T06:05:12Z",
+    "cycle": 2
   },
   {
     "name": "KARSONO",
-    "stock": 22,
+    "stock": 16,
     "lastStock": 0,
-    "lastUpdate": "2026-03-23T05:54:12Z",
-    "cycle": 1
+    "lastUpdate": "2026-03-23T06:05:58Z",
+    "cycle": 2
   },
   {
     "name": "LUTFI A.",
@@ -339,8 +339,8 @@
     "name": "TOKO POJOK",
     "stock": 66,
     "lastStock": 0,
-    "lastUpdate": "2026-03-23T04:44:58Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-23T06:08:13Z",
+    "cycle": 1
   },
   {
     "name": "UD RAHMAT",
@@ -379,10 +379,10 @@
   },
   {
     "name": "ABDUL WAFI",
-    "stock": 1,
+    "stock": 57,
     "lastStock": 0,
-    "lastUpdate": "2026-03-23T04:57:30Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-23T06:08:20Z",
+    "cycle": 1
   },
   {
     "name": "YUNIS WAHYUNI",
