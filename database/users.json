@@ -451,15 +451,15 @@
     "name": "ISTIQOMAH",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-23T14:37:22Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-23T17:37:57Z",
+    "cycle": 1
   },
   {
     "name": "TOKO IRAWAN",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-23T14:37:22Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-23T17:37:57Z",
+    "cycle": 1
   },
   {
     "name": "SUMBER REJEKI",
@@ -493,8 +493,8 @@
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-23T17:37:15Z",
-    "cycle": 1
+    "lastUpdate": "2026-03-23T17:37:57Z",
+    "cycle": 2
   },
   {
     "name": "TITIK ISMIATIN",
