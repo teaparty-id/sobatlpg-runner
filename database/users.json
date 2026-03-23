@@ -64,10 +64,10 @@
   },
   {
     "name": "KARSONO",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-23T07:29:29Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-23T10:29:43Z",
+    "cycle": 1
   },
   {
     "name": "LUTFI A.",
@@ -493,8 +493,8 @@
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-23T10:28:57Z",
-    "cycle": 3
+    "lastUpdate": "2026-03-23T10:29:43Z",
+    "cycle": 4
   },
   {
     "name": "TITIK ISMIATIN",
