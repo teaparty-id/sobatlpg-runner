@@ -157,8 +157,8 @@
     "name": "BAMBANG HARTONO",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-23T11:03:12Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-23T14:03:21Z",
+    "cycle": 1
   },
   {
     "name": "NADIFATUS SOLEHA",
@@ -241,29 +241,29 @@
     "name": "HERDIANA DIYAH S",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-23T11:03:12Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-23T14:03:21Z",
+    "cycle": 1
   },
   {
     "name": "BUDI",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-23T11:03:12Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-23T14:03:21Z",
+    "cycle": 1
   },
   {
     "name": "YULI SORAYA",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-23T11:03:12Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-23T14:03:21Z",
+    "cycle": 1
   },
   {
     "name": "SUSILO",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-23T11:03:43Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-23T14:03:52Z",
+    "cycle": 1
   },
   {
     "name": "HJ. HAERONI",
@@ -493,8 +493,8 @@
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-23T14:02:31Z",
-    "cycle": 3
+    "lastUpdate": "2026-03-23T14:03:53Z",
+    "cycle": 4
   },
   {
     "name": "TITIK ISMIATIN",
