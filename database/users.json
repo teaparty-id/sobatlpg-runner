@@ -67,7 +67,7 @@
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-03-23T13:31:34Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "LUTFI A.",
@@ -493,8 +493,8 @@
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-23T13:33:17Z",
-    "cycle": 4
+    "lastUpdate": "2026-03-23T13:34:05Z",
+    "cycle": 0
   },
   {
     "name": "TITIK ISMIATIN",
