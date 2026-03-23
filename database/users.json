@@ -10,8 +10,8 @@
     "name": "ATHI HANDAYANI",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-22T21:30:31Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-23T00:37:36Z",
+    "cycle": 1
   },
   {
     "name": "CINDRAWATI",
@@ -36,17 +36,17 @@
   },
   {
     "name": "HENDRA KURNIAWAN",
-    "stock": 74,
+    "stock": 67,
     "lastStock": 0,
-    "lastUpdate": "2026-03-23T00:28:00Z",
-    "cycle": 2
+    "lastUpdate": "2026-03-23T00:37:36Z",
+    "cycle": 3
   },
   {
     "name": "SUCIYONO",
-    "stock": 91,
+    "stock": 82,
     "lastStock": 0,
-    "lastUpdate": "2026-03-23T00:28:00Z",
-    "cycle": 1
+    "lastUpdate": "2026-03-23T00:37:36Z",
+    "cycle": 2
   },
   {
     "name": "JAENAL",
@@ -57,45 +57,45 @@
   },
   {
     "name": "JOKO SUWARNO",
-    "stock": 67,
+    "stock": 64,
     "lastStock": 0,
-    "lastUpdate": "2026-03-23T00:28:00Z",
-    "cycle": 1
+    "lastUpdate": "2026-03-23T00:37:36Z",
+    "cycle": 2
   },
   {
     "name": "KARSONO",
-    "stock": 0,
+    "stock": 69,
     "lastStock": 0,
-    "lastUpdate": "2026-03-22T21:33:46Z",
-    "cycle": 0
-  },
-  {
-    "name": "LUTFI A.",
-    "stock": 71,
-    "lastStock": 0,
-    "lastUpdate": "2026-03-23T00:28:00Z",
-    "cycle": 3
-  },
-  {
-    "name": "MOH SAID",
-    "stock": 52,
-    "lastStock": 0,
-    "lastUpdate": "2026-03-23T00:33:09Z",
+    "lastUpdate": "2026-03-23T00:38:20Z",
     "cycle": 1
   },
   {
-    "name": "TOKO 2 PUTRI",
-    "stock": 0,
+    "name": "LUTFI A.",
+    "stock": 67,
     "lastStock": 0,
-    "lastUpdate": "2026-03-22T21:35:22Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-23T00:41:36Z",
+    "cycle": 4
+  },
+  {
+    "name": "MOH SAID",
+    "stock": 44,
+    "lastStock": 0,
+    "lastUpdate": "2026-03-23T00:42:19Z",
+    "cycle": 2
+  },
+  {
+    "name": "TOKO 2 PUTRI",
+    "stock": 54,
+    "lastStock": 0,
+    "lastUpdate": "2026-03-23T00:43:13Z",
+    "cycle": 1
   },
   {
     "name": "TOKO IIN",
-    "stock": 0,
+    "stock": 71,
     "lastStock": 0,
-    "lastUpdate": "2026-03-22T21:37:00Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-23T00:44:20Z",
+    "cycle": 1
   },
   {
     "name": "HJ LILIK LAILIYAH",
