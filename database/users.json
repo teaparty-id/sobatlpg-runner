@@ -15,10 +15,10 @@
   },
   {
     "name": "CINDRAWATI",
-    "stock": 0,
+    "stock": 54,
     "lastStock": 0,
-    "lastUpdate": "2026-03-22T22:20:21Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-23T01:23:25Z",
+    "cycle": 1
   },
   {
     "name": "EDI SUGENG SARIPAN",
@@ -64,10 +64,10 @@
   },
   {
     "name": "KARSONO",
-    "stock": 60,
+    "stock": 59,
     "lastStock": 0,
-    "lastUpdate": "2026-03-23T01:13:13Z",
-    "cycle": 4
+    "lastUpdate": "2026-03-23T01:23:25Z",
+    "cycle": 5
   },
   {
     "name": "LUTFI A.",
@@ -85,17 +85,17 @@
   },
   {
     "name": "TOKO 2 PUTRI",
-    "stock": 29,
+    "stock": 21,
     "lastStock": 0,
-    "lastUpdate": "2026-03-23T01:16:47Z",
-    "cycle": 4
+    "lastUpdate": "2026-03-23T01:23:25Z",
+    "cycle": 5
   },
   {
     "name": "TOKO IIN",
-    "stock": 36,
+    "stock": 30,
     "lastStock": 0,
-    "lastUpdate": "2026-03-23T01:17:21Z",
-    "cycle": 4
+    "lastUpdate": "2026-03-23T01:23:25Z",
+    "cycle": 5
   },
   {
     "name": "HJ LILIK LAILIYAH",
@@ -164,29 +164,29 @@
     "name": "NADIFATUS SOLEHA",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-22T21:50:55Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-23T01:27:35Z",
+    "cycle": 1
   },
   {
     "name": "SUROSO",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-22T21:46:59Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-23T01:28:04Z",
+    "cycle": 1
   },
   {
     "name": "HADI SUTOYO",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-22T21:50:55Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-23T01:28:10Z",
+    "cycle": 1
   },
   {
     "name": "SRI HIDAYATI",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-22T21:50:55Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-23T01:28:17Z",
+    "cycle": 1
   },
   {
     "name": "ONG SWI GIOK",
@@ -199,8 +199,8 @@
     "name": "YUSUF ISMAIL",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-22T21:53:30Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-23T01:28:33Z",
+    "cycle": 1
   },
   {
     "name": "SUPARNI",
