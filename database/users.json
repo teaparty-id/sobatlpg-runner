@@ -1,10 +1,10 @@
 [
   {
     "name": "AKBAR RISQ",
-    "stock": 6,
+    "stock": 3,
     "lastStock": 0,
-    "lastUpdate": "2026-03-23T07:24:49Z",
-    "cycle": 1
+    "lastUpdate": "2026-03-23T07:36:50Z",
+    "cycle": 2
   },
   {
     "name": "ATHI HANDAYANI",
@@ -29,17 +29,17 @@
   },
   {
     "name": "BINA MAKMUR",
-    "stock": 17,
+    "stock": 10,
     "lastStock": 0,
-    "lastUpdate": "2026-03-23T07:24:49Z",
-    "cycle": 1
+    "lastUpdate": "2026-03-23T07:36:50Z",
+    "cycle": 2
   },
   {
     "name": "HENDRA KURNIAWAN",
-    "stock": 7,
+    "stock": 3,
     "lastStock": 0,
-    "lastUpdate": "2026-03-23T07:24:49Z",
-    "cycle": 1
+    "lastUpdate": "2026-03-23T07:36:50Z",
+    "cycle": 2
   },
   {
     "name": "SUCIYONO",
@@ -50,10 +50,10 @@
   },
   {
     "name": "JAENAL",
-    "stock": 21,
+    "stock": 14,
     "lastStock": 0,
-    "lastUpdate": "2026-03-23T07:24:49Z",
-    "cycle": 1
+    "lastUpdate": "2026-03-23T07:36:50Z",
+    "cycle": 2
   },
   {
     "name": "JOKO SUWARNO",
@@ -87,8 +87,8 @@
     "name": "TOKO 2 PUTRI",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-23T04:30:51Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-23T07:41:32Z",
+    "cycle": 1
   },
   {
     "name": "TOKO IIN",
@@ -143,29 +143,29 @@
     "name": "JAMILAH",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-23T04:30:51Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-23T07:41:44Z",
+    "cycle": 1
   },
   {
     "name": "YUDA",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-23T04:30:51Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-23T07:42:12Z",
+    "cycle": 1
   },
   {
     "name": "BAMBANG HARTONO",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-23T04:31:24Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-23T07:42:16Z",
+    "cycle": 1
   },
   {
     "name": "NADIFATUS SOLEHA",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-23T04:35:03Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-23T07:42:46Z",
+    "cycle": 1
   },
   {
     "name": "SUROSO",
