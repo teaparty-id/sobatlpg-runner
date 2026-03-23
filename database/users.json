@@ -15,10 +15,10 @@
   },
   {
     "name": "CINDRAWATI",
-    "stock": 46,
+    "stock": 39,
     "lastStock": 0,
-    "lastUpdate": "2026-03-23T01:29:48Z",
-    "cycle": 2
+    "lastUpdate": "2026-03-23T01:34:17Z",
+    "cycle": 3
   },
   {
     "name": "EDI SUGENG SARIPAN",
@@ -232,10 +232,10 @@
   },
   {
     "name": "SAMSUL ARIFIN",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-23T01:30:23Z",
-    "cycle": 1
+    "lastUpdate": "2026-03-23T01:34:17Z",
+    "cycle": 2
   },
   {
     "name": "HERDIANA DIYAH S",
@@ -246,38 +246,38 @@
   },
   {
     "name": "BUDI",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-23T01:30:25Z",
-    "cycle": 1
+    "lastUpdate": "2026-03-23T01:34:17Z",
+    "cycle": 2
   },
   {
     "name": "YULI SORAYA",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-22T22:30:48Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-23T01:34:17Z",
+    "cycle": 1
   },
   {
     "name": "SUSILO",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-22T21:59:24Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-23T01:34:45Z",
+    "cycle": 1
   },
   {
     "name": "HJ. HAERONI",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-22T21:57:01Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-23T01:34:47Z",
+    "cycle": 1
   },
   {
     "name": "IMA",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-22T21:57:01Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-23T01:34:48Z",
+    "cycle": 1
   },
   {
     "name": "DARMAWAN P",
