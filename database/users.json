@@ -354,7 +354,7 @@
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-03-23T17:47:28Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "TOKO SURYATI",
@@ -382,7 +382,7 @@
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-03-23T17:49:45Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "YUNIS WAHYUNI",
@@ -493,8 +493,8 @@
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-23T17:49:45Z",
-    "cycle": 4
+    "lastUpdate": "2026-03-23T17:50:49Z",
+    "cycle": 0
   },
   {
     "name": "TITIK ISMIATIN",
