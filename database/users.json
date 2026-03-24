@@ -38,15 +38,15 @@
     "name": "HENDRA KURNIAWAN",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-24T21:56:22Z",
-    "cycle": 1
+    "lastUpdate": "2026-03-24T21:58:01Z",
+    "cycle": 2
   },
   {
     "name": "SUCIYONO",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-24T21:56:26Z",
-    "cycle": 1
+    "lastUpdate": "2026-03-24T21:58:01Z",
+    "cycle": 2
   },
   {
     "name": "JAENAL",
@@ -57,17 +57,17 @@
   },
   {
     "name": "JOKO SUWARNO",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-24T17:07:50Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-24T21:58:01Z",
+    "cycle": 1
   },
   {
     "name": "KARSONO",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-24T17:21:48Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-24T21:58:01Z",
+    "cycle": 1
   },
   {
     "name": "LUTFI A.",
