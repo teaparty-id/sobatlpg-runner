@@ -178,8 +178,8 @@
     "name": "HADI SUTOYO",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-24T05:13:15Z",
-    "cycle": 1
+    "lastUpdate": "2026-03-24T05:14:05Z",
+    "cycle": 2
   },
   {
     "name": "SRI HIDAYATI",
@@ -409,8 +409,8 @@
     "name": "TK. MAJU",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-24T05:13:15Z",
-    "cycle": 3
+    "lastUpdate": "2026-03-24T05:14:05Z",
+    "cycle": 4
   },
   {
     "name": "H. JUMAT",
@@ -442,10 +442,10 @@
   },
   {
     "name": "ALFIAN DWI A.",
-    "stock": 63,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-24T05:03:31Z",
-    "cycle": 2
+    "lastUpdate": "2026-03-24T05:14:05Z",
+    "cycle": 3
   },
   {
     "name": "ISTIQOMAH",
@@ -463,10 +463,10 @@
   },
   {
     "name": "SUMBER REJEKI",
-    "stock": 20,
-    "lastStock": 1,
-    "lastUpdate": "2026-03-24T05:04:01Z",
-    "cycle": 2
+    "stock": 1,
+    "lastStock": 0,
+    "lastUpdate": "2026-03-24T05:14:05Z",
+    "cycle": 3
   },
   {
     "name": "SUPARMAN",
