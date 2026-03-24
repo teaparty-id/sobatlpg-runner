@@ -281,10 +281,10 @@
   },
   {
     "name": "DARMAWAN P",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-24T11:56:54Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-24T14:57:05Z",
+    "cycle": 1
   },
   {
     "name": "DIYAH UTAMI",
@@ -493,8 +493,8 @@
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-24T14:56:32Z",
-    "cycle": 4
+    "lastUpdate": "2026-03-24T14:57:05Z",
+    "cycle": 5
   },
   {
     "name": "TITIK ISMIATIN",
