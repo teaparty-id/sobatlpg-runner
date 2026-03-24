@@ -78,24 +78,24 @@
   },
   {
     "name": "MOH SAID",
-    "stock": 2,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-24T04:33:15Z",
-    "cycle": 4
+    "lastUpdate": "2026-03-24T04:43:15Z",
+    "cycle": 5
   },
   {
     "name": "TOKO 2 PUTRI",
-    "stock": 13,
+    "stock": 8,
     "lastStock": 0,
-    "lastUpdate": "2026-03-24T04:33:15Z",
-    "cycle": 4
+    "lastUpdate": "2026-03-24T04:43:15Z",
+    "cycle": 5
   },
   {
     "name": "TOKO IIN",
-    "stock": 26,
+    "stock": 15,
     "lastStock": 0,
-    "lastUpdate": "2026-03-24T04:33:15Z",
-    "cycle": 4
+    "lastUpdate": "2026-03-24T04:43:15Z",
+    "cycle": 5
   },
   {
     "name": "HJ LILIK LAILIYAH",
@@ -129,8 +129,8 @@
     "name": "LUKMAN BS",
     "stock": 14,
     "lastStock": 0,
-    "lastUpdate": "2026-03-24T04:36:18Z",
-    "cycle": 2
+    "lastUpdate": "2026-03-24T04:43:15Z",
+    "cycle": 3
   },
   {
     "name": "BISTON MANURUNG",
@@ -337,10 +337,10 @@
   },
   {
     "name": "TOKO POJOK",
-    "stock": 58,
+    "stock": 57,
     "lastStock": 0,
-    "lastUpdate": "2026-03-24T04:36:42Z",
-    "cycle": 2
+    "lastUpdate": "2026-03-24T04:45:19Z",
+    "cycle": 3
   },
   {
     "name": "UD RAHMAT",
@@ -379,10 +379,10 @@
   },
   {
     "name": "ABDUL WAFI",
-    "stock": 72,
+    "stock": 63,
     "lastStock": 0,
-    "lastUpdate": "2026-03-24T04:38:40Z",
-    "cycle": 1
+    "lastUpdate": "2026-03-24T04:45:23Z",
+    "cycle": 2
   },
   {
     "name": "YUNIS WAHYUNI",
@@ -407,10 +407,10 @@
   },
   {
     "name": "TK. MAJU",
-    "stock": 51,
+    "stock": 44,
     "lastStock": 0,
-    "lastUpdate": "2026-03-24T01:40:44Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-24T04:48:11Z",
+    "cycle": 1
   },
   {
     "name": "H. JUMAT",
@@ -442,10 +442,10 @@
   },
   {
     "name": "ALFIAN DWI A.",
-    "stock": 72,
+    "stock": 70,
     "lastStock": 0,
-    "lastUpdate": "2026-03-24T00:16:59Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-24T04:49:36Z",
+    "cycle": 1
   },
   {
     "name": "ISTIQOMAH",
@@ -463,10 +463,10 @@
   },
   {
     "name": "SUMBER REJEKI",
-    "stock": 47,
+    "stock": 35,
     "lastStock": 1,
-    "lastUpdate": "2026-03-24T00:17:20Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-24T04:50:38Z",
+    "cycle": 1
   },
   {
     "name": "SUPARMAN",
