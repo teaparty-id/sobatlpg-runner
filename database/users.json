@@ -1,10 +1,10 @@
 [
   {
     "name": "AKBAR RISQ",
-    "stock": 79,
+    "stock": 73,
     "lastStock": 0,
-    "lastUpdate": "2026-03-24T02:08:18Z",
-    "cycle": 3
+    "lastUpdate": "2026-03-24T02:19:28Z",
+    "cycle": 4
   },
   {
     "name": "ATHI HANDAYANI",
@@ -29,17 +29,17 @@
   },
   {
     "name": "BINA MAKMUR",
-    "stock": 89,
+    "stock": 84,
     "lastStock": 0,
-    "lastUpdate": "2026-03-24T02:08:18Z",
-    "cycle": 2
+    "lastUpdate": "2026-03-24T02:19:28Z",
+    "cycle": 3
   },
   {
     "name": "HENDRA KURNIAWAN",
-    "stock": 1,
+    "stock": 67,
     "lastStock": 0,
-    "lastUpdate": "2026-03-24T02:08:18Z",
-    "cycle": 2
+    "lastUpdate": "2026-03-24T02:19:28Z",
+    "cycle": 3
   },
   {
     "name": "SUCIYONO",
@@ -50,10 +50,10 @@
   },
   {
     "name": "JAENAL",
-    "stock": 99,
+    "stock": 98,
     "lastStock": 0,
-    "lastUpdate": "2026-03-24T02:08:18Z",
-    "cycle": 1
+    "lastUpdate": "2026-03-24T02:19:28Z",
+    "cycle": 2
   },
   {
     "name": "JOKO SUWARNO",
@@ -64,10 +64,10 @@
   },
   {
     "name": "KARSONO",
-    "stock": 53,
+    "stock": 46,
     "lastStock": 0,
-    "lastUpdate": "2026-03-24T02:12:28Z",
-    "cycle": 4
+    "lastUpdate": "2026-03-24T02:23:22Z",
+    "cycle": 5
   },
   {
     "name": "LUTFI A.",
@@ -85,10 +85,10 @@
   },
   {
     "name": "TOKO 2 PUTRI",
-    "stock": 47,
+    "stock": 44,
     "lastStock": 0,
-    "lastUpdate": "2026-03-24T02:12:56Z",
-    "cycle": 3
+    "lastUpdate": "2026-03-24T02:24:47Z",
+    "cycle": 4
   },
   {
     "name": "TOKO IIN",
@@ -213,22 +213,22 @@
     "name": "YOGA RAJAN",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-23T22:58:12Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-24T02:26:23Z",
+    "cycle": 1
   },
   {
     "name": "ARIF FAUZI",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-23T23:01:23Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-24T02:26:58Z",
+    "cycle": 1
   },
   {
     "name": "MOH HAFIF",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-23T23:01:23Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-24T02:27:34Z",
+    "cycle": 1
   },
   {
     "name": "SAMSUL ARIFIN",
