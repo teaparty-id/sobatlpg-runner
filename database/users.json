@@ -144,14 +144,14 @@
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-03-24T23:01:40Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "YUDA",
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-03-24T23:01:40Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "BAMBANG HARTONO",
@@ -165,14 +165,14 @@
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-03-24T23:01:40Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "SUROSO",
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-03-24T23:01:40Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "HADI SUTOYO",
@@ -493,8 +493,8 @@
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-24T23:02:56Z",
-    "cycle": 4
+    "lastUpdate": "2026-03-24T23:03:28Z",
+    "cycle": 0
   },
   {
     "name": "TITIK ISMIATIN",
