@@ -1,10 +1,10 @@
 [
   {
     "name": "AKBAR RISQ",
-    "stock": 0,
+    "stock": 88,
     "lastStock": 0,
-    "lastUpdate": "2026-03-23T22:47:34Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-24T01:47:57Z",
+    "cycle": 1
   },
   {
     "name": "ATHI HANDAYANI",
@@ -64,10 +64,10 @@
   },
   {
     "name": "KARSONO",
-    "stock": 64,
+    "stock": 62,
     "lastStock": 0,
-    "lastUpdate": "2026-03-24T01:36:12Z",
-    "cycle": 1
+    "lastUpdate": "2026-03-24T01:47:57Z",
+    "cycle": 2
   },
   {
     "name": "LUTFI A.",
@@ -78,17 +78,17 @@
   },
   {
     "name": "MOH SAID",
-    "stock": 41,
+    "stock": 35,
     "lastStock": 0,
-    "lastUpdate": "2026-03-24T01:36:12Z",
-    "cycle": 3
+    "lastUpdate": "2026-03-24T01:47:57Z",
+    "cycle": 4
   },
   {
     "name": "TOKO 2 PUTRI",
-    "stock": 0,
+    "stock": 59,
     "lastStock": 0,
-    "lastUpdate": "2026-03-23T22:43:29Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-24T01:47:57Z",
+    "cycle": 1
   },
   {
     "name": "TOKO IIN",
@@ -127,10 +127,10 @@
   },
   {
     "name": "LUKMAN BS",
-    "stock": 45,
+    "stock": 36,
     "lastStock": 0,
-    "lastUpdate": "2026-03-24T01:40:17Z",
-    "cycle": 3
+    "lastUpdate": "2026-03-24T01:52:05Z",
+    "cycle": 4
   },
   {
     "name": "BISTON MANURUNG",
@@ -143,15 +143,15 @@
     "name": "JAMILAH",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-23T22:43:29Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-24T01:52:34Z",
+    "cycle": 1
   },
   {
     "name": "YUDA",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-23T22:44:22Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-24T01:52:51Z",
+    "cycle": 1
   },
   {
     "name": "BAMBANG HARTONO",
@@ -164,15 +164,15 @@
     "name": "NADIFATUS SOLEHA",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-23T22:47:34Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-24T01:52:56Z",
+    "cycle": 1
   },
   {
     "name": "SUROSO",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-23T22:52:33Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-24T01:53:07Z",
+    "cycle": 1
   },
   {
     "name": "HADI SUTOYO",
