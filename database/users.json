@@ -87,15 +87,15 @@
     "name": "TOKO 2 PUTRI",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-24T21:59:45Z",
-    "cycle": 1
+    "lastUpdate": "2026-03-24T22:00:57Z",
+    "cycle": 2
   },
   {
     "name": "TOKO IIN",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-24T18:59:56Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-24T22:00:57Z",
+    "cycle": 1
   },
   {
     "name": "HJ LILIK LAILIYAH",
@@ -127,10 +127,10 @@
   },
   {
     "name": "LUKMAN BS",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-24T18:54:26Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-24T22:00:57Z",
+    "cycle": 1
   },
   {
     "name": "BISTON MANURUNG",
@@ -155,10 +155,10 @@
   },
   {
     "name": "BAMBANG HARTONO",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-24T17:22:49Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-24T22:00:57Z",
+    "cycle": 1
   },
   {
     "name": "NADIFATUS SOLEHA",
