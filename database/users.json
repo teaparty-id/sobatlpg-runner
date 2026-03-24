@@ -1,10 +1,10 @@
 [
   {
     "name": "AKBAR RISQ",
-    "stock": 73,
+    "stock": 66,
     "lastStock": 0,
-    "lastUpdate": "2026-03-24T02:19:28Z",
-    "cycle": 4
+    "lastUpdate": "2026-03-24T02:30:37Z",
+    "cycle": 5
   },
   {
     "name": "ATHI HANDAYANI",
@@ -29,17 +29,17 @@
   },
   {
     "name": "BINA MAKMUR",
-    "stock": 84,
+    "stock": 82,
     "lastStock": 0,
-    "lastUpdate": "2026-03-24T02:19:28Z",
-    "cycle": 3
+    "lastUpdate": "2026-03-24T02:30:37Z",
+    "cycle": 4
   },
   {
     "name": "HENDRA KURNIAWAN",
-    "stock": 67,
+    "stock": 66,
     "lastStock": 0,
-    "lastUpdate": "2026-03-24T02:19:28Z",
-    "cycle": 3
+    "lastUpdate": "2026-03-24T02:30:37Z",
+    "cycle": 4
   },
   {
     "name": "SUCIYONO",
@@ -50,10 +50,10 @@
   },
   {
     "name": "JAENAL",
-    "stock": 98,
+    "stock": 95,
     "lastStock": 0,
-    "lastUpdate": "2026-03-24T02:19:28Z",
-    "cycle": 2
+    "lastUpdate": "2026-03-24T02:30:37Z",
+    "cycle": 3
   },
   {
     "name": "JOKO SUWARNO",
@@ -85,10 +85,10 @@
   },
   {
     "name": "TOKO 2 PUTRI",
-    "stock": 44,
+    "stock": 34,
     "lastStock": 0,
-    "lastUpdate": "2026-03-24T02:24:47Z",
-    "cycle": 4
+    "lastUpdate": "2026-03-24T02:34:24Z",
+    "cycle": 5
   },
   {
     "name": "TOKO IIN",
@@ -192,8 +192,8 @@
     "name": "ONG SWI GIOK",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-23T23:31:50Z",
-    "cycle": 1
+    "lastUpdate": "2026-03-24T02:35:08Z",
+    "cycle": 2
   },
   {
     "name": "YUSUF ISMAIL",
@@ -234,22 +234,22 @@
     "name": "SAMSUL ARIFIN",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-23T23:01:23Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-24T02:35:40Z",
+    "cycle": 1
   },
   {
     "name": "HERDIANA DIYAH S",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-23T23:04:18Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-24T02:36:12Z",
+    "cycle": 1
   },
   {
     "name": "BUDI",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-23T23:04:18Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-24T02:36:18Z",
+    "cycle": 1
   },
   {
     "name": "YULI SORAYA",
