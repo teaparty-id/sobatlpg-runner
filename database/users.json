@@ -101,22 +101,22 @@
     "name": "HJ LILIK LAILIYAH",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-24T16:30:22Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-24T19:30:46Z",
+    "cycle": 1
   },
   {
     "name": "ERNA PUJIATI",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-24T16:30:22Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-24T19:30:46Z",
+    "cycle": 1
   },
   {
     "name": "JONI H",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-24T16:30:22Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-24T19:30:46Z",
+    "cycle": 1
   },
   {
     "name": "ROSA V",
@@ -493,8 +493,8 @@
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-24T19:29:50Z",
-    "cycle": 2
+    "lastUpdate": "2026-03-24T19:30:46Z",
+    "cycle": 3
   },
   {
     "name": "TITIK ISMIATIN",
