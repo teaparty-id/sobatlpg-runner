@@ -428,10 +428,10 @@
   },
   {
     "name": "CAHYA HERAWATI",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-24T10:19:09Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-24T13:19:11Z",
+    "cycle": 1
   },
   {
     "name": "MISRI CICI",
@@ -493,8 +493,8 @@
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-24T13:18:19Z",
-    "cycle": 3
+    "lastUpdate": "2026-03-24T13:19:11Z",
+    "cycle": 4
   },
   {
     "name": "TITIK ISMIATIN",
