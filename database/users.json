@@ -52,8 +52,8 @@
     "name": "JAENAL",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-24T10:06:43Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-24T13:06:53Z",
+    "cycle": 1
   },
   {
     "name": "JOKO SUWARNO",
@@ -353,22 +353,22 @@
     "name": "ULFA MARIA",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-24T10:06:43Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-24T13:06:53Z",
+    "cycle": 1
   },
   {
     "name": "TOKO SURYATI",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-24T10:06:43Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-24T13:06:53Z",
+    "cycle": 1
   },
   {
     "name": "SUDJIONO",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-24T10:06:43Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-24T13:06:53Z",
+    "cycle": 1
   },
   {
     "name": "ANDRI HERU CAHYONO",
