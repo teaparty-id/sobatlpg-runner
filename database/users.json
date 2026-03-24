@@ -120,10 +120,10 @@
   },
   {
     "name": "ROSA V",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-24T16:32:57Z",
-    "cycle": 1
+    "lastUpdate": "2026-03-24T16:33:34Z",
+    "cycle": 2
   },
   {
     "name": "LUKMAN BS",
@@ -134,10 +134,10 @@
   },
   {
     "name": "BISTON MANURUNG",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-24T16:32:57Z",
-    "cycle": 1
+    "lastUpdate": "2026-03-24T16:33:34Z",
+    "cycle": 2
   },
   {
     "name": "JAMILAH",
@@ -330,10 +330,10 @@
   },
   {
     "name": "TOKO TIARA",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-24T16:32:57Z",
-    "cycle": 1
+    "lastUpdate": "2026-03-24T16:33:34Z",
+    "cycle": 2
   },
   {
     "name": "TOKO POJOK",
@@ -437,8 +437,8 @@
     "name": "MISRI CICI",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-24T13:33:32Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-24T16:33:34Z",
+    "cycle": 1
   },
   {
     "name": "ALFIAN DWI A.",
@@ -493,8 +493,8 @@
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-24T16:32:57Z",
-    "cycle": 2
+    "lastUpdate": "2026-03-24T16:34:10Z",
+    "cycle": 3
   },
   {
     "name": "TITIK ISMIATIN",
