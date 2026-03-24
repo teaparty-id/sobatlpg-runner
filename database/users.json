@@ -94,8 +94,8 @@
     "name": "TOKO IIN",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-24T22:02:40Z",
-    "cycle": 3
+    "lastUpdate": "2026-03-24T22:03:34Z",
+    "cycle": 4
   },
   {
     "name": "HJ LILIK LAILIYAH",
@@ -190,24 +190,24 @@
   },
   {
     "name": "ONG SWI GIOK",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-24T17:38:07Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-24T22:03:34Z",
+    "cycle": 1
   },
   {
     "name": "YUSUF ISMAIL",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-24T17:26:34Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-24T22:03:34Z",
+    "cycle": 1
   },
   {
     "name": "SUPARNI",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-24T17:27:23Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-24T22:03:34Z",
+    "cycle": 1
   },
   {
     "name": "YOGA RAJAN",
