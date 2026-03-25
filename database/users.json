@@ -17,8 +17,8 @@
     "name": "CINDRAWATI",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-25T14:27:50Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-25T17:28:26Z",
+    "cycle": 1
   },
   {
     "name": "EDI SUGENG SARIPAN",
@@ -31,8 +31,8 @@
     "name": "BINA MAKMUR",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-25T14:27:50Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-25T17:28:26Z",
+    "cycle": 1
   },
   {
     "name": "HENDRA KURNIAWAN",
@@ -337,10 +337,10 @@
   },
   {
     "name": "TOKO POJOK",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-25T14:27:50Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-25T17:28:26Z",
+    "cycle": 1
   },
   {
     "name": "UD RAHMAT",
@@ -465,8 +465,8 @@
     "name": "SUMBER REJEKI",
     "stock": 0,
     "lastStock": 1,
-    "lastUpdate": "2026-03-25T14:27:50Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-25T17:28:26Z",
+    "cycle": 1
   },
   {
     "name": "SUPARMAN",
