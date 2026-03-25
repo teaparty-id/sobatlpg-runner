@@ -379,10 +379,10 @@
   },
   {
     "name": "ABDUL WAFI",
-    "stock": 91,
+    "stock": 90,
     "lastStock": 0,
-    "lastUpdate": "2026-03-25T03:51:24Z",
-    "cycle": 4
+    "lastUpdate": "2026-03-25T03:56:00Z",
+    "cycle": 5
   },
   {
     "name": "YUNIS WAHYUNI",
@@ -407,10 +407,10 @@
   },
   {
     "name": "TK. MAJU",
-    "stock": 64,
+    "stock": 58,
     "lastStock": 0,
-    "lastUpdate": "2026-03-25T03:51:24Z",
-    "cycle": 2
+    "lastUpdate": "2026-03-25T03:56:00Z",
+    "cycle": 3
   },
   {
     "name": "H. JUMAT",
@@ -442,10 +442,10 @@
   },
   {
     "name": "ALFIAN DWI A.",
-    "stock": 97,
+    "stock": 90,
     "lastStock": 0,
-    "lastUpdate": "2026-03-25T03:51:24Z",
-    "cycle": 1
+    "lastUpdate": "2026-03-25T03:56:00Z",
+    "cycle": 2
   },
   {
     "name": "ISTIQOMAH",
@@ -463,45 +463,45 @@
   },
   {
     "name": "SUMBER REJEKI",
-    "stock": 1,
-    "lastStock": 0,
-    "lastUpdate": "2026-03-25T03:52:45Z",
-    "cycle": 1
+    "stock": 67,
+    "lastStock": 1,
+    "lastUpdate": "2026-03-25T03:56:00Z",
+    "cycle": 2
   },
   {
     "name": "SUPARMAN",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-24T23:06:02Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-25T04:00:10Z",
+    "cycle": 1
   },
   {
     "name": "P. SUK",
     "stock": 0,
     "lastStock": 18,
-    "lastUpdate": "2026-03-24T22:22:21Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-25T04:00:39Z",
+    "cycle": 1
   },
   {
     "name": "WIKAN K",
-    "stock": 0,
+    "stock": 15,
     "lastStock": 0,
-    "lastUpdate": "2026-03-24T22:24:31Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-25T04:00:41Z",
+    "cycle": 1
   },
   {
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-25T00:55:31Z",
-    "cycle": 3
+    "lastUpdate": "2026-03-25T04:01:13Z",
+    "cycle": 4
   },
   {
     "name": "TITIK ISMIATIN",
-    "stock": 0,
+    "stock": 45,
     "lastStock": 3,
-    "lastUpdate": "2026-03-24T22:24:31Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-25T04:01:17Z",
+    "cycle": 1
   },
   {
     "name": "SRI UTAMI",
