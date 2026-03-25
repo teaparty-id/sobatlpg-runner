@@ -407,10 +407,10 @@
   },
   {
     "name": "TK. MAJU",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-25T11:00:40Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-25T14:00:47Z",
+    "cycle": 1
   },
   {
     "name": "H. JUMAT",
@@ -421,10 +421,10 @@
   },
   {
     "name": "HARSININGSIH",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-25T11:00:40Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-25T14:00:47Z",
+    "cycle": 1
   },
   {
     "name": "CAHYA HERAWATI",
@@ -493,8 +493,8 @@
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-25T14:00:02Z",
-    "cycle": 3
+    "lastUpdate": "2026-03-25T14:00:47Z",
+    "cycle": 4
   },
   {
     "name": "TITIK ISMIATIN",
