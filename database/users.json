@@ -249,7 +249,7 @@
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-03-25T22:19:13Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "YULI SORAYA",
@@ -375,7 +375,7 @@
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-03-25T22:19:57Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "ABDUL WAFI",
@@ -493,8 +493,8 @@
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-25T22:21:32Z",
-    "cycle": 4
+    "lastUpdate": "2026-03-25T22:22:16Z",
+    "cycle": 0
   },
   {
     "name": "TITIK ISMIATIN",
