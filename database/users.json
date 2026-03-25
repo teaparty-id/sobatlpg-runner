@@ -78,31 +78,31 @@
   },
   {
     "name": "MOH SAID",
-    "stock": 34,
+    "stock": 29,
     "lastStock": 0,
-    "lastUpdate": "2026-03-25T02:36:13Z",
-    "cycle": 4
+    "lastUpdate": "2026-03-25T02:47:04Z",
+    "cycle": 5
   },
   {
     "name": "TOKO 2 PUTRI",
-    "stock": 27,
+    "stock": 24,
     "lastStock": 0,
-    "lastUpdate": "2026-03-25T02:36:13Z",
-    "cycle": 4
+    "lastUpdate": "2026-03-25T02:47:04Z",
+    "cycle": 5
   },
   {
     "name": "TOKO IIN",
-    "stock": 58,
+    "stock": 52,
     "lastStock": 0,
-    "lastUpdate": "2026-03-25T02:36:13Z",
-    "cycle": 3
+    "lastUpdate": "2026-03-25T02:47:04Z",
+    "cycle": 4
   },
   {
     "name": "HJ LILIK LAILIYAH",
-    "stock": 31,
+    "stock": 19,
     "lastStock": 0,
-    "lastUpdate": "2026-03-25T02:36:13Z",
-    "cycle": 3
+    "lastUpdate": "2026-03-25T02:47:04Z",
+    "cycle": 4
   },
   {
     "name": "ERNA PUJIATI",
@@ -141,10 +141,10 @@
   },
   {
     "name": "JAMILAH",
-    "stock": 15,
+    "stock": 5,
     "lastStock": 0,
-    "lastUpdate": "2026-03-25T02:40:28Z",
-    "cycle": 2
+    "lastUpdate": "2026-03-25T02:51:11Z",
+    "cycle": 3
   },
   {
     "name": "YUDA",
@@ -162,10 +162,10 @@
   },
   {
     "name": "NADIFATUS SOLEHA",
-    "stock": 39,
+    "stock": 34,
     "lastStock": 0,
-    "lastUpdate": "2026-03-25T02:41:31Z",
-    "cycle": 1
+    "lastUpdate": "2026-03-25T02:51:32Z",
+    "cycle": 2
   },
   {
     "name": "SUROSO",
@@ -178,22 +178,22 @@
     "name": "HADI SUTOYO",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-24T22:02:40Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-25T02:51:37Z",
+    "cycle": 1
   },
   {
     "name": "SRI HIDAYATI",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-24T22:02:40Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-25T02:52:08Z",
+    "cycle": 1
   },
   {
     "name": "ONG SWI GIOK",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-24T22:04:52Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-25T02:52:31Z",
+    "cycle": 1
   },
   {
     "name": "YUSUF ISMAIL",
