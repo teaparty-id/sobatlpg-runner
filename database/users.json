@@ -326,7 +326,7 @@
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-03-25T16:32:53Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "TOKO TIARA",
@@ -493,8 +493,8 @@
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-25T16:34:20Z",
-    "cycle": 4
+    "lastUpdate": "2026-03-25T16:35:05Z",
+    "cycle": 0
   },
   {
     "name": "TITIK ISMIATIN",
