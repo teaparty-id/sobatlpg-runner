@@ -256,7 +256,7 @@
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-03-25T21:49:10Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "SUSILO",
@@ -270,7 +270,7 @@
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-03-25T21:48:22Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "IMA",
@@ -431,7 +431,7 @@
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-03-25T21:48:22Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "MISRI CICI",
@@ -493,8 +493,8 @@
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-25T21:49:10Z",
-    "cycle": 4
+    "lastUpdate": "2026-03-25T21:49:56Z",
+    "cycle": 0
   },
   {
     "name": "TITIK ISMIATIN",
