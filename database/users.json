@@ -389,21 +389,21 @@
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-03-25T13:36:33Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "ROSIDI",
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-03-25T13:36:33Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "HJ. ASLAMIYAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-25T13:39:32Z",
-    "cycle": 4
+    "lastUpdate": "2026-03-25T13:40:03Z",
+    "cycle": 0
   },
   {
     "name": "TK. MAJU",
@@ -494,7 +494,7 @@
     "stock": 1,
     "lastStock": 0,
     "lastUpdate": "2026-03-25T13:37:26Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "TITIK ISMIATIN",
