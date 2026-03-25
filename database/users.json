@@ -1,10 +1,10 @@
 [
   {
     "name": "AKBAR RISQ",
-    "stock": 38,
+    "stock": 34,
     "lastStock": 0,
-    "lastUpdate": "2026-03-25T05:38:42Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-25T08:25:38Z",
+    "cycle": 1
   },
   {
     "name": "ATHI HANDAYANI",
@@ -29,17 +29,17 @@
   },
   {
     "name": "BINA MAKMUR",
-    "stock": 51,
+    "stock": 44,
     "lastStock": 0,
-    "lastUpdate": "2026-03-25T05:38:42Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-25T08:25:38Z",
+    "cycle": 1
   },
   {
     "name": "HENDRA KURNIAWAN",
-    "stock": 43,
+    "stock": 41,
     "lastStock": 0,
-    "lastUpdate": "2026-03-25T05:38:42Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-25T08:25:38Z",
+    "cycle": 1
   },
   {
     "name": "SUCIYONO",
@@ -50,10 +50,10 @@
   },
   {
     "name": "JAENAL",
-    "stock": 41,
+    "stock": 34,
     "lastStock": 0,
-    "lastUpdate": "2026-03-25T05:42:45Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-25T08:25:38Z",
+    "cycle": 1
   },
   {
     "name": "JOKO SUWARNO",
@@ -64,10 +64,10 @@
   },
   {
     "name": "KARSONO",
-    "stock": 18,
+    "stock": 13,
     "lastStock": 0,
-    "lastUpdate": "2026-03-25T05:43:57Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-25T08:30:07Z",
+    "cycle": 1
   },
   {
     "name": "LUTFI A.",
@@ -85,17 +85,17 @@
   },
   {
     "name": "TOKO 2 PUTRI",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-25T06:24:39Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-25T08:30:11Z",
+    "cycle": 1
   },
   {
     "name": "TOKO IIN",
-    "stock": 6,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-25T06:24:39Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-25T08:31:44Z",
+    "cycle": 1
   },
   {
     "name": "HJ LILIK LAILIYAH",
@@ -106,10 +106,10 @@
   },
   {
     "name": "ERNA PUJIATI",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-25T06:24:39Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-25T08:31:44Z",
+    "cycle": 1
   },
   {
     "name": "JONI H",
@@ -183,10 +183,10 @@
   },
   {
     "name": "SRI HIDAYATI",
-    "stock": 9,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-25T06:36:49Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-25T08:31:46Z",
+    "cycle": 1
   },
   {
     "name": "ONG SWI GIOK",
