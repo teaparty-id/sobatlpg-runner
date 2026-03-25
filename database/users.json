@@ -242,7 +242,7 @@
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-03-25T12:58:15Z",
-    "cycle": 4
+    "cycle": 0
   },
   {
     "name": "BUDI",
@@ -283,8 +283,8 @@
     "name": "DARMAWAN P",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-25T13:00:58Z",
-    "cycle": 4
+    "lastUpdate": "2026-03-25T13:01:34Z",
+    "cycle": 0
   },
   {
     "name": "DIYAH UTAMI",
@@ -305,21 +305,21 @@
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-03-25T12:56:00Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "TK. LUCKY",
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-03-25T12:56:00Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "UD SAMAN HADI",
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-03-25T12:59:05Z",
-    "cycle": 4
+    "cycle": 0
   },
   {
     "name": "SOEKAMTO",
@@ -333,7 +333,7 @@
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-03-25T12:59:05Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "TOKO POJOK",
@@ -494,7 +494,7 @@
     "stock": 1,
     "lastStock": 0,
     "lastUpdate": "2026-03-25T12:57:11Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "TITIK ISMIATIN",
