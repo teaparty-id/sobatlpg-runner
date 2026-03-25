@@ -1,10 +1,10 @@
 [
   {
     "name": "AKBAR RISQ",
-    "stock": 25,
+    "stock": 21,
     "lastStock": 0,
-    "lastUpdate": "2026-03-25T08:47:13Z",
-    "cycle": 3
+    "lastUpdate": "2026-03-25T08:57:01Z",
+    "cycle": 4
   },
   {
     "name": "ATHI HANDAYANI",
@@ -29,17 +29,17 @@
   },
   {
     "name": "BINA MAKMUR",
-    "stock": 42,
+    "stock": 32,
     "lastStock": 0,
-    "lastUpdate": "2026-03-25T08:47:13Z",
-    "cycle": 3
+    "lastUpdate": "2026-03-25T08:57:01Z",
+    "cycle": 4
   },
   {
     "name": "HENDRA KURNIAWAN",
-    "stock": 38,
+    "stock": 34,
     "lastStock": 0,
-    "lastUpdate": "2026-03-25T08:47:13Z",
-    "cycle": 3
+    "lastUpdate": "2026-03-25T08:57:01Z",
+    "cycle": 4
   },
   {
     "name": "SUCIYONO",
@@ -50,10 +50,10 @@
   },
   {
     "name": "JAENAL",
-    "stock": 23,
+    "stock": 16,
     "lastStock": 0,
-    "lastUpdate": "2026-03-25T08:49:18Z",
-    "cycle": 3
+    "lastUpdate": "2026-03-25T08:57:01Z",
+    "cycle": 4
   },
   {
     "name": "JOKO SUWARNO",
@@ -64,10 +64,10 @@
   },
   {
     "name": "KARSONO",
-    "stock": 4,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-25T08:51:54Z",
-    "cycle": 3
+    "lastUpdate": "2026-03-25T09:01:03Z",
+    "cycle": 4
   },
   {
     "name": "LUTFI A.",
@@ -115,29 +115,29 @@
     "name": "JONI H",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-25T05:55:44Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-25T09:01:12Z",
+    "cycle": 1
   },
   {
     "name": "ROSA V",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-25T05:55:44Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-25T09:01:42Z",
+    "cycle": 1
   },
   {
     "name": "LUKMAN BS",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-25T05:56:14Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-25T09:02:00Z",
+    "cycle": 1
   },
   {
     "name": "BISTON MANURUNG",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-25T05:56:21Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-25T09:02:18Z",
+    "cycle": 1
   },
   {
     "name": "JAMILAH",
