@@ -1,10 +1,10 @@
 [
   {
     "name": "AKBAR RISQ",
-    "stock": 20,
+    "stock": 13,
     "lastStock": 0,
-    "lastUpdate": "2026-03-25T09:05:05Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-25T10:03:05Z",
+    "cycle": 1
   },
   {
     "name": "ATHI HANDAYANI",
@@ -29,17 +29,17 @@
   },
   {
     "name": "BINA MAKMUR",
-    "stock": 25,
+    "stock": 22,
     "lastStock": 0,
-    "lastUpdate": "2026-03-25T09:05:05Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-25T10:03:05Z",
+    "cycle": 1
   },
   {
     "name": "HENDRA KURNIAWAN",
-    "stock": 24,
+    "stock": 13,
     "lastStock": 0,
-    "lastUpdate": "2026-03-25T09:05:05Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-25T10:03:05Z",
+    "cycle": 1
   },
   {
     "name": "SUCIYONO",
@@ -50,10 +50,10 @@
   },
   {
     "name": "JAENAL",
-    "stock": 11,
+    "stock": 7,
     "lastStock": 0,
-    "lastUpdate": "2026-03-25T09:05:05Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-25T10:03:05Z",
+    "cycle": 1
   },
   {
     "name": "JOKO SUWARNO",
@@ -246,10 +246,10 @@
   },
   {
     "name": "BUDI",
-    "stock": 14,
+    "stock": 7,
     "lastStock": 0,
-    "lastUpdate": "2026-03-25T09:58:58Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-25T10:06:54Z",
+    "cycle": 1
   },
   {
     "name": "YULI SORAYA",
@@ -337,10 +337,10 @@
   },
   {
     "name": "TOKO POJOK",
-    "stock": 40,
+    "stock": 32,
     "lastStock": 0,
-    "lastUpdate": "2026-03-25T09:29:33Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-25T10:07:20Z",
+    "cycle": 1
   },
   {
     "name": "UD RAHMAT",
@@ -353,22 +353,22 @@
     "name": "ULFA MARIA",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-25T07:06:32Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-25T10:08:28Z",
+    "cycle": 1
   },
   {
     "name": "TOKO SURYATI",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-25T07:08:15Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-25T10:09:02Z",
+    "cycle": 1
   },
   {
     "name": "SUDJIONO",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-25T07:08:50Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-25T10:09:34Z",
+    "cycle": 1
   },
   {
     "name": "ANDRI HERU CAHYONO",
