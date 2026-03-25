@@ -337,10 +337,10 @@
   },
   {
     "name": "TOKO POJOK",
-    "stock": 18,
+    "stock": 14,
     "lastStock": 0,
-    "lastUpdate": "2026-03-25T10:41:19Z",
-    "cycle": 4
+    "lastUpdate": "2026-03-25T10:51:17Z",
+    "cycle": 5
   },
   {
     "name": "UD RAHMAT",
@@ -379,10 +379,10 @@
   },
   {
     "name": "ABDUL WAFI",
-    "stock": 38,
+    "stock": 34,
     "lastStock": 0,
-    "lastUpdate": "2026-03-25T10:43:30Z",
-    "cycle": 3
+    "lastUpdate": "2026-03-25T10:51:17Z",
+    "cycle": 4
   },
   {
     "name": "YUNIS WAHYUNI",
@@ -407,10 +407,10 @@
   },
   {
     "name": "TK. MAJU",
-    "stock": 4,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-25T10:44:54Z",
-    "cycle": 1
+    "lastUpdate": "2026-03-25T10:51:17Z",
+    "cycle": 2
   },
   {
     "name": "H. JUMAT",
@@ -421,10 +421,10 @@
   },
   {
     "name": "HARSININGSIH",
-    "stock": 12,
+    "stock": 4,
     "lastStock": 0,
-    "lastUpdate": "2026-03-25T10:46:52Z",
-    "cycle": 1
+    "lastUpdate": "2026-03-25T10:51:17Z",
+    "cycle": 2
   },
   {
     "name": "CAHYA HERAWATI",
@@ -442,24 +442,24 @@
   },
   {
     "name": "ALFIAN DWI A.",
-    "stock": 1,
+    "stock": 39,
     "lastStock": 0,
-    "lastUpdate": "2026-03-25T09:56:32Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-25T10:55:27Z",
+    "cycle": 1
   },
   {
     "name": "ISTIQOMAH",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-25T07:38:45Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-25T10:55:29Z",
+    "cycle": 1
   },
   {
     "name": "TOKO IRAWAN",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-25T07:39:16Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-25T10:56:01Z",
+    "cycle": 1
   },
   {
     "name": "SUMBER REJEKI",
@@ -472,15 +472,15 @@
     "name": "SUPARMAN",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-25T07:39:27Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-25T10:56:17Z",
+    "cycle": 1
   },
   {
     "name": "P. SUK",
     "stock": 0,
     "lastStock": 18,
-    "lastUpdate": "2026-03-25T07:51:30Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-25T10:56:29Z",
+    "cycle": 1
   },
   {
     "name": "WIKAN K",
