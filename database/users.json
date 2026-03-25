@@ -260,10 +260,10 @@
   },
   {
     "name": "SUSILO",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-25T09:44:02Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-25T12:45:09Z",
+    "cycle": 1
   },
   {
     "name": "HJ. HAERONI",
@@ -428,10 +428,10 @@
   },
   {
     "name": "CAHYA HERAWATI",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-25T09:44:31Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-25T12:45:09Z",
+    "cycle": 1
   },
   {
     "name": "MISRI CICI",
