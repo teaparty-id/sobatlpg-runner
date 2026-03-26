@@ -1,10 +1,10 @@
 [
   {
     "name": "AKBAR RISQ",
-    "stock": 81,
+    "stock": 74,
     "lastStock": 0,
-    "lastUpdate": "2026-03-26T02:16:03Z",
-    "cycle": 3
+    "lastUpdate": "2026-03-26T02:28:20Z",
+    "cycle": 4
   },
   {
     "name": "ATHI HANDAYANI",
@@ -50,10 +50,10 @@
   },
   {
     "name": "JAENAL",
-    "stock": 87,
+    "stock": 85,
     "lastStock": 0,
-    "lastUpdate": "2026-03-26T02:20:03Z",
-    "cycle": 3
+    "lastUpdate": "2026-03-26T02:28:20Z",
+    "cycle": 4
   },
   {
     "name": "JOKO SUWARNO",
@@ -400,17 +400,17 @@
   },
   {
     "name": "HJ. ASLAMIYAH",
-    "stock": 2,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-26T02:21:25Z",
-    "cycle": 3
+    "lastUpdate": "2026-03-26T02:28:20Z",
+    "cycle": 4
   },
   {
     "name": "TK. MAJU",
-    "stock": 65,
+    "stock": 55,
     "lastStock": 0,
-    "lastUpdate": "2026-03-26T02:22:35Z",
-    "cycle": 2
+    "lastUpdate": "2026-03-26T02:28:20Z",
+    "cycle": 3
   },
   {
     "name": "H. JUMAT",
@@ -437,36 +437,36 @@
     "name": "MISRI CICI",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-25T22:52:25Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-26T02:29:58Z",
+    "cycle": 1
   },
   {
     "name": "ALFIAN DWI A.",
-    "stock": 92,
+    "stock": 83,
     "lastStock": 0,
-    "lastUpdate": "2026-03-26T00:04:00Z",
-    "cycle": 1
+    "lastUpdate": "2026-03-26T02:30:54Z",
+    "cycle": 2
   },
   {
     "name": "ISTIQOMAH",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-25T22:59:10Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-26T02:32:16Z",
+    "cycle": 1
   },
   {
     "name": "TOKO IRAWAN",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-25T23:06:36Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-26T02:32:48Z",
+    "cycle": 1
   },
   {
     "name": "SUMBER REJEKI",
-    "stock": 50,
+    "stock": 36,
     "lastStock": 1,
-    "lastUpdate": "2026-03-25T23:48:36Z",
-    "cycle": 3
+    "lastUpdate": "2026-03-26T02:33:19Z",
+    "cycle": 4
   },
   {
     "name": "SUPARMAN",
