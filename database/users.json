@@ -134,17 +134,17 @@
   },
   {
     "name": "BISTON MANURUNG",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-26T04:36:43Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-26T07:37:42Z",
+    "cycle": 1
   },
   {
     "name": "JAMILAH",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-26T04:37:17Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-26T07:37:42Z",
+    "cycle": 1
   },
   {
     "name": "YUDA",
@@ -379,10 +379,10 @@
   },
   {
     "name": "ABDUL WAFI",
-    "stock": 38,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-26T07:23:42Z",
-    "cycle": 2
+    "lastUpdate": "2026-03-26T07:37:42Z",
+    "cycle": 3
   },
   {
     "name": "YUNIS WAHYUNI",
@@ -407,10 +407,10 @@
   },
   {
     "name": "TK. MAJU",
-    "stock": 17,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-26T07:26:57Z",
-    "cycle": 2
+    "lastUpdate": "2026-03-26T07:37:42Z",
+    "cycle": 3
   },
   {
     "name": "H. JUMAT",
