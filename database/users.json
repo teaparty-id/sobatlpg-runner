@@ -1,10 +1,10 @@
 [
   {
     "name": "AKBAR RISQ",
-    "stock": 49,
+    "stock": 48,
     "lastStock": 0,
-    "lastUpdate": "2026-03-26T06:48:09Z",
-    "cycle": 4
+    "lastUpdate": "2026-03-26T06:58:44Z",
+    "cycle": 5
   },
   {
     "name": "ATHI HANDAYANI",
@@ -29,17 +29,17 @@
   },
   {
     "name": "BINA MAKMUR",
-    "stock": 30,
+    "stock": 23,
     "lastStock": 0,
-    "lastUpdate": "2026-03-26T06:48:09Z",
-    "cycle": 4
+    "lastUpdate": "2026-03-26T06:58:44Z",
+    "cycle": 5
   },
   {
     "name": "HENDRA KURNIAWAN",
-    "stock": 11,
+    "stock": 10,
     "lastStock": 0,
-    "lastUpdate": "2026-03-26T06:48:09Z",
-    "cycle": 4
+    "lastUpdate": "2026-03-26T06:58:44Z",
+    "cycle": 5
   },
   {
     "name": "SUCIYONO",
@@ -50,24 +50,24 @@
   },
   {
     "name": "JAENAL",
-    "stock": 38,
+    "stock": 31,
     "lastStock": 0,
-    "lastUpdate": "2026-03-26T06:48:09Z",
-    "cycle": 4
+    "lastUpdate": "2026-03-26T06:58:44Z",
+    "cycle": 5
   },
   {
     "name": "JOKO SUWARNO",
-    "stock": 13,
+    "stock": 7,
     "lastStock": 0,
-    "lastUpdate": "2026-03-26T06:51:36Z",
-    "cycle": 4
+    "lastUpdate": "2026-03-26T07:02:38Z",
+    "cycle": 5
   },
   {
     "name": "KARSONO",
-    "stock": 11,
+    "stock": 10,
     "lastStock": 0,
-    "lastUpdate": "2026-03-26T06:51:41Z",
-    "cycle": 4
+    "lastUpdate": "2026-03-26T07:03:12Z",
+    "cycle": 5
   },
   {
     "name": "LUTFI A.",
@@ -92,10 +92,10 @@
   },
   {
     "name": "TOKO IIN",
-    "stock": 32,
+    "stock": 26,
     "lastStock": 0,
-    "lastUpdate": "2026-03-26T06:52:07Z",
-    "cycle": 2
+    "lastUpdate": "2026-03-26T07:03:48Z",
+    "cycle": 3
   },
   {
     "name": "HJ LILIK LAILIYAH",
@@ -316,10 +316,10 @@
   },
   {
     "name": "UD SAMAN HADI",
-    "stock": 22,
+    "stock": 21,
     "lastStock": 0,
-    "lastUpdate": "2026-03-26T06:53:15Z",
-    "cycle": 1
+    "lastUpdate": "2026-03-26T07:04:36Z",
+    "cycle": 2
   },
   {
     "name": "SOEKAMTO",
@@ -337,10 +337,10 @@
   },
   {
     "name": "TOKO POJOK",
-    "stock": 67,
+    "stock": 61,
     "lastStock": 0,
-    "lastUpdate": "2026-03-26T06:55:08Z",
-    "cycle": 1
+    "lastUpdate": "2026-03-26T07:07:21Z",
+    "cycle": 2
   },
   {
     "name": "UD RAHMAT",
