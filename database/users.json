@@ -8,10 +8,10 @@
   },
   {
     "name": "ATHI HANDAYANI",
-    "stock": 46,
+    "stock": 29,
     "lastStock": 0,
-    "lastUpdate": "2026-03-26T01:28:35Z",
-    "cycle": 1
+    "lastUpdate": "2026-03-26T01:41:24Z",
+    "cycle": 2
   },
   {
     "name": "CINDRAWATI",
@@ -22,10 +22,10 @@
   },
   {
     "name": "EDI SUGENG SARIPAN",
-    "stock": 55,
+    "stock": 48,
     "lastStock": 0,
-    "lastUpdate": "2026-03-26T01:28:35Z",
-    "cycle": 1
+    "lastUpdate": "2026-03-26T01:41:24Z",
+    "cycle": 2
   },
   {
     "name": "BINA MAKMUR",
@@ -36,10 +36,10 @@
   },
   {
     "name": "HENDRA KURNIAWAN",
-    "stock": 81,
+    "stock": 80,
     "lastStock": 0,
-    "lastUpdate": "2026-03-26T01:28:35Z",
-    "cycle": 1
+    "lastUpdate": "2026-03-26T01:41:24Z",
+    "cycle": 2
   },
   {
     "name": "SUCIYONO",
@@ -316,17 +316,17 @@
   },
   {
     "name": "UD SAMAN HADI",
-    "stock": 41,
+    "stock": 36,
     "lastStock": 0,
-    "lastUpdate": "2026-03-26T01:28:35Z",
-    "cycle": 4
+    "lastUpdate": "2026-03-26T01:41:24Z",
+    "cycle": 5
   },
   {
     "name": "SOEKAMTO",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-25T22:34:03Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-26T01:45:16Z",
+    "cycle": 1
   },
   {
     "name": "TOKO TIARA",
@@ -365,10 +365,10 @@
   },
   {
     "name": "SUDJIONO",
-    "stock": 23,
+    "stock": 15,
     "lastStock": 0,
-    "lastUpdate": "2026-03-26T01:33:57Z",
-    "cycle": 1
+    "lastUpdate": "2026-03-26T01:45:48Z",
+    "cycle": 2
   },
   {
     "name": "ANDRI HERU CAHYONO",
@@ -379,24 +379,24 @@
   },
   {
     "name": "ABDUL WAFI",
-    "stock": 87,
+    "stock": 81,
     "lastStock": 0,
-    "lastUpdate": "2026-03-26T01:34:33Z",
-    "cycle": 2
+    "lastUpdate": "2026-03-26T01:46:41Z",
+    "cycle": 3
   },
   {
     "name": "YUNIS WAHYUNI",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-25T22:37:17Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-26T01:46:49Z",
+    "cycle": 1
   },
   {
     "name": "ROSIDI",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-25T22:37:17Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-26T01:47:13Z",
+    "cycle": 1
   },
   {
     "name": "HJ. ASLAMIYAH",
