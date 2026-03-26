@@ -487,34 +487,34 @@
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-03-26T21:06:20Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-26T21:09:24Z",
-    "cycle": 4
+    "lastUpdate": "2026-03-26T21:10:14Z",
+    "cycle": 0
   },
   {
     "name": "TITIK ISMIATIN",
     "stock": 0,
     "lastStock": 3,
     "lastUpdate": "2026-03-26T21:06:20Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "SRI UTAMI",
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-03-26T21:09:24Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "TUSOK",
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-03-26T21:09:24Z",
-    "cycle": 1
+    "cycle": 0
   }
 ]
