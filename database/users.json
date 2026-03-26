@@ -80,15 +80,15 @@
     "name": "MOH SAID",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-26T12:48:59Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-26T15:50:39Z",
+    "cycle": 1
   },
   {
     "name": "TOKO 2 PUTRI",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-26T12:48:59Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-26T15:50:39Z",
+    "cycle": 1
   },
   {
     "name": "TOKO IIN",
@@ -493,8 +493,8 @@
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-26T15:48:56Z",
-    "cycle": 1
+    "lastUpdate": "2026-03-26T15:50:39Z",
+    "cycle": 2
   },
   {
     "name": "TITIK ISMIATIN",
