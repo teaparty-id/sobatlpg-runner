@@ -1,10 +1,10 @@
 [
   {
     "name": "AKBAR RISQ",
-    "stock": 39,
+    "stock": 32,
     "lastStock": 0,
-    "lastUpdate": "2026-03-26T08:11:27Z",
-    "cycle": 4
+    "lastUpdate": "2026-03-26T08:21:04Z",
+    "cycle": 5
   },
   {
     "name": "ATHI HANDAYANI",
@@ -29,10 +29,10 @@
   },
   {
     "name": "BINA MAKMUR",
-    "stock": 14,
+    "stock": 12,
     "lastStock": 0,
-    "lastUpdate": "2026-03-26T08:11:27Z",
-    "cycle": 4
+    "lastUpdate": "2026-03-26T08:21:04Z",
+    "cycle": 5
   },
   {
     "name": "HENDRA KURNIAWAN",
@@ -50,10 +50,10 @@
   },
   {
     "name": "JAENAL",
-    "stock": 21,
+    "stock": 19,
     "lastStock": 0,
-    "lastUpdate": "2026-03-26T08:11:27Z",
-    "cycle": 4
+    "lastUpdate": "2026-03-26T08:21:04Z",
+    "cycle": 5
   },
   {
     "name": "JOKO SUWARNO",
@@ -64,10 +64,10 @@
   },
   {
     "name": "KARSONO",
-    "stock": 2,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-26T08:14:28Z",
-    "cycle": 2
+    "lastUpdate": "2026-03-26T08:21:04Z",
+    "cycle": 3
   },
   {
     "name": "LUTFI A.",
@@ -92,10 +92,10 @@
   },
   {
     "name": "TOKO IIN",
-    "stock": 5,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-26T08:14:41Z",
-    "cycle": 2
+    "lastUpdate": "2026-03-26T08:23:03Z",
+    "cycle": 3
   },
   {
     "name": "HJ LILIK LAILIYAH",
@@ -316,10 +316,10 @@
   },
   {
     "name": "UD SAMAN HADI",
-    "stock": 5,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-26T08:15:33Z",
-    "cycle": 1
+    "lastUpdate": "2026-03-26T08:25:04Z",
+    "cycle": 2
   },
   {
     "name": "SOEKAMTO",
@@ -337,24 +337,24 @@
   },
   {
     "name": "TOKO POJOK",
-    "stock": 1,
+    "stock": 47,
     "lastStock": 0,
-    "lastUpdate": "2026-03-26T07:36:34Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-26T08:26:27Z",
+    "cycle": 1
   },
   {
     "name": "UD RAHMAT",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-26T05:05:03Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-26T08:26:28Z",
+    "cycle": 1
   },
   {
     "name": "ULFA MARIA",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-26T05:05:03Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-26T08:27:05Z",
+    "cycle": 1
   },
   {
     "name": "TOKO SURYATI",
