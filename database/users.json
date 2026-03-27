@@ -50,10 +50,10 @@
   },
   {
     "name": "JAENAL",
-    "stock": 0,
+    "stock": 100,
     "lastStock": 0,
-    "lastUpdate": "2026-03-27T20:30:58Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-27T23:33:15Z",
+    "cycle": 1
   },
   {
     "name": "JOKO SUWARNO",
@@ -190,10 +190,10 @@
   },
   {
     "name": "ONG SWI GIOK",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-27T23:28:53Z",
-    "cycle": 1
+    "lastUpdate": "2026-03-27T23:33:15Z",
+    "cycle": 2
   },
   {
     "name": "YUSUF ISMAIL",
@@ -211,10 +211,10 @@
   },
   {
     "name": "YOGA RAJAN",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-27T23:28:54Z",
-    "cycle": 1
+    "lastUpdate": "2026-03-27T23:33:15Z",
+    "cycle": 2
   },
   {
     "name": "ARIF FAUZI",
