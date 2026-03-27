@@ -143,8 +143,8 @@
     "name": "JAMILAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-27T20:23:01Z",
-    "cycle": 2
+    "lastUpdate": "2026-03-27T20:23:28Z",
+    "cycle": 3
   },
   {
     "name": "YUDA",
@@ -162,10 +162,10 @@
   },
   {
     "name": "NADIFATUS SOLEHA",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-27T17:23:09Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-27T20:23:28Z",
+    "cycle": 1
   },
   {
     "name": "SUROSO",
