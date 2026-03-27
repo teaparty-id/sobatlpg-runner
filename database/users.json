@@ -1,10 +1,10 @@
 [
   {
     "name": "AKBAR RISQ",
-    "stock": 32,
+    "stock": 31,
     "lastStock": 0,
-    "lastUpdate": "2026-03-27T09:01:33Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-27T10:01:54Z",
+    "cycle": 1
   },
   {
     "name": "ATHI HANDAYANI",
@@ -29,45 +29,45 @@
   },
   {
     "name": "BINA MAKMUR",
-    "stock": 48,
+    "stock": 47,
     "lastStock": 0,
-    "lastUpdate": "2026-03-27T09:01:33Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-27T10:01:54Z",
+    "cycle": 1
   },
   {
     "name": "HENDRA KURNIAWAN",
     "stock": 21,
     "lastStock": 0,
-    "lastUpdate": "2026-03-27T09:01:33Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-27T10:01:54Z",
+    "cycle": 1
   },
   {
     "name": "SUCIYONO",
-    "stock": 10,
+    "stock": 6,
     "lastStock": 0,
-    "lastUpdate": "2026-03-27T09:01:33Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-27T10:01:54Z",
+    "cycle": 1
   },
   {
     "name": "JAENAL",
-    "stock": 15,
+    "stock": 10,
     "lastStock": 0,
-    "lastUpdate": "2026-03-27T09:06:35Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-27T10:05:43Z",
+    "cycle": 1
   },
   {
     "name": "JOKO SUWARNO",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-27T09:07:16Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-27T10:05:50Z",
+    "cycle": 1
   },
   {
     "name": "KARSONO",
-    "stock": 4,
+    "stock": 2,
     "lastStock": 0,
-    "lastUpdate": "2026-03-27T09:09:07Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-27T10:06:28Z",
+    "cycle": 1
   },
   {
     "name": "LUTFI A.",
@@ -92,10 +92,10 @@
   },
   {
     "name": "TOKO IIN",
-    "stock": 2,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-27T09:09:37Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-27T10:07:13Z",
+    "cycle": 1
   },
   {
     "name": "HJ LILIK LAILIYAH",
@@ -199,8 +199,8 @@
     "name": "YUSUF ISMAIL",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-27T07:02:22Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-27T10:08:50Z",
+    "cycle": 1
   },
   {
     "name": "SUPARNI",
