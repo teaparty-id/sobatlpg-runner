@@ -267,10 +267,10 @@
   },
   {
     "name": "HJ. HAERONI",
-    "stock": 2,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-27T05:33:10Z",
-    "cycle": 3
+    "lastUpdate": "2026-03-27T05:36:28Z",
+    "cycle": 4
   },
   {
     "name": "IMA",
@@ -323,17 +323,17 @@
   },
   {
     "name": "SOEKAMTO",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-27T05:34:03Z",
-    "cycle": 1
+    "lastUpdate": "2026-03-27T05:36:28Z",
+    "cycle": 2
   },
   {
     "name": "TOKO TIARA",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-27T02:35:13Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-27T05:36:28Z",
+    "cycle": 1
   },
   {
     "name": "TOKO POJOK",
@@ -353,15 +353,15 @@
     "name": "ULFA MARIA",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-27T02:35:13Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-27T05:36:28Z",
+    "cycle": 1
   },
   {
     "name": "TOKO SURYATI",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-27T02:35:47Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-27T05:36:59Z",
+    "cycle": 1
   },
   {
     "name": "SUDJIONO",
@@ -463,10 +463,10 @@
   },
   {
     "name": "SUMBER REJEKI",
-    "stock": 29,
-    "lastStock": 1,
-    "lastUpdate": "2026-03-27T05:10:10Z",
-    "cycle": 4
+    "stock": 1,
+    "lastStock": 0,
+    "lastUpdate": "2026-03-27T05:36:59Z",
+    "cycle": 5
   },
   {
     "name": "SUPARMAN",
@@ -479,8 +479,8 @@
     "name": "P. SUK",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-27T05:10:12Z",
-    "cycle": 2
+    "lastUpdate": "2026-03-27T05:37:03Z",
+    "cycle": 3
   },
   {
     "name": "WIKAN K",
