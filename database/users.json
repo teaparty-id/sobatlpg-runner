@@ -73,8 +73,8 @@
     "name": "LUTFI A.",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-27T17:35:20Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-27T20:36:18Z",
+    "cycle": 1
   },
   {
     "name": "MOH SAID",
@@ -227,8 +227,8 @@
     "name": "MOH HAFIF",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-27T17:35:20Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-27T20:36:18Z",
+    "cycle": 1
   },
   {
     "name": "SAMSUL ARIFIN",
@@ -514,7 +514,7 @@
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-27T20:35:16Z",
-    "cycle": 3
+    "lastUpdate": "2026-03-27T20:36:18Z",
+    "cycle": 4
   }
 ]
