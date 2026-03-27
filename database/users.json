@@ -1,10 +1,10 @@
 [
   {
     "name": "AKBAR RISQ",
-    "stock": 31,
+    "stock": 26,
     "lastStock": 0,
-    "lastUpdate": "2026-03-27T10:11:13Z",
-    "cycle": 2
+    "lastUpdate": "2026-03-27T10:21:52Z",
+    "cycle": 3
   },
   {
     "name": "ATHI HANDAYANI",
@@ -29,38 +29,38 @@
   },
   {
     "name": "BINA MAKMUR",
-    "stock": 46,
+    "stock": 45,
     "lastStock": 0,
-    "lastUpdate": "2026-03-27T10:11:13Z",
-    "cycle": 2
+    "lastUpdate": "2026-03-27T10:21:52Z",
+    "cycle": 3
   },
   {
     "name": "HENDRA KURNIAWAN",
-    "stock": 19,
+    "stock": 15,
     "lastStock": 0,
-    "lastUpdate": "2026-03-27T10:11:13Z",
-    "cycle": 2
+    "lastUpdate": "2026-03-27T10:21:52Z",
+    "cycle": 3
   },
   {
     "name": "SUCIYONO",
-    "stock": 4,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-27T10:11:13Z",
-    "cycle": 2
+    "lastUpdate": "2026-03-27T10:21:52Z",
+    "cycle": 3
   },
   {
     "name": "JAENAL",
-    "stock": 10,
+    "stock": 8,
     "lastStock": 0,
-    "lastUpdate": "2026-03-27T10:15:03Z",
-    "cycle": 2
+    "lastUpdate": "2026-03-27T10:25:36Z",
+    "cycle": 3
   },
   {
     "name": "JOKO SUWARNO",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-27T10:15:13Z",
-    "cycle": 2
+    "lastUpdate": "2026-03-27T10:26:27Z",
+    "cycle": 3
   },
   {
     "name": "KARSONO",
@@ -108,8 +108,8 @@
     "name": "ERNA PUJIATI",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-27T07:17:37Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-27T10:27:03Z",
+    "cycle": 1
   },
   {
     "name": "JONI H",
@@ -185,8 +185,8 @@
     "name": "SRI HIDAYATI",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-27T07:17:37Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-27T10:27:10Z",
+    "cycle": 1
   },
   {
     "name": "ONG SWI GIOK",
@@ -337,10 +337,10 @@
   },
   {
     "name": "TOKO POJOK",
-    "stock": 52,
+    "stock": 49,
     "lastStock": 0,
-    "lastUpdate": "2026-03-27T10:16:18Z",
-    "cycle": 1
+    "lastUpdate": "2026-03-27T10:27:34Z",
+    "cycle": 2
   },
   {
     "name": "UD RAHMAT",
