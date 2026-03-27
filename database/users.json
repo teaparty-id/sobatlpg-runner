@@ -197,10 +197,10 @@
   },
   {
     "name": "YUSUF ISMAIL",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-27T13:09:48Z",
-    "cycle": 1
+    "lastUpdate": "2026-03-27T13:14:19Z",
+    "cycle": 2
   },
   {
     "name": "SUPARNI",
@@ -498,10 +498,10 @@
   },
   {
     "name": "TITIK ISMIATIN",
-    "stock": 1,
-    "lastStock": 0,
-    "lastUpdate": "2026-03-27T13:10:26Z",
-    "cycle": 3
+    "stock": 0,
+    "lastStock": 3,
+    "lastUpdate": "2026-03-27T13:14:19Z",
+    "cycle": 4
   },
   {
     "name": "SRI UTAMI",
@@ -512,9 +512,9 @@
   },
   {
     "name": "TUSOK",
-    "stock": 1,
+    "stock": 4,
     "lastStock": 0,
-    "lastUpdate": "2026-03-27T13:10:37Z",
-    "cycle": 2
+    "lastUpdate": "2026-03-27T13:14:19Z",
+    "cycle": 3
   }
 ]
