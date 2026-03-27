@@ -52,8 +52,8 @@
     "name": "JAENAL",
     "stock": 100,
     "lastStock": 0,
-    "lastUpdate": "2026-03-27T23:33:15Z",
-    "cycle": 1
+    "lastUpdate": "2026-03-27T23:36:20Z",
+    "cycle": 2
   },
   {
     "name": "JOKO SUWARNO",
@@ -71,10 +71,10 @@
   },
   {
     "name": "LUTFI A.",
-    "stock": 0,
+    "stock": 96,
     "lastStock": 0,
-    "lastUpdate": "2026-03-27T20:36:18Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-27T23:36:20Z",
+    "cycle": 1
   },
   {
     "name": "MOH SAID",
@@ -227,8 +227,8 @@
     "name": "MOH HAFIF",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-27T20:36:18Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-27T23:36:20Z",
+    "cycle": 1
   },
   {
     "name": "SAMSUL ARIFIN",
