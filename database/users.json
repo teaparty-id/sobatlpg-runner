@@ -1,10 +1,10 @@
 [
   {
     "name": "AKBAR RISQ",
-    "stock": 3,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-27T13:31:31Z",
-    "cycle": 3
+    "lastUpdate": "2026-03-27T13:35:21Z",
+    "cycle": 4
   },
   {
     "name": "ATHI HANDAYANI",
@@ -29,10 +29,10 @@
   },
   {
     "name": "BINA MAKMUR",
-    "stock": 38,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-27T13:31:31Z",
-    "cycle": 3
+    "lastUpdate": "2026-03-27T13:35:21Z",
+    "cycle": 4
   },
   {
     "name": "HENDRA KURNIAWAN",
@@ -57,10 +57,10 @@
   },
   {
     "name": "JOKO SUWARNO",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-27T10:35:12Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-27T13:35:21Z",
+    "cycle": 1
   },
   {
     "name": "KARSONO",
@@ -169,10 +169,10 @@
   },
   {
     "name": "SUROSO",
-    "stock": 22,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-27T13:31:31Z",
-    "cycle": 3
+    "lastUpdate": "2026-03-27T13:35:21Z",
+    "cycle": 4
   },
   {
     "name": "HADI SUTOYO",
@@ -339,8 +339,8 @@
     "name": "TOKO POJOK",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-27T13:32:45Z",
-    "cycle": 2
+    "lastUpdate": "2026-03-27T13:36:07Z",
+    "cycle": 3
   },
   {
     "name": "UD RAHMAT",
@@ -379,10 +379,10 @@
   },
   {
     "name": "ABDUL WAFI",
-    "stock": 1,
+    "stock": 16,
     "lastStock": 0,
-    "lastUpdate": "2026-03-27T13:27:43Z",
-    "cycle": 2
+    "lastUpdate": "2026-03-27T13:36:07Z",
+    "cycle": 3
   },
   {
     "name": "YUNIS WAHYUNI",
@@ -444,8 +444,8 @@
     "name": "ALFIAN DWI A.",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-27T13:28:04Z",
-    "cycle": 2
+    "lastUpdate": "2026-03-27T13:36:27Z",
+    "cycle": 3
   },
   {
     "name": "ISTIQOMAH",
@@ -493,8 +493,8 @@
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-27T13:10:23Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-27T13:36:33Z",
+    "cycle": 1
   },
   {
     "name": "TITIK ISMIATIN",
@@ -512,9 +512,9 @@
   },
   {
     "name": "TUSOK",
-    "stock": 3,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-27T13:17:41Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-27T13:36:40Z",
+    "cycle": 1
   }
 ]
