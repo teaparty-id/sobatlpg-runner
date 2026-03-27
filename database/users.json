@@ -444,8 +444,8 @@
     "name": "ALFIAN DWI A.",
     "stock": 25,
     "lastStock": 0,
-    "lastUpdate": "2026-03-27T10:53:17Z",
-    "cycle": 2
+    "lastUpdate": "2026-03-27T11:00:18Z",
+    "cycle": 3
   },
   {
     "name": "ISTIQOMAH",
@@ -456,10 +456,10 @@
   },
   {
     "name": "TOKO IRAWAN",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-27T10:54:10Z",
-    "cycle": 1
+    "lastUpdate": "2026-03-27T11:00:18Z",
+    "cycle": 2
   },
   {
     "name": "SUMBER REJEKI",
@@ -493,8 +493,8 @@
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-27T10:48:35Z",
-    "cycle": 1
+    "lastUpdate": "2026-03-27T11:00:18Z",
+    "cycle": 2
   },
   {
     "name": "TITIK ISMIATIN",
@@ -512,9 +512,9 @@
   },
   {
     "name": "TUSOK",
-    "stock": 1,
+    "stock": 10,
     "lastStock": 0,
-    "lastUpdate": "2026-03-27T10:49:04Z",
-    "cycle": 1
+    "lastUpdate": "2026-03-27T11:00:18Z",
+    "cycle": 2
   }
 ]
