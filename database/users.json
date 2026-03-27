@@ -424,21 +424,21 @@
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-03-27T19:49:26Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "CAHYA HERAWATI",
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-03-27T19:49:26Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "MISRI CICI",
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-03-27T19:49:26Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "ALFIAN DWI A.",
@@ -477,10 +477,10 @@
   },
   {
     "name": "P. SUK",
-    "stock": 1,
-    "lastStock": 0,
-    "lastUpdate": "2026-03-27T19:52:03Z",
-    "cycle": 4
+    "stock": 0,
+    "lastStock": 18,
+    "lastUpdate": "2026-03-27T19:52:33Z",
+    "cycle": 0
   },
   {
     "name": "WIKAN K",
@@ -515,6 +515,6 @@
     "stock": 1,
     "lastStock": 0,
     "lastUpdate": "2026-03-27T19:51:36Z",
-    "cycle": 5
+    "cycle": 0
   }
 ]
