@@ -1,10 +1,10 @@
 [
   {
     "name": "AKBAR RISQ",
-    "stock": 36,
+    "stock": 34,
     "lastStock": 0,
-    "lastUpdate": "2026-03-27T08:29:09Z",
-    "cycle": 2
+    "lastUpdate": "2026-03-27T08:38:27Z",
+    "cycle": 3
   },
   {
     "name": "ATHI HANDAYANI",
@@ -29,45 +29,45 @@
   },
   {
     "name": "BINA MAKMUR",
-    "stock": 58,
+    "stock": 55,
     "lastStock": 0,
-    "lastUpdate": "2026-03-27T08:29:09Z",
-    "cycle": 2
+    "lastUpdate": "2026-03-27T08:38:27Z",
+    "cycle": 3
   },
   {
     "name": "HENDRA KURNIAWAN",
-    "stock": 36,
+    "stock": 30,
     "lastStock": 0,
-    "lastUpdate": "2026-03-27T08:29:09Z",
-    "cycle": 2
+    "lastUpdate": "2026-03-27T08:38:27Z",
+    "cycle": 3
   },
   {
     "name": "SUCIYONO",
-    "stock": 27,
+    "stock": 22,
     "lastStock": 0,
-    "lastUpdate": "2026-03-27T08:29:09Z",
-    "cycle": 2
+    "lastUpdate": "2026-03-27T08:38:27Z",
+    "cycle": 3
   },
   {
     "name": "JAENAL",
-    "stock": 27,
+    "stock": 21,
     "lastStock": 0,
-    "lastUpdate": "2026-03-27T08:32:43Z",
-    "cycle": 2
+    "lastUpdate": "2026-03-27T08:43:17Z",
+    "cycle": 3
   },
   {
     "name": "JOKO SUWARNO",
-    "stock": 12,
+    "stock": 6,
     "lastStock": 0,
-    "lastUpdate": "2026-03-27T08:33:14Z",
-    "cycle": 2
+    "lastUpdate": "2026-03-27T08:43:28Z",
+    "cycle": 3
   },
   {
     "name": "KARSONO",
-    "stock": 18,
+    "stock": 11,
     "lastStock": 0,
-    "lastUpdate": "2026-03-27T08:34:18Z",
-    "cycle": 2
+    "lastUpdate": "2026-03-27T08:44:43Z",
+    "cycle": 3
   },
   {
     "name": "LUTFI A.",
@@ -92,10 +92,10 @@
   },
   {
     "name": "TOKO IIN",
-    "stock": 18,
+    "stock": 8,
     "lastStock": 0,
-    "lastUpdate": "2026-03-27T08:35:07Z",
-    "cycle": 2
+    "lastUpdate": "2026-03-27T08:45:56Z",
+    "cycle": 3
   },
   {
     "name": "HJ LILIK LAILIYAH",
@@ -234,8 +234,8 @@
     "name": "SAMSUL ARIFIN",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-27T05:20:10Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-27T08:48:19Z",
+    "cycle": 1
   },
   {
     "name": "HERDIANA DIYAH S",
