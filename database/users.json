@@ -78,10 +78,10 @@
   },
   {
     "name": "MOH SAID",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-27T06:16:38Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-27T09:16:45Z",
+    "cycle": 1
   },
   {
     "name": "TOKO 2 PUTRI",
@@ -290,22 +290,22 @@
     "name": "DIYAH UTAMI",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-27T09:15:51Z",
-    "cycle": 1
+    "lastUpdate": "2026-03-27T09:16:45Z",
+    "cycle": 2
   },
   {
     "name": "SALMAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-27T09:15:51Z",
-    "cycle": 1
+    "lastUpdate": "2026-03-27T09:16:45Z",
+    "cycle": 2
   },
   {
     "name": "TOKO ANITA",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-27T09:15:52Z",
-    "cycle": 1
+    "lastUpdate": "2026-03-27T09:16:45Z",
+    "cycle": 2
   },
   {
     "name": "TK. LUCKY",
