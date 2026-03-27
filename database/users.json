@@ -64,10 +64,10 @@
   },
   {
     "name": "KARSONO",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-27T10:15:37Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-27T13:16:39Z",
+    "cycle": 1
   },
   {
     "name": "LUTFI A.",
@@ -512,9 +512,9 @@
   },
   {
     "name": "TUSOK",
-    "stock": 4,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-27T13:14:19Z",
-    "cycle": 3
+    "lastUpdate": "2026-03-27T13:16:39Z",
+    "cycle": 4
   }
 ]
