@@ -346,8 +346,8 @@
     "name": "UD RAHMAT",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-28T07:54:41Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-28T10:57:00Z",
+    "cycle": 1
   },
   {
     "name": "ULFA MARIA",
@@ -477,10 +477,10 @@
   },
   {
     "name": "P. SUK",
-    "stock": 10,
+    "stock": 6,
     "lastStock": 18,
-    "lastUpdate": "2026-03-28T10:52:46Z",
-    "cycle": 2
+    "lastUpdate": "2026-03-28T10:57:00Z",
+    "cycle": 3
   },
   {
     "name": "WIKAN K",
@@ -491,10 +491,10 @@
   },
   {
     "name": "TITIK ISMIATIN",
-    "stock": 1,
-    "lastStock": 0,
-    "lastUpdate": "2026-03-28T10:53:18Z",
-    "cycle": 2
+    "stock": 53,
+    "lastStock": 3,
+    "lastUpdate": "2026-03-28T10:57:00Z",
+    "cycle": 3
   },
   {
     "name": "SRI UTAMI",
@@ -514,7 +514,7 @@
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-28T10:53:19Z",
-    "cycle": 2
+    "lastUpdate": "2026-03-28T10:57:00Z",
+    "cycle": 3
   }
 ]
