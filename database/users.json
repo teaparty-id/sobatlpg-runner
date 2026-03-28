@@ -43,38 +43,38 @@
   },
   {
     "name": "SUCIYONO",
-    "stock": 63,
+    "stock": 61,
     "lastStock": 0,
-    "lastUpdate": "2026-03-28T14:28:06Z",
-    "cycle": 4
+    "lastUpdate": "2026-03-28T14:36:09Z",
+    "cycle": 5
   },
   {
     "name": "JAENAL",
-    "stock": 59,
+    "stock": 58,
     "lastStock": 0,
-    "lastUpdate": "2026-03-28T14:28:31Z",
-    "cycle": 4
+    "lastUpdate": "2026-03-28T14:36:09Z",
+    "cycle": 5
   },
   {
     "name": "JOKO SUWARNO",
-    "stock": 23,
+    "stock": 19,
     "lastStock": 0,
-    "lastUpdate": "2026-03-28T14:29:25Z",
-    "cycle": 4
+    "lastUpdate": "2026-03-28T14:36:09Z",
+    "cycle": 5
   },
   {
     "name": "KARSONO",
     "stock": 25,
     "lastStock": 0,
-    "lastUpdate": "2026-03-28T14:30:43Z",
-    "cycle": 4
+    "lastUpdate": "2026-03-28T14:36:09Z",
+    "cycle": 5
   },
   {
     "name": "LUTFI A.",
-    "stock": 28,
+    "stock": 25,
     "lastStock": 0,
-    "lastUpdate": "2026-03-28T14:31:28Z",
-    "cycle": 4
+    "lastUpdate": "2026-03-28T14:39:19Z",
+    "cycle": 5
   },
   {
     "name": "MOH SAID",
@@ -85,17 +85,17 @@
   },
   {
     "name": "TOKO 2 PUTRI",
-    "stock": 6,
+    "stock": 4,
     "lastStock": 0,
-    "lastUpdate": "2026-03-28T12:30:05Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-28T14:40:15Z",
+    "cycle": 1
   },
   {
     "name": "TOKO IIN",
-    "stock": 23,
+    "stock": 22,
     "lastStock": 0,
-    "lastUpdate": "2026-03-28T12:30:05Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-28T14:40:32Z",
+    "cycle": 1
   },
   {
     "name": "HJ LILIK LAILIYAH",
@@ -106,10 +106,10 @@
   },
   {
     "name": "ERNA PUJIATI",
-    "stock": 9,
+    "stock": 6,
     "lastStock": 0,
-    "lastUpdate": "2026-03-28T12:30:05Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-28T14:40:44Z",
+    "cycle": 1
   },
   {
     "name": "JONI H",
@@ -122,8 +122,8 @@
     "name": "ROSA V",
     "stock": 16,
     "lastStock": 0,
-    "lastUpdate": "2026-03-28T12:37:37Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-28T14:43:21Z",
+    "cycle": 1
   },
   {
     "name": "LUKMAN BS",
