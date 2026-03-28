@@ -477,44 +477,44 @@
   },
   {
     "name": "P. SUK",
-    "stock": 1,
-    "lastStock": 0,
-    "lastUpdate": "2026-03-28T13:26:31Z",
-    "cycle": 4
+    "stock": 0,
+    "lastStock": 18,
+    "lastUpdate": "2026-03-28T13:27:46Z",
+    "cycle": 5
   },
   {
     "name": "WIKAN K",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-28T13:26:31Z",
-    "cycle": 3
+    "lastUpdate": "2026-03-28T13:27:46Z",
+    "cycle": 4
   },
   {
     "name": "TITIK ISMIATIN",
-    "stock": 1,
-    "lastStock": 0,
-    "lastUpdate": "2026-03-28T13:26:31Z",
-    "cycle": 2
+    "stock": 52,
+    "lastStock": 3,
+    "lastUpdate": "2026-03-28T13:27:46Z",
+    "cycle": 3
   },
   {
     "name": "SRI UTAMI",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-28T13:26:31Z",
-    "cycle": 2
+    "lastUpdate": "2026-03-28T13:27:46Z",
+    "cycle": 3
   },
   {
     "name": "TUSOK",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-28T08:06:37Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-28T13:28:18Z",
+    "cycle": 1
   },
   {
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-28T11:05:46Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-28T13:28:18Z",
+    "cycle": 1
   }
 ]
