@@ -206,8 +206,8 @@
     "name": "SUPARNI",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-28T08:33:52Z",
-    "cycle": 1
+    "lastUpdate": "2026-03-28T08:34:42Z",
+    "cycle": 2
   },
   {
     "name": "YOGA RAJAN",
@@ -423,22 +423,22 @@
     "name": "HARSININGSIH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-28T08:33:54Z",
-    "cycle": 1
+    "lastUpdate": "2026-03-28T08:34:42Z",
+    "cycle": 2
   },
   {
     "name": "CAHYA HERAWATI",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-28T05:29:30Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-28T08:34:42Z",
+    "cycle": 1
   },
   {
     "name": "MISRI CICI",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-28T05:32:45Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-28T08:34:42Z",
+    "cycle": 1
   },
   {
     "name": "ALFIAN DWI A.",
