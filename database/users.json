@@ -8,10 +8,10 @@
   },
   {
     "name": "ATHI HANDAYANI",
-    "stock": 55,
+    "stock": 51,
     "lastStock": 0,
-    "lastUpdate": "2026-03-28T01:17:57Z",
-    "cycle": 2
+    "lastUpdate": "2026-03-28T01:26:55Z",
+    "cycle": 3
   },
   {
     "name": "CINDRAWATI",
@@ -24,15 +24,15 @@
     "name": "EDI SUGENG SARIPAN",
     "stock": 59,
     "lastStock": 0,
-    "lastUpdate": "2026-03-28T01:17:57Z",
-    "cycle": 2
+    "lastUpdate": "2026-03-28T01:26:55Z",
+    "cycle": 3
   },
   {
     "name": "BINA MAKMUR",
-    "stock": 0,
+    "stock": 100,
     "lastStock": 0,
-    "lastUpdate": "2026-03-27T22:22:53Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-28T01:26:55Z",
+    "cycle": 1
   },
   {
     "name": "HENDRA KURNIAWAN",
@@ -64,10 +64,10 @@
   },
   {
     "name": "KARSONO",
-    "stock": 0,
+    "stock": 69,
     "lastStock": 0,
-    "lastUpdate": "2026-03-27T22:22:53Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-28T01:26:55Z",
+    "cycle": 1
   },
   {
     "name": "LUTFI A.",
@@ -78,10 +78,10 @@
   },
   {
     "name": "MOH SAID",
-    "stock": 44,
+    "stock": 40,
     "lastStock": 0,
-    "lastUpdate": "2026-03-28T01:17:57Z",
-    "cycle": 4
+    "lastUpdate": "2026-03-28T01:29:50Z",
+    "cycle": 5
   },
   {
     "name": "TOKO 2 PUTRI",
@@ -92,10 +92,10 @@
   },
   {
     "name": "TOKO IIN",
-    "stock": 74,
+    "stock": 73,
     "lastStock": 0,
-    "lastUpdate": "2026-03-28T01:17:57Z",
-    "cycle": 1
+    "lastUpdate": "2026-03-28T01:29:56Z",
+    "cycle": 2
   },
   {
     "name": "HJ LILIK LAILIYAH",
@@ -276,8 +276,8 @@
     "name": "IMA",
     "stock": 23,
     "lastStock": 0,
-    "lastUpdate": "2026-03-28T01:22:13Z",
-    "cycle": 3
+    "lastUpdate": "2026-03-28T01:30:07Z",
+    "cycle": 4
   },
   {
     "name": "DARMAWAN P",
@@ -337,10 +337,10 @@
   },
   {
     "name": "TOKO POJOK",
-    "stock": 0,
+    "stock": 98,
     "lastStock": 0,
-    "lastUpdate": "2026-03-27T22:30:52Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-28T01:31:17Z",
+    "cycle": 1
   },
   {
     "name": "UD RAHMAT",
@@ -379,10 +379,10 @@
   },
   {
     "name": "ABDUL WAFI",
-    "stock": 95,
+    "stock": 94,
     "lastStock": 0,
-    "lastUpdate": "2026-03-28T01:22:42Z",
-    "cycle": 4
+    "lastUpdate": "2026-03-28T01:32:40Z",
+    "cycle": 5
   },
   {
     "name": "YUNIS WAHYUNI",
