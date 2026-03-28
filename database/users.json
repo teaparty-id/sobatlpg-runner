@@ -164,8 +164,8 @@
     "name": "NADIFATUS SOLEHA",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-28T12:17:28Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-28T15:21:42Z",
+    "cycle": 1
   },
   {
     "name": "SUROSO",
@@ -192,8 +192,8 @@
     "name": "ONG SWI GIOK",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-28T12:17:43Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-28T15:21:42Z",
+    "cycle": 1
   },
   {
     "name": "YUSUF ISMAIL",
@@ -206,8 +206,8 @@
     "name": "SUPARNI",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-28T12:17:57Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-28T15:21:42Z",
+    "cycle": 1
   },
   {
     "name": "YOGA RAJAN",
@@ -339,29 +339,29 @@
     "name": "TOKO POJOK",
     "stock": 61,
     "lastStock": 0,
-    "lastUpdate": "2026-03-28T15:17:19Z",
-    "cycle": 1
+    "lastUpdate": "2026-03-28T15:21:42Z",
+    "cycle": 2
   },
   {
     "name": "UD RAHMAT",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-28T15:17:19Z",
-    "cycle": 1
+    "lastUpdate": "2026-03-28T15:22:11Z",
+    "cycle": 2
   },
   {
     "name": "ULFA MARIA",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-28T10:45:38Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-28T15:22:13Z",
+    "cycle": 1
   },
   {
     "name": "TOKO SURYATI",
-    "stock": 15,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-28T13:07:13Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-28T15:22:13Z",
+    "cycle": 1
   },
   {
     "name": "SUDJIONO",
