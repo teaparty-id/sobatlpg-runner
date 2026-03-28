@@ -3,8 +3,8 @@
     "name": "AKBAR RISQ",
     "stock": 81,
     "lastStock": 0,
-    "lastUpdate": "2026-03-28T00:05:34Z",
-    "cycle": 1
+    "lastUpdate": "2026-03-28T00:16:35Z",
+    "cycle": 2
   },
   {
     "name": "ATHI HANDAYANI",
@@ -36,10 +36,10 @@
   },
   {
     "name": "HENDRA KURNIAWAN",
-    "stock": 75,
+    "stock": 72,
     "lastStock": 0,
-    "lastUpdate": "2026-03-28T00:05:34Z",
-    "cycle": 1
+    "lastUpdate": "2026-03-28T00:16:35Z",
+    "cycle": 2
   },
   {
     "name": "SUCIYONO",
@@ -50,10 +50,10 @@
   },
   {
     "name": "JAENAL",
-    "stock": 97,
+    "stock": 96,
     "lastStock": 0,
-    "lastUpdate": "2026-03-28T00:05:34Z",
-    "cycle": 1
+    "lastUpdate": "2026-03-28T00:16:35Z",
+    "cycle": 2
   },
   {
     "name": "JOKO SUWARNO",
@@ -71,10 +71,10 @@
   },
   {
     "name": "LUTFI A.",
-    "stock": 79,
+    "stock": 78,
     "lastStock": 0,
-    "lastUpdate": "2026-03-28T00:05:34Z",
-    "cycle": 1
+    "lastUpdate": "2026-03-28T00:16:35Z",
+    "cycle": 2
   },
   {
     "name": "MOH SAID",
@@ -239,10 +239,10 @@
   },
   {
     "name": "HERDIANA DIYAH S",
-    "stock": 43,
+    "stock": 42,
     "lastStock": 0,
-    "lastUpdate": "2026-03-28T00:10:09Z",
-    "cycle": 1
+    "lastUpdate": "2026-03-28T00:19:40Z",
+    "cycle": 2
   },
   {
     "name": "BUDI",
@@ -444,8 +444,8 @@
     "name": "ALFIAN DWI A.",
     "stock": 98,
     "lastStock": 0,
-    "lastUpdate": "2026-03-28T00:10:28Z",
-    "cycle": 1
+    "lastUpdate": "2026-03-28T00:20:06Z",
+    "cycle": 2
   },
   {
     "name": "ISTIQOMAH",
@@ -514,7 +514,7 @@
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-28T00:10:56Z",
-    "cycle": 1
+    "lastUpdate": "2026-03-28T00:20:45Z",
+    "cycle": 2
   }
 ]
