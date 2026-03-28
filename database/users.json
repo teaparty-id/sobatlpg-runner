@@ -1,10 +1,10 @@
 [
   {
     "name": "AKBAR RISQ",
-    "stock": 80,
+    "stock": 78,
     "lastStock": 0,
-    "lastUpdate": "2026-03-28T00:29:10Z",
-    "cycle": 4
+    "lastUpdate": "2026-03-28T00:37:14Z",
+    "cycle": 5
   },
   {
     "name": "ATHI HANDAYANI",
@@ -17,8 +17,8 @@
     "name": "CINDRAWATI",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-27T21:37:01Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-28T00:37:14Z",
+    "cycle": 1
   },
   {
     "name": "EDI SUGENG SARIPAN",
@@ -38,8 +38,8 @@
     "name": "HENDRA KURNIAWAN",
     "stock": 71,
     "lastStock": 0,
-    "lastUpdate": "2026-03-28T00:29:10Z",
-    "cycle": 4
+    "lastUpdate": "2026-03-28T00:37:14Z",
+    "cycle": 5
   },
   {
     "name": "SUCIYONO",
@@ -50,10 +50,10 @@
   },
   {
     "name": "JAENAL",
-    "stock": 95,
+    "stock": 90,
     "lastStock": 0,
-    "lastUpdate": "2026-03-28T00:29:10Z",
-    "cycle": 4
+    "lastUpdate": "2026-03-28T00:37:14Z",
+    "cycle": 5
   },
   {
     "name": "JOKO SUWARNO",
@@ -71,10 +71,10 @@
   },
   {
     "name": "LUTFI A.",
-    "stock": 73,
+    "stock": 70,
     "lastStock": 0,
-    "lastUpdate": "2026-03-28T00:29:10Z",
-    "cycle": 4
+    "lastUpdate": "2026-03-28T00:38:24Z",
+    "cycle": 5
   },
   {
     "name": "MOH SAID",
@@ -239,10 +239,10 @@
   },
   {
     "name": "HERDIANA DIYAH S",
-    "stock": 38,
+    "stock": 33,
     "lastStock": 0,
-    "lastUpdate": "2026-03-28T00:32:35Z",
-    "cycle": 4
+    "lastUpdate": "2026-03-28T00:41:41Z",
+    "cycle": 5
   },
   {
     "name": "BUDI",
@@ -295,24 +295,24 @@
   },
   {
     "name": "SALMAH",
-    "stock": 39,
+    "stock": 37,
     "lastStock": 0,
-    "lastUpdate": "2026-03-28T00:33:44Z",
-    "cycle": 1
+    "lastUpdate": "2026-03-28T00:41:48Z",
+    "cycle": 2
   },
   {
     "name": "TOKO ANITA",
-    "stock": 43,
+    "stock": 39,
     "lastStock": 0,
-    "lastUpdate": "2026-03-28T00:33:46Z",
-    "cycle": 1
+    "lastUpdate": "2026-03-28T00:41:54Z",
+    "cycle": 2
   },
   {
     "name": "TK. LUCKY",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-27T21:27:02Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-28T00:42:41Z",
+    "cycle": 1
   },
   {
     "name": "UD SAMAN HADI",
