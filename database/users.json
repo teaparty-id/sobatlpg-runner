@@ -274,24 +274,24 @@
   },
   {
     "name": "IMA",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-28T23:32:11Z",
-    "cycle": 1
+    "lastUpdate": "2026-03-28T23:36:07Z",
+    "cycle": 2
   },
   {
     "name": "DARMAWAN P",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-28T20:25:17Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-28T23:36:07Z",
+    "cycle": 1
   },
   {
     "name": "DIYAH UTAMI",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-28T20:25:17Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-28T23:36:07Z",
+    "cycle": 1
   },
   {
     "name": "SALMAH",
@@ -337,10 +337,10 @@
   },
   {
     "name": "TOKO POJOK",
-    "stock": 12,
+    "stock": 11,
     "lastStock": 0,
-    "lastUpdate": "2026-03-28T23:13:22Z",
-    "cycle": 1
+    "lastUpdate": "2026-03-28T23:36:07Z",
+    "cycle": 2
   },
   {
     "name": "UD RAHMAT",
@@ -379,10 +379,10 @@
   },
   {
     "name": "ABDUL WAFI",
-    "stock": 33,
+    "stock": 31,
     "lastStock": 0,
-    "lastUpdate": "2026-03-28T23:13:56Z",
-    "cycle": 1
+    "lastUpdate": "2026-03-28T23:36:35Z",
+    "cycle": 2
   },
   {
     "name": "YUNIS WAHYUNI",
@@ -414,17 +414,17 @@
   },
   {
     "name": "H. JUMAT",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-28T20:29:34Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-28T23:36:36Z",
+    "cycle": 1
   },
   {
     "name": "HARSININGSIH",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-28T20:30:05Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-28T23:36:38Z",
+    "cycle": 1
   },
   {
     "name": "CAHYA HERAWATI",
