@@ -150,15 +150,15 @@
     "name": "YUDA",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-28T02:25:52Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-28T05:29:00Z",
+    "cycle": 1
   },
   {
     "name": "BAMBANG HARTONO",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-28T02:25:52Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-28T05:29:00Z",
+    "cycle": 1
   },
   {
     "name": "NADIFATUS SOLEHA",
@@ -414,31 +414,31 @@
   },
   {
     "name": "H. JUMAT",
-    "stock": 18,
+    "stock": 17,
     "lastStock": 0,
-    "lastUpdate": "2026-03-28T05:20:11Z",
-    "cycle": 4
+    "lastUpdate": "2026-03-28T05:29:00Z",
+    "cycle": 5
   },
   {
     "name": "HARSININGSIH",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-28T02:22:19Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-28T05:29:00Z",
+    "cycle": 1
   },
   {
     "name": "CAHYA HERAWATI",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-28T02:22:38Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-28T05:29:30Z",
+    "cycle": 1
   },
   {
     "name": "MISRI CICI",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-28T02:23:07Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-28T05:29:32Z",
+    "cycle": 1
   },
   {
     "name": "ALFIAN DWI A.",
