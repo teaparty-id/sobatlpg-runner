@@ -87,8 +87,8 @@
     "name": "TOKO 2 PUTRI",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-28T14:46:46Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-28T17:47:42Z",
+    "cycle": 1
   },
   {
     "name": "TOKO IIN",
@@ -337,10 +337,10 @@
   },
   {
     "name": "TOKO POJOK",
-    "stock": 46,
+    "stock": 45,
     "lastStock": 0,
-    "lastUpdate": "2026-03-28T17:36:49Z",
-    "cycle": 4
+    "lastUpdate": "2026-03-28T17:47:42Z",
+    "cycle": 5
   },
   {
     "name": "UD RAHMAT",
@@ -379,10 +379,10 @@
   },
   {
     "name": "ABDUL WAFI",
-    "stock": 65,
+    "stock": 63,
     "lastStock": 0,
-    "lastUpdate": "2026-03-28T17:36:49Z",
-    "cycle": 3
+    "lastUpdate": "2026-03-28T17:47:42Z",
+    "cycle": 4
   },
   {
     "name": "YUNIS WAHYUNI",
@@ -407,10 +407,10 @@
   },
   {
     "name": "TK. MAJU",
-    "stock": 6,
+    "stock": 5,
     "lastStock": 0,
-    "lastUpdate": "2026-03-28T17:36:49Z",
-    "cycle": 3
+    "lastUpdate": "2026-03-28T17:47:42Z",
+    "cycle": 4
   },
   {
     "name": "H. JUMAT",
@@ -442,10 +442,10 @@
   },
   {
     "name": "ALFIAN DWI A.",
-    "stock": 68,
+    "stock": 67,
     "lastStock": 0,
-    "lastUpdate": "2026-03-28T17:36:49Z",
-    "cycle": 2
+    "lastUpdate": "2026-03-28T17:48:18Z",
+    "cycle": 3
   },
   {
     "name": "ISTIQOMAH",
@@ -463,10 +463,10 @@
   },
   {
     "name": "SUMBER REJEKI",
-    "stock": 35,
+    "stock": 34,
     "lastStock": 1,
-    "lastUpdate": "2026-03-28T17:40:11Z",
-    "cycle": 2
+    "lastUpdate": "2026-03-28T17:50:57Z",
+    "cycle": 3
   },
   {
     "name": "SUPARMAN",
@@ -491,24 +491,24 @@
   },
   {
     "name": "TITIK ISMIATIN",
-    "stock": 37,
+    "stock": 35,
     "lastStock": 3,
-    "lastUpdate": "2026-03-28T17:41:22Z",
-    "cycle": 1
+    "lastUpdate": "2026-03-28T17:51:13Z",
+    "cycle": 2
   },
   {
     "name": "SRI UTAMI",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-28T13:27:46Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-28T17:51:18Z",
+    "cycle": 1
   },
   {
     "name": "TUSOK",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-28T13:28:18Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-28T17:51:28Z",
+    "cycle": 1
   },
   {
     "name": "DJAMIAH",
