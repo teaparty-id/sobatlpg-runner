@@ -87,8 +87,8 @@
     "name": "TOKO 2 PUTRI",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-29T11:55:33Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-29T14:57:31Z",
+    "cycle": 1
   },
   {
     "name": "TOKO IIN",
@@ -430,15 +430,15 @@
     "name": "CAHYA HERAWATI",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-29T11:54:49Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-29T14:57:31Z",
+    "cycle": 1
   },
   {
     "name": "MISRI CICI",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-29T11:52:46Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-29T14:57:31Z",
+    "cycle": 1
   },
   {
     "name": "ALFIAN DWI A.",
@@ -451,15 +451,15 @@
     "name": "ISTIQOMAH",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-29T11:56:36Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-29T14:57:31Z",
+    "cycle": 1
   },
   {
     "name": "TOKO IRAWAN",
-    "stock": 14,
+    "stock": 12,
     "lastStock": 0,
-    "lastUpdate": "2026-03-29T14:52:05Z",
-    "cycle": 1
+    "lastUpdate": "2026-03-29T14:58:03Z",
+    "cycle": 2
   },
   {
     "name": "SUMBER REJEKI",
@@ -514,7 +514,7 @@
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-29T14:52:36Z",
-    "cycle": 1
+    "lastUpdate": "2026-03-29T14:58:04Z",
+    "cycle": 2
   }
 ]
