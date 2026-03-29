@@ -32,7 +32,7 @@
     "stock": 1,
     "lastStock": 0,
     "lastUpdate": "2026-03-29T03:36:08Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "HENDRA KURNIAWAN",
@@ -46,7 +46,7 @@
     "stock": 15,
     "lastStock": 0,
     "lastUpdate": "2026-03-29T03:36:08Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "JAENAL",
@@ -81,7 +81,7 @@
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-03-29T03:20:05Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "TOKO 2 PUTRI",
@@ -102,21 +102,21 @@
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-03-29T03:30:33Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "ERNA PUJIATI",
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-03-29T03:30:33Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "JONI H",
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-03-29T03:31:05Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "ROSA V",
@@ -228,7 +228,7 @@
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-03-29T03:20:05Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "SAMSUL ARIFIN",
@@ -319,7 +319,7 @@
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-03-29T03:36:08Z",
-    "cycle": 2
+    "cycle": 0
   },
   {
     "name": "SOEKAMTO",
@@ -340,7 +340,7 @@
     "stock": 7,
     "lastStock": 0,
     "lastUpdate": "2026-03-29T03:41:40Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "UD RAHMAT",
@@ -382,7 +382,7 @@
     "stock": 9,
     "lastStock": 0,
     "lastUpdate": "2026-03-29T03:41:40Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "YUNIS WAHYUNI",
@@ -514,7 +514,7 @@
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-29T03:41:40Z",
-    "cycle": 4
+    "lastUpdate": "2026-03-29T03:46:06Z",
+    "cycle": 0
   }
 ]
