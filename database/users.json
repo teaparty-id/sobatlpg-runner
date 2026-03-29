@@ -372,10 +372,10 @@
   },
   {
     "name": "ANDRI HERU CAHYONO",
-    "stock": 19,
+    "stock": 14,
     "lastStock": 0,
-    "lastUpdate": "2026-03-29T11:22:47Z",
-    "cycle": 1
+    "lastUpdate": "2026-03-29T11:26:00Z",
+    "cycle": 2
   },
   {
     "name": "ABDUL WAFI",
@@ -514,7 +514,7 @@
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-29T11:22:47Z",
-    "cycle": 1
+    "lastUpdate": "2026-03-29T11:26:00Z",
+    "cycle": 2
   }
 ]
