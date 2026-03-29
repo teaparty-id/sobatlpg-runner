@@ -4,7 +4,7 @@
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-03-29T17:34:54Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "ATHI HANDAYANI",
@@ -123,7 +123,7 @@
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-03-29T17:34:54Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "LUKMAN BS",
@@ -137,7 +137,7 @@
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-03-29T17:34:54Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "JAMILAH",
@@ -179,7 +179,7 @@
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-03-29T17:34:54Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "SRI HIDAYATI",
@@ -393,10 +393,10 @@
   },
   {
     "name": "ROSIDI",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-29T17:37:13Z",
-    "cycle": 3
+    "lastUpdate": "2026-03-29T17:37:43Z",
+    "cycle": 0
   },
   {
     "name": "HJ. ASLAMIYAH",
@@ -515,6 +515,6 @@
     "stock": 1,
     "lastStock": 0,
     "lastUpdate": "2026-03-29T17:36:46Z",
-    "cycle": 5
+    "cycle": 0
   }
 ]
