@@ -150,8 +150,8 @@
     "name": "YUDA",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-29T13:25:53Z",
-    "cycle": 1
+    "lastUpdate": "2026-03-29T13:26:44Z",
+    "cycle": 2
   },
   {
     "name": "BAMBANG HARTONO",
@@ -220,8 +220,8 @@
     "name": "ARIF FAUZI",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-29T13:25:53Z",
-    "cycle": 4
+    "lastUpdate": "2026-03-29T13:26:44Z",
+    "cycle": 5
   },
   {
     "name": "MOH HAFIF",
@@ -304,8 +304,8 @@
     "name": "TOKO ANITA",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-29T13:25:10Z",
-    "cycle": 3
+    "lastUpdate": "2026-03-29T13:26:44Z",
+    "cycle": 4
   },
   {
     "name": "TK. LUCKY",
@@ -323,10 +323,10 @@
   },
   {
     "name": "SOEKAMTO",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-29T10:25:12Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-29T13:26:44Z",
+    "cycle": 1
   },
   {
     "name": "TOKO TIARA",
