@@ -1,10 +1,10 @@
 [
   {
     "name": "AKBAR RISQ",
-    "stock": 93,
+    "stock": 89,
     "lastStock": 0,
-    "lastUpdate": "2026-03-29T23:35:13Z",
-    "cycle": 1
+    "lastUpdate": "2026-03-29T23:44:36Z",
+    "cycle": 2
   },
   {
     "name": "ATHI HANDAYANI",
@@ -36,10 +36,10 @@
   },
   {
     "name": "HENDRA KURNIAWAN",
-    "stock": 75,
+    "stock": 72,
     "lastStock": 0,
-    "lastUpdate": "2026-03-29T23:35:13Z",
-    "cycle": 3
+    "lastUpdate": "2026-03-29T23:44:36Z",
+    "cycle": 4
   },
   {
     "name": "SUCIYONO",
@@ -57,10 +57,10 @@
   },
   {
     "name": "JOKO SUWARNO",
-    "stock": 56,
+    "stock": 50,
     "lastStock": 0,
-    "lastUpdate": "2026-03-29T23:35:13Z",
-    "cycle": 3
+    "lastUpdate": "2026-03-29T23:44:36Z",
+    "cycle": 4
   },
   {
     "name": "KARSONO",
@@ -92,10 +92,10 @@
   },
   {
     "name": "TOKO IIN",
-    "stock": 70,
+    "stock": 67,
     "lastStock": 0,
-    "lastUpdate": "2026-03-29T23:35:13Z",
-    "cycle": 3
+    "lastUpdate": "2026-03-29T23:44:36Z",
+    "cycle": 4
   },
   {
     "name": "HJ LILIK LAILIYAH",
@@ -234,36 +234,36 @@
     "name": "SAMSUL ARIFIN",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-29T20:41:20Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-29T23:48:32Z",
+    "cycle": 1
   },
   {
     "name": "HERDIANA DIYAH S",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-29T20:41:20Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-29T23:49:03Z",
+    "cycle": 1
   },
   {
     "name": "BUDI",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-29T20:43:25Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-29T23:49:42Z",
+    "cycle": 1
   },
   {
     "name": "YULI SORAYA",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-29T20:45:07Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-29T23:50:14Z",
+    "cycle": 1
   },
   {
     "name": "SUSILO",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-29T20:47:24Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-29T23:50:15Z",
+    "cycle": 1
   },
   {
     "name": "HJ. HAERONI",
