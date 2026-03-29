@@ -3,8 +3,8 @@
     "name": "AKBAR RISQ",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-29T02:22:39Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-29T05:23:42Z",
+    "cycle": 1
   },
   {
     "name": "ATHI HANDAYANI",
@@ -122,8 +122,8 @@
     "name": "ROSA V",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-29T02:22:39Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-29T05:23:42Z",
+    "cycle": 1
   },
   {
     "name": "LUKMAN BS",
@@ -136,8 +136,8 @@
     "name": "BISTON MANURUNG",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-29T02:22:39Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-29T05:23:42Z",
+    "cycle": 1
   },
   {
     "name": "JAMILAH",
@@ -514,7 +514,7 @@
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-29T05:19:52Z",
-    "cycle": 3
+    "lastUpdate": "2026-03-29T05:23:42Z",
+    "cycle": 4
   }
 ]
