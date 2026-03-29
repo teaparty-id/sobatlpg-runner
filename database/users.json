@@ -234,15 +234,15 @@
     "name": "SAMSUL ARIFIN",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-29T02:34:06Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-29T05:34:10Z",
+    "cycle": 1
   },
   {
     "name": "HERDIANA DIYAH S",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-29T02:34:06Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-29T05:34:10Z",
+    "cycle": 1
   },
   {
     "name": "BUDI",
@@ -514,7 +514,7 @@
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-29T05:33:24Z",
-    "cycle": 1
+    "lastUpdate": "2026-03-29T05:34:10Z",
+    "cycle": 2
   }
 ]
