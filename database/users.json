@@ -88,7 +88,7 @@
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-03-29T17:57:38Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "TOKO IIN",
@@ -431,14 +431,14 @@
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-03-29T17:57:38Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "MISRI CICI",
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-03-29T17:57:38Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "ALFIAN DWI A.",
@@ -452,7 +452,7 @@
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-03-29T17:57:38Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "TOKO IRAWAN",
@@ -514,7 +514,7 @@
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-29T17:58:44Z",
-    "cycle": 4
+    "lastUpdate": "2026-03-29T17:59:14Z",
+    "cycle": 0
   }
 ]
