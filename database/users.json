@@ -129,8 +129,8 @@
     "name": "LUKMAN BS",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-29T06:56:44Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-29T09:59:47Z",
+    "cycle": 1
   },
   {
     "name": "BISTON MANURUNG",
@@ -143,8 +143,8 @@
     "name": "JAMILAH",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-29T06:56:44Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-29T09:59:47Z",
+    "cycle": 1
   },
   {
     "name": "YUDA",
@@ -309,10 +309,10 @@
   },
   {
     "name": "TK. LUCKY",
-    "stock": 6,
+    "stock": 5,
     "lastStock": 0,
-    "lastUpdate": "2026-03-29T09:56:25Z",
-    "cycle": 3
+    "lastUpdate": "2026-03-29T09:59:47Z",
+    "cycle": 4
   },
   {
     "name": "UD SAMAN HADI",
@@ -339,8 +339,8 @@
     "name": "TOKO POJOK",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-29T06:56:44Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-29T09:59:47Z",
+    "cycle": 1
   },
   {
     "name": "UD RAHMAT",
@@ -514,7 +514,7 @@
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-29T09:56:25Z",
-    "cycle": 3
+    "lastUpdate": "2026-03-29T10:00:21Z",
+    "cycle": 4
   }
 ]
