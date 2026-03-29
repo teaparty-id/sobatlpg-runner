@@ -155,10 +155,10 @@
   },
   {
     "name": "BAMBANG HARTONO",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-29T19:07:05Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-29T22:07:19Z",
+    "cycle": 1
   },
   {
     "name": "NADIFATUS SOLEHA",
@@ -514,7 +514,7 @@
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-29T22:06:36Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-29T22:07:19Z",
+    "cycle": 1
   }
 ]
