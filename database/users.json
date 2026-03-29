@@ -253,17 +253,17 @@
   },
   {
     "name": "YULI SORAYA",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-29T05:38:57Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-29T08:39:06Z",
+    "cycle": 1
   },
   {
     "name": "SUSILO",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-29T05:38:57Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-29T08:39:06Z",
+    "cycle": 1
   },
   {
     "name": "HJ. HAERONI",
@@ -514,7 +514,7 @@
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-29T08:38:26Z",
-    "cycle": 4
+    "lastUpdate": "2026-03-29T08:39:06Z",
+    "cycle": 5
   }
 ]
