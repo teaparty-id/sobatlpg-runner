@@ -395,8 +395,8 @@
     "name": "ROSIDI",
     "stock": 24,
     "lastStock": 0,
-    "lastUpdate": "2026-03-29T08:01:36Z",
-    "cycle": 1
+    "lastUpdate": "2026-03-29T08:04:44Z",
+    "cycle": 2
   },
   {
     "name": "HJ. ASLAMIYAH",
@@ -514,7 +514,7 @@
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-29T08:01:36Z",
-    "cycle": 1
+    "lastUpdate": "2026-03-29T08:04:44Z",
+    "cycle": 2
   }
 ]
