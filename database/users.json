@@ -81,7 +81,7 @@
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-03-29T09:20:22Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "TOKO 2 PUTRI",
@@ -228,7 +228,7 @@
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-03-29T09:20:22Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "SAMSUL ARIFIN",
@@ -309,10 +309,10 @@
   },
   {
     "name": "TK. LUCKY",
-    "stock": 23,
+    "stock": 19,
     "lastStock": 0,
-    "lastUpdate": "2026-03-29T09:24:18Z",
-    "cycle": 4
+    "lastUpdate": "2026-03-29T09:28:17Z",
+    "cycle": 0
   },
   {
     "name": "UD SAMAN HADI",
@@ -501,7 +501,7 @@
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-03-29T09:10:38Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "TUSOK",
@@ -515,6 +515,6 @@
     "stock": 1,
     "lastStock": 0,
     "lastUpdate": "2026-03-29T09:24:18Z",
-    "cycle": 5
+    "cycle": 0
   }
 ]
