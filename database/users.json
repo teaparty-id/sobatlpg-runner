@@ -346,8 +346,8 @@
     "name": "UD RAHMAT",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-29T10:32:36Z",
-    "cycle": 1
+    "lastUpdate": "2026-03-29T10:33:32Z",
+    "cycle": 2
   },
   {
     "name": "ULFA MARIA",
@@ -358,10 +358,10 @@
   },
   {
     "name": "TOKO SURYATI",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-29T07:32:55Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-29T10:33:32Z",
+    "cycle": 1
   },
   {
     "name": "SUDJIONO",
@@ -514,7 +514,7 @@
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-29T10:32:36Z",
-    "cycle": 2
+    "lastUpdate": "2026-03-29T10:33:32Z",
+    "cycle": 3
   }
 ]
