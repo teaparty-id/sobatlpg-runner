@@ -143,8 +143,8 @@
     "name": "JAMILAH",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-29T19:05:34Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-29T22:05:52Z",
+    "cycle": 1
   },
   {
     "name": "YUDA",
@@ -514,7 +514,7 @@
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-29T22:05:10Z",
-    "cycle": 3
+    "lastUpdate": "2026-03-29T22:05:52Z",
+    "cycle": 4
   }
 ]
