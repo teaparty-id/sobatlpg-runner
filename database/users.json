@@ -148,10 +148,10 @@
   },
   {
     "name": "YUDA",
-    "stock": 14,
+    "stock": 12,
     "lastStock": 0,
-    "lastUpdate": "2026-03-29T10:02:53Z",
-    "cycle": 1
+    "lastUpdate": "2026-03-29T10:07:40Z",
+    "cycle": 2
   },
   {
     "name": "BAMBANG HARTONO",
@@ -164,8 +164,8 @@
     "name": "NADIFATUS SOLEHA",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-29T07:06:21Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-29T10:07:40Z",
+    "cycle": 1
   },
   {
     "name": "SUROSO",
@@ -192,8 +192,8 @@
     "name": "ONG SWI GIOK",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-29T07:06:21Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-29T10:07:40Z",
+    "cycle": 1
   },
   {
     "name": "YUSUF ISMAIL",
