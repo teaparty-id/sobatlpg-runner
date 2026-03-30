@@ -136,8 +136,8 @@
     "name": "BISTON MANURUNG",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-30T12:43:20Z",
-    "cycle": 4
+    "lastUpdate": "2026-03-30T12:44:08Z",
+    "cycle": 5
   },
   {
     "name": "JAMILAH",
@@ -171,8 +171,8 @@
     "name": "SUROSO",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-30T12:43:20Z",
-    "cycle": 4
+    "lastUpdate": "2026-03-30T12:44:08Z",
+    "cycle": 5
   },
   {
     "name": "HADI SUTOYO",
@@ -199,15 +199,15 @@
     "name": "YUSUF ISMAIL",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-30T12:43:20Z",
-    "cycle": 2
+    "lastUpdate": "2026-03-30T12:44:08Z",
+    "cycle": 3
   },
   {
     "name": "SUPARNI",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-30T09:43:59Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-30T12:44:08Z",
+    "cycle": 1
   },
   {
     "name": "YOGA RAJAN",
