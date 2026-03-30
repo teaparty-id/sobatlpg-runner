@@ -43,10 +43,10 @@
   },
   {
     "name": "SUCIYONO",
-    "stock": 0,
+    "stock": 98,
     "lastStock": 0,
-    "lastUpdate": "2026-03-29T22:58:40Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-30T02:01:30Z",
+    "cycle": 1
   },
   {
     "name": "JAENAL",
@@ -71,10 +71,10 @@
   },
   {
     "name": "LUTFI A.",
-    "stock": 0,
+    "stock": 98,
     "lastStock": 0,
-    "lastUpdate": "2026-03-29T22:58:40Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-30T02:01:30Z",
+    "cycle": 1
   },
   {
     "name": "MOH SAID",
@@ -141,10 +141,10 @@
   },
   {
     "name": "JAMILAH",
-    "stock": 1,
+    "stock": 19,
     "lastStock": 0,
-    "lastUpdate": "2026-03-30T01:56:56Z",
-    "cycle": 3
+    "lastUpdate": "2026-03-30T02:01:30Z",
+    "cycle": 4
   },
   {
     "name": "YUDA",
@@ -227,8 +227,8 @@
     "name": "MOH HAFIF",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-30T01:56:56Z",
-    "cycle": 3
+    "lastUpdate": "2026-03-30T02:01:30Z",
+    "cycle": 4
   },
   {
     "name": "SAMSUL ARIFIN",
@@ -274,10 +274,10 @@
   },
   {
     "name": "IMA",
-    "stock": 1,
+    "stock": 14,
     "lastStock": 0,
-    "lastUpdate": "2026-03-30T01:56:56Z",
-    "cycle": 2
+    "lastUpdate": "2026-03-30T02:05:03Z",
+    "cycle": 3
   },
   {
     "name": "DARMAWAN P",
@@ -337,17 +337,17 @@
   },
   {
     "name": "TOKO POJOK",
-    "stock": 1,
+    "stock": 97,
     "lastStock": 0,
-    "lastUpdate": "2026-03-30T01:56:56Z",
-    "cycle": 1
+    "lastUpdate": "2026-03-30T02:06:01Z",
+    "cycle": 2
   },
   {
     "name": "UD RAHMAT",
-    "stock": 0,
+    "stock": 60,
     "lastStock": 0,
-    "lastUpdate": "2026-03-29T22:46:53Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-30T02:06:11Z",
+    "cycle": 1
   },
   {
     "name": "ULFA MARIA",
@@ -358,10 +358,10 @@
   },
   {
     "name": "TOKO SURYATI",
-    "stock": 54,
+    "stock": 51,
     "lastStock": 0,
-    "lastUpdate": "2026-03-29T23:40:11Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-30T02:06:20Z",
+    "cycle": 1
   },
   {
     "name": "SUDJIONO",
@@ -379,10 +379,10 @@
   },
   {
     "name": "ABDUL WAFI",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-29T22:52:12Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-30T02:08:56Z",
+    "cycle": 1
   },
   {
     "name": "YUNIS WAHYUNI",
