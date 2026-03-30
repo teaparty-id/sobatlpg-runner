@@ -281,10 +281,10 @@
   },
   {
     "name": "DARMAWAN P",
-    "stock": 26,
+    "stock": 25,
     "lastStock": 0,
-    "lastUpdate": "2026-03-30T09:57:58Z",
-    "cycle": 3
+    "lastUpdate": "2026-03-30T10:00:49Z",
+    "cycle": 4
   },
   {
     "name": "DIYAH UTAMI",
@@ -339,36 +339,36 @@
     "name": "TOKO POJOK",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-30T09:58:33Z",
-    "cycle": 1
+    "lastUpdate": "2026-03-30T10:00:49Z",
+    "cycle": 2
   },
   {
     "name": "UD RAHMAT",
-    "stock": 29,
+    "stock": 25,
     "lastStock": 0,
-    "lastUpdate": "2026-03-30T07:30:53Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-30T10:00:49Z",
+    "cycle": 1
   },
   {
     "name": "ULFA MARIA",
-    "stock": 0,
+    "stock": 48,
     "lastStock": 0,
-    "lastUpdate": "2026-03-30T05:34:12Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-30T10:00:49Z",
+    "cycle": 1
   },
   {
     "name": "TOKO SURYATI",
-    "stock": 37,
+    "stock": 93,
     "lastStock": 0,
-    "lastUpdate": "2026-03-30T07:30:53Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-30T10:02:14Z",
+    "cycle": 1
   },
   {
     "name": "SUDJIONO",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-30T05:34:12Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-30T10:03:16Z",
+    "cycle": 1
   },
   {
     "name": "ANDRI HERU CAHYONO",
@@ -379,17 +379,17 @@
   },
   {
     "name": "ABDUL WAFI",
-    "stock": 90,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-30T07:30:53Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-30T10:03:36Z",
+    "cycle": 1
   },
   {
     "name": "YUNIS WAHYUNI",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-30T05:49:54Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-30T10:03:52Z",
+    "cycle": 1
   },
   {
     "name": "ROSIDI",
@@ -402,8 +402,8 @@
     "name": "HJ. ASLAMIYAH",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-30T05:49:54Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-30T10:04:27Z",
+    "cycle": 1
   },
   {
     "name": "TK. MAJU",
