@@ -442,10 +442,10 @@
   },
   {
     "name": "ALFIAN DWI A.",
-    "stock": 17,
+    "stock": 16,
     "lastStock": 0,
-    "lastUpdate": "2026-03-30T21:24:54Z",
-    "cycle": 3
+    "lastUpdate": "2026-03-30T21:28:28Z",
+    "cycle": 4
   },
   {
     "name": "ISTIQOMAH",
@@ -491,30 +491,30 @@
   },
   {
     "name": "TITIK ISMIATIN",
-    "stock": 1,
-    "lastStock": 0,
-    "lastUpdate": "2026-03-30T21:25:35Z",
-    "cycle": 1
+    "stock": 0,
+    "lastStock": 3,
+    "lastUpdate": "2026-03-30T21:28:28Z",
+    "cycle": 2
   },
   {
     "name": "SRI UTAMI",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-30T18:27:11Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-30T21:28:28Z",
+    "cycle": 1
   },
   {
     "name": "TUSOK",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-30T18:27:31Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-30T21:28:28Z",
+    "cycle": 1
   },
   {
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-30T21:25:42Z",
-    "cycle": 2
+    "lastUpdate": "2026-03-30T21:28:57Z",
+    "cycle": 3
   }
 ]
