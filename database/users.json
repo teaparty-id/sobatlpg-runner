@@ -183,10 +183,10 @@
   },
   {
     "name": "SRI HIDAYATI",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-30T09:51:43Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-30T12:52:17Z",
+    "cycle": 1
   },
   {
     "name": "ONG SWI GIOK",
@@ -220,15 +220,15 @@
     "name": "ARIF FAUZI",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-30T12:50:40Z",
-    "cycle": 3
+    "lastUpdate": "2026-03-30T12:52:17Z",
+    "cycle": 4
   },
   {
     "name": "MOH HAFIF",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-30T12:50:40Z",
-    "cycle": 3
+    "lastUpdate": "2026-03-30T12:52:17Z",
+    "cycle": 4
   },
   {
     "name": "SAMSUL ARIFIN",
@@ -409,8 +409,8 @@
     "name": "TK. MAJU",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-30T12:50:40Z",
-    "cycle": 3
+    "lastUpdate": "2026-03-30T12:52:17Z",
+    "cycle": 4
   },
   {
     "name": "H. JUMAT",
