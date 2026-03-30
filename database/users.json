@@ -85,10 +85,10 @@
   },
   {
     "name": "TOKO 2 PUTRI",
-    "stock": 55,
+    "stock": 53,
     "lastStock": 0,
-    "lastUpdate": "2026-03-30T00:07:43Z",
-    "cycle": 2
+    "lastUpdate": "2026-03-30T00:17:12Z",
+    "cycle": 3
   },
   {
     "name": "TOKO IIN",
@@ -185,8 +185,8 @@
     "name": "SRI HIDAYATI",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-29T21:13:05Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-30T00:17:12Z",
+    "cycle": 1
   },
   {
     "name": "ONG SWI GIOK",
@@ -276,8 +276,8 @@
     "name": "IMA",
     "stock": 21,
     "lastStock": 0,
-    "lastUpdate": "2026-03-30T00:07:43Z",
-    "cycle": 3
+    "lastUpdate": "2026-03-30T00:17:12Z",
+    "cycle": 4
   },
   {
     "name": "DARMAWAN P",
@@ -297,8 +297,8 @@
     "name": "SALMAH",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-29T21:15:29Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-30T00:17:12Z",
+    "cycle": 1
   },
   {
     "name": "TOKO ANITA",
@@ -414,10 +414,10 @@
   },
   {
     "name": "H. JUMAT",
-    "stock": 38,
+    "stock": 34,
     "lastStock": 0,
-    "lastUpdate": "2026-03-30T00:07:43Z",
-    "cycle": 2
+    "lastUpdate": "2026-03-30T00:17:53Z",
+    "cycle": 3
   },
   {
     "name": "HARSININGSIH",
@@ -442,10 +442,10 @@
   },
   {
     "name": "ALFIAN DWI A.",
-    "stock": 98,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-30T00:11:14Z",
-    "cycle": 2
+    "lastUpdate": "2026-03-30T00:18:03Z",
+    "cycle": 3
   },
   {
     "name": "ISTIQOMAH",
