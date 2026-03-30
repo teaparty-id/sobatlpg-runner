@@ -337,10 +337,10 @@
   },
   {
     "name": "TOKO POJOK",
-    "stock": 42,
+    "stock": 37,
     "lastStock": 0,
-    "lastUpdate": "2026-03-30T19:41:51Z",
-    "cycle": 2
+    "lastUpdate": "2026-03-30T19:45:40Z",
+    "cycle": 3
   },
   {
     "name": "UD RAHMAT",
@@ -351,17 +351,17 @@
   },
   {
     "name": "ULFA MARIA",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-30T19:41:51Z",
-    "cycle": 1
+    "lastUpdate": "2026-03-30T19:45:40Z",
+    "cycle": 2
   },
   {
     "name": "TOKO SURYATI",
-    "stock": 1,
+    "stock": 53,
     "lastStock": 0,
-    "lastUpdate": "2026-03-30T19:41:52Z",
-    "cycle": 1
+    "lastUpdate": "2026-03-30T19:45:40Z",
+    "cycle": 2
   },
   {
     "name": "SUDJIONO",
@@ -379,10 +379,10 @@
   },
   {
     "name": "ABDUL WAFI",
-    "stock": 1,
+    "stock": 60,
     "lastStock": 0,
-    "lastUpdate": "2026-03-30T19:41:53Z",
-    "cycle": 1
+    "lastUpdate": "2026-03-30T19:45:40Z",
+    "cycle": 2
   },
   {
     "name": "YUNIS WAHYUNI",
@@ -407,17 +407,17 @@
   },
   {
     "name": "TK. MAJU",
-    "stock": 6,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-30T18:29:55Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-30T19:48:23Z",
+    "cycle": 1
   },
   {
     "name": "H. JUMAT",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-30T16:30:41Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-30T19:48:35Z",
+    "cycle": 1
   },
   {
     "name": "HARSININGSIH",
@@ -442,10 +442,10 @@
   },
   {
     "name": "ALFIAN DWI A.",
-    "stock": 33,
+    "stock": 29,
     "lastStock": 0,
-    "lastUpdate": "2026-03-30T18:36:19Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-30T19:48:58Z",
+    "cycle": 1
   },
   {
     "name": "ISTIQOMAH",
@@ -465,8 +465,8 @@
     "name": "SUMBER REJEKI",
     "stock": 1,
     "lastStock": 1,
-    "lastUpdate": "2026-03-30T18:41:17Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-30T19:49:09Z",
+    "cycle": 1
   },
   {
     "name": "SUPARMAN",
@@ -514,7 +514,7 @@
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-30T18:45:35Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-30T19:50:51Z",
+    "cycle": 1
   }
 ]
