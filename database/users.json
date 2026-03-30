@@ -78,10 +78,10 @@
   },
   {
     "name": "MOH SAID",
-    "stock": 58,
+    "stock": 57,
     "lastStock": 0,
-    "lastUpdate": "2026-03-30T00:38:57Z",
-    "cycle": 2
+    "lastUpdate": "2026-03-30T00:42:20Z",
+    "cycle": 3
   },
   {
     "name": "TOKO 2 PUTRI",
@@ -225,10 +225,10 @@
   },
   {
     "name": "MOH HAFIF",
-    "stock": 17,
+    "stock": 14,
     "lastStock": 0,
-    "lastUpdate": "2026-03-30T00:39:31Z",
-    "cycle": 2
+    "lastUpdate": "2026-03-30T00:42:20Z",
+    "cycle": 3
   },
   {
     "name": "SAMSUL ARIFIN",
@@ -463,10 +463,10 @@
   },
   {
     "name": "SUMBER REJEKI",
-    "stock": 1,
-    "lastStock": 0,
-    "lastUpdate": "2026-03-30T00:39:36Z",
-    "cycle": 4
+    "stock": 69,
+    "lastStock": 1,
+    "lastUpdate": "2026-03-30T00:42:20Z",
+    "cycle": 5
   },
   {
     "name": "SUPARMAN",
@@ -477,10 +477,10 @@
   },
   {
     "name": "P. SUK",
-    "stock": 1,
-    "lastStock": 0,
-    "lastUpdate": "2026-03-30T00:39:41Z",
-    "cycle": 3
+    "stock": 17,
+    "lastStock": 18,
+    "lastUpdate": "2026-03-30T00:42:20Z",
+    "cycle": 4
   },
   {
     "name": "WIKAN K",
