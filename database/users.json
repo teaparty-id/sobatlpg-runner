@@ -150,8 +150,8 @@
     "name": "YUDA",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-31T04:41:27Z",
-    "cycle": 1
+    "lastUpdate": "2026-03-31T04:42:36Z",
+    "cycle": 2
   },
   {
     "name": "BAMBANG HARTONO",
@@ -514,7 +514,7 @@
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-31T04:40:31Z",
-    "cycle": 4
+    "lastUpdate": "2026-03-31T04:42:36Z",
+    "cycle": 5
   }
 ]
