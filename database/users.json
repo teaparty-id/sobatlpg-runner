@@ -325,22 +325,22 @@
     "name": "SOEKAMTO",
     "stock": 3,
     "lastStock": 0,
-    "lastUpdate": "2026-03-31T06:15:36Z",
-    "cycle": 2
+    "lastUpdate": "2026-03-31T06:18:43Z",
+    "cycle": 3
   },
   {
     "name": "TOKO TIARA",
     "stock": 27,
     "lastStock": 0,
-    "lastUpdate": "2026-03-31T06:16:11Z",
-    "cycle": 2
+    "lastUpdate": "2026-03-31T06:18:43Z",
+    "cycle": 3
   },
   {
     "name": "TOKO POJOK",
-    "stock": 1,
+    "stock": 72,
     "lastStock": 0,
-    "lastUpdate": "2026-03-31T06:16:11Z",
-    "cycle": 2
+    "lastUpdate": "2026-03-31T06:18:43Z",
+    "cycle": 3
   },
   {
     "name": "UD RAHMAT",
@@ -360,8 +360,8 @@
     "name": "TOKO SURYATI",
     "stock": 29,
     "lastStock": 0,
-    "lastUpdate": "2026-03-31T06:11:23Z",
-    "cycle": 1
+    "lastUpdate": "2026-03-31T06:18:43Z",
+    "cycle": 2
   },
   {
     "name": "SUDJIONO",
@@ -379,10 +379,10 @@
   },
   {
     "name": "ABDUL WAFI",
-    "stock": 83,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-31T06:11:31Z",
-    "cycle": 1
+    "lastUpdate": "2026-03-31T06:21:05Z",
+    "cycle": 2
   },
   {
     "name": "YUNIS WAHYUNI",
@@ -409,15 +409,15 @@
     "name": "TK. MAJU",
     "stock": 61,
     "lastStock": 0,
-    "lastUpdate": "2026-03-31T06:11:39Z",
-    "cycle": 1
+    "lastUpdate": "2026-03-31T06:21:11Z",
+    "cycle": 2
   },
   {
     "name": "H. JUMAT",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-31T02:01:05Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-31T06:21:18Z",
+    "cycle": 1
   },
   {
     "name": "HARSININGSIH",
@@ -444,8 +444,8 @@
     "name": "ALFIAN DWI A.",
     "stock": 100,
     "lastStock": 0,
-    "lastUpdate": "2026-03-31T04:29:46Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-31T06:21:35Z",
+    "cycle": 1
   },
   {
     "name": "ISTIQOMAH",
@@ -465,8 +465,8 @@
     "name": "SUMBER REJEKI",
     "stock": 88,
     "lastStock": 1,
-    "lastUpdate": "2026-03-31T04:32:41Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-31T06:21:50Z",
+    "cycle": 1
   },
   {
     "name": "SUPARMAN",
