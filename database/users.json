@@ -71,31 +71,31 @@
   },
   {
     "name": "LUTFI A.",
-    "stock": 60,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-31T12:51:23Z",
-    "cycle": 2
+    "lastUpdate": "2026-03-31T12:57:23Z",
+    "cycle": 3
   },
   {
     "name": "MOH SAID",
     "stock": 30,
     "lastStock": 0,
-    "lastUpdate": "2026-03-31T12:51:23Z",
-    "cycle": 2
+    "lastUpdate": "2026-03-31T12:57:23Z",
+    "cycle": 3
   },
   {
     "name": "TOKO 2 PUTRI",
     "stock": 27,
     "lastStock": 0,
-    "lastUpdate": "2026-03-31T12:51:23Z",
-    "cycle": 2
+    "lastUpdate": "2026-03-31T12:57:23Z",
+    "cycle": 3
   },
   {
     "name": "TOKO IIN",
-    "stock": 31,
+    "stock": 30,
     "lastStock": 0,
-    "lastUpdate": "2026-03-31T12:51:23Z",
-    "cycle": 2
+    "lastUpdate": "2026-03-31T12:57:23Z",
+    "cycle": 3
   },
   {
     "name": "HJ LILIK LAILIYAH",
@@ -108,8 +108,8 @@
     "name": "ERNA PUJIATI",
     "stock": 29,
     "lastStock": 0,
-    "lastUpdate": "2026-03-31T12:53:45Z",
-    "cycle": 2
+    "lastUpdate": "2026-03-31T12:58:25Z",
+    "cycle": 3
   },
   {
     "name": "JONI H",
@@ -127,10 +127,10 @@
   },
   {
     "name": "LUKMAN BS",
-    "stock": 42,
+    "stock": 41,
     "lastStock": 0,
-    "lastUpdate": "2026-03-31T12:54:30Z",
-    "cycle": 2
+    "lastUpdate": "2026-03-31T13:00:02Z",
+    "cycle": 3
   },
   {
     "name": "BISTON MANURUNG",
@@ -157,8 +157,8 @@
     "name": "BAMBANG HARTONO",
     "stock": 44,
     "lastStock": 0,
-    "lastUpdate": "2026-03-31T12:54:33Z",
-    "cycle": 2
+    "lastUpdate": "2026-03-31T13:00:08Z",
+    "cycle": 3
   },
   {
     "name": "NADIFATUS SOLEHA",
@@ -283,8 +283,8 @@
     "name": "DARMAWAN P",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-31T08:56:05Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-31T13:00:30Z",
+    "cycle": 1
   },
   {
     "name": "DIYAH UTAMI",
@@ -297,8 +297,8 @@
     "name": "SALMAH",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-31T09:03:52Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-31T13:01:05Z",
+    "cycle": 1
   },
   {
     "name": "TOKO ANITA",
