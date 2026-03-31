@@ -353,8 +353,8 @@
     "name": "ULFA MARIA",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-31T06:11:06Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-31T09:11:37Z",
+    "cycle": 1
   },
   {
     "name": "TOKO SURYATI",
@@ -491,10 +491,10 @@
   },
   {
     "name": "TITIK ISMIATIN",
-    "stock": 16,
+    "stock": 14,
     "lastStock": 3,
-    "lastUpdate": "2026-03-31T09:08:48Z",
-    "cycle": 3
+    "lastUpdate": "2026-03-31T09:11:37Z",
+    "cycle": 4
   },
   {
     "name": "SRI UTAMI",
@@ -514,7 +514,7 @@
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-31T09:08:48Z",
-    "cycle": 2
+    "lastUpdate": "2026-03-31T09:11:37Z",
+    "cycle": 3
   }
 ]
