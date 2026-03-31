@@ -43,10 +43,10 @@
   },
   {
     "name": "SUCIYONO",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-31T20:31:46Z",
-    "cycle": 1
+    "lastUpdate": "2026-03-31T20:32:21Z",
+    "cycle": 2
   },
   {
     "name": "JAENAL",
@@ -134,31 +134,31 @@
   },
   {
     "name": "BISTON MANURUNG",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-31T20:31:46Z",
-    "cycle": 1
+    "lastUpdate": "2026-03-31T20:32:21Z",
+    "cycle": 2
   },
   {
     "name": "JAMILAH",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-31T20:31:46Z",
-    "cycle": 1
+    "lastUpdate": "2026-03-31T20:32:21Z",
+    "cycle": 2
   },
   {
     "name": "YUDA",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-31T20:31:46Z",
-    "cycle": 1
+    "lastUpdate": "2026-03-31T20:32:21Z",
+    "cycle": 2
   },
   {
     "name": "BAMBANG HARTONO",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-31T17:32:02Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-31T20:32:50Z",
+    "cycle": 1
   },
   {
     "name": "NADIFATUS SOLEHA",
@@ -444,8 +444,8 @@
     "name": "ALFIAN DWI A.",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-31T20:20:20Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-31T20:32:51Z",
+    "cycle": 1
   },
   {
     "name": "ISTIQOMAH",
@@ -465,8 +465,8 @@
     "name": "SUMBER REJEKI",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-31T20:23:08Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-31T20:32:52Z",
+    "cycle": 1
   },
   {
     "name": "SUPARMAN",
