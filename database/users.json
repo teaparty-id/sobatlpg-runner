@@ -43,10 +43,10 @@
   },
   {
     "name": "SUCIYONO",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-31T17:31:32Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-31T20:31:46Z",
+    "cycle": 1
   },
   {
     "name": "JAENAL",
@@ -134,24 +134,24 @@
   },
   {
     "name": "BISTON MANURUNG",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-31T17:31:32Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-31T20:31:46Z",
+    "cycle": 1
   },
   {
     "name": "JAMILAH",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-31T17:31:32Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-31T20:31:46Z",
+    "cycle": 1
   },
   {
     "name": "YUDA",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-31T17:31:32Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-31T20:31:46Z",
+    "cycle": 1
   },
   {
     "name": "BAMBANG HARTONO",
