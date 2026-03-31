@@ -73,29 +73,29 @@
     "name": "LUTFI A.",
     "stock": 82,
     "lastStock": 0,
-    "lastUpdate": "2026-03-31T03:17:02Z",
-    "cycle": 2
+    "lastUpdate": "2026-03-31T03:24:12Z",
+    "cycle": 3
   },
   {
     "name": "MOH SAID",
     "stock": 47,
     "lastStock": 0,
-    "lastUpdate": "2026-03-31T03:17:02Z",
-    "cycle": 2
+    "lastUpdate": "2026-03-31T03:24:12Z",
+    "cycle": 3
   },
   {
     "name": "TOKO 2 PUTRI",
     "stock": 48,
     "lastStock": 0,
-    "lastUpdate": "2026-03-31T03:17:02Z",
-    "cycle": 2
+    "lastUpdate": "2026-03-31T03:24:12Z",
+    "cycle": 3
   },
   {
     "name": "TOKO IIN",
-    "stock": 73,
+    "stock": 71,
     "lastStock": 0,
-    "lastUpdate": "2026-03-31T03:17:02Z",
-    "cycle": 2
+    "lastUpdate": "2026-03-31T03:24:12Z",
+    "cycle": 3
   },
   {
     "name": "HJ LILIK LAILIYAH",
@@ -127,10 +127,10 @@
   },
   {
     "name": "LUKMAN BS",
-    "stock": 53,
+    "stock": 52,
     "lastStock": 0,
-    "lastUpdate": "2026-03-31T03:19:30Z",
-    "cycle": 2
+    "lastUpdate": "2026-03-31T03:26:39Z",
+    "cycle": 3
   },
   {
     "name": "BISTON MANURUNG",
@@ -262,8 +262,8 @@
     "name": "SUSILO",
     "stock": 18,
     "lastStock": 0,
-    "lastUpdate": "2026-03-31T03:19:31Z",
-    "cycle": 2
+    "lastUpdate": "2026-03-31T03:27:11Z",
+    "cycle": 3
   },
   {
     "name": "HJ. HAERONI",
@@ -288,10 +288,10 @@
   },
   {
     "name": "DIYAH UTAMI",
-    "stock": 9,
+    "stock": 8,
     "lastStock": 0,
-    "lastUpdate": "2026-03-31T03:20:46Z",
-    "cycle": 1
+    "lastUpdate": "2026-03-31T03:27:46Z",
+    "cycle": 2
   },
   {
     "name": "SALMAH",
@@ -323,17 +323,17 @@
   },
   {
     "name": "SOEKAMTO",
-    "stock": 17,
+    "stock": 15,
     "lastStock": 0,
-    "lastUpdate": "2026-03-30T23:38:55Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-31T03:28:18Z",
+    "cycle": 1
   },
   {
     "name": "TOKO TIARA",
     "stock": 29,
     "lastStock": 0,
-    "lastUpdate": "2026-03-31T00:29:58Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-31T03:28:52Z",
+    "cycle": 1
   },
   {
     "name": "TOKO POJOK",
