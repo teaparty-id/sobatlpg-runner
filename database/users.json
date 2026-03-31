@@ -85,10 +85,10 @@
   },
   {
     "name": "TOKO 2 PUTRI",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-31T14:47:33Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-31T17:47:56Z",
+    "cycle": 1
   },
   {
     "name": "TOKO IIN",
@@ -402,15 +402,15 @@
     "name": "HJ. ASLAMIYAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-31T17:46:53Z",
-    "cycle": 1
+    "lastUpdate": "2026-03-31T17:47:56Z",
+    "cycle": 2
   },
   {
     "name": "TK. MAJU",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-31T15:16:31Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-31T17:47:56Z",
+    "cycle": 1
   },
   {
     "name": "H. JUMAT",
@@ -423,8 +423,8 @@
     "name": "HARSININGSIH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-31T15:17:04Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-31T17:47:56Z",
+    "cycle": 1
   },
   {
     "name": "CAHYA HERAWATI",
