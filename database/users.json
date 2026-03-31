@@ -73,29 +73,29 @@
     "name": "LUTFI A.",
     "stock": 72,
     "lastStock": 0,
-    "lastUpdate": "2026-03-31T10:24:52Z",
-    "cycle": 3
+    "lastUpdate": "2026-03-31T10:32:06Z",
+    "cycle": 4
   },
   {
     "name": "MOH SAID",
-    "stock": 34,
+    "stock": 32,
     "lastStock": 0,
-    "lastUpdate": "2026-03-31T10:24:52Z",
-    "cycle": 3
+    "lastUpdate": "2026-03-31T10:32:06Z",
+    "cycle": 4
   },
   {
     "name": "TOKO 2 PUTRI",
-    "stock": 34,
+    "stock": 32,
     "lastStock": 0,
-    "lastUpdate": "2026-03-31T10:24:52Z",
-    "cycle": 3
+    "lastUpdate": "2026-03-31T10:32:06Z",
+    "cycle": 4
   },
   {
     "name": "TOKO IIN",
-    "stock": 37,
+    "stock": 36,
     "lastStock": 0,
-    "lastUpdate": "2026-03-31T10:24:52Z",
-    "cycle": 3
+    "lastUpdate": "2026-03-31T10:32:06Z",
+    "cycle": 4
   },
   {
     "name": "HJ LILIK LAILIYAH",
@@ -108,8 +108,8 @@
     "name": "ERNA PUJIATI",
     "stock": 35,
     "lastStock": 0,
-    "lastUpdate": "2026-03-31T10:27:59Z",
-    "cycle": 2
+    "lastUpdate": "2026-03-31T10:35:10Z",
+    "cycle": 3
   },
   {
     "name": "JONI H",
@@ -129,8 +129,8 @@
     "name": "LUKMAN BS",
     "stock": 44,
     "lastStock": 0,
-    "lastUpdate": "2026-03-31T10:28:00Z",
-    "cycle": 2
+    "lastUpdate": "2026-03-31T10:35:10Z",
+    "cycle": 3
   },
   {
     "name": "BISTON MANURUNG",
@@ -330,17 +330,17 @@
   },
   {
     "name": "TOKO TIARA",
-    "stock": 21,
+    "stock": 20,
     "lastStock": 0,
-    "lastUpdate": "2026-03-31T10:28:06Z",
-    "cycle": 1
+    "lastUpdate": "2026-03-31T10:35:13Z",
+    "cycle": 2
   },
   {
     "name": "TOKO POJOK",
     "stock": 70,
     "lastStock": 0,
-    "lastUpdate": "2026-03-31T10:28:06Z",
-    "cycle": 1
+    "lastUpdate": "2026-03-31T10:35:16Z",
+    "cycle": 2
   },
   {
     "name": "UD RAHMAT",
@@ -358,10 +358,10 @@
   },
   {
     "name": "TOKO SURYATI",
-    "stock": 21,
+    "stock": 20,
     "lastStock": 0,
-    "lastUpdate": "2026-03-31T08:43:22Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-31T10:37:30Z",
+    "cycle": 1
   },
   {
     "name": "SUDJIONO",
