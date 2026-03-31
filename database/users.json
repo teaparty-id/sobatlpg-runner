@@ -472,22 +472,22 @@
     "name": "SUPARMAN",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-31T23:24:09Z",
-    "cycle": 1
+    "lastUpdate": "2026-03-31T23:24:41Z",
+    "cycle": 2
   },
   {
     "name": "P. SUK",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-31T23:24:09Z",
-    "cycle": 1
+    "lastUpdate": "2026-03-31T23:24:41Z",
+    "cycle": 2
   },
   {
     "name": "WIKAN K",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-31T23:24:09Z",
-    "cycle": 1
+    "lastUpdate": "2026-03-31T23:24:41Z",
+    "cycle": 2
   },
   {
     "name": "TITIK ISMIATIN",
@@ -498,10 +498,10 @@
   },
   {
     "name": "SRI UTAMI",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-31T20:24:13Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-31T23:24:41Z",
+    "cycle": 1
   },
   {
     "name": "TUSOK",
