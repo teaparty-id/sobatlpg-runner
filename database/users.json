@@ -31,8 +31,8 @@
     "name": "BINA MAKMUR",
     "stock": 102,
     "lastStock": 0,
-    "lastUpdate": "2026-03-31T02:01:05Z",
-    "cycle": 4
+    "lastUpdate": "2026-03-31T02:05:54Z",
+    "cycle": 5
   },
   {
     "name": "HENDRA KURNIAWAN",
@@ -262,8 +262,8 @@
     "name": "SUSILO",
     "stock": 21,
     "lastStock": 0,
-    "lastUpdate": "2026-03-31T02:01:05Z",
-    "cycle": 4
+    "lastUpdate": "2026-03-31T02:05:54Z",
+    "cycle": 5
   },
   {
     "name": "HJ. HAERONI",
@@ -407,10 +407,10 @@
   },
   {
     "name": "TK. MAJU",
-    "stock": 71,
+    "stock": 70,
     "lastStock": 0,
-    "lastUpdate": "2026-03-31T02:01:05Z",
-    "cycle": 3
+    "lastUpdate": "2026-03-31T02:05:54Z",
+    "cycle": 4
   },
   {
     "name": "H. JUMAT",
@@ -465,8 +465,8 @@
     "name": "SUMBER REJEKI",
     "stock": 89,
     "lastStock": 1,
-    "lastUpdate": "2026-03-31T02:01:43Z",
-    "cycle": 2
+    "lastUpdate": "2026-03-31T02:05:54Z",
+    "cycle": 3
   },
   {
     "name": "SUPARMAN",
