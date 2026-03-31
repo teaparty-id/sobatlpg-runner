@@ -66,36 +66,36 @@
     "name": "KARSONO",
     "stock": 60,
     "lastStock": 0,
-    "lastUpdate": "2026-03-31T12:41:06Z",
-    "cycle": 4
+    "lastUpdate": "2026-03-31T12:44:22Z",
+    "cycle": 5
   },
   {
     "name": "LUTFI A.",
-    "stock": 72,
+    "stock": 60,
     "lastStock": 0,
-    "lastUpdate": "2026-03-31T10:40:53Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-31T12:44:22Z",
+    "cycle": 1
   },
   {
     "name": "MOH SAID",
-    "stock": 31,
+    "stock": 30,
     "lastStock": 0,
-    "lastUpdate": "2026-03-31T10:40:53Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-31T12:44:22Z",
+    "cycle": 1
   },
   {
     "name": "TOKO 2 PUTRI",
-    "stock": 31,
+    "stock": 29,
     "lastStock": 0,
-    "lastUpdate": "2026-03-31T10:40:53Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-31T12:44:22Z",
+    "cycle": 1
   },
   {
     "name": "TOKO IIN",
-    "stock": 34,
+    "stock": 33,
     "lastStock": 0,
-    "lastUpdate": "2026-03-31T10:40:53Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-31T12:47:25Z",
+    "cycle": 1
   },
   {
     "name": "HJ LILIK LAILIYAH",
@@ -106,10 +106,10 @@
   },
   {
     "name": "ERNA PUJIATI",
-    "stock": 31,
+    "stock": 29,
     "lastStock": 0,
-    "lastUpdate": "2026-03-31T10:50:23Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-31T12:47:30Z",
+    "cycle": 1
   },
   {
     "name": "JONI H",
@@ -129,8 +129,8 @@
     "name": "LUKMAN BS",
     "stock": 42,
     "lastStock": 0,
-    "lastUpdate": "2026-03-31T10:50:23Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-31T12:47:51Z",
+    "cycle": 1
   },
   {
     "name": "BISTON MANURUNG",
@@ -143,8 +143,8 @@
     "name": "JAMILAH",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-31T09:18:10Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-31T12:48:02Z",
+    "cycle": 1
   },
   {
     "name": "YUDA",
@@ -157,8 +157,8 @@
     "name": "BAMBANG HARTONO",
     "stock": 45,
     "lastStock": 0,
-    "lastUpdate": "2026-03-31T11:54:11Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-31T12:48:31Z",
+    "cycle": 1
   },
   {
     "name": "NADIFATUS SOLEHA",
