@@ -155,10 +155,10 @@
   },
   {
     "name": "BAMBANG HARTONO",
-    "stock": 42,
+    "stock": 38,
     "lastStock": 0,
-    "lastUpdate": "2026-03-31T13:10:17Z",
-    "cycle": 4
+    "lastUpdate": "2026-03-31T13:14:20Z",
+    "cycle": 5
   },
   {
     "name": "NADIFATUS SOLEHA",
@@ -302,10 +302,10 @@
   },
   {
     "name": "TOKO ANITA",
-    "stock": 50,
+    "stock": 48,
     "lastStock": 0,
-    "lastUpdate": "2026-03-31T13:10:27Z",
-    "cycle": 1
+    "lastUpdate": "2026-03-31T13:14:20Z",
+    "cycle": 2
   },
   {
     "name": "TK. LUCKY",
@@ -316,10 +316,10 @@
   },
   {
     "name": "UD SAMAN HADI",
-    "stock": 47,
+    "stock": 45,
     "lastStock": 0,
-    "lastUpdate": "2026-03-31T13:10:59Z",
-    "cycle": 1
+    "lastUpdate": "2026-03-31T13:14:20Z",
+    "cycle": 2
   },
   {
     "name": "SOEKAMTO",
@@ -330,17 +330,17 @@
   },
   {
     "name": "TOKO TIARA",
-    "stock": 17,
+    "stock": 16,
     "lastStock": 0,
-    "lastUpdate": "2026-03-31T10:57:36Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-31T13:14:20Z",
+    "cycle": 1
   },
   {
     "name": "TOKO POJOK",
     "stock": 69,
     "lastStock": 0,
-    "lastUpdate": "2026-03-31T10:58:11Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-31T13:17:10Z",
+    "cycle": 1
   },
   {
     "name": "UD RAHMAT",
@@ -351,24 +351,24 @@
   },
   {
     "name": "ULFA MARIA",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-31T09:11:37Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-31T13:17:38Z",
+    "cycle": 1
   },
   {
     "name": "TOKO SURYATI",
-    "stock": 7,
+    "stock": 4,
     "lastStock": 0,
-    "lastUpdate": "2026-03-31T11:01:37Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-31T13:17:49Z",
+    "cycle": 1
   },
   {
     "name": "SUDJIONO",
-    "stock": 9,
+    "stock": 7,
     "lastStock": 0,
-    "lastUpdate": "2026-03-31T11:10:46Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-31T13:18:13Z",
+    "cycle": 1
   },
   {
     "name": "ANDRI HERU CAHYONO",
@@ -379,10 +379,10 @@
   },
   {
     "name": "ABDUL WAFI",
-    "stock": 65,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-31T11:21:00Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-31T13:18:14Z",
+    "cycle": 1
   },
   {
     "name": "YUNIS WAHYUNI",
