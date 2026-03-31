@@ -143,8 +143,8 @@
     "name": "JAMILAH",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-31T03:14:00Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-31T06:15:36Z",
+    "cycle": 1
   },
   {
     "name": "YUDA",
@@ -192,8 +192,8 @@
     "name": "ONG SWI GIOK",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-03-31T03:14:14Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-31T06:15:36Z",
+    "cycle": 1
   },
   {
     "name": "YUSUF ISMAIL",
@@ -290,8 +290,8 @@
     "name": "DIYAH UTAMI",
     "stock": 3,
     "lastStock": 0,
-    "lastUpdate": "2026-03-31T06:08:43Z",
-    "cycle": 4
+    "lastUpdate": "2026-03-31T06:15:36Z",
+    "cycle": 5
   },
   {
     "name": "SALMAH",
@@ -325,22 +325,22 @@
     "name": "SOEKAMTO",
     "stock": 3,
     "lastStock": 0,
-    "lastUpdate": "2026-03-31T06:08:43Z",
-    "cycle": 1
+    "lastUpdate": "2026-03-31T06:15:36Z",
+    "cycle": 2
   },
   {
     "name": "TOKO TIARA",
     "stock": 27,
     "lastStock": 0,
-    "lastUpdate": "2026-03-31T06:08:43Z",
-    "cycle": 1
+    "lastUpdate": "2026-03-31T06:16:11Z",
+    "cycle": 2
   },
   {
     "name": "TOKO POJOK",
-    "stock": 72,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-31T06:10:43Z",
-    "cycle": 1
+    "lastUpdate": "2026-03-31T06:16:11Z",
+    "cycle": 2
   },
   {
     "name": "UD RAHMAT",
