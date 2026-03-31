@@ -71,10 +71,10 @@
   },
   {
     "name": "LUTFI A.",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-31T20:47:06Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-31T23:48:07Z",
+    "cycle": 1
   },
   {
     "name": "MOH SAID",
@@ -367,8 +367,8 @@
     "name": "SUDJIONO",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-31T23:47:15Z",
-    "cycle": 1
+    "lastUpdate": "2026-03-31T23:48:07Z",
+    "cycle": 2
   },
   {
     "name": "ANDRI HERU CAHYONO",
@@ -381,15 +381,15 @@
     "name": "ABDUL WAFI",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-31T23:47:19Z",
-    "cycle": 1
+    "lastUpdate": "2026-03-31T23:48:07Z",
+    "cycle": 2
   },
   {
     "name": "YUNIS WAHYUNI",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-03-31T20:47:06Z",
-    "cycle": 0
+    "lastUpdate": "2026-03-31T23:48:07Z",
+    "cycle": 1
   },
   {
     "name": "ROSIDI",
