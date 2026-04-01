@@ -129,8 +129,8 @@
     "name": "LUKMAN BS",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-01T08:54:44Z",
-    "cycle": 3
+    "lastUpdate": "2026-04-01T08:55:14Z",
+    "cycle": 4
   },
   {
     "name": "BISTON MANURUNG",
@@ -150,22 +150,22 @@
     "name": "YUDA",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-01T08:54:44Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-01T08:55:14Z",
+    "cycle": 3
   },
   {
     "name": "BAMBANG HARTONO",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-01T08:54:44Z",
-    "cycle": 1
+    "lastUpdate": "2026-04-01T08:55:14Z",
+    "cycle": 2
   },
   {
     "name": "NADIFATUS SOLEHA",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-01T05:44:20Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-01T08:55:14Z",
+    "cycle": 1
   },
   {
     "name": "SUROSO",
