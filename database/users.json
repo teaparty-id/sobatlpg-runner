@@ -43,10 +43,10 @@
   },
   {
     "name": "SUCIYONO",
-    "stock": 0,
+    "stock": 70,
     "lastStock": 0,
-    "lastUpdate": "2026-04-01T02:35:15Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-01T05:36:15Z",
+    "cycle": 1
   },
   {
     "name": "JAENAL",
@@ -59,8 +59,8 @@
     "name": "JOKO SUWARNO",
     "stock": 45,
     "lastStock": 0,
-    "lastUpdate": "2026-04-01T05:33:37Z",
-    "cycle": 3
+    "lastUpdate": "2026-04-01T05:36:15Z",
+    "cycle": 4
   },
   {
     "name": "KARSONO",
@@ -80,8 +80,8 @@
     "name": "MOH SAID",
     "stock": 40,
     "lastStock": 0,
-    "lastUpdate": "2026-04-01T05:33:37Z",
-    "cycle": 1
+    "lastUpdate": "2026-04-01T05:36:15Z",
+    "cycle": 2
   },
   {
     "name": "TOKO 2 PUTRI",
@@ -122,8 +122,8 @@
     "name": "ROSA V",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-01T02:35:48Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-01T05:36:15Z",
+    "cycle": 1
   },
   {
     "name": "LUKMAN BS",
@@ -365,10 +365,10 @@
   },
   {
     "name": "SUDJIONO",
-    "stock": 1,
-    "lastStock": 0,
-    "lastUpdate": "2026-04-01T05:34:12Z",
-    "cycle": 4
+    "stock": 7,
+    "lastStock": 7,
+    "lastUpdate": "2026-04-01T05:36:48Z",
+    "cycle": 5
   },
   {
     "name": "ANDRI HERU CAHYONO",
@@ -428,10 +428,10 @@
   },
   {
     "name": "CAHYA HERAWATI",
-    "stock": 1,
-    "lastStock": 0,
-    "lastUpdate": "2026-04-01T05:28:58Z",
-    "cycle": 2
+    "stock": 35,
+    "lastStock": 35,
+    "lastUpdate": "2026-04-01T05:38:17Z",
+    "cycle": 3
   },
   {
     "name": "MISRI CICI",
@@ -442,10 +442,10 @@
   },
   {
     "name": "ALFIAN DWI A.",
-    "stock": 1,
-    "lastStock": 0,
-    "lastUpdate": "2026-04-01T04:46:16Z",
-    "cycle": 0
+    "stock": 133,
+    "lastStock": 63,
+    "lastUpdate": "2026-04-01T05:38:36Z",
+    "cycle": 1
   },
   {
     "name": "ISTIQOMAH",
@@ -458,15 +458,15 @@
     "name": "TOKO IRAWAN",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-01T02:27:07Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-01T05:38:47Z",
+    "cycle": 1
   },
   {
     "name": "SUMBER REJEKI",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-01T04:48:51Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-01T05:38:59Z",
+    "cycle": 1
   },
   {
     "name": "SUPARMAN",
