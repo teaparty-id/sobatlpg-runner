@@ -430,8 +430,8 @@
     "name": "CAHYA HERAWATI",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-01T17:18:53Z",
-    "cycle": 3
+    "lastUpdate": "2026-04-01T17:20:23Z",
+    "cycle": 4
   },
   {
     "name": "MISRI CICI",
@@ -442,24 +442,24 @@
   },
   {
     "name": "ALFIAN DWI A.",
-    "stock": 61,
-    "lastStock": 63,
-    "lastUpdate": "2026-04-01T17:19:33Z",
-    "cycle": 1
+    "stock": 1,
+    "lastStock": 0,
+    "lastUpdate": "2026-04-01T17:20:23Z",
+    "cycle": 2
   },
   {
     "name": "ISTIQOMAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-01T17:19:34Z",
-    "cycle": 1
+    "lastUpdate": "2026-04-01T17:20:23Z",
+    "cycle": 2
   },
   {
     "name": "TOKO IRAWAN",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-01T17:19:34Z",
-    "cycle": 1
+    "lastUpdate": "2026-04-01T17:20:23Z",
+    "cycle": 2
   },
   {
     "name": "SUMBER REJEKI",
