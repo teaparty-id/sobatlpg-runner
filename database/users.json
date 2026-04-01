@@ -87,8 +87,8 @@
     "name": "TOKO 2 PUTRI",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-01T16:20:24Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-01T16:20:58Z",
+    "cycle": 3
   },
   {
     "name": "TOKO IIN",
@@ -318,8 +318,8 @@
     "name": "UD SAMAN HADI",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-01T16:20:24Z",
-    "cycle": 4
+    "lastUpdate": "2026-04-01T16:20:58Z",
+    "cycle": 5
   },
   {
     "name": "SOEKAMTO",
@@ -330,17 +330,17 @@
   },
   {
     "name": "TOKO TIARA",
-    "stock": 13,
-    "lastStock": 14,
-    "lastUpdate": "2026-04-01T16:18:56Z",
-    "cycle": 1
+    "stock": 1,
+    "lastStock": 0,
+    "lastUpdate": "2026-04-01T16:20:58Z",
+    "cycle": 2
   },
   {
     "name": "TOKO POJOK",
-    "stock": 1,
-    "lastStock": 0,
-    "lastUpdate": "2026-04-01T16:19:02Z",
-    "cycle": 1
+    "stock": 87,
+    "lastStock": 54,
+    "lastUpdate": "2026-04-01T16:20:58Z",
+    "cycle": 2
   },
   {
     "name": "UD RAHMAT",
