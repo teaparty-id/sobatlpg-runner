@@ -85,10 +85,10 @@
   },
   {
     "name": "TOKO 2 PUTRI",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-01T16:23:55Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-01T19:24:25Z",
+    "cycle": 1
   },
   {
     "name": "TOKO IIN",
@@ -157,8 +157,8 @@
     "name": "BAMBANG HARTONO",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-01T19:22:56Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-01T19:24:25Z",
+    "cycle": 3
   },
   {
     "name": "NADIFATUS SOLEHA",
@@ -304,8 +304,8 @@
     "name": "TOKO ANITA",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-01T19:22:57Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-01T19:24:25Z",
+    "cycle": 3
   },
   {
     "name": "TK. LUCKY",
@@ -318,8 +318,8 @@
     "name": "UD SAMAN HADI",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-01T19:23:03Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-01T19:24:25Z",
+    "cycle": 3
   },
   {
     "name": "SOEKAMTO",
