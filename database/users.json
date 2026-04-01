@@ -157,8 +157,8 @@
     "name": "BAMBANG HARTONO",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-01T21:06:52Z",
-    "cycle": 1
+    "lastUpdate": "2026-04-01T21:08:54Z",
+    "cycle": 2
   },
   {
     "name": "NADIFATUS SOLEHA",
@@ -302,10 +302,10 @@
   },
   {
     "name": "TOKO ANITA",
-    "stock": 1,
-    "lastStock": 0,
-    "lastUpdate": "2026-04-01T21:06:53Z",
-    "cycle": 1
+    "stock": 44,
+    "lastStock": 45,
+    "lastUpdate": "2026-04-01T21:08:54Z",
+    "cycle": 2
   },
   {
     "name": "TK. LUCKY",
@@ -318,8 +318,8 @@
     "name": "UD SAMAN HADI",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-01T21:06:57Z",
-    "cycle": 1
+    "lastUpdate": "2026-04-01T21:08:54Z",
+    "cycle": 2
   },
   {
     "name": "SOEKAMTO",
@@ -330,17 +330,17 @@
   },
   {
     "name": "TOKO TIARA",
-    "stock": 1,
-    "lastStock": 0,
-    "lastUpdate": "2026-04-01T21:06:58Z",
-    "cycle": 1
+    "stock": 13,
+    "lastStock": 14,
+    "lastUpdate": "2026-04-01T21:08:54Z",
+    "cycle": 2
   },
   {
     "name": "TOKO POJOK",
     "stock": 53,
     "lastStock": 54,
-    "lastUpdate": "2026-04-01T21:00:30Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-01T21:09:31Z",
+    "cycle": 1
   },
   {
     "name": "UD RAHMAT",
@@ -365,10 +365,10 @@
   },
   {
     "name": "SUDJIONO",
-    "stock": 6,
-    "lastStock": 7,
-    "lastUpdate": "2026-04-01T21:00:30Z",
-    "cycle": 0
+    "stock": 1,
+    "lastStock": 0,
+    "lastUpdate": "2026-04-01T21:09:32Z",
+    "cycle": 1
   },
   {
     "name": "ANDRI HERU CAHYONO",
@@ -430,8 +430,8 @@
     "name": "CAHYA HERAWATI",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-01T21:00:30Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-01T21:09:35Z",
+    "cycle": 1
   },
   {
     "name": "MISRI CICI",
@@ -442,10 +442,10 @@
   },
   {
     "name": "ALFIAN DWI A.",
-    "stock": 61,
-    "lastStock": 63,
-    "lastUpdate": "2026-04-01T21:01:05Z",
-    "cycle": 0
+    "stock": 1,
+    "lastStock": 0,
+    "lastUpdate": "2026-04-01T21:09:37Z",
+    "cycle": 1
   },
   {
     "name": "ISTIQOMAH",
