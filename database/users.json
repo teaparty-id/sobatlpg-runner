@@ -64,38 +64,38 @@
   },
   {
     "name": "KARSONO",
-    "stock": 10,
+    "stock": 9,
     "lastStock": 0,
-    "lastUpdate": "2026-04-01T13:01:43Z",
-    "cycle": 4
+    "lastUpdate": "2026-04-01T13:12:24Z",
+    "cycle": 5
   },
   {
     "name": "LUTFI A.",
-    "stock": 38,
+    "stock": 36,
     "lastStock": 0,
-    "lastUpdate": "2026-04-01T13:03:11Z",
-    "cycle": 4
+    "lastUpdate": "2026-04-01T13:12:24Z",
+    "cycle": 5
   },
   {
     "name": "MOH SAID",
-    "stock": 14,
+    "stock": 9,
     "lastStock": 0,
-    "lastUpdate": "2026-04-01T11:32:47Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-01T13:12:24Z",
+    "cycle": 1
   },
   {
     "name": "TOKO 2 PUTRI",
-    "stock": 9,
+    "stock": 5,
     "lastStock": 0,
-    "lastUpdate": "2026-04-01T11:32:47Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-01T13:12:24Z",
+    "cycle": 1
   },
   {
     "name": "TOKO IIN",
     "stock": 23,
     "lastStock": 0,
-    "lastUpdate": "2026-04-01T11:32:47Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-01T13:15:54Z",
+    "cycle": 1
   },
   {
     "name": "HJ LILIK LAILIYAH",
@@ -108,8 +108,8 @@
     "name": "ERNA PUJIATI",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-01T11:32:47Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-01T13:15:54Z",
+    "cycle": 1
   },
   {
     "name": "JONI H",
@@ -129,8 +129,8 @@
     "name": "LUKMAN BS",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-01T11:33:27Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-01T13:16:34Z",
+    "cycle": 1
   },
   {
     "name": "BISTON MANURUNG",
@@ -157,8 +157,8 @@
     "name": "BAMBANG HARTONO",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-01T11:37:36Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-01T13:16:59Z",
+    "cycle": 1
   },
   {
     "name": "NADIFATUS SOLEHA",
@@ -302,10 +302,10 @@
   },
   {
     "name": "TOKO ANITA",
-    "stock": 1,
-    "lastStock": 0,
-    "lastUpdate": "2026-04-01T11:41:46Z",
-    "cycle": 0
+    "stock": 44,
+    "lastStock": 45,
+    "lastUpdate": "2026-04-01T13:17:17Z",
+    "cycle": 1
   },
   {
     "name": "TK. LUCKY",
