@@ -94,8 +94,8 @@
     "name": "TOKO IIN",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-01T15:01:44Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-01T18:03:41Z",
+    "cycle": 1
   },
   {
     "name": "HJ LILIK LAILIYAH",
@@ -136,8 +136,8 @@
     "name": "BISTON MANURUNG",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-01T15:02:56Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-01T18:03:41Z",
+    "cycle": 1
   },
   {
     "name": "JAMILAH",
@@ -465,8 +465,8 @@
     "name": "SUMBER REJEKI",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-01T18:00:50Z",
-    "cycle": 4
+    "lastUpdate": "2026-04-01T18:03:41Z",
+    "cycle": 5
   },
   {
     "name": "SUPARMAN",
@@ -493,8 +493,8 @@
     "name": "TITIK ISMIATIN",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-01T18:00:52Z",
-    "cycle": 1
+    "lastUpdate": "2026-04-01T18:03:41Z",
+    "cycle": 2
   },
   {
     "name": "SRI UTAMI",
@@ -514,7 +514,7 @@
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-01T17:27:54Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-01T18:04:22Z",
+    "cycle": 1
   }
 ]
