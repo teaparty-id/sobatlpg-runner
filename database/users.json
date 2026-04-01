@@ -197,17 +197,17 @@
   },
   {
     "name": "YUSUF ISMAIL",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-01T09:04:00Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-01T12:04:18Z",
+    "cycle": 1
   },
   {
     "name": "SUPARNI",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-01T09:04:00Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-01T12:04:18Z",
+    "cycle": 1
   },
   {
     "name": "YOGA RAJAN",
@@ -241,15 +241,15 @@
     "name": "HERDIANA DIYAH S",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-01T12:03:36Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-01T12:04:18Z",
+    "cycle": 3
   },
   {
     "name": "BUDI",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-01T12:03:36Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-01T12:04:18Z",
+    "cycle": 3
   },
   {
     "name": "YULI SORAYA",
