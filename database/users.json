@@ -157,8 +157,8 @@
     "name": "BAMBANG HARTONO",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-01T19:48:18Z",
-    "cycle": 3
+    "lastUpdate": "2026-04-01T19:48:55Z",
+    "cycle": 4
   },
   {
     "name": "NADIFATUS SOLEHA",
@@ -302,10 +302,10 @@
   },
   {
     "name": "TOKO ANITA",
-    "stock": 1,
-    "lastStock": 0,
-    "lastUpdate": "2026-04-01T19:48:18Z",
-    "cycle": 3
+    "stock": 44,
+    "lastStock": 45,
+    "lastUpdate": "2026-04-01T19:48:55Z",
+    "cycle": 4
   },
   {
     "name": "TK. LUCKY",
@@ -318,8 +318,8 @@
     "name": "UD SAMAN HADI",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-01T19:48:18Z",
-    "cycle": 3
+    "lastUpdate": "2026-04-01T19:48:55Z",
+    "cycle": 4
   },
   {
     "name": "SOEKAMTO",
@@ -330,17 +330,17 @@
   },
   {
     "name": "TOKO TIARA",
-    "stock": 1,
-    "lastStock": 0,
-    "lastUpdate": "2026-04-01T19:48:18Z",
-    "cycle": 3
+    "stock": 13,
+    "lastStock": 14,
+    "lastUpdate": "2026-04-01T19:48:55Z",
+    "cycle": 4
   },
   {
     "name": "TOKO POJOK",
     "stock": 53,
     "lastStock": 54,
-    "lastUpdate": "2026-04-01T19:35:01Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-01T19:49:31Z",
+    "cycle": 1
   },
   {
     "name": "UD RAHMAT",
@@ -365,10 +365,10 @@
   },
   {
     "name": "SUDJIONO",
-    "stock": 6,
-    "lastStock": 7,
-    "lastUpdate": "2026-04-01T19:35:01Z",
-    "cycle": 0
+    "stock": 1,
+    "lastStock": 0,
+    "lastUpdate": "2026-04-01T19:49:31Z",
+    "cycle": 1
   },
   {
     "name": "ANDRI HERU CAHYONO",
@@ -430,8 +430,8 @@
     "name": "CAHYA HERAWATI",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-01T19:37:27Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-01T19:49:36Z",
+    "cycle": 1
   },
   {
     "name": "MISRI CICI",
@@ -444,8 +444,8 @@
     "name": "ALFIAN DWI A.",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-01T19:37:27Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-01T19:49:36Z",
+    "cycle": 1
   },
   {
     "name": "ISTIQOMAH",
