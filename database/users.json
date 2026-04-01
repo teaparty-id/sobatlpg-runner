@@ -36,10 +36,10 @@
   },
   {
     "name": "HENDRA KURNIAWAN",
-    "stock": 27,
+    "stock": 72,
     "lastStock": 27,
-    "lastUpdate": "2026-04-01T04:59:07Z",
-    "cycle": 3
+    "lastUpdate": "2026-04-01T05:06:15Z",
+    "cycle": 4
   },
   {
     "name": "SUCIYONO",
@@ -52,8 +52,8 @@
     "name": "JAENAL",
     "stock": 13,
     "lastStock": 13,
-    "lastUpdate": "2026-04-01T04:59:07Z",
-    "cycle": 3
+    "lastUpdate": "2026-04-01T05:06:15Z",
+    "cycle": 4
   },
   {
     "name": "JOKO SUWARNO",
@@ -108,8 +108,8 @@
     "name": "ERNA PUJIATI",
     "stock": 25,
     "lastStock": 25,
-    "lastUpdate": "2026-04-01T04:59:07Z",
-    "cycle": 3
+    "lastUpdate": "2026-04-01T05:06:15Z",
+    "cycle": 4
   },
   {
     "name": "JONI H",
@@ -127,10 +127,10 @@
   },
   {
     "name": "LUKMAN BS",
-    "stock": 39,
-    "lastStock": 39,
-    "lastUpdate": "2026-04-01T04:59:07Z",
-    "cycle": 3
+    "stock": 1,
+    "lastStock": 0,
+    "lastUpdate": "2026-04-01T05:06:15Z",
+    "cycle": 4
   },
   {
     "name": "BISTON MANURUNG",
@@ -157,8 +157,8 @@
     "name": "BAMBANG HARTONO",
     "stock": 37,
     "lastStock": 37,
-    "lastUpdate": "2026-04-01T05:01:14Z",
-    "cycle": 3
+    "lastUpdate": "2026-04-01T05:07:10Z",
+    "cycle": 4
   },
   {
     "name": "NADIFATUS SOLEHA",
@@ -302,10 +302,10 @@
   },
   {
     "name": "TOKO ANITA",
-    "stock": 45,
-    "lastStock": 45,
-    "lastUpdate": "2026-04-01T05:01:18Z",
-    "cycle": 3
+    "stock": 1,
+    "lastStock": 0,
+    "lastUpdate": "2026-04-01T05:07:50Z",
+    "cycle": 4
   },
   {
     "name": "TK. LUCKY",
