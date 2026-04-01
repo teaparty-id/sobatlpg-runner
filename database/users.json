@@ -197,17 +197,17 @@
   },
   {
     "name": "YUSUF ISMAIL",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-01T09:03:27Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-01T09:04:00Z",
+    "cycle": 3
   },
   {
     "name": "SUPARNI",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-01T09:03:27Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-01T09:04:00Z",
+    "cycle": 3
   },
   {
     "name": "YOGA RAJAN",
@@ -260,45 +260,45 @@
   },
   {
     "name": "SUSILO",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-01T09:03:27Z",
-    "cycle": 4
+    "lastUpdate": "2026-04-01T09:04:00Z",
+    "cycle": 5
   },
   {
     "name": "HJ. HAERONI",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-01T09:03:27Z",
-    "cycle": 4
+    "lastUpdate": "2026-04-01T09:04:00Z",
+    "cycle": 5
   },
   {
     "name": "IMA",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-01T09:02:24Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-01T09:04:32Z",
+    "cycle": 3
   },
   {
     "name": "DARMAWAN P",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-01T09:02:24Z",
-    "cycle": 1
+    "lastUpdate": "2026-04-01T09:04:32Z",
+    "cycle": 2
   },
   {
     "name": "DIYAH UTAMI",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-01T05:53:12Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-01T09:04:33Z",
+    "cycle": 1
   },
   {
     "name": "SALMAH",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-01T05:24:55Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-01T09:04:34Z",
+    "cycle": 1
   },
   {
     "name": "TOKO ANITA",
