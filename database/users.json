@@ -1,10 +1,10 @@
 [
   {
     "name": "AKBAR RISQ",
-    "stock": 17,
+    "stock": 10,
     "lastStock": 0,
-    "lastUpdate": "2026-04-01T12:48:05Z",
-    "cycle": 3
+    "lastUpdate": "2026-04-01T12:58:02Z",
+    "cycle": 4
   },
   {
     "name": "ATHI HANDAYANI",
@@ -15,10 +15,10 @@
   },
   {
     "name": "CINDRAWATI",
-    "stock": 3,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-01T12:48:05Z",
-    "cycle": 3
+    "lastUpdate": "2026-04-01T12:58:02Z",
+    "cycle": 4
   },
   {
     "name": "EDI SUGENG SARIPAN",
@@ -29,52 +29,52 @@
   },
   {
     "name": "BINA MAKMUR",
-    "stock": 27,
+    "stock": 25,
     "lastStock": 0,
-    "lastUpdate": "2026-04-01T12:48:05Z",
-    "cycle": 3
+    "lastUpdate": "2026-04-01T12:58:02Z",
+    "cycle": 4
   },
   {
     "name": "HENDRA KURNIAWAN",
-    "stock": 45,
+    "stock": 39,
     "lastStock": 27,
-    "lastUpdate": "2026-04-01T12:48:05Z",
-    "cycle": 3
+    "lastUpdate": "2026-04-01T12:58:02Z",
+    "cycle": 4
   },
   {
     "name": "SUCIYONO",
-    "stock": 45,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-01T12:51:27Z",
-    "cycle": 3
+    "lastUpdate": "2026-04-01T12:59:50Z",
+    "cycle": 4
   },
   {
     "name": "JAENAL",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-01T12:52:01Z",
-    "cycle": 3
+    "lastUpdate": "2026-04-01T13:00:29Z",
+    "cycle": 4
   },
   {
     "name": "JOKO SUWARNO",
-    "stock": 5,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-01T12:52:43Z",
-    "cycle": 3
+    "lastUpdate": "2026-04-01T13:01:32Z",
+    "cycle": 4
   },
   {
     "name": "KARSONO",
-    "stock": 11,
+    "stock": 10,
     "lastStock": 0,
-    "lastUpdate": "2026-04-01T12:52:46Z",
-    "cycle": 3
+    "lastUpdate": "2026-04-01T13:01:43Z",
+    "cycle": 4
   },
   {
     "name": "LUTFI A.",
-    "stock": 42,
+    "stock": 38,
     "lastStock": 0,
-    "lastUpdate": "2026-04-01T12:52:51Z",
-    "cycle": 3
+    "lastUpdate": "2026-04-01T13:03:11Z",
+    "cycle": 4
   },
   {
     "name": "MOH SAID",
