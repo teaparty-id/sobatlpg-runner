@@ -197,17 +197,17 @@
   },
   {
     "name": "YUSUF ISMAIL",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-01T12:04:18Z",
-    "cycle": 1
+    "lastUpdate": "2026-04-01T12:04:57Z",
+    "cycle": 2
   },
   {
     "name": "SUPARNI",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-01T12:04:18Z",
-    "cycle": 1
+    "lastUpdate": "2026-04-01T12:04:57Z",
+    "cycle": 2
   },
   {
     "name": "YOGA RAJAN",
@@ -239,45 +239,45 @@
   },
   {
     "name": "HERDIANA DIYAH S",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-01T12:04:18Z",
-    "cycle": 3
+    "lastUpdate": "2026-04-01T12:04:57Z",
+    "cycle": 4
   },
   {
     "name": "BUDI",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-01T12:04:18Z",
-    "cycle": 3
+    "lastUpdate": "2026-04-01T12:04:57Z",
+    "cycle": 4
   },
   {
     "name": "YULI SORAYA",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-01T12:03:36Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-01T12:05:34Z",
+    "cycle": 3
   },
   {
     "name": "SUSILO",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-01T09:04:00Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-01T12:05:34Z",
+    "cycle": 1
   },
   {
     "name": "HJ. HAERONI",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-01T09:04:00Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-01T12:05:34Z",
+    "cycle": 1
   },
   {
     "name": "IMA",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-01T09:04:32Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-01T12:05:34Z",
+    "cycle": 1
   },
   {
     "name": "DARMAWAN P",
