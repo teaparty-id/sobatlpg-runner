@@ -94,8 +94,8 @@
     "name": "TOKO IIN",
     "stock": 50,
     "lastStock": 0,
-    "lastUpdate": "2026-04-01T05:58:36Z",
-    "cycle": 1
+    "lastUpdate": "2026-04-01T06:02:41Z",
+    "cycle": 2
   },
   {
     "name": "HJ LILIK LAILIYAH",
@@ -199,15 +199,15 @@
     "name": "YUSUF ISMAIL",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-01T03:02:29Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-01T06:02:41Z",
+    "cycle": 1
   },
   {
     "name": "SUPARNI",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-01T03:02:29Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-01T06:02:41Z",
+    "cycle": 1
   },
   {
     "name": "YOGA RAJAN",
@@ -346,8 +346,8 @@
     "name": "UD RAHMAT",
     "stock": 40,
     "lastStock": 0,
-    "lastUpdate": "2026-04-01T05:58:36Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-01T06:02:41Z",
+    "cycle": 3
   },
   {
     "name": "ULFA MARIA",
@@ -381,15 +381,15 @@
     "name": "ABDUL WAFI",
     "stock": 69,
     "lastStock": 0,
-    "lastUpdate": "2026-04-01T06:00:21Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-01T06:03:10Z",
+    "cycle": 3
   },
   {
     "name": "YUNIS WAHYUNI",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-01T06:00:25Z",
-    "cycle": 1
+    "lastUpdate": "2026-04-01T06:03:11Z",
+    "cycle": 2
   },
   {
     "name": "ROSIDI",
