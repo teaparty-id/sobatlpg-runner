@@ -1,10 +1,10 @@
 [
   {
     "name": "AKBAR RISQ",
-    "stock": 4,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-01T13:07:11Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-01T14:33:39Z",
+    "cycle": 1
   },
   {
     "name": "ATHI HANDAYANI",
@@ -29,31 +29,31 @@
   },
   {
     "name": "BINA MAKMUR",
-    "stock": 1,
+    "stock": 23,
     "lastStock": 0,
-    "lastUpdate": "2026-04-01T13:07:11Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-01T14:33:39Z",
+    "cycle": 1
   },
   {
     "name": "HENDRA KURNIAWAN",
-    "stock": 1,
-    "lastStock": 0,
-    "lastUpdate": "2026-04-01T13:07:11Z",
-    "cycle": 0
+    "stock": 30,
+    "lastStock": 27,
+    "lastUpdate": "2026-04-01T14:33:39Z",
+    "cycle": 1
   },
   {
     "name": "SUCIYONO",
-    "stock": 43,
+    "stock": 37,
     "lastStock": 0,
-    "lastUpdate": "2026-04-01T13:07:53Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-01T14:33:39Z",
+    "cycle": 1
   },
   {
     "name": "JAENAL",
-    "stock": 1,
-    "lastStock": 0,
-    "lastUpdate": "2026-04-01T13:07:57Z",
-    "cycle": 0
+    "stock": 67,
+    "lastStock": 13,
+    "lastUpdate": "2026-04-01T14:36:53Z",
+    "cycle": 1
   },
   {
     "name": "JOKO SUWARNO",
@@ -64,17 +64,17 @@
   },
   {
     "name": "KARSONO",
-    "stock": 9,
+    "stock": 6,
     "lastStock": 0,
-    "lastUpdate": "2026-04-01T13:12:24Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-01T14:37:03Z",
+    "cycle": 1
   },
   {
     "name": "LUTFI A.",
-    "stock": 36,
+    "stock": 34,
     "lastStock": 0,
-    "lastUpdate": "2026-04-01T13:12:24Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-01T14:37:57Z",
+    "cycle": 1
   },
   {
     "name": "MOH SAID",
@@ -92,10 +92,10 @@
   },
   {
     "name": "TOKO IIN",
-    "stock": 17,
+    "stock": 14,
     "lastStock": 0,
-    "lastUpdate": "2026-04-01T13:31:27Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-01T14:38:36Z",
+    "cycle": 1
   },
   {
     "name": "HJ LILIK LAILIYAH",
@@ -108,8 +108,8 @@
     "name": "ERNA PUJIATI",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-01T13:31:27Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-01T14:39:25Z",
+    "cycle": 1
   },
   {
     "name": "JONI H",
