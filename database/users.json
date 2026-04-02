@@ -169,10 +169,10 @@
   },
   {
     "name": "SUROSO",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-02T15:12:21Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-02T18:12:25Z",
+    "cycle": 1
   },
   {
     "name": "HADI SUTOYO",
@@ -493,8 +493,8 @@
     "name": "TITIK ISMIATIN",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-02T18:11:47Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-02T18:12:25Z",
+    "cycle": 3
   },
   {
     "name": "SRI UTAMI",
@@ -514,7 +514,7 @@
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-02T18:11:47Z",
-    "cycle": 1
+    "lastUpdate": "2026-04-02T18:12:25Z",
+    "cycle": 2
   }
 ]
