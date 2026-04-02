@@ -484,37 +484,37 @@
   },
   {
     "name": "WIKAN K",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-02T17:52:09Z",
-    "cycle": 3
+    "lastUpdate": "2026-04-02T17:52:44Z",
+    "cycle": 4
   },
   {
     "name": "TITIK ISMIATIN",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-02T17:52:09Z",
-    "cycle": 3
+    "lastUpdate": "2026-04-02T17:52:44Z",
+    "cycle": 4
   },
   {
     "name": "SRI UTAMI",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-02T17:52:09Z",
-    "cycle": 3
+    "lastUpdate": "2026-04-02T17:52:44Z",
+    "cycle": 4
   },
   {
     "name": "TUSOK",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-02T17:52:09Z",
-    "cycle": 1
+    "lastUpdate": "2026-04-02T17:52:44Z",
+    "cycle": 2
   },
   {
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-02T17:34:17Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-02T17:53:25Z",
+    "cycle": 1
   }
 ]
