@@ -36,24 +36,24 @@
   },
   {
     "name": "HENDRA KURNIAWAN",
-    "stock": 33,
+    "stock": 27,
     "lastStock": 27,
-    "lastUpdate": "2026-04-02T08:30:30Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-02T08:35:42Z",
+    "cycle": 3
   },
   {
     "name": "SUCIYONO",
-    "stock": 7,
+    "stock": 3,
     "lastStock": 0,
-    "lastUpdate": "2026-04-02T08:31:09Z",
-    "cycle": 1
+    "lastUpdate": "2026-04-02T08:35:42Z",
+    "cycle": 2
   },
   {
     "name": "JAENAL",
-    "stock": 1,
-    "lastStock": 0,
-    "lastUpdate": "2026-04-02T08:31:35Z",
-    "cycle": 1
+    "stock": 103,
+    "lastStock": 13,
+    "lastUpdate": "2026-04-02T08:35:42Z",
+    "cycle": 2
   },
   {
     "name": "JOKO SUWARNO",
@@ -64,38 +64,38 @@
   },
   {
     "name": "KARSONO",
-    "stock": 1,
+    "stock": 7,
     "lastStock": 0,
-    "lastUpdate": "2026-04-02T07:24:27Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-02T08:35:42Z",
+    "cycle": 1
   },
   {
     "name": "LUTFI A.",
-    "stock": 1,
+    "stock": 57,
     "lastStock": 0,
-    "lastUpdate": "2026-04-02T07:26:16Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-02T08:37:38Z",
+    "cycle": 1
   },
   {
     "name": "MOH SAID",
-    "stock": 1,
+    "stock": 4,
     "lastStock": 0,
-    "lastUpdate": "2026-04-02T07:26:16Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-02T08:39:53Z",
+    "cycle": 1
   },
   {
     "name": "TOKO 2 PUTRI",
-    "stock": 1,
+    "stock": 9,
     "lastStock": 0,
-    "lastUpdate": "2026-04-02T07:26:16Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-02T08:39:58Z",
+    "cycle": 1
   },
   {
     "name": "TOKO IIN",
-    "stock": 1,
+    "stock": 30,
     "lastStock": 0,
-    "lastUpdate": "2026-04-02T07:30:18Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-02T08:40:41Z",
+    "cycle": 1
   },
   {
     "name": "HJ LILIK LAILIYAH",
@@ -106,10 +106,10 @@
   },
   {
     "name": "ERNA PUJIATI",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-02T07:30:54Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-02T08:41:13Z",
+    "cycle": 1
   },
   {
     "name": "JONI H",
