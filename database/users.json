@@ -1,10 +1,10 @@
 [
   {
     "name": "AKBAR RISQ",
-    "stock": 59,
+    "stock": 54,
     "lastStock": 0,
-    "lastUpdate": "2026-04-02T23:43:35Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-02T23:50:49Z",
+    "cycle": 3
   },
   {
     "name": "ATHI HANDAYANI",
@@ -15,10 +15,10 @@
   },
   {
     "name": "CINDRAWATI",
-    "stock": 34,
+    "stock": 30,
     "lastStock": 0,
-    "lastUpdate": "2026-04-02T23:43:35Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-02T23:50:49Z",
+    "cycle": 3
   },
   {
     "name": "EDI SUGENG SARIPAN",
@@ -29,10 +29,10 @@
   },
   {
     "name": "BINA MAKMUR",
-    "stock": 63,
+    "stock": 60,
     "lastStock": 0,
-    "lastUpdate": "2026-04-02T23:43:35Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-02T23:50:49Z",
+    "cycle": 3
   },
   {
     "name": "HENDRA KURNIAWAN",
@@ -52,7 +52,7 @@
     "name": "JAENAL",
     "stock": 173,
     "lastStock": 13,
-    "lastUpdate": "2026-04-02T23:43:35Z",
+    "lastUpdate": "2026-04-02T23:50:49Z",
     "cycle": 1
   },
   {
@@ -372,10 +372,10 @@
   },
   {
     "name": "ANDRI HERU CAHYONO",
-    "stock": 27,
+    "stock": 19,
     "lastStock": 0,
-    "lastUpdate": "2026-04-02T23:46:57Z",
-    "cycle": 3
+    "lastUpdate": "2026-04-02T23:53:05Z",
+    "cycle": 4
   },
   {
     "name": "ABDUL WAFI",
@@ -442,10 +442,10 @@
   },
   {
     "name": "ALFIAN DWI A.",
-    "stock": 132,
+    "stock": 129,
     "lastStock": 63,
-    "lastUpdate": "2026-04-02T23:47:41Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-02T23:54:17Z",
+    "cycle": 3
   },
   {
     "name": "ISTIQOMAH",
@@ -465,8 +465,8 @@
     "name": "SUMBER REJEKI",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-02T22:57:02Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-02T23:54:42Z",
+    "cycle": 1
   },
   {
     "name": "SUPARMAN",
@@ -493,8 +493,8 @@
     "name": "TITIK ISMIATIN",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-02T22:57:39Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-02T23:55:04Z",
+    "cycle": 1
   },
   {
     "name": "SRI UTAMI",
@@ -514,7 +514,7 @@
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-02T22:59:42Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-02T23:55:18Z",
+    "cycle": 1
   }
 ]
