@@ -185,8 +185,8 @@
     "name": "SRI HIDAYATI",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-02T10:38:51Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-02T13:46:21Z",
+    "cycle": 1
   },
   {
     "name": "ONG SWI GIOK",
@@ -465,8 +465,8 @@
     "name": "SUMBER REJEKI",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-02T13:38:44Z",
-    "cycle": 3
+    "lastUpdate": "2026-04-02T13:46:21Z",
+    "cycle": 4
   },
   {
     "name": "SUPARMAN",
@@ -493,8 +493,8 @@
     "name": "TITIK ISMIATIN",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-02T13:39:27Z",
-    "cycle": 3
+    "lastUpdate": "2026-04-02T13:46:21Z",
+    "cycle": 4
   },
   {
     "name": "SRI UTAMI",
@@ -514,7 +514,7 @@
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-02T13:39:33Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-02T13:46:21Z",
+    "cycle": 3
   }
 ]
