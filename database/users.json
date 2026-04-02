@@ -218,10 +218,10 @@
   },
   {
     "name": "ARIF FAUZI",
-    "stock": 22,
+    "stock": 18,
     "lastStock": 0,
-    "lastUpdate": "2026-04-02T09:52:15Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-02T09:56:10Z",
+    "cycle": 3
   },
   {
     "name": "MOH HAFIF",
@@ -274,31 +274,31 @@
   },
   {
     "name": "IMA",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-02T09:52:57Z",
-    "cycle": 1
+    "lastUpdate": "2026-04-02T09:56:10Z",
+    "cycle": 2
   },
   {
     "name": "DARMAWAN P",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-02T06:50:28Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-02T09:56:10Z",
+    "cycle": 1
   },
   {
     "name": "DIYAH UTAMI",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-02T06:52:39Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-02T09:56:10Z",
+    "cycle": 1
   },
   {
     "name": "SALMAH",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-02T06:52:39Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-02T09:56:48Z",
+    "cycle": 1
   },
   {
     "name": "TOKO ANITA",
@@ -323,10 +323,10 @@
   },
   {
     "name": "SOEKAMTO",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-02T06:52:39Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-02T09:56:50Z",
+    "cycle": 1
   },
   {
     "name": "TOKO TIARA",
