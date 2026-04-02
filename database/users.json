@@ -1,10 +1,10 @@
 [
   {
     "name": "AKBAR RISQ",
-    "stock": 72,
+    "stock": 66,
     "lastStock": 0,
-    "lastUpdate": "2026-04-01T23:54:40Z",
-    "cycle": 4
+    "lastUpdate": "2026-04-02T00:01:24Z",
+    "cycle": 5
   },
   {
     "name": "ATHI HANDAYANI",
@@ -22,17 +22,17 @@
   },
   {
     "name": "EDI SUGENG SARIPAN",
-    "stock": 55,
+    "stock": 52,
     "lastStock": 0,
-    "lastUpdate": "2026-04-01T23:54:40Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-02T00:01:24Z",
+    "cycle": 3
   },
   {
     "name": "BINA MAKMUR",
-    "stock": 0,
+    "stock": 93,
     "lastStock": 0,
-    "lastUpdate": "2026-04-01T21:00:30Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-02T00:01:24Z",
+    "cycle": 1
   },
   {
     "name": "HENDRA KURNIAWAN",
@@ -64,10 +64,10 @@
   },
   {
     "name": "KARSONO",
-    "stock": 70,
+    "stock": 69,
     "lastStock": 0,
-    "lastUpdate": "2026-04-01T23:54:40Z",
-    "cycle": 1
+    "lastUpdate": "2026-04-02T00:01:24Z",
+    "cycle": 2
   },
   {
     "name": "LUTFI A.",
@@ -92,10 +92,10 @@
   },
   {
     "name": "TOKO IIN",
-    "stock": 0,
+    "stock": 79,
     "lastStock": 0,
-    "lastUpdate": "2026-04-01T21:04:10Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-02T00:04:29Z",
+    "cycle": 1
   },
   {
     "name": "HJ LILIK LAILIYAH",
@@ -115,15 +115,15 @@
     "name": "JONI H",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-01T20:57:44Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-02T00:05:02Z",
+    "cycle": 1
   },
   {
     "name": "ROSA V",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-01T20:57:44Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-02T00:05:38Z",
+    "cycle": 1
   },
   {
     "name": "LUKMAN BS",
@@ -136,8 +136,8 @@
     "name": "BISTON MANURUNG",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-01T21:04:10Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-02T00:05:40Z",
+    "cycle": 1
   },
   {
     "name": "JAMILAH",
@@ -407,10 +407,10 @@
   },
   {
     "name": "TK. MAJU",
-    "stock": 77,
+    "stock": 75,
     "lastStock": 0,
-    "lastUpdate": "2026-04-01T23:57:49Z",
-    "cycle": 3
+    "lastUpdate": "2026-04-02T00:05:52Z",
+    "cycle": 4
   },
   {
     "name": "H. JUMAT",
