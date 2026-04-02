@@ -204,10 +204,10 @@
   },
   {
     "name": "SUPARNI",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-02T00:36:41Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-02T03:38:25Z",
+    "cycle": 1
   },
   {
     "name": "YOGA RAJAN",
@@ -302,10 +302,10 @@
   },
   {
     "name": "TOKO ANITA",
-    "stock": 44,
-    "lastStock": 45,
-    "lastUpdate": "2026-04-02T03:35:59Z",
-    "cycle": 2
+    "stock": 1,
+    "lastStock": 0,
+    "lastUpdate": "2026-04-02T03:38:25Z",
+    "cycle": 3
   },
   {
     "name": "TK. LUCKY",
@@ -318,8 +318,8 @@
     "name": "UD SAMAN HADI",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-02T03:36:34Z",
-    "cycle": 1
+    "lastUpdate": "2026-04-02T03:38:25Z",
+    "cycle": 2
   },
   {
     "name": "SOEKAMTO",
@@ -332,8 +332,8 @@
     "name": "TOKO TIARA",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-02T03:36:38Z",
-    "cycle": 1
+    "lastUpdate": "2026-04-02T03:38:25Z",
+    "cycle": 2
   },
   {
     "name": "TOKO POJOK",
