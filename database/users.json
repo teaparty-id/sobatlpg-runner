@@ -141,10 +141,10 @@
   },
   {
     "name": "JAMILAH",
-    "stock": 1,
-    "lastStock": 0,
-    "lastUpdate": "2026-04-02T21:14:06Z",
-    "cycle": 4
+    "stock": 23,
+    "lastStock": 25,
+    "lastUpdate": "2026-04-02T21:14:45Z",
+    "cycle": 5
   },
   {
     "name": "YUDA",
@@ -155,10 +155,10 @@
   },
   {
     "name": "BAMBANG HARTONO",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-02T21:14:06Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-02T21:14:45Z",
+    "cycle": 3
   },
   {
     "name": "NADIFATUS SOLEHA",
@@ -171,8 +171,8 @@
     "name": "SUROSO",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-02T18:12:59Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-02T21:14:45Z",
+    "cycle": 1
   },
   {
     "name": "HADI SUTOYO",
@@ -204,17 +204,17 @@
   },
   {
     "name": "SUPARNI",
-    "stock": 1,
-    "lastStock": 0,
-    "lastUpdate": "2026-04-02T21:12:20Z",
-    "cycle": 2
+    "stock": 52,
+    "lastStock": 54,
+    "lastUpdate": "2026-04-02T21:14:45Z",
+    "cycle": 3
   },
   {
     "name": "YOGA RAJAN",
-    "stock": 1,
-    "lastStock": 0,
-    "lastUpdate": "2026-04-02T21:06:46Z",
-    "cycle": 1
+    "stock": 69,
+    "lastStock": 70,
+    "lastUpdate": "2026-04-02T21:15:17Z",
+    "cycle": 2
   },
   {
     "name": "ARIF FAUZI",
@@ -248,8 +248,8 @@
     "name": "BUDI",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-02T21:06:47Z",
-    "cycle": 1
+    "lastUpdate": "2026-04-02T21:15:19Z",
+    "cycle": 2
   },
   {
     "name": "YULI SORAYA",
@@ -302,17 +302,17 @@
   },
   {
     "name": "TOKO ANITA",
-    "stock": 44,
-    "lastStock": 45,
-    "lastUpdate": "2026-04-02T21:06:49Z",
-    "cycle": 1
+    "stock": 1,
+    "lastStock": 0,
+    "lastUpdate": "2026-04-02T21:15:24Z",
+    "cycle": 2
   },
   {
     "name": "TK. LUCKY",
-    "stock": 53,
-    "lastStock": 55,
-    "lastUpdate": "2026-04-02T20:54:09Z",
-    "cycle": 0
+    "stock": 1,
+    "lastStock": 0,
+    "lastUpdate": "2026-04-02T21:15:25Z",
+    "cycle": 1
   },
   {
     "name": "UD SAMAN HADI",
