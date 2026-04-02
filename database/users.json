@@ -36,10 +36,10 @@
   },
   {
     "name": "HENDRA KURNIAWAN",
-    "stock": 25,
-    "lastStock": 27,
-    "lastUpdate": "2026-04-02T18:15:53Z",
-    "cycle": 1
+    "stock": 1,
+    "lastStock": 0,
+    "lastUpdate": "2026-04-02T18:18:04Z",
+    "cycle": 2
   },
   {
     "name": "SUCIYONO",
@@ -50,10 +50,10 @@
   },
   {
     "name": "JAENAL",
-    "stock": 103,
-    "lastStock": 13,
-    "lastUpdate": "2026-04-02T18:15:53Z",
-    "cycle": 1
+    "stock": 1,
+    "lastStock": 0,
+    "lastUpdate": "2026-04-02T18:18:04Z",
+    "cycle": 2
   },
   {
     "name": "JOKO SUWARNO",
@@ -120,10 +120,10 @@
   },
   {
     "name": "ROSA V",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-02T15:16:05Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-02T18:18:04Z",
+    "cycle": 1
   },
   {
     "name": "LUKMAN BS",
@@ -141,10 +141,10 @@
   },
   {
     "name": "JAMILAH",
-    "stock": 23,
-    "lastStock": 25,
-    "lastUpdate": "2026-04-02T18:15:53Z",
-    "cycle": 1
+    "stock": 1,
+    "lastStock": 0,
+    "lastUpdate": "2026-04-02T18:18:04Z",
+    "cycle": 2
   },
   {
     "name": "YUDA",
