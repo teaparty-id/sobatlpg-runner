@@ -108,8 +108,8 @@
     "name": "ERNA PUJIATI",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-02T14:44:39Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-02T17:44:40Z",
+    "cycle": 1
   },
   {
     "name": "JONI H",
@@ -309,10 +309,10 @@
   },
   {
     "name": "TK. LUCKY",
-    "stock": 1,
-    "lastStock": 0,
-    "lastUpdate": "2026-04-02T17:44:01Z",
-    "cycle": 4
+    "stock": 53,
+    "lastStock": 55,
+    "lastUpdate": "2026-04-02T17:44:40Z",
+    "cycle": 5
   },
   {
     "name": "UD SAMAN HADI",
@@ -330,17 +330,17 @@
   },
   {
     "name": "TOKO TIARA",
-    "stock": 1,
-    "lastStock": 0,
-    "lastUpdate": "2026-04-02T17:44:01Z",
-    "cycle": 2
+    "stock": 13,
+    "lastStock": 14,
+    "lastUpdate": "2026-04-02T17:44:40Z",
+    "cycle": 3
   },
   {
     "name": "TOKO POJOK",
-    "stock": 1,
-    "lastStock": 0,
-    "lastUpdate": "2026-04-02T17:44:01Z",
-    "cycle": 2
+    "stock": 53,
+    "lastStock": 54,
+    "lastUpdate": "2026-04-02T17:44:40Z",
+    "cycle": 3
   },
   {
     "name": "UD RAHMAT",
@@ -365,10 +365,10 @@
   },
   {
     "name": "SUDJIONO",
-    "stock": 1,
-    "lastStock": 0,
-    "lastUpdate": "2026-04-02T17:44:01Z",
-    "cycle": 2
+    "stock": 6,
+    "lastStock": 7,
+    "lastUpdate": "2026-04-02T17:45:13Z",
+    "cycle": 3
   },
   {
     "name": "ANDRI HERU CAHYONO",
@@ -430,22 +430,22 @@
     "name": "CAHYA HERAWATI",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-02T17:42:39Z",
-    "cycle": 1
+    "lastUpdate": "2026-04-02T17:45:14Z",
+    "cycle": 2
   },
   {
     "name": "MISRI CICI",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-02T14:34:52Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-02T17:45:15Z",
+    "cycle": 1
   },
   {
     "name": "ALFIAN DWI A.",
-    "stock": 62,
-    "lastStock": 63,
-    "lastUpdate": "2026-04-02T17:29:32Z",
-    "cycle": 0
+    "stock": 1,
+    "lastStock": 0,
+    "lastUpdate": "2026-04-02T17:45:19Z",
+    "cycle": 1
   },
   {
     "name": "ISTIQOMAH",
