@@ -22,10 +22,10 @@
   },
   {
     "name": "EDI SUGENG SARIPAN",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-02T14:24:35Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-02T17:25:23Z",
+    "cycle": 1
   },
   {
     "name": "BINA MAKMUR",
@@ -365,10 +365,10 @@
   },
   {
     "name": "SUDJIONO",
-    "stock": 6,
-    "lastStock": 7,
-    "lastUpdate": "2026-04-02T17:23:54Z",
-    "cycle": 4
+    "stock": 1,
+    "lastStock": 0,
+    "lastUpdate": "2026-04-02T17:25:23Z",
+    "cycle": 5
   },
   {
     "name": "ANDRI HERU CAHYONO",
@@ -393,17 +393,17 @@
   },
   {
     "name": "ROSIDI",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-02T14:24:35Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-02T17:25:23Z",
+    "cycle": 1
   },
   {
     "name": "HJ. ASLAMIYAH",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-02T14:25:09Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-02T17:25:23Z",
+    "cycle": 1
   },
   {
     "name": "TK. MAJU",
