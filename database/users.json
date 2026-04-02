@@ -190,17 +190,17 @@
   },
   {
     "name": "ONG SWI GIOK",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-02T03:35:59Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-02T06:36:31Z",
+    "cycle": 1
   },
   {
     "name": "YUSUF ISMAIL",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-02T03:35:59Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-02T06:36:31Z",
+    "cycle": 1
   },
   {
     "name": "SUPARNI",
@@ -267,10 +267,10 @@
   },
   {
     "name": "HJ. HAERONI",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-02T03:35:59Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-02T06:36:31Z",
+    "cycle": 1
   },
   {
     "name": "IMA",
@@ -409,8 +409,8 @@
     "name": "TK. MAJU",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-02T06:35:52Z",
-    "cycle": 4
+    "lastUpdate": "2026-04-02T06:36:31Z",
+    "cycle": 5
   },
   {
     "name": "H. JUMAT",
