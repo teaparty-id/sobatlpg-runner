@@ -115,15 +115,15 @@
     "name": "JONI H",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-02T06:11:11Z",
-    "cycle": 1
+    "lastUpdate": "2026-04-02T06:11:44Z",
+    "cycle": 2
   },
   {
     "name": "ROSA V",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-02T06:11:11Z",
-    "cycle": 1
+    "lastUpdate": "2026-04-02T06:11:44Z",
+    "cycle": 2
   },
   {
     "name": "LUKMAN BS",
@@ -134,10 +134,10 @@
   },
   {
     "name": "BISTON MANURUNG",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-02T03:11:28Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-02T06:11:44Z",
+    "cycle": 1
   },
   {
     "name": "JAMILAH",
@@ -206,8 +206,8 @@
     "name": "SUPARNI",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-02T06:11:11Z",
-    "cycle": 4
+    "lastUpdate": "2026-04-02T06:11:44Z",
+    "cycle": 5
   },
   {
     "name": "YOGA RAJAN",
