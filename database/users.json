@@ -113,10 +113,10 @@
   },
   {
     "name": "JONI H",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-02T18:21:39Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-02T21:22:05Z",
+    "cycle": 1
   },
   {
     "name": "ROSA V",
@@ -134,10 +134,10 @@
   },
   {
     "name": "BISTON MANURUNG",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-02T18:21:39Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-02T21:22:05Z",
+    "cycle": 1
   },
   {
     "name": "JAMILAH",
@@ -365,10 +365,10 @@
   },
   {
     "name": "SUDJIONO",
-    "stock": 6,
-    "lastStock": 7,
-    "lastUpdate": "2026-04-02T21:20:34Z",
-    "cycle": 2
+    "stock": 1,
+    "lastStock": 0,
+    "lastUpdate": "2026-04-02T21:22:05Z",
+    "cycle": 3
   },
   {
     "name": "ANDRI HERU CAHYONO",
@@ -430,8 +430,8 @@
     "name": "CAHYA HERAWATI",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-02T21:21:09Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-02T21:22:05Z",
+    "cycle": 3
   },
   {
     "name": "MISRI CICI",
