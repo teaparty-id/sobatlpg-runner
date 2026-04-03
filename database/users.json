@@ -113,17 +113,17 @@
   },
   {
     "name": "JONI H",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-03T03:27:18Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-03T06:28:18Z",
+    "cycle": 1
   },
   {
     "name": "ROSA V",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-03T03:27:18Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-03T06:28:18Z",
+    "cycle": 1
   },
   {
     "name": "LUKMAN BS",
@@ -134,10 +134,10 @@
   },
   {
     "name": "BISTON MANURUNG",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-03T03:27:18Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-03T06:28:18Z",
+    "cycle": 1
   },
   {
     "name": "JAMILAH",
@@ -211,10 +211,10 @@
   },
   {
     "name": "YOGA RAJAN",
-    "stock": 69,
-    "lastStock": 70,
-    "lastUpdate": "2026-04-03T06:26:50Z",
-    "cycle": 4
+    "stock": 1,
+    "lastStock": 0,
+    "lastUpdate": "2026-04-03T06:28:18Z",
+    "cycle": 5
   },
   {
     "name": "ARIF FAUZI",
