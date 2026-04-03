@@ -29,31 +29,31 @@
   },
   {
     "name": "BINA MAKMUR",
-    "stock": 10,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-03T09:52:32Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-03T09:56:40Z",
+    "cycle": 3
   },
   {
     "name": "HENDRA KURNIAWAN",
-    "stock": 25,
-    "lastStock": 27,
-    "lastUpdate": "2026-04-03T09:52:32Z",
-    "cycle": 2
+    "stock": 1,
+    "lastStock": 0,
+    "lastUpdate": "2026-04-03T09:56:40Z",
+    "cycle": 3
   },
   {
     "name": "SUCIYONO",
-    "stock": 17,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-03T09:52:32Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-03T09:56:40Z",
+    "cycle": 3
   },
   {
     "name": "JAENAL",
-    "stock": 122,
+    "stock": 121,
     "lastStock": 13,
-    "lastUpdate": "2026-04-03T09:52:32Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-03T09:56:40Z",
+    "cycle": 3
   },
   {
     "name": "JOKO SUWARNO",
