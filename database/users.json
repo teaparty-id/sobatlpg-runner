@@ -1,10 +1,10 @@
 [
   {
     "name": "AKBAR RISQ",
-    "stock": 54,
+    "stock": 48,
     "lastStock": 0,
-    "lastUpdate": "2026-04-03T00:05:17Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-03T01:44:30Z",
+    "cycle": 1
   },
   {
     "name": "ATHI HANDAYANI",
@@ -15,10 +15,10 @@
   },
   {
     "name": "CINDRAWATI",
-    "stock": 27,
+    "stock": 23,
     "lastStock": 0,
-    "lastUpdate": "2026-04-03T00:05:17Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-03T01:44:30Z",
+    "cycle": 1
   },
   {
     "name": "EDI SUGENG SARIPAN",
@@ -29,45 +29,45 @@
   },
   {
     "name": "BINA MAKMUR",
-    "stock": 53,
+    "stock": 51,
     "lastStock": 0,
-    "lastUpdate": "2026-04-03T00:05:17Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-03T01:44:30Z",
+    "cycle": 1
   },
   {
     "name": "HENDRA KURNIAWAN",
-    "stock": 1,
-    "lastStock": 0,
-    "lastUpdate": "2026-04-02T23:08:59Z",
-    "cycle": 0
+    "stock": 65,
+    "lastStock": 27,
+    "lastUpdate": "2026-04-03T01:44:30Z",
+    "cycle": 1
   },
   {
     "name": "SUCIYONO",
-    "stock": 63,
+    "stock": 59,
     "lastStock": 0,
-    "lastUpdate": "2026-04-03T00:27:04Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-03T01:47:15Z",
+    "cycle": 1
   },
   {
     "name": "JAENAL",
     "stock": 144,
     "lastStock": 13,
-    "lastUpdate": "2026-04-03T01:37:48Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-03T01:48:20Z",
+    "cycle": 1
   },
   {
     "name": "JOKO SUWARNO",
-    "stock": 31,
+    "stock": 28,
     "lastStock": 0,
-    "lastUpdate": "2026-04-02T23:38:51Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-03T01:48:22Z",
+    "cycle": 1
   },
   {
     "name": "KARSONO",
-    "stock": 24,
+    "stock": 22,
     "lastStock": 0,
-    "lastUpdate": "2026-04-03T00:41:46Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-03T01:49:01Z",
+    "cycle": 1
   },
   {
     "name": "LUTFI A.",
@@ -78,10 +78,10 @@
   },
   {
     "name": "MOH SAID",
-    "stock": 25,
+    "stock": 21,
     "lastStock": 0,
-    "lastUpdate": "2026-04-03T00:41:46Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-03T01:50:44Z",
+    "cycle": 1
   },
   {
     "name": "TOKO 2 PUTRI",
