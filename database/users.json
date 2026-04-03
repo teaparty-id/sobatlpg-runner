@@ -276,8 +276,8 @@
     "name": "IMA",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-03T07:28:51Z",
-    "cycle": 1
+    "lastUpdate": "2026-04-03T07:29:46Z",
+    "cycle": 2
   },
   {
     "name": "DARMAWAN P",
@@ -295,10 +295,10 @@
   },
   {
     "name": "SALMAH",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-03T04:26:54Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-03T07:29:46Z",
+    "cycle": 1
   },
   {
     "name": "TOKO ANITA",
@@ -323,10 +323,10 @@
   },
   {
     "name": "SOEKAMTO",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-03T04:29:00Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-03T07:29:46Z",
+    "cycle": 1
   },
   {
     "name": "TOKO TIARA",
@@ -463,10 +463,10 @@
   },
   {
     "name": "SUMBER REJEKI",
-    "stock": 127,
-    "lastStock": 1,
-    "lastUpdate": "2026-04-03T07:23:17Z",
-    "cycle": 4
+    "stock": 1,
+    "lastStock": 0,
+    "lastUpdate": "2026-04-03T07:29:46Z",
+    "cycle": 5
   },
   {
     "name": "SUPARMAN",
