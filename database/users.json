@@ -162,10 +162,10 @@
   },
   {
     "name": "NADIFATUS SOLEHA",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-03T15:59:24Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-03T18:59:43Z",
+    "cycle": 1
   },
   {
     "name": "SUROSO",
@@ -176,10 +176,10 @@
   },
   {
     "name": "HADI SUTOYO",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-03T15:59:24Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-03T18:59:43Z",
+    "cycle": 1
   },
   {
     "name": "SRI HIDAYATI",
@@ -190,10 +190,10 @@
   },
   {
     "name": "ONG SWI GIOK",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-03T15:59:24Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-03T18:59:43Z",
+    "cycle": 1
   },
   {
     "name": "YUSUF ISMAIL",
@@ -365,10 +365,10 @@
   },
   {
     "name": "SUDJIONO",
-    "stock": 6,
-    "lastStock": 7,
-    "lastUpdate": "2026-04-03T18:58:21Z",
-    "cycle": 1
+    "stock": 1,
+    "lastStock": 0,
+    "lastUpdate": "2026-04-03T18:59:43Z",
+    "cycle": 2
   },
   {
     "name": "ANDRI HERU CAHYONO",
