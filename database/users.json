@@ -248,8 +248,8 @@
     "name": "BUDI",
     "stock": 59,
     "lastStock": 60,
-    "lastUpdate": "2026-04-03T17:08:39Z",
-    "cycle": 4
+    "lastUpdate": "2026-04-03T17:11:55Z",
+    "cycle": 5
   },
   {
     "name": "YULI SORAYA",
@@ -304,15 +304,15 @@
     "name": "TOKO ANITA",
     "stock": 44,
     "lastStock": 45,
-    "lastUpdate": "2026-04-03T17:09:13Z",
-    "cycle": 3
+    "lastUpdate": "2026-04-03T17:11:55Z",
+    "cycle": 4
   },
   {
     "name": "TK. LUCKY",
-    "stock": 1,
-    "lastStock": 0,
-    "lastUpdate": "2026-04-03T17:09:14Z",
-    "cycle": 3
+    "stock": 53,
+    "lastStock": 55,
+    "lastUpdate": "2026-04-03T17:11:55Z",
+    "cycle": 4
   },
   {
     "name": "UD SAMAN HADI",
@@ -330,17 +330,17 @@
   },
   {
     "name": "TOKO TIARA",
-    "stock": 1,
-    "lastStock": 0,
-    "lastUpdate": "2026-04-03T17:06:10Z",
-    "cycle": 2
+    "stock": 13,
+    "lastStock": 14,
+    "lastUpdate": "2026-04-03T17:11:55Z",
+    "cycle": 3
   },
   {
     "name": "TOKO POJOK",
-    "stock": 1,
-    "lastStock": 0,
-    "lastUpdate": "2026-04-03T17:06:11Z",
-    "cycle": 1
+    "stock": 61,
+    "lastStock": 54,
+    "lastUpdate": "2026-04-03T17:12:30Z",
+    "cycle": 2
   },
   {
     "name": "UD RAHMAT",
@@ -365,10 +365,10 @@
   },
   {
     "name": "SUDJIONO",
-    "stock": 6,
-    "lastStock": 7,
-    "lastUpdate": "2026-04-03T16:36:10Z",
-    "cycle": 0
+    "stock": 1,
+    "lastStock": 0,
+    "lastUpdate": "2026-04-03T17:12:30Z",
+    "cycle": 1
   },
   {
     "name": "ANDRI HERU CAHYONO",
@@ -379,10 +379,10 @@
   },
   {
     "name": "ABDUL WAFI",
-    "stock": 5,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-03T16:36:42Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-03T17:12:30Z",
+    "cycle": 1
   },
   {
     "name": "YUNIS WAHYUNI",
@@ -430,8 +430,8 @@
     "name": "CAHYA HERAWATI",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-03T16:39:28Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-03T17:12:31Z",
+    "cycle": 1
   },
   {
     "name": "MISRI CICI",
