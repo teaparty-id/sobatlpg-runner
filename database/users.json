@@ -50,9 +50,9 @@
   },
   {
     "name": "JAENAL",
-    "stock": 158,
+    "stock": 157,
     "lastStock": 13,
-    "lastUpdate": "2026-04-03T00:55:16Z",
+    "lastUpdate": "2026-04-03T00:58:46Z",
     "cycle": 1
   },
   {
@@ -92,10 +92,10 @@
   },
   {
     "name": "TOKO IIN",
-    "stock": 1,
+    "stock": 48,
     "lastStock": 0,
-    "lastUpdate": "2026-04-03T00:55:16Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-03T00:58:46Z",
+    "cycle": 3
   },
   {
     "name": "HJ LILIK LAILIYAH",
@@ -199,8 +199,8 @@
     "name": "YUSUF ISMAIL",
     "stock": 43,
     "lastStock": 0,
-    "lastUpdate": "2026-04-03T00:55:16Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-03T00:58:46Z",
+    "cycle": 3
   },
   {
     "name": "SUPARNI",
@@ -514,7 +514,7 @@
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-03T00:54:27Z",
-    "cycle": 4
+    "lastUpdate": "2026-04-03T00:58:46Z",
+    "cycle": 5
   }
 ]
