@@ -29,31 +29,31 @@
   },
   {
     "name": "BINA MAKMUR",
-    "stock": 17,
+    "stock": 15,
     "lastStock": 0,
-    "lastUpdate": "2026-04-03T07:58:32Z",
-    "cycle": 4
+    "lastUpdate": "2026-04-03T08:03:23Z",
+    "cycle": 5
   },
   {
     "name": "HENDRA KURNIAWAN",
     "stock": 25,
     "lastStock": 27,
-    "lastUpdate": "2026-04-03T07:58:32Z",
-    "cycle": 4
+    "lastUpdate": "2026-04-03T08:03:23Z",
+    "cycle": 5
   },
   {
     "name": "SUCIYONO",
-    "stock": 27,
+    "stock": 25,
     "lastStock": 0,
-    "lastUpdate": "2026-04-03T07:58:32Z",
-    "cycle": 4
+    "lastUpdate": "2026-04-03T08:03:23Z",
+    "cycle": 5
   },
   {
     "name": "JAENAL",
-    "stock": 127,
+    "stock": 124,
     "lastStock": 13,
-    "lastUpdate": "2026-04-03T08:00:14Z",
-    "cycle": 3
+    "lastUpdate": "2026-04-03T08:03:23Z",
+    "cycle": 4
   },
   {
     "name": "JOKO SUWARNO",
@@ -64,17 +64,17 @@
   },
   {
     "name": "KARSONO",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-03T08:00:22Z",
-    "cycle": 3
+    "lastUpdate": "2026-04-03T08:03:57Z",
+    "cycle": 4
   },
   {
     "name": "LUTFI A.",
-    "stock": 41,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-03T07:53:10Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-03T08:05:11Z",
+    "cycle": 3
   },
   {
     "name": "MOH SAID",
