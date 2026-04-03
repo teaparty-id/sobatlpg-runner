@@ -274,10 +274,10 @@
   },
   {
     "name": "IMA",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-03T07:30:21Z",
-    "cycle": 3
+    "lastUpdate": "2026-04-03T07:30:55Z",
+    "cycle": 4
   },
   {
     "name": "DARMAWAN P",
@@ -295,10 +295,10 @@
   },
   {
     "name": "SALMAH",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-03T07:30:21Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-03T07:30:55Z",
+    "cycle": 3
   },
   {
     "name": "TOKO ANITA",
@@ -323,10 +323,10 @@
   },
   {
     "name": "SOEKAMTO",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-03T07:30:21Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-03T07:30:55Z",
+    "cycle": 3
   },
   {
     "name": "TOKO TIARA",
@@ -491,10 +491,10 @@
   },
   {
     "name": "TITIK ISMIATIN",
-    "stock": 66,
-    "lastStock": 3,
-    "lastUpdate": "2026-04-03T07:23:58Z",
-    "cycle": 1
+    "stock": 1,
+    "lastStock": 0,
+    "lastUpdate": "2026-04-03T07:30:55Z",
+    "cycle": 2
   },
   {
     "name": "SRI UTAMI",
@@ -505,16 +505,16 @@
   },
   {
     "name": "TUSOK",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-03T07:27:24Z",
-    "cycle": 1
+    "lastUpdate": "2026-04-03T07:31:36Z",
+    "cycle": 2
   },
   {
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-03T07:27:27Z",
-    "cycle": 1
+    "lastUpdate": "2026-04-03T07:31:36Z",
+    "cycle": 2
   }
 ]
