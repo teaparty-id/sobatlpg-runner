@@ -150,8 +150,8 @@
     "name": "YUDA",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-03T10:07:00Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-03T13:10:01Z",
+    "cycle": 1
   },
   {
     "name": "BAMBANG HARTONO",
@@ -239,17 +239,17 @@
   },
   {
     "name": "HERDIANA DIYAH S",
-    "stock": 48,
+    "stock": 46,
     "lastStock": 0,
-    "lastUpdate": "2026-04-03T13:04:58Z",
-    "cycle": 4
+    "lastUpdate": "2026-04-03T13:10:01Z",
+    "cycle": 5
   },
   {
     "name": "BUDI",
     "stock": 59,
     "lastStock": 60,
-    "lastUpdate": "2026-04-03T13:04:58Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-03T13:10:01Z",
+    "cycle": 3
   },
   {
     "name": "YULI SORAYA",
@@ -295,24 +295,24 @@
   },
   {
     "name": "SALMAH",
-    "stock": 9,
+    "stock": 8,
     "lastStock": 0,
-    "lastUpdate": "2026-04-03T13:04:58Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-03T13:10:01Z",
+    "cycle": 3
   },
   {
     "name": "TOKO ANITA",
     "stock": 44,
     "lastStock": 45,
-    "lastUpdate": "2026-04-03T13:05:34Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-03T13:10:35Z",
+    "cycle": 3
   },
   {
     "name": "TK. LUCKY",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-03T13:06:09Z",
-    "cycle": 1
+    "lastUpdate": "2026-04-03T13:10:43Z",
+    "cycle": 2
   },
   {
     "name": "UD SAMAN HADI",
