@@ -379,10 +379,10 @@
   },
   {
     "name": "ABDUL WAFI",
-    "stock": 34,
+    "stock": 29,
     "lastStock": 0,
-    "lastUpdate": "2026-04-03T08:46:09Z",
-    "cycle": 3
+    "lastUpdate": "2026-04-03T08:50:46Z",
+    "cycle": 4
   },
   {
     "name": "YUNIS WAHYUNI",
@@ -407,10 +407,10 @@
   },
   {
     "name": "TK. MAJU",
-    "stock": 8,
+    "stock": 2,
     "lastStock": 0,
-    "lastUpdate": "2026-04-03T08:46:09Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-03T08:50:46Z",
+    "cycle": 3
   },
   {
     "name": "H. JUMAT",
@@ -430,8 +430,8 @@
     "name": "CAHYA HERAWATI",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-03T08:46:44Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-03T08:50:46Z",
+    "cycle": 3
   },
   {
     "name": "MISRI CICI",
@@ -442,10 +442,10 @@
   },
   {
     "name": "ALFIAN DWI A.",
-    "stock": 1,
-    "lastStock": 0,
-    "lastUpdate": "2026-04-03T08:47:23Z",
-    "cycle": 1
+    "stock": 89,
+    "lastStock": 63,
+    "lastUpdate": "2026-04-03T08:50:46Z",
+    "cycle": 2
   },
   {
     "name": "ISTIQOMAH",
@@ -463,17 +463,17 @@
   },
   {
     "name": "SUMBER REJEKI",
-    "stock": 1,
-    "lastStock": 0,
-    "lastUpdate": "2026-04-03T07:29:46Z",
-    "cycle": 0
+    "stock": 126,
+    "lastStock": 1,
+    "lastUpdate": "2026-04-03T08:51:23Z",
+    "cycle": 1
   },
   {
     "name": "SUPARMAN",
-    "stock": 1,
+    "stock": 7,
     "lastStock": 0,
-    "lastUpdate": "2026-04-03T07:30:21Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-03T08:54:25Z",
+    "cycle": 1
   },
   {
     "name": "P. SUK",
@@ -491,10 +491,10 @@
   },
   {
     "name": "TITIK ISMIATIN",
-    "stock": 1,
-    "lastStock": 0,
-    "lastUpdate": "2026-04-03T07:33:35Z",
-    "cycle": 0
+    "stock": 18,
+    "lastStock": 3,
+    "lastUpdate": "2026-04-03T08:54:52Z",
+    "cycle": 1
   },
   {
     "name": "SRI UTAMI",
@@ -514,7 +514,7 @@
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-03T07:33:35Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-03T08:55:16Z",
+    "cycle": 1
   }
 ]
