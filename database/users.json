@@ -29,31 +29,31 @@
   },
   {
     "name": "BINA MAKMUR",
-    "stock": 10,
+    "stock": 6,
     "lastStock": 0,
-    "lastUpdate": "2026-04-03T09:59:54Z",
-    "cycle": 4
+    "lastUpdate": "2026-04-03T10:04:12Z",
+    "cycle": 5
   },
   {
     "name": "HENDRA KURNIAWAN",
     "stock": 25,
     "lastStock": 27,
-    "lastUpdate": "2026-04-03T09:59:54Z",
-    "cycle": 4
+    "lastUpdate": "2026-04-03T10:04:12Z",
+    "cycle": 5
   },
   {
     "name": "SUCIYONO",
     "stock": 17,
     "lastStock": 0,
-    "lastUpdate": "2026-04-03T09:59:54Z",
-    "cycle": 4
+    "lastUpdate": "2026-04-03T10:04:12Z",
+    "cycle": 5
   },
   {
     "name": "JAENAL",
-    "stock": 121,
+    "stock": 120,
     "lastStock": 13,
-    "lastUpdate": "2026-04-03T09:59:54Z",
-    "cycle": 4
+    "lastUpdate": "2026-04-03T10:04:12Z",
+    "cycle": 5
   },
   {
     "name": "JOKO SUWARNO",
@@ -71,10 +71,10 @@
   },
   {
     "name": "LUTFI A.",
-    "stock": 34,
+    "stock": 32,
     "lastStock": 0,
-    "lastUpdate": "2026-04-03T10:00:30Z",
-    "cycle": 3
+    "lastUpdate": "2026-04-03T10:04:45Z",
+    "cycle": 4
   },
   {
     "name": "MOH SAID",
@@ -141,17 +141,17 @@
   },
   {
     "name": "JAMILAH",
-    "stock": 1,
-    "lastStock": 0,
-    "lastUpdate": "2026-04-03T10:01:54Z",
-    "cycle": 3
+    "stock": 23,
+    "lastStock": 25,
+    "lastUpdate": "2026-04-03T10:06:54Z",
+    "cycle": 4
   },
   {
     "name": "YUDA",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-03T06:58:35Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-03T10:07:00Z",
+    "cycle": 1
   },
   {
     "name": "BAMBANG HARTONO",
@@ -199,15 +199,15 @@
     "name": "YUSUF ISMAIL",
     "stock": 7,
     "lastStock": 0,
-    "lastUpdate": "2026-04-03T09:49:10Z",
-    "cycle": 1
+    "lastUpdate": "2026-04-03T10:07:25Z",
+    "cycle": 2
   },
   {
     "name": "SUPARNI",
     "stock": 52,
     "lastStock": 54,
-    "lastUpdate": "2026-04-03T09:49:24Z",
-    "cycle": 1
+    "lastUpdate": "2026-04-03T10:07:35Z",
+    "cycle": 2
   },
   {
     "name": "YOGA RAJAN",
