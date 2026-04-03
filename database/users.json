@@ -367,8 +367,8 @@
     "name": "SUDJIONO",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-03T18:13:55Z",
-    "cycle": 3
+    "lastUpdate": "2026-04-03T18:15:12Z",
+    "cycle": 4
   },
   {
     "name": "ANDRI HERU CAHYONO",
@@ -381,8 +381,8 @@
     "name": "ABDUL WAFI",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-03T18:13:55Z",
-    "cycle": 3
+    "lastUpdate": "2026-04-03T18:15:12Z",
+    "cycle": 4
   },
   {
     "name": "YUNIS WAHYUNI",
@@ -430,15 +430,15 @@
     "name": "CAHYA HERAWATI",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-03T18:10:53Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-03T18:15:12Z",
+    "cycle": 3
   },
   {
     "name": "MISRI CICI",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-03T14:48:59Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-03T18:15:12Z",
+    "cycle": 1
   },
   {
     "name": "ALFIAN DWI A.",
