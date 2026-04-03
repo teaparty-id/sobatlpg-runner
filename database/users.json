@@ -29,31 +29,31 @@
   },
   {
     "name": "BINA MAKMUR",
-    "stock": 12,
+    "stock": 10,
     "lastStock": 0,
-    "lastUpdate": "2026-04-03T09:45:34Z",
-    "cycle": 1
+    "lastUpdate": "2026-04-03T09:52:32Z",
+    "cycle": 2
   },
   {
     "name": "HENDRA KURNIAWAN",
     "stock": 25,
     "lastStock": 27,
-    "lastUpdate": "2026-04-03T09:45:34Z",
-    "cycle": 1
+    "lastUpdate": "2026-04-03T09:52:32Z",
+    "cycle": 2
   },
   {
     "name": "SUCIYONO",
-    "stock": 20,
+    "stock": 17,
     "lastStock": 0,
-    "lastUpdate": "2026-04-03T09:45:34Z",
-    "cycle": 1
+    "lastUpdate": "2026-04-03T09:52:32Z",
+    "cycle": 2
   },
   {
     "name": "JAENAL",
     "stock": 122,
     "lastStock": 13,
-    "lastUpdate": "2026-04-03T09:45:34Z",
-    "cycle": 1
+    "lastUpdate": "2026-04-03T09:52:32Z",
+    "cycle": 2
   },
   {
     "name": "JOKO SUWARNO",
@@ -71,10 +71,10 @@
   },
   {
     "name": "LUTFI A.",
-    "stock": 36,
+    "stock": 35,
     "lastStock": 0,
-    "lastUpdate": "2026-04-03T09:46:07Z",
-    "cycle": 1
+    "lastUpdate": "2026-04-03T09:53:03Z",
+    "cycle": 2
   },
   {
     "name": "MOH SAID",
@@ -143,8 +143,8 @@
     "name": "JAMILAH",
     "stock": 23,
     "lastStock": 25,
-    "lastUpdate": "2026-04-03T09:48:52Z",
-    "cycle": 1
+    "lastUpdate": "2026-04-03T09:55:10Z",
+    "cycle": 2
   },
   {
     "name": "YUDA",
@@ -164,8 +164,8 @@
     "name": "NADIFATUS SOLEHA",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-03T06:55:05Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-03T09:55:39Z",
+    "cycle": 1
   },
   {
     "name": "SUROSO",
@@ -178,8 +178,8 @@
     "name": "HADI SUTOYO",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-03T06:55:05Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-03T09:55:42Z",
+    "cycle": 1
   },
   {
     "name": "SRI HIDAYATI",
@@ -192,8 +192,8 @@
     "name": "ONG SWI GIOK",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-03T06:55:05Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-03T09:55:51Z",
+    "cycle": 1
   },
   {
     "name": "YUSUF ISMAIL",
