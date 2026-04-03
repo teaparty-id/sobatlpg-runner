@@ -323,10 +323,10 @@
   },
   {
     "name": "SOEKAMTO",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-03T04:28:26Z",
-    "cycle": 3
+    "lastUpdate": "2026-04-03T04:29:00Z",
+    "cycle": 4
   },
   {
     "name": "TOKO TIARA",
@@ -463,10 +463,10 @@
   },
   {
     "name": "SUMBER REJEKI",
-    "stock": 1,
-    "lastStock": 0,
-    "lastUpdate": "2026-04-03T04:28:26Z",
-    "cycle": 3
+    "stock": 159,
+    "lastStock": 1,
+    "lastUpdate": "2026-04-03T04:29:00Z",
+    "cycle": 4
   },
   {
     "name": "SUPARMAN",
@@ -491,10 +491,10 @@
   },
   {
     "name": "TITIK ISMIATIN",
-    "stock": 1,
-    "lastStock": 0,
-    "lastUpdate": "2026-04-03T04:28:26Z",
-    "cycle": 3
+    "stock": 172,
+    "lastStock": 3,
+    "lastUpdate": "2026-04-03T04:29:00Z",
+    "cycle": 4
   },
   {
     "name": "SRI UTAMI",
