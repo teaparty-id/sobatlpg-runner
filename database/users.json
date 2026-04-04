@@ -213,8 +213,8 @@
     "name": "YOGA RAJAN",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-04T14:08:08Z",
-    "cycle": 4
+    "lastUpdate": "2026-04-04T14:09:25Z",
+    "cycle": 5
   },
   {
     "name": "ARIF FAUZI",
@@ -246,10 +246,10 @@
   },
   {
     "name": "BUDI",
-    "stock": 59,
-    "lastStock": 60,
-    "lastUpdate": "2026-04-04T14:08:08Z",
-    "cycle": 4
+    "stock": 1,
+    "lastStock": 0,
+    "lastUpdate": "2026-04-04T14:09:25Z",
+    "cycle": 5
   },
   {
     "name": "YULI SORAYA",
@@ -288,10 +288,10 @@
   },
   {
     "name": "DIYAH UTAMI",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-04T11:03:43Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-04T14:09:25Z",
+    "cycle": 1
   },
   {
     "name": "SALMAH",
@@ -302,10 +302,10 @@
   },
   {
     "name": "TOKO ANITA",
-    "stock": 43,
-    "lastStock": 45,
-    "lastUpdate": "2026-04-04T13:41:27Z",
-    "cycle": 0
+    "stock": 1,
+    "lastStock": 0,
+    "lastUpdate": "2026-04-04T14:09:25Z",
+    "cycle": 1
   },
   {
     "name": "TK. LUCKY",
