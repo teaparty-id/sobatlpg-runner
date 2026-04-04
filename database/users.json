@@ -38,8 +38,8 @@
     "name": "HENDRA KURNIAWAN",
     "stock": 25,
     "lastStock": 27,
-    "lastUpdate": "2026-04-04T18:11:47Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-04T18:23:56Z",
+    "cycle": 1
   },
   {
     "name": "SUCIYONO",
@@ -52,8 +52,8 @@
     "name": "JAENAL",
     "stock": 12,
     "lastStock": 13,
-    "lastUpdate": "2026-04-04T18:11:47Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-04T18:23:56Z",
+    "cycle": 1
   },
   {
     "name": "JOKO SUWARNO",
@@ -141,10 +141,10 @@
   },
   {
     "name": "JAMILAH",
-    "stock": 23,
-    "lastStock": 25,
-    "lastUpdate": "2026-04-04T18:11:47Z",
-    "cycle": 0
+    "stock": 1,
+    "lastStock": 0,
+    "lastUpdate": "2026-04-04T18:23:56Z",
+    "cycle": 1
   },
   {
     "name": "YUDA",
@@ -204,10 +204,10 @@
   },
   {
     "name": "SUPARNI",
-    "stock": 1,
-    "lastStock": 0,
-    "lastUpdate": "2026-04-04T18:14:18Z",
-    "cycle": 0
+    "stock": 52,
+    "lastStock": 54,
+    "lastUpdate": "2026-04-04T18:23:56Z",
+    "cycle": 1
   },
   {
     "name": "YOGA RAJAN",
