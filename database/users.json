@@ -456,10 +456,10 @@
   },
   {
     "name": "TOKO IRAWAN",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-04T14:19:49Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-04T17:19:59Z",
+    "cycle": 1
   },
   {
     "name": "SUMBER REJEKI",
@@ -514,7 +514,7 @@
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-04T17:19:24Z",
-    "cycle": 3
+    "lastUpdate": "2026-04-04T17:19:59Z",
+    "cycle": 4
   }
 ]
