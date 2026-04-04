@@ -211,10 +211,10 @@
   },
   {
     "name": "YOGA RAJAN",
-    "stock": 1,
-    "lastStock": 0,
-    "lastUpdate": "2026-04-04T23:00:02Z",
-    "cycle": 3
+    "stock": 69,
+    "lastStock": 70,
+    "lastUpdate": "2026-04-04T23:00:38Z",
+    "cycle": 4
   },
   {
     "name": "ARIF FAUZI",
@@ -246,10 +246,10 @@
   },
   {
     "name": "BUDI",
-    "stock": 1,
-    "lastStock": 0,
-    "lastUpdate": "2026-04-04T23:00:02Z",
-    "cycle": 3
+    "stock": 59,
+    "lastStock": 60,
+    "lastUpdate": "2026-04-04T23:00:38Z",
+    "cycle": 4
   },
   {
     "name": "YULI SORAYA",
@@ -302,17 +302,17 @@
   },
   {
     "name": "TOKO ANITA",
-    "stock": 1,
-    "lastStock": 0,
-    "lastUpdate": "2026-04-04T23:00:02Z",
-    "cycle": 3
+    "stock": 43,
+    "lastStock": 45,
+    "lastUpdate": "2026-04-04T23:00:38Z",
+    "cycle": 4
   },
   {
     "name": "TK. LUCKY",
-    "stock": 1,
-    "lastStock": 0,
-    "lastUpdate": "2026-04-04T23:00:02Z",
-    "cycle": 3
+    "stock": 53,
+    "lastStock": 55,
+    "lastUpdate": "2026-04-04T23:00:38Z",
+    "cycle": 4
   },
   {
     "name": "UD SAMAN HADI",
@@ -330,24 +330,24 @@
   },
   {
     "name": "TOKO TIARA",
-    "stock": 1,
-    "lastStock": 0,
-    "lastUpdate": "2026-04-04T22:47:59Z",
-    "cycle": 0
+    "stock": 13,
+    "lastStock": 14,
+    "lastUpdate": "2026-04-04T23:01:11Z",
+    "cycle": 1
   },
   {
     "name": "TOKO POJOK",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-04T22:47:59Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-04T23:01:12Z",
+    "cycle": 1
   },
   {
     "name": "UD RAHMAT",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-04T19:58:10Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-04T23:01:12Z",
+    "cycle": 1
   },
   {
     "name": "ULFA MARIA",
@@ -367,8 +367,8 @@
     "name": "SUDJIONO",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-04T22:47:59Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-04T23:01:12Z",
+    "cycle": 1
   },
   {
     "name": "ANDRI HERU CAHYONO",
