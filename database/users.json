@@ -94,8 +94,8 @@
     "name": "TOKO IIN",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-04T16:17:26Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-04T16:19:39Z",
+    "cycle": 3
   },
   {
     "name": "HJ LILIK LAILIYAH",
@@ -113,10 +113,10 @@
   },
   {
     "name": "JONI H",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-04T13:17:33Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-04T16:19:39Z",
+    "cycle": 1
   },
   {
     "name": "ROSA V",
@@ -134,10 +134,10 @@
   },
   {
     "name": "BISTON MANURUNG",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-04T13:17:33Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-04T16:19:39Z",
+    "cycle": 1
   },
   {
     "name": "JAMILAH",
@@ -164,8 +164,8 @@
     "name": "NADIFATUS SOLEHA",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-04T16:17:26Z",
-    "cycle": 1
+    "lastUpdate": "2026-04-04T16:19:39Z",
+    "cycle": 2
   },
   {
     "name": "SUROSO",
