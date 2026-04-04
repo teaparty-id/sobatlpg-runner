@@ -36,10 +36,10 @@
   },
   {
     "name": "HENDRA KURNIAWAN",
-    "stock": 25,
-    "lastStock": 27,
-    "lastUpdate": "2026-04-04T06:18:27Z",
-    "cycle": 4
+    "stock": 1,
+    "lastStock": 0,
+    "lastUpdate": "2026-04-04T06:21:02Z",
+    "cycle": 5
   },
   {
     "name": "SUCIYONO",
@@ -50,10 +50,10 @@
   },
   {
     "name": "JAENAL",
-    "stock": 36,
-    "lastStock": 13,
-    "lastUpdate": "2026-04-04T06:18:27Z",
-    "cycle": 4
+    "stock": 1,
+    "lastStock": 0,
+    "lastUpdate": "2026-04-04T06:21:02Z",
+    "cycle": 5
   },
   {
     "name": "JOKO SUWARNO",
@@ -141,10 +141,10 @@
   },
   {
     "name": "JAMILAH",
-    "stock": 23,
-    "lastStock": 25,
-    "lastUpdate": "2026-04-04T06:19:00Z",
-    "cycle": 4
+    "stock": 1,
+    "lastStock": 0,
+    "lastUpdate": "2026-04-04T06:21:02Z",
+    "cycle": 5
   },
   {
     "name": "YUDA",
@@ -185,8 +185,8 @@
     "name": "SRI HIDAYATI",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-04T06:19:07Z",
-    "cycle": 1
+    "lastUpdate": "2026-04-04T06:21:02Z",
+    "cycle": 2
   },
   {
     "name": "ONG SWI GIOK",
