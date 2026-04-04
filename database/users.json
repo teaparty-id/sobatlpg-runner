@@ -115,15 +115,15 @@
     "name": "JONI H",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-04T00:41:12Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-04T00:41:46Z",
+    "cycle": 3
   },
   {
     "name": "ROSA V",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-04T00:41:12Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-04T00:41:46Z",
+    "cycle": 3
   },
   {
     "name": "LUKMAN BS",
@@ -134,10 +134,10 @@
   },
   {
     "name": "BISTON MANURUNG",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-04T00:41:12Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-04T00:41:46Z",
+    "cycle": 3
   },
   {
     "name": "JAMILAH",
@@ -169,10 +169,10 @@
   },
   {
     "name": "SUROSO",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-04T00:41:12Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-04T00:41:46Z",
+    "cycle": 3
   },
   {
     "name": "HADI SUTOYO",
