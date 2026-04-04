@@ -211,10 +211,10 @@
   },
   {
     "name": "YOGA RAJAN",
-    "stock": 1,
-    "lastStock": 0,
-    "lastUpdate": "2026-04-04T04:46:58Z",
-    "cycle": 2
+    "stock": 69,
+    "lastStock": 70,
+    "lastUpdate": "2026-04-04T04:47:37Z",
+    "cycle": 3
   },
   {
     "name": "ARIF FAUZI",
@@ -246,10 +246,10 @@
   },
   {
     "name": "BUDI",
-    "stock": 1,
-    "lastStock": 0,
-    "lastUpdate": "2026-04-04T04:46:58Z",
-    "cycle": 2
+    "stock": 59,
+    "lastStock": 60,
+    "lastUpdate": "2026-04-04T04:47:37Z",
+    "cycle": 3
   },
   {
     "name": "YULI SORAYA",
@@ -267,10 +267,10 @@
   },
   {
     "name": "HJ. HAERONI",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-04T04:46:58Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-04T04:47:37Z",
+    "cycle": 3
   },
   {
     "name": "IMA",
@@ -281,17 +281,17 @@
   },
   {
     "name": "DARMAWAN P",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-04T04:46:58Z",
-    "cycle": 1
+    "lastUpdate": "2026-04-04T04:47:37Z",
+    "cycle": 2
   },
   {
     "name": "DIYAH UTAMI",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-04T01:42:00Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-04T04:48:09Z",
+    "cycle": 1
   },
   {
     "name": "SALMAH",
@@ -302,24 +302,24 @@
   },
   {
     "name": "TOKO ANITA",
-    "stock": 1,
-    "lastStock": 0,
-    "lastUpdate": "2026-04-04T04:13:30Z",
-    "cycle": 0
+    "stock": 43,
+    "lastStock": 45,
+    "lastUpdate": "2026-04-04T04:48:09Z",
+    "cycle": 1
   },
   {
     "name": "TK. LUCKY",
-    "stock": 53,
-    "lastStock": 55,
-    "lastUpdate": "2026-04-04T04:14:06Z",
-    "cycle": 0
+    "stock": 1,
+    "lastStock": 0,
+    "lastUpdate": "2026-04-04T04:48:16Z",
+    "cycle": 1
   },
   {
     "name": "UD SAMAN HADI",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-04T01:45:04Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-04T04:48:16Z",
+    "cycle": 1
   },
   {
     "name": "SOEKAMTO",
