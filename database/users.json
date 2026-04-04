@@ -150,8 +150,8 @@
     "name": "YUDA",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-04T16:41:50Z",
-    "cycle": 1
+    "lastUpdate": "2026-04-04T16:42:27Z",
+    "cycle": 2
   },
   {
     "name": "BAMBANG HARTONO",
@@ -330,17 +330,17 @@
   },
   {
     "name": "TOKO TIARA",
-    "stock": 1,
-    "lastStock": 0,
-    "lastUpdate": "2026-04-04T16:41:50Z",
-    "cycle": 2
+    "stock": 13,
+    "lastStock": 14,
+    "lastUpdate": "2026-04-04T16:42:27Z",
+    "cycle": 3
   },
   {
     "name": "TOKO POJOK",
-    "stock": 1,
-    "lastStock": 0,
-    "lastUpdate": "2026-04-04T16:41:50Z",
-    "cycle": 2
+    "stock": 52,
+    "lastStock": 54,
+    "lastUpdate": "2026-04-04T16:42:27Z",
+    "cycle": 3
   },
   {
     "name": "UD RAHMAT",
@@ -367,8 +367,8 @@
     "name": "SUDJIONO",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-04T16:40:30Z",
-    "cycle": 1
+    "lastUpdate": "2026-04-04T16:42:27Z",
+    "cycle": 2
   },
   {
     "name": "ANDRI HERU CAHYONO",
