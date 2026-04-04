@@ -255,15 +255,15 @@
     "name": "YULI SORAYA",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-04T12:55:25Z",
-    "cycle": 1
+    "lastUpdate": "2026-04-04T12:56:03Z",
+    "cycle": 2
   },
   {
     "name": "SUSILO",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-04T12:55:25Z",
-    "cycle": 1
+    "lastUpdate": "2026-04-04T12:56:03Z",
+    "cycle": 2
   },
   {
     "name": "HJ. HAERONI",
@@ -274,10 +274,10 @@
   },
   {
     "name": "IMA",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-04T09:55:51Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-04T12:56:03Z",
+    "cycle": 1
   },
   {
     "name": "DARMAWAN P",
@@ -302,10 +302,10 @@
   },
   {
     "name": "TOKO ANITA",
-    "stock": 43,
-    "lastStock": 45,
-    "lastUpdate": "2026-04-04T12:54:06Z",
-    "cycle": 4
+    "stock": 1,
+    "lastStock": 0,
+    "lastUpdate": "2026-04-04T12:56:03Z",
+    "cycle": 5
   },
   {
     "name": "TK. LUCKY",
