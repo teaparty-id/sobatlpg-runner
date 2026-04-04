@@ -36,10 +36,10 @@
   },
   {
     "name": "HENDRA KURNIAWAN",
-    "stock": 1,
-    "lastStock": 0,
-    "lastUpdate": "2026-04-04T09:04:54Z",
-    "cycle": 0
+    "stock": 25,
+    "lastStock": 27,
+    "lastUpdate": "2026-04-04T10:09:35Z",
+    "cycle": 1
   },
   {
     "name": "SUCIYONO",
@@ -50,10 +50,10 @@
   },
   {
     "name": "JAENAL",
-    "stock": 1,
-    "lastStock": 0,
-    "lastUpdate": "2026-04-04T09:04:54Z",
-    "cycle": 0
+    "stock": 19,
+    "lastStock": 13,
+    "lastUpdate": "2026-04-04T10:09:35Z",
+    "cycle": 1
   },
   {
     "name": "JOKO SUWARNO",
@@ -106,10 +106,10 @@
   },
   {
     "name": "ERNA PUJIATI",
-    "stock": 24,
+    "stock": 23,
     "lastStock": 0,
-    "lastUpdate": "2026-04-04T09:43:22Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-04T10:09:35Z",
+    "cycle": 1
   },
   {
     "name": "JONI H",
@@ -120,10 +120,10 @@
   },
   {
     "name": "ROSA V",
-    "stock": 13,
+    "stock": 9,
     "lastStock": 0,
-    "lastUpdate": "2026-04-04T10:03:08Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-04T10:09:35Z",
+    "cycle": 1
   },
   {
     "name": "LUKMAN BS",
@@ -134,17 +134,17 @@
   },
   {
     "name": "BISTON MANURUNG",
-    "stock": 27,
+    "stock": 22,
     "lastStock": 0,
-    "lastUpdate": "2026-04-04T10:03:08Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-04T10:10:10Z",
+    "cycle": 1
   },
   {
     "name": "JAMILAH",
-    "stock": 1,
-    "lastStock": 0,
-    "lastUpdate": "2026-04-04T09:04:54Z",
-    "cycle": 0
+    "stock": 23,
+    "lastStock": 25,
+    "lastUpdate": "2026-04-04T10:12:29Z",
+    "cycle": 1
   },
   {
     "name": "YUDA",
@@ -164,8 +164,8 @@
     "name": "NADIFATUS SOLEHA",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-04T07:10:24Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-04T10:12:41Z",
+    "cycle": 1
   },
   {
     "name": "SUROSO",
@@ -176,10 +176,10 @@
   },
   {
     "name": "HADI SUTOYO",
-    "stock": 0,
+    "stock": 19,
     "lastStock": 0,
-    "lastUpdate": "2026-04-04T07:10:57Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-04T10:13:02Z",
+    "cycle": 1
   },
   {
     "name": "SRI HIDAYATI",
@@ -204,10 +204,10 @@
   },
   {
     "name": "SUPARNI",
-    "stock": 1,
-    "lastStock": 0,
-    "lastUpdate": "2026-04-04T09:04:54Z",
-    "cycle": 0
+    "stock": 52,
+    "lastStock": 54,
+    "lastUpdate": "2026-04-04T10:13:09Z",
+    "cycle": 1
   },
   {
     "name": "YOGA RAJAN",
