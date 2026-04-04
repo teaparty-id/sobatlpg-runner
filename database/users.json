@@ -94,8 +94,8 @@
     "name": "TOKO IIN",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-04T16:06:42Z",
-    "cycle": 1
+    "lastUpdate": "2026-04-04T16:17:26Z",
+    "cycle": 2
   },
   {
     "name": "HJ LILIK LAILIYAH",
@@ -143,8 +143,8 @@
     "name": "JAMILAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-04T16:08:40Z",
-    "cycle": 4
+    "lastUpdate": "2026-04-04T16:17:26Z",
+    "cycle": 5
   },
   {
     "name": "YUDA",
@@ -162,10 +162,10 @@
   },
   {
     "name": "NADIFATUS SOLEHA",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-04T13:13:38Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-04T16:17:26Z",
+    "cycle": 1
   },
   {
     "name": "SUROSO",
@@ -206,15 +206,15 @@
     "name": "SUPARNI",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-04T16:08:41Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-04T16:17:26Z",
+    "cycle": 3
   },
   {
     "name": "YOGA RAJAN",
-    "stock": 1,
-    "lastStock": 0,
-    "lastUpdate": "2026-04-04T16:08:41Z",
-    "cycle": 2
+    "stock": 69,
+    "lastStock": 70,
+    "lastUpdate": "2026-04-04T16:18:36Z",
+    "cycle": 3
   },
   {
     "name": "ARIF FAUZI",
@@ -246,10 +246,10 @@
   },
   {
     "name": "BUDI",
-    "stock": 1,
-    "lastStock": 0,
-    "lastUpdate": "2026-04-04T16:08:43Z",
-    "cycle": 2
+    "stock": 59,
+    "lastStock": 60,
+    "lastUpdate": "2026-04-04T16:18:36Z",
+    "cycle": 3
   },
   {
     "name": "YULI SORAYA",
@@ -302,17 +302,17 @@
   },
   {
     "name": "TOKO ANITA",
-    "stock": 1,
-    "lastStock": 0,
-    "lastUpdate": "2026-04-04T16:04:26Z",
-    "cycle": 1
+    "stock": 43,
+    "lastStock": 45,
+    "lastUpdate": "2026-04-04T16:18:36Z",
+    "cycle": 2
   },
   {
     "name": "TK. LUCKY",
-    "stock": 1,
-    "lastStock": 0,
-    "lastUpdate": "2026-04-04T16:04:27Z",
-    "cycle": 1
+    "stock": 53,
+    "lastStock": 55,
+    "lastUpdate": "2026-04-04T16:18:37Z",
+    "cycle": 2
   },
   {
     "name": "UD SAMAN HADI",
@@ -332,8 +332,8 @@
     "name": "TOKO TIARA",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-04T16:05:20Z",
-    "cycle": 1
+    "lastUpdate": "2026-04-04T16:19:08Z",
+    "cycle": 2
   },
   {
     "name": "TOKO POJOK",
