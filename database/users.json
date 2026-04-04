@@ -15,10 +15,10 @@
   },
   {
     "name": "CINDRAWATI",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-04T11:41:04Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-04T14:41:10Z",
+    "cycle": 1
   },
   {
     "name": "EDI SUGENG SARIPAN",
@@ -232,10 +232,10 @@
   },
   {
     "name": "SAMSUL ARIFIN",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-04T11:41:04Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-04T14:41:10Z",
+    "cycle": 1
   },
   {
     "name": "HERDIANA DIYAH S",
@@ -367,8 +367,8 @@
     "name": "SUDJIONO",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-04T14:40:27Z",
-    "cycle": 4
+    "lastUpdate": "2026-04-04T14:41:10Z",
+    "cycle": 5
   },
   {
     "name": "ANDRI HERU CAHYONO",
@@ -430,8 +430,8 @@
     "name": "CAHYA HERAWATI",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-04T14:40:27Z",
-    "cycle": 4
+    "lastUpdate": "2026-04-04T14:41:10Z",
+    "cycle": 5
   },
   {
     "name": "MISRI CICI",
