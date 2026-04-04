@@ -8,10 +8,10 @@
   },
   {
     "name": "ATHI HANDAYANI",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-04T17:33:28Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-04T20:33:53Z",
+    "cycle": 1
   },
   {
     "name": "CINDRAWATI",
@@ -78,10 +78,10 @@
   },
   {
     "name": "MOH SAID",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-04T17:33:28Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-04T20:33:53Z",
+    "cycle": 1
   },
   {
     "name": "TOKO 2 PUTRI",
@@ -442,10 +442,10 @@
   },
   {
     "name": "ALFIAN DWI A.",
-    "stock": 62,
-    "lastStock": 63,
-    "lastUpdate": "2026-04-04T20:32:24Z",
-    "cycle": 4
+    "stock": 1,
+    "lastStock": 0,
+    "lastUpdate": "2026-04-04T20:33:53Z",
+    "cycle": 5
   },
   {
     "name": "ISTIQOMAH",
@@ -491,10 +491,10 @@
   },
   {
     "name": "TITIK ISMIATIN",
-    "stock": 2,
-    "lastStock": 3,
-    "lastUpdate": "2026-04-04T20:33:03Z",
-    "cycle": 2
+    "stock": 1,
+    "lastStock": 0,
+    "lastUpdate": "2026-04-04T20:33:53Z",
+    "cycle": 3
   },
   {
     "name": "SRI UTAMI",
