@@ -38,8 +38,8 @@
     "name": "HENDRA KURNIAWAN",
     "stock": 25,
     "lastStock": 27,
-    "lastUpdate": "2026-04-04T10:16:18Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-04T10:20:13Z",
+    "cycle": 3
   },
   {
     "name": "SUCIYONO",
@@ -52,8 +52,8 @@
     "name": "JAENAL",
     "stock": 19,
     "lastStock": 13,
-    "lastUpdate": "2026-04-04T10:16:18Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-04T10:20:13Z",
+    "cycle": 3
   },
   {
     "name": "JOKO SUWARNO",
@@ -106,10 +106,10 @@
   },
   {
     "name": "ERNA PUJIATI",
-    "stock": 23,
+    "stock": 21,
     "lastStock": 0,
-    "lastUpdate": "2026-04-04T10:16:18Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-04T10:20:13Z",
+    "cycle": 3
   },
   {
     "name": "JONI H",
@@ -120,10 +120,10 @@
   },
   {
     "name": "ROSA V",
-    "stock": 8,
+    "stock": 7,
     "lastStock": 0,
-    "lastUpdate": "2026-04-04T10:16:56Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-04T10:20:13Z",
+    "cycle": 3
   },
   {
     "name": "LUKMAN BS",
@@ -134,17 +134,17 @@
   },
   {
     "name": "BISTON MANURUNG",
-    "stock": 1,
+    "stock": 18,
     "lastStock": 0,
-    "lastUpdate": "2026-04-04T10:17:01Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-04T10:20:55Z",
+    "cycle": 3
   },
   {
     "name": "JAMILAH",
     "stock": 23,
     "lastStock": 25,
-    "lastUpdate": "2026-04-04T10:12:29Z",
-    "cycle": 1
+    "lastUpdate": "2026-04-04T10:22:57Z",
+    "cycle": 2
   },
   {
     "name": "YUDA",
@@ -176,10 +176,10 @@
   },
   {
     "name": "HADI SUTOYO",
-    "stock": 19,
+    "stock": 18,
     "lastStock": 0,
-    "lastUpdate": "2026-04-04T10:13:02Z",
-    "cycle": 1
+    "lastUpdate": "2026-04-04T10:23:29Z",
+    "cycle": 2
   },
   {
     "name": "SRI HIDAYATI",
@@ -192,8 +192,8 @@
     "name": "ONG SWI GIOK",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-04T07:13:57Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-04T10:23:29Z",
+    "cycle": 1
   },
   {
     "name": "YUSUF ISMAIL",
@@ -206,8 +206,8 @@
     "name": "SUPARNI",
     "stock": 52,
     "lastStock": 54,
-    "lastUpdate": "2026-04-04T10:13:09Z",
-    "cycle": 1
+    "lastUpdate": "2026-04-04T10:23:33Z",
+    "cycle": 2
   },
   {
     "name": "YOGA RAJAN",
