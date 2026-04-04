@@ -94,8 +94,8 @@
     "name": "TOKO IIN",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-04T13:00:08Z",
-    "cycle": 1
+    "lastUpdate": "2026-04-04T13:01:09Z",
+    "cycle": 2
   },
   {
     "name": "HJ LILIK LAILIYAH",
@@ -395,8 +395,8 @@
     "name": "ROSIDI",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-04T13:00:08Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-04T13:01:09Z",
+    "cycle": 3
   },
   {
     "name": "HJ. ASLAMIYAH",
@@ -430,15 +430,15 @@
     "name": "CAHYA HERAWATI",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-04T13:00:08Z",
-    "cycle": 1
+    "lastUpdate": "2026-04-04T13:01:09Z",
+    "cycle": 2
   },
   {
     "name": "MISRI CICI",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-04T10:00:10Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-04T13:01:09Z",
+    "cycle": 1
   },
   {
     "name": "ALFIAN DWI A.",
