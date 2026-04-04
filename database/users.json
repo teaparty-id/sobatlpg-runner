@@ -15,10 +15,10 @@
   },
   {
     "name": "CINDRAWATI",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-04T08:39:15Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-04T11:39:50Z",
+    "cycle": 1
   },
   {
     "name": "EDI SUGENG SARIPAN",
@@ -232,10 +232,10 @@
   },
   {
     "name": "SAMSUL ARIFIN",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-04T08:39:15Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-04T11:39:50Z",
+    "cycle": 1
   },
   {
     "name": "HERDIANA DIYAH S",
@@ -246,10 +246,10 @@
   },
   {
     "name": "BUDI",
-    "stock": 59,
-    "lastStock": 60,
-    "lastUpdate": "2026-04-04T11:38:18Z",
-    "cycle": 3
+    "stock": 1,
+    "lastStock": 0,
+    "lastUpdate": "2026-04-04T11:39:50Z",
+    "cycle": 4
   },
   {
     "name": "YULI SORAYA",
@@ -302,10 +302,10 @@
   },
   {
     "name": "TOKO ANITA",
-    "stock": 43,
-    "lastStock": 45,
-    "lastUpdate": "2026-04-04T11:38:18Z",
-    "cycle": 1
+    "stock": 1,
+    "lastStock": 0,
+    "lastUpdate": "2026-04-04T11:39:50Z",
+    "cycle": 2
   },
   {
     "name": "TK. LUCKY",
