@@ -213,8 +213,8 @@
     "name": "YOGA RAJAN",
     "stock": 69,
     "lastStock": 70,
-    "lastUpdate": "2026-04-04T09:02:57Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-04T09:05:32Z",
+    "cycle": 3
   },
   {
     "name": "ARIF FAUZI",
@@ -246,10 +246,10 @@
   },
   {
     "name": "BUDI",
-    "stock": 1,
-    "lastStock": 0,
-    "lastUpdate": "2026-04-04T09:02:57Z",
-    "cycle": 2
+    "stock": 59,
+    "lastStock": 60,
+    "lastUpdate": "2026-04-04T09:05:32Z",
+    "cycle": 3
   },
   {
     "name": "YULI SORAYA",
@@ -302,17 +302,17 @@
   },
   {
     "name": "TOKO ANITA",
-    "stock": 1,
-    "lastStock": 0,
-    "lastUpdate": "2026-04-04T09:02:59Z",
-    "cycle": 2
+    "stock": 43,
+    "lastStock": 45,
+    "lastUpdate": "2026-04-04T09:05:32Z",
+    "cycle": 3
   },
   {
     "name": "TK. LUCKY",
-    "stock": 1,
-    "lastStock": 0,
-    "lastUpdate": "2026-04-04T08:53:00Z",
-    "cycle": 0
+    "stock": 53,
+    "lastStock": 55,
+    "lastUpdate": "2026-04-04T09:05:32Z",
+    "cycle": 1
   },
   {
     "name": "UD SAMAN HADI",
@@ -332,15 +332,15 @@
     "name": "TOKO TIARA",
     "stock": 13,
     "lastStock": 14,
-    "lastUpdate": "2026-04-04T08:54:12Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-04T09:06:03Z",
+    "cycle": 1
   },
   {
     "name": "TOKO POJOK",
-    "stock": 52,
-    "lastStock": 54,
-    "lastUpdate": "2026-04-04T08:54:12Z",
-    "cycle": 0
+    "stock": 1,
+    "lastStock": 0,
+    "lastUpdate": "2026-04-04T09:06:03Z",
+    "cycle": 1
   },
   {
     "name": "UD RAHMAT",
@@ -365,10 +365,10 @@
   },
   {
     "name": "SUDJIONO",
-    "stock": 6,
-    "lastStock": 7,
-    "lastUpdate": "2026-04-04T08:54:12Z",
-    "cycle": 0
+    "stock": 1,
+    "lastStock": 0,
+    "lastUpdate": "2026-04-04T09:06:04Z",
+    "cycle": 1
   },
   {
     "name": "ANDRI HERU CAHYONO",
@@ -379,10 +379,10 @@
   },
   {
     "name": "ABDUL WAFI",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-04T06:00:21Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-04T09:06:04Z",
+    "cycle": 1
   },
   {
     "name": "YUNIS WAHYUNI",
