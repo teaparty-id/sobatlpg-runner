@@ -36,10 +36,10 @@
   },
   {
     "name": "HENDRA KURNIAWAN",
-    "stock": 1,
-    "lastStock": 0,
-    "lastUpdate": "2026-04-04T22:19:33Z",
-    "cycle": 3
+    "stock": 25,
+    "lastStock": 27,
+    "lastUpdate": "2026-04-04T22:20:09Z",
+    "cycle": 4
   },
   {
     "name": "SUCIYONO",
@@ -50,10 +50,10 @@
   },
   {
     "name": "JAENAL",
-    "stock": 1,
-    "lastStock": 0,
-    "lastUpdate": "2026-04-04T22:19:33Z",
-    "cycle": 3
+    "stock": 12,
+    "lastStock": 13,
+    "lastUpdate": "2026-04-04T22:20:09Z",
+    "cycle": 4
   },
   {
     "name": "JOKO SUWARNO",
@@ -141,10 +141,10 @@
   },
   {
     "name": "JAMILAH",
-    "stock": 1,
-    "lastStock": 0,
-    "lastUpdate": "2026-04-04T22:19:33Z",
-    "cycle": 3
+    "stock": 23,
+    "lastStock": 25,
+    "lastUpdate": "2026-04-04T22:20:09Z",
+    "cycle": 4
   },
   {
     "name": "YUDA",
@@ -204,17 +204,17 @@
   },
   {
     "name": "SUPARNI",
-    "stock": 1,
-    "lastStock": 0,
-    "lastUpdate": "2026-04-04T22:19:33Z",
-    "cycle": 3
+    "stock": 52,
+    "lastStock": 54,
+    "lastUpdate": "2026-04-04T22:20:09Z",
+    "cycle": 4
   },
   {
     "name": "YOGA RAJAN",
-    "stock": 69,
-    "lastStock": 70,
-    "lastUpdate": "2026-04-04T22:18:03Z",
-    "cycle": 1
+    "stock": 1,
+    "lastStock": 0,
+    "lastUpdate": "2026-04-04T22:20:43Z",
+    "cycle": 2
   },
   {
     "name": "ARIF FAUZI",
@@ -246,10 +246,10 @@
   },
   {
     "name": "BUDI",
-    "stock": 1,
-    "lastStock": 0,
-    "lastUpdate": "2026-04-04T22:18:04Z",
-    "cycle": 1
+    "stock": 59,
+    "lastStock": 60,
+    "lastUpdate": "2026-04-04T22:20:45Z",
+    "cycle": 2
   },
   {
     "name": "YULI SORAYA",
@@ -304,15 +304,15 @@
     "name": "TOKO ANITA",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-04T22:18:04Z",
-    "cycle": 1
+    "lastUpdate": "2026-04-04T22:20:45Z",
+    "cycle": 2
   },
   {
     "name": "TK. LUCKY",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-04T22:18:11Z",
-    "cycle": 1
+    "lastUpdate": "2026-04-04T22:20:52Z",
+    "cycle": 2
   },
   {
     "name": "UD SAMAN HADI",
