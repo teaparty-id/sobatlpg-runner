@@ -85,10 +85,10 @@
   },
   {
     "name": "TOKO 2 PUTRI",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-04T09:38:49Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-04T12:39:35Z",
+    "cycle": 1
   },
   {
     "name": "TOKO IIN",
@@ -99,10 +99,10 @@
   },
   {
     "name": "HJ LILIK LAILIYAH",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-04T09:38:49Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-04T12:39:35Z",
+    "cycle": 1
   },
   {
     "name": "ERNA PUJIATI",
@@ -430,8 +430,8 @@
     "name": "CAHYA HERAWATI",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-04T12:37:14Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-04T12:39:35Z",
+    "cycle": 3
   },
   {
     "name": "MISRI CICI",
@@ -442,10 +442,10 @@
   },
   {
     "name": "ALFIAN DWI A.",
-    "stock": 62,
-    "lastStock": 63,
-    "lastUpdate": "2026-04-04T12:37:47Z",
-    "cycle": 2
+    "stock": 1,
+    "lastStock": 0,
+    "lastUpdate": "2026-04-04T12:39:35Z",
+    "cycle": 3
   },
   {
     "name": "ISTIQOMAH",
