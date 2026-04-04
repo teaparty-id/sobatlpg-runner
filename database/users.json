@@ -351,17 +351,17 @@
   },
   {
     "name": "ULFA MARIA",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-04T08:07:20Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-04T11:08:26Z",
+    "cycle": 1
   },
   {
     "name": "TOKO SURYATI",
-    "stock": 0,
-    "lastStock": 1,
-    "lastUpdate": "2026-04-04T08:07:20Z",
-    "cycle": 0
+    "stock": 1,
+    "lastStock": 0,
+    "lastUpdate": "2026-04-04T11:08:26Z",
+    "cycle": 1
   },
   {
     "name": "SUDJIONO",
@@ -491,17 +491,17 @@
   },
   {
     "name": "TITIK ISMIATIN",
-    "stock": 2,
-    "lastStock": 3,
-    "lastUpdate": "2026-04-04T11:07:36Z",
-    "cycle": 4
+    "stock": 1,
+    "lastStock": 0,
+    "lastUpdate": "2026-04-04T11:08:26Z",
+    "cycle": 5
   },
   {
     "name": "SRI UTAMI",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-04T11:07:36Z",
-    "cycle": 3
+    "lastUpdate": "2026-04-04T11:08:26Z",
+    "cycle": 4
   },
   {
     "name": "TUSOK",
