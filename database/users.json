@@ -241,8 +241,8 @@
     "name": "HERDIANA DIYAH S",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-05T03:50:27Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-05T06:53:01Z",
+    "cycle": 1
   },
   {
     "name": "BUDI",
@@ -297,8 +297,8 @@
     "name": "SALMAH",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-05T03:50:27Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-05T06:53:01Z",
+    "cycle": 1
   },
   {
     "name": "TOKO ANITA",
@@ -491,10 +491,10 @@
   },
   {
     "name": "TITIK ISMIATIN",
-    "stock": 1,
-    "lastStock": 0,
-    "lastUpdate": "2026-04-05T06:48:50Z",
-    "cycle": 1
+    "stock": 54,
+    "lastStock": 3,
+    "lastUpdate": "2026-04-05T06:53:01Z",
+    "cycle": 2
   },
   {
     "name": "SRI UTAMI",
@@ -514,7 +514,7 @@
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-05T04:27:26Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-05T06:53:01Z",
+    "cycle": 1
   }
 ]
