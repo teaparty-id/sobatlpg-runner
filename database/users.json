@@ -43,10 +43,10 @@
   },
   {
     "name": "SUCIYONO",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-05T11:48:09Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-05T14:48:35Z",
+    "cycle": 1
   },
   {
     "name": "JAENAL",
@@ -71,10 +71,10 @@
   },
   {
     "name": "LUTFI A.",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-05T11:48:09Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-05T14:48:35Z",
+    "cycle": 1
   },
   {
     "name": "MOH SAID",
@@ -507,14 +507,14 @@
     "name": "TUSOK",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-05T14:48:02Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-05T14:48:35Z",
+    "cycle": 3
   },
   {
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-05T14:48:02Z",
-    "cycle": 4
+    "lastUpdate": "2026-04-05T14:48:35Z",
+    "cycle": 5
   }
 ]
