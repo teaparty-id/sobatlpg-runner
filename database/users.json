@@ -402,8 +402,8 @@
     "name": "HJ. ASLAMIYAH",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-05T03:54:35Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-05T06:57:45Z",
+    "cycle": 1
   },
   {
     "name": "TK. MAJU",
@@ -423,8 +423,8 @@
     "name": "HARSININGSIH",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-05T03:54:35Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-05T06:57:45Z",
+    "cycle": 1
   },
   {
     "name": "CAHYA HERAWATI",
@@ -491,10 +491,10 @@
   },
   {
     "name": "TITIK ISMIATIN",
-    "stock": 54,
-    "lastStock": 3,
-    "lastUpdate": "2026-04-05T06:53:01Z",
-    "cycle": 2
+    "stock": 1,
+    "lastStock": 0,
+    "lastUpdate": "2026-04-05T06:57:45Z",
+    "cycle": 3
   },
   {
     "name": "SRI UTAMI",
@@ -514,7 +514,7 @@
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-05T06:53:01Z",
-    "cycle": 1
+    "lastUpdate": "2026-04-05T06:57:45Z",
+    "cycle": 2
   }
 ]
