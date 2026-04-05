@@ -127,10 +127,10 @@
   },
   {
     "name": "LUKMAN BS",
-    "stock": 42,
+    "stock": 39,
     "lastStock": 0,
-    "lastUpdate": "2026-04-05T01:15:40Z",
-    "cycle": 4
+    "lastUpdate": "2026-04-05T01:24:18Z",
+    "cycle": 5
   },
   {
     "name": "BISTON MANURUNG",
@@ -260,10 +260,10 @@
   },
   {
     "name": "SUSILO",
-    "stock": 14,
+    "stock": 5,
     "lastStock": 0,
-    "lastUpdate": "2026-04-05T01:15:40Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-05T01:24:18Z",
+    "cycle": 3
   },
   {
     "name": "HJ. HAERONI",
@@ -442,10 +442,10 @@
   },
   {
     "name": "ALFIAN DWI A.",
-    "stock": 144,
+    "stock": 138,
     "lastStock": 63,
-    "lastUpdate": "2026-04-05T01:19:58Z",
-    "cycle": 4
+    "lastUpdate": "2026-04-05T01:24:18Z",
+    "cycle": 5
   },
   {
     "name": "ISTIQOMAH",
@@ -514,7 +514,7 @@
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-05T01:20:36Z",
-    "cycle": 4
+    "lastUpdate": "2026-04-05T01:24:18Z",
+    "cycle": 5
   }
 ]
