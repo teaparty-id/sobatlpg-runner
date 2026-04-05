@@ -1,10 +1,10 @@
 [
   {
     "name": "AKBAR RISQ",
-    "stock": 2,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-05T09:17:42Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-05T10:28:14Z",
+    "cycle": 1
   },
   {
     "name": "ATHI HANDAYANI",
@@ -29,31 +29,31 @@
   },
   {
     "name": "BINA MAKMUR",
-    "stock": 30,
+    "stock": 26,
     "lastStock": 0,
-    "lastUpdate": "2026-04-05T09:17:42Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-05T10:28:14Z",
+    "cycle": 1
   },
   {
     "name": "HENDRA KURNIAWAN",
     "stock": 26,
     "lastStock": 27,
-    "lastUpdate": "2026-04-05T09:17:42Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-05T10:28:14Z",
+    "cycle": 1
   },
   {
     "name": "SUCIYONO",
-    "stock": 35,
+    "stock": 29,
     "lastStock": 0,
-    "lastUpdate": "2026-04-05T09:17:42Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-05T10:28:14Z",
+    "cycle": 1
   },
   {
     "name": "JAENAL",
-    "stock": 80,
+    "stock": 79,
     "lastStock": 13,
-    "lastUpdate": "2026-04-05T09:18:25Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-05T10:28:53Z",
+    "cycle": 1
   },
   {
     "name": "JOKO SUWARNO",
@@ -66,15 +66,15 @@
     "name": "KARSONO",
     "stock": 9,
     "lastStock": 0,
-    "lastUpdate": "2026-04-05T09:28:55Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-05T10:31:24Z",
+    "cycle": 1
   },
   {
     "name": "LUTFI A.",
-    "stock": 38,
+    "stock": 36,
     "lastStock": 0,
-    "lastUpdate": "2026-04-05T09:28:55Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-05T10:31:39Z",
+    "cycle": 1
   },
   {
     "name": "MOH SAID",
@@ -143,8 +143,8 @@
     "name": "JAMILAH",
     "stock": 23,
     "lastStock": 25,
-    "lastUpdate": "2026-04-05T09:33:19Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-05T10:32:17Z",
+    "cycle": 1
   },
   {
     "name": "YUDA",
@@ -204,10 +204,10 @@
   },
   {
     "name": "SUPARNI",
-    "stock": 1,
-    "lastStock": 0,
-    "lastUpdate": "2026-04-05T09:35:24Z",
-    "cycle": 0
+    "stock": 52,
+    "lastStock": 54,
+    "lastUpdate": "2026-04-05T10:32:47Z",
+    "cycle": 1
   },
   {
     "name": "YOGA RAJAN",
