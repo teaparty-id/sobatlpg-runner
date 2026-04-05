@@ -444,15 +444,15 @@
     "name": "ALFIAN DWI A.",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-05T19:38:25Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-05T19:38:56Z",
+    "cycle": 3
   },
   {
     "name": "ISTIQOMAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-05T19:38:25Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-05T19:38:56Z",
+    "cycle": 3
   },
   {
     "name": "TOKO IRAWAN",
@@ -514,7 +514,7 @@
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-05T19:38:25Z",
-    "cycle": 1
+    "lastUpdate": "2026-04-05T19:38:56Z",
+    "cycle": 2
   }
 ]
