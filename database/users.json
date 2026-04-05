@@ -442,10 +442,10 @@
   },
   {
     "name": "ALFIAN DWI A.",
-    "stock": 97,
+    "stock": 91,
     "lastStock": 63,
-    "lastUpdate": "2026-04-05T10:14:05Z",
-    "cycle": 4
+    "lastUpdate": "2026-04-05T10:18:55Z",
+    "cycle": 5
   },
   {
     "name": "ISTIQOMAH",
@@ -463,10 +463,10 @@
   },
   {
     "name": "SUMBER REJEKI",
-    "stock": 28,
+    "stock": 21,
     "lastStock": 1,
-    "lastUpdate": "2026-04-05T10:14:05Z",
-    "cycle": 3
+    "lastUpdate": "2026-04-05T10:18:55Z",
+    "cycle": 4
   },
   {
     "name": "SUPARMAN",
@@ -514,7 +514,7 @@
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-05T10:14:05Z",
-    "cycle": 3
+    "lastUpdate": "2026-04-05T10:18:55Z",
+    "cycle": 4
   }
 ]
