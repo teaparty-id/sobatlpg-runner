@@ -43,10 +43,10 @@
   },
   {
     "name": "SUCIYONO",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-05T17:51:25Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-05T20:51:30Z",
+    "cycle": 1
   },
   {
     "name": "JAENAL",
@@ -127,10 +127,10 @@
   },
   {
     "name": "LUKMAN BS",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-05T17:51:25Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-05T20:51:30Z",
+    "cycle": 1
   },
   {
     "name": "BISTON MANURUNG",
@@ -332,15 +332,15 @@
     "name": "TOKO TIARA",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-05T20:50:56Z",
-    "cycle": 4
+    "lastUpdate": "2026-04-05T20:51:30Z",
+    "cycle": 5
   },
   {
     "name": "TOKO POJOK",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-05T20:50:56Z",
-    "cycle": 4
+    "lastUpdate": "2026-04-05T20:51:30Z",
+    "cycle": 5
   },
   {
     "name": "UD RAHMAT",
