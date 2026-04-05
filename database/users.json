@@ -1,17 +1,17 @@
 [
   {
     "name": "AKBAR RISQ",
-    "stock": 1,
+    "stock": 80,
     "lastStock": 0,
-    "lastUpdate": "2026-04-04T23:29:37Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-05T01:32:19Z",
+    "cycle": 1
   },
   {
     "name": "ATHI HANDAYANI",
-    "stock": 35,
+    "stock": 27,
     "lastStock": 0,
-    "lastUpdate": "2026-04-04T23:57:27Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-05T01:32:19Z",
+    "cycle": 1
   },
   {
     "name": "CINDRAWATI",
@@ -22,52 +22,52 @@
   },
   {
     "name": "EDI SUGENG SARIPAN",
-    "stock": 1,
+    "stock": 39,
     "lastStock": 0,
-    "lastUpdate": "2026-04-05T00:44:07Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-05T01:32:19Z",
+    "cycle": 1
   },
   {
     "name": "BINA MAKMUR",
-    "stock": 1,
+    "stock": 89,
     "lastStock": 0,
-    "lastUpdate": "2026-04-05T00:44:07Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-05T01:32:19Z",
+    "cycle": 1
   },
   {
     "name": "HENDRA KURNIAWAN",
-    "stock": 1,
-    "lastStock": 0,
-    "lastUpdate": "2026-04-04T23:28:23Z",
-    "cycle": 0
+    "stock": 85,
+    "lastStock": 27,
+    "lastUpdate": "2026-04-05T01:35:48Z",
+    "cycle": 1
   },
   {
     "name": "SUCIYONO",
-    "stock": 0,
+    "stock": 91,
     "lastStock": 0,
-    "lastUpdate": "2026-04-04T22:35:50Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-05T01:36:03Z",
+    "cycle": 1
   },
   {
     "name": "JAENAL",
-    "stock": 1,
-    "lastStock": 0,
-    "lastUpdate": "2026-04-04T23:28:23Z",
-    "cycle": 0
+    "stock": 106,
+    "lastStock": 13,
+    "lastUpdate": "2026-04-05T01:36:54Z",
+    "cycle": 1
   },
   {
     "name": "JOKO SUWARNO",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-04T23:28:58Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-05T01:37:18Z",
+    "cycle": 1
   },
   {
     "name": "KARSONO",
-    "stock": 57,
+    "stock": 56,
     "lastStock": 0,
-    "lastUpdate": "2026-04-04T23:44:22Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-05T01:39:39Z",
+    "cycle": 1
   },
   {
     "name": "LUTFI A.",
