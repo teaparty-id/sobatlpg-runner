@@ -10,8 +10,8 @@
     "name": "ATHI HANDAYANI",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-05T11:05:52Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-05T14:05:59Z",
+    "cycle": 1
   },
   {
     "name": "CINDRAWATI",
@@ -220,8 +220,8 @@
     "name": "ARIF FAUZI",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-05T11:05:52Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-05T14:05:59Z",
+    "cycle": 1
   },
   {
     "name": "MOH HAFIF",
@@ -442,10 +442,10 @@
   },
   {
     "name": "ALFIAN DWI A.",
-    "stock": 64,
+    "stock": 62,
     "lastStock": 63,
-    "lastUpdate": "2026-04-05T14:03:11Z",
-    "cycle": 4
+    "lastUpdate": "2026-04-05T14:05:59Z",
+    "cycle": 5
   },
   {
     "name": "ISTIQOMAH",
@@ -514,7 +514,7 @@
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-05T14:03:51Z",
-    "cycle": 3
+    "lastUpdate": "2026-04-05T14:05:59Z",
+    "cycle": 4
   }
 ]
