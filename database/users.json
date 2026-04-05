@@ -442,9 +442,9 @@
   },
   {
     "name": "ALFIAN DWI A.",
-    "stock": 162,
+    "stock": 161,
     "lastStock": 63,
-    "lastUpdate": "2026-04-05T23:12:33Z",
+    "lastUpdate": "2026-04-05T23:15:49Z",
     "cycle": 1
   },
   {
@@ -514,7 +514,7 @@
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-05T23:12:33Z",
-    "cycle": 4
+    "lastUpdate": "2026-04-05T23:15:49Z",
+    "cycle": 5
   }
 ]
