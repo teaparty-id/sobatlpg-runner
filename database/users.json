@@ -1,10 +1,10 @@
 [
   {
     "name": "AKBAR RISQ",
-    "stock": 10,
+    "stock": 2,
     "lastStock": 0,
-    "lastUpdate": "2026-04-05T09:09:54Z",
-    "cycle": 4
+    "lastUpdate": "2026-04-05T09:17:42Z",
+    "cycle": 5
   },
   {
     "name": "ATHI HANDAYANI",
@@ -29,31 +29,31 @@
   },
   {
     "name": "BINA MAKMUR",
-    "stock": 31,
+    "stock": 30,
     "lastStock": 0,
-    "lastUpdate": "2026-04-05T09:09:54Z",
-    "cycle": 4
+    "lastUpdate": "2026-04-05T09:17:42Z",
+    "cycle": 5
   },
   {
     "name": "HENDRA KURNIAWAN",
     "stock": 26,
     "lastStock": 27,
-    "lastUpdate": "2026-04-05T09:09:54Z",
-    "cycle": 4
+    "lastUpdate": "2026-04-05T09:17:42Z",
+    "cycle": 5
   },
   {
     "name": "SUCIYONO",
-    "stock": 36,
+    "stock": 35,
     "lastStock": 0,
-    "lastUpdate": "2026-04-05T09:09:54Z",
-    "cycle": 4
+    "lastUpdate": "2026-04-05T09:17:42Z",
+    "cycle": 5
   },
   {
     "name": "JAENAL",
     "stock": 80,
     "lastStock": 13,
-    "lastUpdate": "2026-04-05T09:10:37Z",
-    "cycle": 4
+    "lastUpdate": "2026-04-05T09:18:25Z",
+    "cycle": 5
   },
   {
     "name": "JOKO SUWARNO",
@@ -64,17 +64,17 @@
   },
   {
     "name": "KARSONO",
-    "stock": 17,
+    "stock": 16,
     "lastStock": 0,
-    "lastUpdate": "2026-04-05T09:13:33Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-05T09:20:40Z",
+    "cycle": 3
   },
   {
     "name": "LUTFI A.",
-    "stock": 47,
+    "stock": 46,
     "lastStock": 0,
-    "lastUpdate": "2026-04-05T09:13:34Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-05T09:20:58Z",
+    "cycle": 3
   },
   {
     "name": "MOH SAID",
@@ -143,8 +143,8 @@
     "name": "JAMILAH",
     "stock": 23,
     "lastStock": 25,
-    "lastUpdate": "2026-04-05T09:14:14Z",
-    "cycle": 1
+    "lastUpdate": "2026-04-05T09:21:04Z",
+    "cycle": 2
   },
   {
     "name": "YUDA",
@@ -199,8 +199,8 @@
     "name": "YUSUF ISMAIL",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-05T05:55:26Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-05T09:21:37Z",
+    "cycle": 1
   },
   {
     "name": "SUPARNI",
