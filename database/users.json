@@ -260,10 +260,10 @@
   },
   {
     "name": "SUSILO",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-05T12:49:05Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-05T15:50:32Z",
+    "cycle": 1
   },
   {
     "name": "HJ. HAERONI",
@@ -309,10 +309,10 @@
   },
   {
     "name": "TK. LUCKY",
-    "stock": 53,
-    "lastStock": 55,
-    "lastUpdate": "2026-04-05T15:49:01Z",
-    "cycle": 2
+    "stock": 1,
+    "lastStock": 0,
+    "lastUpdate": "2026-04-05T15:50:32Z",
+    "cycle": 3
   },
   {
     "name": "UD SAMAN HADI",
@@ -330,17 +330,17 @@
   },
   {
     "name": "TOKO TIARA",
-    "stock": 13,
-    "lastStock": 14,
-    "lastUpdate": "2026-04-05T15:49:37Z",
-    "cycle": 1
+    "stock": 1,
+    "lastStock": 0,
+    "lastUpdate": "2026-04-05T15:50:32Z",
+    "cycle": 2
   },
   {
     "name": "TOKO POJOK",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-05T15:49:38Z",
-    "cycle": 1
+    "lastUpdate": "2026-04-05T15:50:32Z",
+    "cycle": 2
   },
   {
     "name": "UD RAHMAT",
