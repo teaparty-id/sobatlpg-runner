@@ -129,8 +129,8 @@
     "name": "LUKMAN BS",
     "stock": 53,
     "lastStock": 0,
-    "lastUpdate": "2026-04-05T01:03:31Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-05T01:11:39Z",
+    "cycle": 3
   },
   {
     "name": "BISTON MANURUNG",
@@ -155,10 +155,10 @@
   },
   {
     "name": "BAMBANG HARTONO",
-    "stock": 31,
+    "stock": 27,
     "lastStock": 0,
-    "lastUpdate": "2026-04-05T01:03:31Z",
-    "cycle": 3
+    "lastUpdate": "2026-04-05T01:11:39Z",
+    "cycle": 4
   },
   {
     "name": "NADIFATUS SOLEHA",
@@ -255,15 +255,15 @@
     "name": "YULI SORAYA",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-04T22:06:25Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-05T01:11:39Z",
+    "cycle": 1
   },
   {
     "name": "SUSILO",
-    "stock": 0,
+    "stock": 19,
     "lastStock": 0,
-    "lastUpdate": "2026-04-04T22:06:25Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-05T01:11:39Z",
+    "cycle": 1
   },
   {
     "name": "HJ. HAERONI",
@@ -276,8 +276,8 @@
     "name": "IMA",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-04T22:06:59Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-05T01:12:20Z",
+    "cycle": 1
   },
   {
     "name": "DARMAWAN P",
@@ -379,10 +379,10 @@
   },
   {
     "name": "ABDUL WAFI",
-    "stock": 91,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-05T01:04:11Z",
-    "cycle": 3
+    "lastUpdate": "2026-04-05T01:12:59Z",
+    "cycle": 4
   },
   {
     "name": "YUNIS WAHYUNI",
