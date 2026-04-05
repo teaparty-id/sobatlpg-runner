@@ -85,10 +85,10 @@
   },
   {
     "name": "TOKO 2 PUTRI",
-    "stock": 55,
+    "stock": 50,
     "lastStock": 0,
-    "lastUpdate": "2026-04-05T00:50:43Z",
-    "cycle": 3
+    "lastUpdate": "2026-04-05T00:59:01Z",
+    "cycle": 4
   },
   {
     "name": "TOKO IIN",
@@ -127,10 +127,10 @@
   },
   {
     "name": "LUKMAN BS",
-    "stock": 0,
+    "stock": 54,
     "lastStock": 0,
-    "lastUpdate": "2026-04-04T21:51:06Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-05T00:59:01Z",
+    "cycle": 1
   },
   {
     "name": "BISTON MANURUNG",
@@ -155,10 +155,10 @@
   },
   {
     "name": "BAMBANG HARTONO",
-    "stock": 47,
+    "stock": 42,
     "lastStock": 0,
-    "lastUpdate": "2026-04-05T00:50:43Z",
-    "cycle": 1
+    "lastUpdate": "2026-04-05T00:59:01Z",
+    "cycle": 2
   },
   {
     "name": "NADIFATUS SOLEHA",
@@ -171,15 +171,15 @@
     "name": "SUROSO",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-04T21:54:14Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-05T00:59:01Z",
+    "cycle": 1
   },
   {
     "name": "HADI SUTOYO",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-04T21:54:14Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-05T00:59:42Z",
+    "cycle": 1
   },
   {
     "name": "SRI HIDAYATI",
@@ -218,10 +218,10 @@
   },
   {
     "name": "ARIF FAUZI",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-04T21:54:14Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-05T01:00:17Z",
+    "cycle": 1
   },
   {
     "name": "MOH HAFIF",
