@@ -22,17 +22,17 @@
   },
   {
     "name": "EDI SUGENG SARIPAN",
-    "stock": 42,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-05T00:34:01Z",
-    "cycle": 4
+    "lastUpdate": "2026-04-05T00:44:07Z",
+    "cycle": 5
   },
   {
     "name": "BINA MAKMUR",
-    "stock": 91,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-05T00:34:01Z",
-    "cycle": 4
+    "lastUpdate": "2026-04-05T00:44:07Z",
+    "cycle": 5
   },
   {
     "name": "HENDRA KURNIAWAN",
@@ -71,10 +71,10 @@
   },
   {
     "name": "LUTFI A.",
-    "stock": 98,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-05T00:34:01Z",
-    "cycle": 1
+    "lastUpdate": "2026-04-05T00:44:07Z",
+    "cycle": 2
   },
   {
     "name": "MOH SAID",
@@ -101,8 +101,8 @@
     "name": "HJ LILIK LAILIYAH",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-04T21:42:33Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-05T00:44:07Z",
+    "cycle": 1
   },
   {
     "name": "ERNA PUJIATI",
