@@ -8,10 +8,10 @@
   },
   {
     "name": "ATHI HANDAYANI",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-05T17:06:18Z",
-    "cycle": 1
+    "lastUpdate": "2026-04-05T17:06:51Z",
+    "cycle": 2
   },
   {
     "name": "CINDRAWATI",
@@ -218,10 +218,10 @@
   },
   {
     "name": "ARIF FAUZI",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-05T17:06:18Z",
-    "cycle": 1
+    "lastUpdate": "2026-04-05T17:06:51Z",
+    "cycle": 2
   },
   {
     "name": "MOH HAFIF",
@@ -330,17 +330,17 @@
   },
   {
     "name": "TOKO TIARA",
-    "stock": 1,
-    "lastStock": 0,
-    "lastUpdate": "2026-04-05T17:06:18Z",
-    "cycle": 3
+    "stock": 13,
+    "lastStock": 14,
+    "lastUpdate": "2026-04-05T17:06:51Z",
+    "cycle": 4
   },
   {
     "name": "TOKO POJOK",
-    "stock": 1,
-    "lastStock": 0,
-    "lastUpdate": "2026-04-05T17:06:18Z",
-    "cycle": 2
+    "stock": 59,
+    "lastStock": 54,
+    "lastUpdate": "2026-04-05T17:06:51Z",
+    "cycle": 3
   },
   {
     "name": "UD RAHMAT",
@@ -365,10 +365,10 @@
   },
   {
     "name": "SUDJIONO",
-    "stock": 1,
-    "lastStock": 0,
-    "lastUpdate": "2026-04-05T16:55:42Z",
-    "cycle": 0
+    "stock": 6,
+    "lastStock": 7,
+    "lastUpdate": "2026-04-05T17:07:25Z",
+    "cycle": 1
   },
   {
     "name": "ANDRI HERU CAHYONO",
@@ -430,8 +430,8 @@
     "name": "CAHYA HERAWATI",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-05T16:56:50Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-05T17:07:30Z",
+    "cycle": 1
   },
   {
     "name": "MISRI CICI",
@@ -442,10 +442,10 @@
   },
   {
     "name": "ALFIAN DWI A.",
-    "stock": 62,
-    "lastStock": 63,
-    "lastUpdate": "2026-04-05T16:57:24Z",
-    "cycle": 0
+    "stock": 1,
+    "lastStock": 0,
+    "lastUpdate": "2026-04-05T17:07:32Z",
+    "cycle": 1
   },
   {
     "name": "ISTIQOMAH",
