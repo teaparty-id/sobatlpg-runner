@@ -15,10 +15,10 @@
   },
   {
     "name": "CINDRAWATI",
-    "stock": 21,
+    "stock": 19,
     "lastStock": 0,
-    "lastUpdate": "2026-04-06T01:29:27Z",
-    "cycle": 4
+    "lastUpdate": "2026-04-06T01:40:00Z",
+    "cycle": 5
   },
   {
     "name": "EDI SUGENG SARIPAN",
@@ -36,31 +36,31 @@
   },
   {
     "name": "HENDRA KURNIAWAN",
-    "stock": 90,
+    "stock": 84,
     "lastStock": 27,
-    "lastUpdate": "2026-04-06T01:29:27Z",
-    "cycle": 4
+    "lastUpdate": "2026-04-06T01:40:00Z",
+    "cycle": 5
   },
   {
     "name": "SUCIYONO",
-    "stock": 57,
+    "stock": 53,
     "lastStock": 0,
-    "lastUpdate": "2026-04-06T01:29:27Z",
-    "cycle": 4
+    "lastUpdate": "2026-04-06T01:40:00Z",
+    "cycle": 5
   },
   {
     "name": "JAENAL",
-    "stock": 104,
+    "stock": 103,
     "lastStock": 13,
-    "lastUpdate": "2026-04-06T01:29:27Z",
-    "cycle": 4
+    "lastUpdate": "2026-04-06T01:40:00Z",
+    "cycle": 5
   },
   {
     "name": "JOKO SUWARNO",
-    "stock": 33,
+    "stock": 31,
     "lastStock": 0,
-    "lastUpdate": "2026-04-06T01:33:39Z",
-    "cycle": 3
+    "lastUpdate": "2026-04-06T01:43:51Z",
+    "cycle": 4
   },
   {
     "name": "KARSONO",
@@ -71,10 +71,10 @@
   },
   {
     "name": "LUTFI A.",
-    "stock": 64,
+    "stock": 61,
     "lastStock": 0,
-    "lastUpdate": "2026-04-06T01:34:00Z",
-    "cycle": 3
+    "lastUpdate": "2026-04-06T01:43:52Z",
+    "cycle": 4
   },
   {
     "name": "MOH SAID",
@@ -92,10 +92,10 @@
   },
   {
     "name": "TOKO IIN",
-    "stock": 34,
+    "stock": 28,
     "lastStock": 0,
-    "lastUpdate": "2026-04-06T01:34:05Z",
-    "cycle": 3
+    "lastUpdate": "2026-04-06T01:43:54Z",
+    "cycle": 4
   },
   {
     "name": "HJ LILIK LAILIYAH",
@@ -143,8 +143,8 @@
     "name": "JAMILAH",
     "stock": 23,
     "lastStock": 25,
-    "lastUpdate": "2026-04-06T01:34:14Z",
-    "cycle": 3
+    "lastUpdate": "2026-04-06T01:44:37Z",
+    "cycle": 4
   },
   {
     "name": "YUDA",
@@ -206,8 +206,8 @@
     "name": "SUPARNI",
     "stock": 52,
     "lastStock": 54,
-    "lastUpdate": "2026-04-06T01:34:47Z",
-    "cycle": 1
+    "lastUpdate": "2026-04-06T01:45:10Z",
+    "cycle": 2
   },
   {
     "name": "YOGA RAJAN",
