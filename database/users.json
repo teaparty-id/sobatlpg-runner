@@ -8,10 +8,10 @@
   },
   {
     "name": "ATHI HANDAYANI",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-06T08:26:45Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-06T11:27:36Z",
+    "cycle": 1
   },
   {
     "name": "CINDRAWATI",
@@ -514,7 +514,7 @@
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-06T11:26:43Z",
-    "cycle": 4
+    "lastUpdate": "2026-04-06T11:27:36Z",
+    "cycle": 5
   }
 ]
