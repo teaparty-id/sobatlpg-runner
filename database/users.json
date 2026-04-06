@@ -211,10 +211,10 @@
   },
   {
     "name": "YOGA RAJAN",
-    "stock": 1,
-    "lastStock": 0,
-    "lastUpdate": "2026-04-06T15:13:02Z",
-    "cycle": 3
+    "stock": 69,
+    "lastStock": 70,
+    "lastUpdate": "2026-04-06T15:15:12Z",
+    "cycle": 4
   },
   {
     "name": "ARIF FAUZI",
@@ -246,10 +246,10 @@
   },
   {
     "name": "BUDI",
-    "stock": 1,
-    "lastStock": 0,
-    "lastUpdate": "2026-04-06T15:13:07Z",
-    "cycle": 3
+    "stock": 59,
+    "lastStock": 60,
+    "lastUpdate": "2026-04-06T15:15:12Z",
+    "cycle": 4
   },
   {
     "name": "YULI SORAYA",
@@ -302,17 +302,17 @@
   },
   {
     "name": "TOKO ANITA",
-    "stock": 1,
-    "lastStock": 0,
-    "lastUpdate": "2026-04-06T15:07:04Z",
-    "cycle": 1
+    "stock": 43,
+    "lastStock": 45,
+    "lastUpdate": "2026-04-06T15:15:12Z",
+    "cycle": 2
   },
   {
     "name": "TK. LUCKY",
-    "stock": 1,
-    "lastStock": 0,
-    "lastUpdate": "2026-04-06T14:35:46Z",
-    "cycle": 0
+    "stock": 53,
+    "lastStock": 55,
+    "lastUpdate": "2026-04-06T15:15:12Z",
+    "cycle": 1
   },
   {
     "name": "UD SAMAN HADI",
@@ -323,24 +323,24 @@
   },
   {
     "name": "SOEKAMTO",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-06T14:35:46Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-06T15:15:45Z",
+    "cycle": 1
   },
   {
     "name": "TOKO TIARA",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-06T14:35:46Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-06T15:15:46Z",
+    "cycle": 1
   },
   {
     "name": "TOKO POJOK",
-    "stock": 93,
-    "lastStock": 54,
-    "lastUpdate": "2026-04-06T14:40:43Z",
-    "cycle": 0
+    "stock": 1,
+    "lastStock": 0,
+    "lastUpdate": "2026-04-06T15:15:48Z",
+    "cycle": 1
   },
   {
     "name": "UD RAHMAT",
@@ -351,10 +351,10 @@
   },
   {
     "name": "ULFA MARIA",
-    "stock": 7,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-06T14:50:40Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-06T15:15:48Z",
+    "cycle": 1
   },
   {
     "name": "TOKO SURYATI",
