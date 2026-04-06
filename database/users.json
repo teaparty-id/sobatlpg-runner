@@ -134,10 +134,10 @@
   },
   {
     "name": "BISTON MANURUNG",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-06T17:54:50Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-06T20:55:13Z",
+    "cycle": 1
   },
   {
     "name": "JAMILAH",
@@ -213,8 +213,8 @@
     "name": "YOGA RAJAN",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-06T20:54:34Z",
-    "cycle": 3
+    "lastUpdate": "2026-04-06T20:55:13Z",
+    "cycle": 4
   },
   {
     "name": "ARIF FAUZI",
@@ -248,8 +248,8 @@
     "name": "BUDI",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-06T20:54:34Z",
-    "cycle": 3
+    "lastUpdate": "2026-04-06T20:55:13Z",
+    "cycle": 4
   },
   {
     "name": "YULI SORAYA",
@@ -304,8 +304,8 @@
     "name": "TOKO ANITA",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-06T20:54:34Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-06T20:55:13Z",
+    "cycle": 3
   },
   {
     "name": "TK. LUCKY",
