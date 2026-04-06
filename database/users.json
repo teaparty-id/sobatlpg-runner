@@ -29,10 +29,10 @@
   },
   {
     "name": "BINA MAKMUR",
-    "stock": 1,
+    "stock": 85,
     "lastStock": 0,
-    "lastUpdate": "2026-04-06T02:15:52Z",
-    "cycle": 4
+    "lastUpdate": "2026-04-06T02:19:14Z",
+    "cycle": 5
   },
   {
     "name": "HENDRA KURNIAWAN",
@@ -64,10 +64,10 @@
   },
   {
     "name": "KARSONO",
-    "stock": 63,
+    "stock": 58,
     "lastStock": 0,
-    "lastUpdate": "2026-04-06T02:15:52Z",
-    "cycle": 3
+    "lastUpdate": "2026-04-06T02:19:14Z",
+    "cycle": 4
   },
   {
     "name": "LUTFI A.",
@@ -78,17 +78,17 @@
   },
   {
     "name": "MOH SAID",
-    "stock": 1,
+    "stock": 46,
     "lastStock": 0,
-    "lastUpdate": "2026-04-06T02:15:52Z",
-    "cycle": 3
+    "lastUpdate": "2026-04-06T02:19:14Z",
+    "cycle": 4
   },
   {
     "name": "TOKO 2 PUTRI",
-    "stock": 1,
+    "stock": 39,
     "lastStock": 0,
-    "lastUpdate": "2026-04-06T02:15:52Z",
-    "cycle": 3
+    "lastUpdate": "2026-04-06T02:19:14Z",
+    "cycle": 4
   },
   {
     "name": "TOKO IIN",
@@ -311,8 +311,8 @@
     "name": "TK. LUCKY",
     "stock": 53,
     "lastStock": 55,
-    "lastUpdate": "2026-04-06T02:15:09Z",
-    "cycle": 3
+    "lastUpdate": "2026-04-06T02:21:54Z",
+    "cycle": 4
   },
   {
     "name": "UD SAMAN HADI",
@@ -332,29 +332,29 @@
     "name": "TOKO TIARA",
     "stock": 13,
     "lastStock": 14,
-    "lastUpdate": "2026-04-06T02:06:30Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-06T02:22:27Z",
+    "cycle": 3
   },
   {
     "name": "TOKO POJOK",
-    "stock": 147,
+    "stock": 145,
     "lastStock": 54,
-    "lastUpdate": "2026-04-06T02:06:44Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-06T02:23:01Z",
+    "cycle": 3
   },
   {
     "name": "UD RAHMAT",
-    "stock": 60,
+    "stock": 59,
     "lastStock": 0,
-    "lastUpdate": "2026-04-06T02:06:53Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-06T02:23:04Z",
+    "cycle": 3
   },
   {
     "name": "ULFA MARIA",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-06T01:57:40Z",
-    "cycle": 1
+    "lastUpdate": "2026-04-06T02:24:16Z",
+    "cycle": 2
   },
   {
     "name": "TOKO SURYATI",
