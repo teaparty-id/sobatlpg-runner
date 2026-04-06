@@ -1,10 +1,10 @@
 [
   {
     "name": "AKBAR RISQ",
-    "stock": 79,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-06T04:05:14Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-06T05:44:23Z",
+    "cycle": 1
   },
   {
     "name": "ATHI HANDAYANI",
@@ -15,10 +15,10 @@
   },
   {
     "name": "CINDRAWATI",
-    "stock": 9,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-06T04:05:14Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-06T05:44:23Z",
+    "cycle": 1
   },
   {
     "name": "EDI SUGENG SARIPAN",
@@ -29,17 +29,17 @@
   },
   {
     "name": "BINA MAKMUR",
-    "stock": 74,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-06T04:05:14Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-06T05:44:23Z",
+    "cycle": 1
   },
   {
     "name": "HENDRA KURNIAWAN",
-    "stock": 62,
+    "stock": 59,
     "lastStock": 27,
-    "lastUpdate": "2026-04-06T04:05:14Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-06T05:44:23Z",
+    "cycle": 1
   },
   {
     "name": "SUCIYONO",
