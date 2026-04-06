@@ -255,8 +255,8 @@
     "name": "YULI SORAYA",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-06T00:14:48Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-06T03:16:23Z",
+    "cycle": 1
   },
   {
     "name": "SUSILO",
@@ -491,10 +491,10 @@
   },
   {
     "name": "TITIK ISMIATIN",
-    "stock": 66,
+    "stock": 65,
     "lastStock": 3,
-    "lastUpdate": "2026-04-06T03:11:32Z",
-    "cycle": 3
+    "lastUpdate": "2026-04-06T03:16:23Z",
+    "cycle": 4
   },
   {
     "name": "SRI UTAMI",
@@ -514,7 +514,7 @@
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-06T03:12:10Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-06T03:16:23Z",
+    "cycle": 3
   }
 ]
