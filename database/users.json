@@ -220,8 +220,8 @@
     "name": "ARIF FAUZI",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-06T11:59:14Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-06T15:00:08Z",
+    "cycle": 1
   },
   {
     "name": "MOH HAFIF",
@@ -491,10 +491,10 @@
   },
   {
     "name": "TITIK ISMIATIN",
-    "stock": 2,
-    "lastStock": 3,
-    "lastUpdate": "2026-04-06T14:58:57Z",
-    "cycle": 3
+    "stock": 1,
+    "lastStock": 0,
+    "lastUpdate": "2026-04-06T15:00:08Z",
+    "cycle": 4
   },
   {
     "name": "SRI UTAMI",
@@ -514,7 +514,7 @@
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-06T14:58:57Z",
-    "cycle": 1
+    "lastUpdate": "2026-04-06T15:00:08Z",
+    "cycle": 2
   }
 ]
