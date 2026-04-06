@@ -36,10 +36,10 @@
   },
   {
     "name": "HENDRA KURNIAWAN",
-    "stock": 26,
-    "lastStock": 27,
-    "lastUpdate": "2026-04-06T21:58:25Z",
-    "cycle": 4
+    "stock": 1,
+    "lastStock": 0,
+    "lastUpdate": "2026-04-06T21:59:49Z",
+    "cycle": 5
   },
   {
     "name": "SUCIYONO",
@@ -50,10 +50,10 @@
   },
   {
     "name": "JAENAL",
-    "stock": 12,
-    "lastStock": 13,
-    "lastUpdate": "2026-04-06T21:58:25Z",
-    "cycle": 4
+    "stock": 1,
+    "lastStock": 0,
+    "lastUpdate": "2026-04-06T21:59:49Z",
+    "cycle": 5
   },
   {
     "name": "JOKO SUWARNO",
@@ -141,10 +141,10 @@
   },
   {
     "name": "JAMILAH",
-    "stock": 23,
-    "lastStock": 25,
-    "lastUpdate": "2026-04-06T21:58:25Z",
-    "cycle": 4
+    "stock": 1,
+    "lastStock": 0,
+    "lastUpdate": "2026-04-06T21:59:49Z",
+    "cycle": 5
   },
   {
     "name": "YUDA",
@@ -157,8 +157,8 @@
     "name": "BAMBANG HARTONO",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-06T21:59:03Z",
-    "cycle": 1
+    "lastUpdate": "2026-04-06T21:59:49Z",
+    "cycle": 2
   },
   {
     "name": "NADIFATUS SOLEHA",
