@@ -316,10 +316,10 @@
   },
   {
     "name": "UD SAMAN HADI",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-06T20:04:09Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-06T23:04:20Z",
+    "cycle": 1
   },
   {
     "name": "SOEKAMTO",
@@ -514,7 +514,7 @@
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-06T23:03:45Z",
-    "cycle": 3
+    "lastUpdate": "2026-04-06T23:04:20Z",
+    "cycle": 4
   }
 ]
