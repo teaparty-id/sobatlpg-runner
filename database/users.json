@@ -87,8 +87,8 @@
     "name": "TOKO 2 PUTRI",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-06T09:48:59Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-06T12:49:39Z",
+    "cycle": 1
   },
   {
     "name": "TOKO IIN",
@@ -351,10 +351,10 @@
   },
   {
     "name": "ULFA MARIA",
-    "stock": 34,
+    "stock": 31,
     "lastStock": 0,
-    "lastUpdate": "2026-04-06T12:44:06Z",
-    "cycle": 4
+    "lastUpdate": "2026-04-06T12:49:39Z",
+    "cycle": 5
   },
   {
     "name": "TOKO SURYATI",
@@ -367,8 +367,8 @@
     "name": "SUDJIONO",
     "stock": 6,
     "lastStock": 7,
-    "lastUpdate": "2026-04-06T12:44:06Z",
-    "cycle": 3
+    "lastUpdate": "2026-04-06T12:49:39Z",
+    "cycle": 4
   },
   {
     "name": "ANDRI HERU CAHYONO",
@@ -379,10 +379,10 @@
   },
   {
     "name": "ABDUL WAFI",
-    "stock": 47,
+    "stock": 44,
     "lastStock": 0,
-    "lastUpdate": "2026-04-06T12:44:06Z",
-    "cycle": 3
+    "lastUpdate": "2026-04-06T12:49:39Z",
+    "cycle": 4
   },
   {
     "name": "YUNIS WAHYUNI",
@@ -407,10 +407,10 @@
   },
   {
     "name": "TK. MAJU",
-    "stock": 1,
+    "stock": 11,
     "lastStock": 0,
-    "lastUpdate": "2026-04-06T12:44:53Z",
-    "cycle": 1
+    "lastUpdate": "2026-04-06T12:50:12Z",
+    "cycle": 2
   },
   {
     "name": "H. JUMAT",
@@ -430,8 +430,8 @@
     "name": "CAHYA HERAWATI",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-06T11:06:32Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-06T12:50:17Z",
+    "cycle": 1
   },
   {
     "name": "MISRI CICI",
