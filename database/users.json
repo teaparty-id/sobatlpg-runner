@@ -59,8 +59,8 @@
     "name": "JOKO SUWARNO",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-06T09:29:12Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-06T12:30:24Z",
+    "cycle": 1
   },
   {
     "name": "KARSONO",
@@ -323,24 +323,24 @@
   },
   {
     "name": "SOEKAMTO",
-    "stock": 7,
+    "stock": 6,
     "lastStock": 0,
-    "lastUpdate": "2026-04-06T12:25:36Z",
-    "cycle": 4
+    "lastUpdate": "2026-04-06T12:30:24Z",
+    "cycle": 5
   },
   {
     "name": "TOKO TIARA",
-    "stock": 22,
+    "stock": 17,
     "lastStock": 14,
-    "lastUpdate": "2026-04-06T12:25:36Z",
-    "cycle": 4
+    "lastUpdate": "2026-04-06T12:30:24Z",
+    "cycle": 5
   },
   {
     "name": "TOKO POJOK",
-    "stock": 99,
+    "stock": 98,
     "lastStock": 54,
-    "lastUpdate": "2026-04-06T12:25:36Z",
-    "cycle": 4
+    "lastUpdate": "2026-04-06T12:30:24Z",
+    "cycle": 5
   },
   {
     "name": "UD RAHMAT",
@@ -351,10 +351,10 @@
   },
   {
     "name": "ULFA MARIA",
-    "stock": 1,
+    "stock": 43,
     "lastStock": 0,
-    "lastUpdate": "2026-04-06T12:26:56Z",
-    "cycle": 1
+    "lastUpdate": "2026-04-06T12:31:13Z",
+    "cycle": 2
   },
   {
     "name": "TOKO SURYATI",
@@ -365,31 +365,31 @@
   },
   {
     "name": "SUDJIONO",
-    "stock": 1,
-    "lastStock": 0,
-    "lastUpdate": "2026-04-06T10:44:02Z",
-    "cycle": 0
+    "stock": 6,
+    "lastStock": 7,
+    "lastUpdate": "2026-04-06T12:33:28Z",
+    "cycle": 1
   },
   {
     "name": "ANDRI HERU CAHYONO",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-06T09:11:33Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-06T12:33:31Z",
+    "cycle": 1
   },
   {
     "name": "ABDUL WAFI",
-    "stock": 65,
+    "stock": 60,
     "lastStock": 0,
-    "lastUpdate": "2026-04-06T10:45:53Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-06T12:34:03Z",
+    "cycle": 1
   },
   {
     "name": "YUNIS WAHYUNI",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-06T09:11:33Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-06T12:34:11Z",
+    "cycle": 1
   },
   {
     "name": "ROSIDI",
