@@ -1,10 +1,10 @@
 [
   {
     "name": "AKBAR RISQ",
-    "stock": 0,
+    "stock": 91,
     "lastStock": 0,
-    "lastUpdate": "2026-04-05T22:41:13Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-06T01:49:01Z",
+    "cycle": 1
   },
   {
     "name": "ATHI HANDAYANI",
@@ -57,10 +57,10 @@
   },
   {
     "name": "JOKO SUWARNO",
-    "stock": 31,
+    "stock": 27,
     "lastStock": 0,
-    "lastUpdate": "2026-04-06T01:43:51Z",
-    "cycle": 4
+    "lastUpdate": "2026-04-06T01:49:01Z",
+    "cycle": 5
   },
   {
     "name": "KARSONO",
@@ -71,10 +71,10 @@
   },
   {
     "name": "LUTFI A.",
-    "stock": 61,
+    "stock": 55,
     "lastStock": 0,
-    "lastUpdate": "2026-04-06T01:43:52Z",
-    "cycle": 4
+    "lastUpdate": "2026-04-06T01:49:01Z",
+    "cycle": 5
   },
   {
     "name": "MOH SAID",
@@ -92,10 +92,10 @@
   },
   {
     "name": "TOKO IIN",
-    "stock": 28,
+    "stock": 25,
     "lastStock": 0,
-    "lastUpdate": "2026-04-06T01:43:54Z",
-    "cycle": 4
+    "lastUpdate": "2026-04-06T01:49:01Z",
+    "cycle": 5
   },
   {
     "name": "HJ LILIK LAILIYAH",
@@ -143,8 +143,8 @@
     "name": "JAMILAH",
     "stock": 23,
     "lastStock": 25,
-    "lastUpdate": "2026-04-06T01:44:37Z",
-    "cycle": 4
+    "lastUpdate": "2026-04-06T01:53:20Z",
+    "cycle": 5
   },
   {
     "name": "YUDA",
@@ -206,15 +206,15 @@
     "name": "SUPARNI",
     "stock": 52,
     "lastStock": 54,
-    "lastUpdate": "2026-04-06T01:45:10Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-06T01:53:20Z",
+    "cycle": 3
   },
   {
     "name": "YOGA RAJAN",
-    "stock": 1,
-    "lastStock": 0,
-    "lastUpdate": "2026-04-05T23:01:52Z",
-    "cycle": 0
+    "stock": 69,
+    "lastStock": 70,
+    "lastUpdate": "2026-04-06T01:53:30Z",
+    "cycle": 1
   },
   {
     "name": "ARIF FAUZI",
@@ -246,10 +246,10 @@
   },
   {
     "name": "BUDI",
-    "stock": 1,
-    "lastStock": 0,
-    "lastUpdate": "2026-04-05T23:01:52Z",
-    "cycle": 0
+    "stock": 59,
+    "lastStock": 60,
+    "lastUpdate": "2026-04-06T01:53:39Z",
+    "cycle": 1
   },
   {
     "name": "YULI SORAYA",
@@ -302,10 +302,10 @@
   },
   {
     "name": "TOKO ANITA",
-    "stock": 1,
-    "lastStock": 0,
-    "lastUpdate": "2026-04-05T23:02:28Z",
-    "cycle": 0
+    "stock": 43,
+    "lastStock": 45,
+    "lastUpdate": "2026-04-06T01:53:53Z",
+    "cycle": 1
   },
   {
     "name": "TK. LUCKY",
