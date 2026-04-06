@@ -337,17 +337,17 @@
   },
   {
     "name": "TOKO POJOK",
-    "stock": 129,
+    "stock": 127,
     "lastStock": 54,
-    "lastUpdate": "2026-04-06T05:02:40Z",
-    "cycle": 4
+    "lastUpdate": "2026-04-06T05:07:40Z",
+    "cycle": 5
   },
   {
     "name": "UD RAHMAT",
-    "stock": 39,
+    "stock": 37,
     "lastStock": 0,
-    "lastUpdate": "2026-04-06T05:02:40Z",
-    "cycle": 4
+    "lastUpdate": "2026-04-06T05:07:40Z",
+    "cycle": 5
   },
   {
     "name": "ULFA MARIA",
@@ -367,8 +367,8 @@
     "name": "SUDJIONO",
     "stock": 6,
     "lastStock": 7,
-    "lastUpdate": "2026-04-06T05:02:40Z",
-    "cycle": 4
+    "lastUpdate": "2026-04-06T05:07:40Z",
+    "cycle": 5
   },
   {
     "name": "ANDRI HERU CAHYONO",
@@ -379,10 +379,10 @@
   },
   {
     "name": "ABDUL WAFI",
-    "stock": 83,
+    "stock": 81,
     "lastStock": 0,
-    "lastUpdate": "2026-04-06T05:03:22Z",
-    "cycle": 4
+    "lastUpdate": "2026-04-06T05:07:40Z",
+    "cycle": 5
   },
   {
     "name": "YUNIS WAHYUNI",
@@ -407,10 +407,10 @@
   },
   {
     "name": "TK. MAJU",
-    "stock": 1,
+    "stock": 67,
     "lastStock": 0,
-    "lastUpdate": "2026-04-06T05:03:23Z",
-    "cycle": 3
+    "lastUpdate": "2026-04-06T05:08:13Z",
+    "cycle": 4
   },
   {
     "name": "H. JUMAT",
@@ -430,8 +430,8 @@
     "name": "CAHYA HERAWATI",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-06T03:07:10Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-06T05:10:55Z",
+    "cycle": 1
   },
   {
     "name": "MISRI CICI",
@@ -444,8 +444,8 @@
     "name": "ALFIAN DWI A.",
     "stock": 118,
     "lastStock": 63,
-    "lastUpdate": "2026-04-06T03:10:52Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-06T05:11:10Z",
+    "cycle": 1
   },
   {
     "name": "ISTIQOMAH",
@@ -463,10 +463,10 @@
   },
   {
     "name": "SUMBER REJEKI",
-    "stock": 59,
+    "stock": 58,
     "lastStock": 1,
-    "lastUpdate": "2026-04-06T03:10:52Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-06T05:11:15Z",
+    "cycle": 1
   },
   {
     "name": "SUPARMAN",
@@ -491,10 +491,10 @@
   },
   {
     "name": "TITIK ISMIATIN",
-    "stock": 63,
+    "stock": 57,
     "lastStock": 3,
-    "lastUpdate": "2026-04-06T03:20:01Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-06T05:11:31Z",
+    "cycle": 1
   },
   {
     "name": "SRI UTAMI",
