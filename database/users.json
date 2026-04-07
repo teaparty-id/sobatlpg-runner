@@ -1,10 +1,10 @@
 [
   {
     "name": "AKBAR RISQ",
-    "stock": 56,
+    "stock": 49,
     "lastStock": 0,
-    "lastUpdate": "2026-04-07T05:42:33Z",
-    "cycle": 4
+    "lastUpdate": "2026-04-07T05:52:35Z",
+    "cycle": 5
   },
   {
     "name": "ATHI HANDAYANI",
@@ -29,52 +29,52 @@
   },
   {
     "name": "BINA MAKMUR",
-    "stock": 66,
+    "stock": 64,
     "lastStock": 0,
-    "lastUpdate": "2026-04-07T05:42:33Z",
-    "cycle": 4
+    "lastUpdate": "2026-04-07T05:52:35Z",
+    "cycle": 5
   },
   {
     "name": "HENDRA KURNIAWAN",
     "stock": 26,
     "lastStock": 27,
-    "lastUpdate": "2026-04-07T05:42:33Z",
-    "cycle": 4
+    "lastUpdate": "2026-04-07T05:52:35Z",
+    "cycle": 5
   },
   {
     "name": "SUCIYONO",
-    "stock": 29,
+    "stock": 20,
     "lastStock": 0,
-    "lastUpdate": "2026-04-07T05:42:33Z",
-    "cycle": 3
+    "lastUpdate": "2026-04-07T05:52:35Z",
+    "cycle": 4
   },
   {
     "name": "JAENAL",
-    "stock": 89,
+    "stock": 86,
     "lastStock": 13,
-    "lastUpdate": "2026-04-07T05:43:56Z",
-    "cycle": 3
+    "lastUpdate": "2026-04-07T05:53:58Z",
+    "cycle": 4
   },
   {
     "name": "JOKO SUWARNO",
-    "stock": 38,
+    "stock": 33,
     "lastStock": 0,
-    "lastUpdate": "2026-04-07T05:45:47Z",
-    "cycle": 3
+    "lastUpdate": "2026-04-07T05:56:51Z",
+    "cycle": 4
   },
   {
     "name": "KARSONO",
-    "stock": 40,
+    "stock": 35,
     "lastStock": 0,
-    "lastUpdate": "2026-04-07T05:46:15Z",
-    "cycle": 3
+    "lastUpdate": "2026-04-07T05:57:03Z",
+    "cycle": 4
   },
   {
     "name": "LUTFI A.",
-    "stock": 36,
+    "stock": 34,
     "lastStock": 0,
-    "lastUpdate": "2026-04-07T05:47:05Z",
-    "cycle": 3
+    "lastUpdate": "2026-04-07T05:57:40Z",
+    "cycle": 4
   },
   {
     "name": "MOH SAID",
@@ -85,10 +85,10 @@
   },
   {
     "name": "TOKO 2 PUTRI",
-    "stock": 9,
+    "stock": 2,
     "lastStock": 0,
-    "lastUpdate": "2026-04-07T04:26:09Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-07T05:58:08Z",
+    "cycle": 1
   },
   {
     "name": "TOKO IIN",
