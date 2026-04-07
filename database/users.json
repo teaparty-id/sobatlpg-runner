@@ -29,17 +29,17 @@
   },
   {
     "name": "BINA MAKMUR",
-    "stock": 34,
+    "stock": 31,
     "lastStock": 0,
-    "lastUpdate": "2026-04-07T09:30:06Z",
-    "cycle": 3
+    "lastUpdate": "2026-04-07T09:37:30Z",
+    "cycle": 4
   },
   {
     "name": "HENDRA KURNIAWAN",
     "stock": 26,
     "lastStock": 27,
-    "lastUpdate": "2026-04-07T09:30:06Z",
-    "cycle": 3
+    "lastUpdate": "2026-04-07T09:37:30Z",
+    "cycle": 4
   },
   {
     "name": "SUCIYONO",
@@ -52,8 +52,8 @@
     "name": "JAENAL",
     "stock": 62,
     "lastStock": 13,
-    "lastUpdate": "2026-04-07T09:30:06Z",
-    "cycle": 3
+    "lastUpdate": "2026-04-07T09:37:30Z",
+    "cycle": 4
   },
   {
     "name": "JOKO SUWARNO",
@@ -64,17 +64,17 @@
   },
   {
     "name": "KARSONO",
-    "stock": 20,
+    "stock": 19,
     "lastStock": 0,
-    "lastUpdate": "2026-04-07T09:30:06Z",
-    "cycle": 3
+    "lastUpdate": "2026-04-07T09:37:30Z",
+    "cycle": 4
   },
   {
     "name": "LUTFI A.",
-    "stock": 8,
+    "stock": 3,
     "lastStock": 0,
-    "lastUpdate": "2026-04-07T09:31:15Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-07T09:38:38Z",
+    "cycle": 3
   },
   {
     "name": "MOH SAID",
@@ -143,8 +143,8 @@
     "name": "JAMILAH",
     "stock": 23,
     "lastStock": 25,
-    "lastUpdate": "2026-04-07T09:33:42Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-07T09:40:33Z",
+    "cycle": 3
   },
   {
     "name": "YUDA",
@@ -204,17 +204,17 @@
   },
   {
     "name": "SUPARNI",
-    "stock": 98,
+    "stock": 94,
     "lastStock": 54,
-    "lastUpdate": "2026-04-07T09:34:13Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-07T09:40:35Z",
+    "cycle": 3
   },
   {
     "name": "YOGA RAJAN",
     "stock": 69,
     "lastStock": 70,
-    "lastUpdate": "2026-04-07T09:34:13Z",
-    "cycle": 1
+    "lastUpdate": "2026-04-07T09:41:02Z",
+    "cycle": 2
   },
   {
     "name": "ARIF FAUZI",
@@ -246,10 +246,10 @@
   },
   {
     "name": "BUDI",
-    "stock": 1,
-    "lastStock": 0,
-    "lastUpdate": "2026-04-07T08:27:59Z",
-    "cycle": 0
+    "stock": 59,
+    "lastStock": 60,
+    "lastUpdate": "2026-04-07T09:41:30Z",
+    "cycle": 1
   },
   {
     "name": "YULI SORAYA",
