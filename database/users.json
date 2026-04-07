@@ -1,10 +1,10 @@
 [
   {
     "name": "AKBAR RISQ",
-    "stock": 81,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-07T01:47:17Z",
-    "cycle": 3
+    "lastUpdate": "2026-04-07T01:53:03Z",
+    "cycle": 4
   },
   {
     "name": "ATHI HANDAYANI",
@@ -29,10 +29,10 @@
   },
   {
     "name": "BINA MAKMUR",
-    "stock": 88,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-07T01:47:17Z",
-    "cycle": 3
+    "lastUpdate": "2026-04-07T01:53:03Z",
+    "cycle": 4
   },
   {
     "name": "HENDRA KURNIAWAN",
@@ -92,10 +92,10 @@
   },
   {
     "name": "TOKO IIN",
-    "stock": 74,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-07T01:47:17Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-07T01:53:03Z",
+    "cycle": 3
   },
   {
     "name": "HJ LILIK LAILIYAH",
@@ -204,10 +204,10 @@
   },
   {
     "name": "SUPARNI",
-    "stock": 52,
-    "lastStock": 54,
-    "lastUpdate": "2026-04-07T01:51:36Z",
-    "cycle": 2
+    "stock": 1,
+    "lastStock": 0,
+    "lastUpdate": "2026-04-07T01:53:03Z",
+    "cycle": 3
   },
   {
     "name": "YOGA RAJAN",
