@@ -29,10 +29,10 @@
   },
   {
     "name": "BINA MAKMUR",
-    "stock": 82,
+    "stock": 76,
     "lastStock": 0,
-    "lastUpdate": "2026-04-07T23:28:13Z",
-    "cycle": 3
+    "lastUpdate": "2026-04-07T23:33:23Z",
+    "cycle": 4
   },
   {
     "name": "HENDRA KURNIAWAN",
@@ -43,10 +43,10 @@
   },
   {
     "name": "SUCIYONO",
-    "stock": 79,
+    "stock": 76,
     "lastStock": 0,
-    "lastUpdate": "2026-04-07T23:28:13Z",
-    "cycle": 4
+    "lastUpdate": "2026-04-07T23:33:23Z",
+    "cycle": 5
   },
   {
     "name": "JAENAL",
@@ -57,17 +57,17 @@
   },
   {
     "name": "JOKO SUWARNO",
-    "stock": 65,
+    "stock": 59,
     "lastStock": 0,
-    "lastUpdate": "2026-04-07T23:28:13Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-07T23:33:23Z",
+    "cycle": 3
   },
   {
     "name": "KARSONO",
-    "stock": 0,
+    "stock": 69,
     "lastStock": 0,
-    "lastUpdate": "2026-04-07T20:28:50Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-07T23:33:23Z",
+    "cycle": 1
   },
   {
     "name": "LUTFI A.",
@@ -150,22 +150,22 @@
     "name": "YUDA",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-07T20:34:08Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-07T23:37:04Z",
+    "cycle": 1
   },
   {
     "name": "BAMBANG HARTONO",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-07T20:34:08Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-07T23:37:09Z",
+    "cycle": 1
   },
   {
     "name": "NADIFATUS SOLEHA",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-07T20:34:08Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-07T23:37:41Z",
+    "cycle": 1
   },
   {
     "name": "SUROSO",
@@ -332,14 +332,14 @@
     "name": "TOKO TIARA",
     "stock": 12,
     "lastStock": 14,
-    "lastUpdate": "2026-04-07T23:24:52Z",
-    "cycle": 3
+    "lastUpdate": "2026-04-07T23:37:47Z",
+    "cycle": 4
   },
   {
     "name": "TOKO POJOK",
     "stock": 153,
     "lastStock": 54,
-    "lastUpdate": "2026-04-07T23:06:40Z",
+    "lastUpdate": "2026-04-07T23:38:02Z",
     "cycle": 1
   },
   {
