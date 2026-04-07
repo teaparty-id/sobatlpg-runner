@@ -29,17 +29,17 @@
   },
   {
     "name": "BINA MAKMUR",
-    "stock": 38,
+    "stock": 34,
     "lastStock": 0,
-    "lastUpdate": "2026-04-07T09:26:00Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-07T09:30:06Z",
+    "cycle": 3
   },
   {
     "name": "HENDRA KURNIAWAN",
     "stock": 26,
     "lastStock": 27,
-    "lastUpdate": "2026-04-07T09:26:00Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-07T09:30:06Z",
+    "cycle": 3
   },
   {
     "name": "SUCIYONO",
@@ -50,10 +50,10 @@
   },
   {
     "name": "JAENAL",
-    "stock": 1,
-    "lastStock": 0,
-    "lastUpdate": "2026-04-07T09:26:45Z",
-    "cycle": 2
+    "stock": 62,
+    "lastStock": 13,
+    "lastUpdate": "2026-04-07T09:30:06Z",
+    "cycle": 3
   },
   {
     "name": "JOKO SUWARNO",
@@ -64,17 +64,17 @@
   },
   {
     "name": "KARSONO",
-    "stock": 1,
+    "stock": 20,
     "lastStock": 0,
-    "lastUpdate": "2026-04-07T09:27:19Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-07T09:30:06Z",
+    "cycle": 3
   },
   {
     "name": "LUTFI A.",
-    "stock": 15,
+    "stock": 8,
     "lastStock": 0,
-    "lastUpdate": "2026-04-07T09:20:55Z",
-    "cycle": 1
+    "lastUpdate": "2026-04-07T09:31:15Z",
+    "cycle": 2
   },
   {
     "name": "MOH SAID",
@@ -92,10 +92,10 @@
   },
   {
     "name": "TOKO IIN",
-    "stock": 2,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-07T09:21:41Z",
-    "cycle": 1
+    "lastUpdate": "2026-04-07T09:33:41Z",
+    "cycle": 2
   },
   {
     "name": "HJ LILIK LAILIYAH",
@@ -143,8 +143,8 @@
     "name": "JAMILAH",
     "stock": 23,
     "lastStock": 25,
-    "lastUpdate": "2026-04-07T09:22:09Z",
-    "cycle": 1
+    "lastUpdate": "2026-04-07T09:33:42Z",
+    "cycle": 2
   },
   {
     "name": "YUDA",
@@ -204,17 +204,17 @@
   },
   {
     "name": "SUPARNI",
-    "stock": 101,
+    "stock": 98,
     "lastStock": 54,
-    "lastUpdate": "2026-04-07T09:22:32Z",
-    "cycle": 1
+    "lastUpdate": "2026-04-07T09:34:13Z",
+    "cycle": 2
   },
   {
     "name": "YOGA RAJAN",
     "stock": 69,
     "lastStock": 70,
-    "lastUpdate": "2026-04-07T08:23:46Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-07T09:34:13Z",
+    "cycle": 1
   },
   {
     "name": "ARIF FAUZI",
