@@ -29,17 +29,17 @@
   },
   {
     "name": "BINA MAKMUR",
-    "stock": 2,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-07T12:57:14Z",
-    "cycle": 4
+    "lastUpdate": "2026-04-07T13:02:50Z",
+    "cycle": 5
   },
   {
     "name": "HENDRA KURNIAWAN",
     "stock": 26,
     "lastStock": 27,
-    "lastUpdate": "2026-04-07T12:57:14Z",
-    "cycle": 4
+    "lastUpdate": "2026-04-07T13:02:50Z",
+    "cycle": 5
   },
   {
     "name": "SUCIYONO",
@@ -50,10 +50,10 @@
   },
   {
     "name": "JAENAL",
-    "stock": 49,
+    "stock": 41,
     "lastStock": 13,
-    "lastUpdate": "2026-04-07T12:57:14Z",
-    "cycle": 4
+    "lastUpdate": "2026-04-07T13:02:50Z",
+    "cycle": 5
   },
   {
     "name": "JOKO SUWARNO",
@@ -99,17 +99,17 @@
   },
   {
     "name": "HJ LILIK LAILIYAH",
-    "stock": 1,
+    "stock": 7,
     "lastStock": 0,
-    "lastUpdate": "2026-04-07T12:57:14Z",
-    "cycle": 4
+    "lastUpdate": "2026-04-07T13:02:50Z",
+    "cycle": 5
   },
   {
     "name": "ERNA PUJIATI",
-    "stock": 1,
+    "stock": 7,
     "lastStock": 0,
-    "lastUpdate": "2026-04-07T12:58:08Z",
-    "cycle": 4
+    "lastUpdate": "2026-04-07T13:04:19Z",
+    "cycle": 5
   },
   {
     "name": "JONI H",
@@ -141,10 +141,10 @@
   },
   {
     "name": "JAMILAH",
-    "stock": 1,
-    "lastStock": 0,
-    "lastUpdate": "2026-04-07T12:58:41Z",
-    "cycle": 3
+    "stock": 23,
+    "lastStock": 25,
+    "lastUpdate": "2026-04-07T13:06:21Z",
+    "cycle": 4
   },
   {
     "name": "YUDA",
@@ -204,17 +204,17 @@
   },
   {
     "name": "SUPARNI",
-    "stock": 1,
-    "lastStock": 0,
-    "lastUpdate": "2026-04-07T12:53:33Z",
-    "cycle": 2
+    "stock": 66,
+    "lastStock": 54,
+    "lastUpdate": "2026-04-07T13:06:55Z",
+    "cycle": 3
   },
   {
     "name": "YOGA RAJAN",
-    "stock": 1,
-    "lastStock": 0,
-    "lastUpdate": "2026-04-07T12:53:36Z",
-    "cycle": 2
+    "stock": 69,
+    "lastStock": 70,
+    "lastUpdate": "2026-04-07T13:07:06Z",
+    "cycle": 3
   },
   {
     "name": "ARIF FAUZI",
@@ -246,10 +246,10 @@
   },
   {
     "name": "BUDI",
-    "stock": 59,
-    "lastStock": 60,
-    "lastUpdate": "2026-04-07T12:43:54Z",
-    "cycle": 1
+    "stock": 1,
+    "lastStock": 0,
+    "lastUpdate": "2026-04-07T13:07:28Z",
+    "cycle": 2
   },
   {
     "name": "YULI SORAYA",
