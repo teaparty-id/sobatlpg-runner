@@ -283,8 +283,8 @@
     "name": "DARMAWAN P",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-07T13:11:16Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-07T16:11:53Z",
+    "cycle": 1
   },
   {
     "name": "DIYAH UTAMI",
@@ -493,8 +493,8 @@
     "name": "TITIK ISMIATIN",
     "stock": 1,
     "lastStock": 3,
-    "lastUpdate": "2026-04-07T16:08:13Z",
-    "cycle": 3
+    "lastUpdate": "2026-04-07T16:11:53Z",
+    "cycle": 4
   },
   {
     "name": "SRI UTAMI",
@@ -514,7 +514,7 @@
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-07T16:08:13Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-07T16:11:53Z",
+    "cycle": 3
   }
 ]
