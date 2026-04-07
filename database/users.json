@@ -211,10 +211,10 @@
   },
   {
     "name": "YOGA RAJAN",
-    "stock": 1,
-    "lastStock": 0,
-    "lastUpdate": "2026-04-07T22:18:56Z",
-    "cycle": 3
+    "stock": 69,
+    "lastStock": 70,
+    "lastUpdate": "2026-04-07T22:19:29Z",
+    "cycle": 4
   },
   {
     "name": "ARIF FAUZI",
@@ -246,10 +246,10 @@
   },
   {
     "name": "BUDI",
-    "stock": 1,
-    "lastStock": 0,
-    "lastUpdate": "2026-04-07T22:18:56Z",
-    "cycle": 3
+    "stock": 59,
+    "lastStock": 60,
+    "lastUpdate": "2026-04-07T22:19:29Z",
+    "cycle": 4
   },
   {
     "name": "YULI SORAYA",
@@ -281,10 +281,10 @@
   },
   {
     "name": "DARMAWAN P",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-07T22:18:56Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-07T22:19:29Z",
+    "cycle": 3
   },
   {
     "name": "DIYAH UTAMI",
@@ -302,17 +302,17 @@
   },
   {
     "name": "TOKO ANITA",
-    "stock": 1,
-    "lastStock": 0,
-    "lastUpdate": "2026-04-07T22:18:56Z",
-    "cycle": 1
+    "stock": 43,
+    "lastStock": 45,
+    "lastUpdate": "2026-04-07T22:19:29Z",
+    "cycle": 2
   },
   {
     "name": "TK. LUCKY",
-    "stock": 1,
-    "lastStock": 0,
-    "lastUpdate": "2026-04-07T22:06:52Z",
-    "cycle": 0
+    "stock": 53,
+    "lastStock": 55,
+    "lastUpdate": "2026-04-07T22:20:03Z",
+    "cycle": 1
   },
   {
     "name": "UD SAMAN HADI",
@@ -332,15 +332,15 @@
     "name": "TOKO TIARA",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-07T22:09:36Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-07T22:20:05Z",
+    "cycle": 1
   },
   {
     "name": "TOKO POJOK",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-07T22:09:36Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-07T22:20:06Z",
+    "cycle": 1
   },
   {
     "name": "UD RAHMAT",
@@ -365,10 +365,10 @@
   },
   {
     "name": "SUDJIONO",
-    "stock": 6,
-    "lastStock": 7,
-    "lastUpdate": "2026-04-07T22:10:09Z",
-    "cycle": 0
+    "stock": 1,
+    "lastStock": 0,
+    "lastUpdate": "2026-04-07T22:20:10Z",
+    "cycle": 1
   },
   {
     "name": "ANDRI HERU CAHYONO",
