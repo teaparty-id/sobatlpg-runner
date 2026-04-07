@@ -316,10 +316,10 @@
   },
   {
     "name": "UD SAMAN HADI",
-    "stock": 6,
+    "stock": 5,
     "lastStock": 0,
-    "lastUpdate": "2026-04-07T16:34:30Z",
-    "cycle": 4
+    "lastUpdate": "2026-04-07T16:38:27Z",
+    "cycle": 5
   },
   {
     "name": "SOEKAMTO",
@@ -332,15 +332,15 @@
     "name": "TOKO TIARA",
     "stock": 12,
     "lastStock": 14,
-    "lastUpdate": "2026-04-07T16:34:30Z",
-    "cycle": 3
+    "lastUpdate": "2026-04-07T16:38:27Z",
+    "cycle": 4
   },
   {
     "name": "TOKO POJOK",
-    "stock": 68,
+    "stock": 67,
     "lastStock": 54,
-    "lastUpdate": "2026-04-07T16:34:30Z",
-    "cycle": 3
+    "lastUpdate": "2026-04-07T16:38:27Z",
+    "cycle": 4
   },
   {
     "name": "UD RAHMAT",
@@ -367,8 +367,8 @@
     "name": "SUDJIONO",
     "stock": 6,
     "lastStock": 7,
-    "lastUpdate": "2026-04-07T16:34:30Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-07T16:38:27Z",
+    "cycle": 3
   },
   {
     "name": "ANDRI HERU CAHYONO",
@@ -379,17 +379,17 @@
   },
   {
     "name": "ABDUL WAFI",
-    "stock": 1,
+    "stock": 18,
     "lastStock": 0,
-    "lastUpdate": "2026-04-07T16:35:05Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-07T16:39:00Z",
+    "cycle": 3
   },
   {
     "name": "YUNIS WAHYUNI",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-07T13:35:17Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-07T16:39:01Z",
+    "cycle": 1
   },
   {
     "name": "ROSIDI",
