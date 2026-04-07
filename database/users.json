@@ -211,10 +211,10 @@
   },
   {
     "name": "YOGA RAJAN",
-    "stock": 1,
-    "lastStock": 0,
-    "lastUpdate": "2026-04-07T21:46:21Z",
-    "cycle": 2
+    "stock": 69,
+    "lastStock": 70,
+    "lastUpdate": "2026-04-07T21:46:58Z",
+    "cycle": 3
   },
   {
     "name": "ARIF FAUZI",
@@ -246,10 +246,10 @@
   },
   {
     "name": "BUDI",
-    "stock": 1,
-    "lastStock": 0,
-    "lastUpdate": "2026-04-07T21:46:21Z",
-    "cycle": 2
+    "stock": 59,
+    "lastStock": 60,
+    "lastUpdate": "2026-04-07T21:46:58Z",
+    "cycle": 3
   },
   {
     "name": "YULI SORAYA",
@@ -302,17 +302,17 @@
   },
   {
     "name": "TOKO ANITA",
-    "stock": 1,
-    "lastStock": 0,
-    "lastUpdate": "2026-04-07T21:46:21Z",
-    "cycle": 2
+    "stock": 43,
+    "lastStock": 45,
+    "lastUpdate": "2026-04-07T21:46:58Z",
+    "cycle": 3
   },
   {
     "name": "TK. LUCKY",
-    "stock": 1,
-    "lastStock": 0,
-    "lastUpdate": "2026-04-07T21:34:30Z",
-    "cycle": 0
+    "stock": 53,
+    "lastStock": 55,
+    "lastUpdate": "2026-04-07T21:46:58Z",
+    "cycle": 1
   },
   {
     "name": "UD SAMAN HADI",
@@ -330,17 +330,17 @@
   },
   {
     "name": "TOKO TIARA",
-    "stock": 1,
-    "lastStock": 0,
-    "lastUpdate": "2026-04-07T21:36:55Z",
-    "cycle": 0
+    "stock": 12,
+    "lastStock": 14,
+    "lastUpdate": "2026-04-07T21:47:31Z",
+    "cycle": 1
   },
   {
     "name": "TOKO POJOK",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-07T21:37:36Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-07T21:47:31Z",
+    "cycle": 1
   },
   {
     "name": "UD RAHMAT",
@@ -365,10 +365,10 @@
   },
   {
     "name": "SUDJIONO",
-    "stock": 6,
-    "lastStock": 7,
-    "lastUpdate": "2026-04-07T21:38:10Z",
-    "cycle": 0
+    "stock": 1,
+    "lastStock": 0,
+    "lastUpdate": "2026-04-07T21:47:32Z",
+    "cycle": 1
   },
   {
     "name": "ANDRI HERU CAHYONO",
@@ -430,8 +430,8 @@
     "name": "CAHYA HERAWATI",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-07T21:40:16Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-07T21:47:32Z",
+    "cycle": 1
   },
   {
     "name": "MISRI CICI",
