@@ -141,10 +141,10 @@
   },
   {
     "name": "JAMILAH",
-    "stock": 23,
-    "lastStock": 25,
-    "lastUpdate": "2026-04-07T08:20:34Z",
-    "cycle": 4
+    "stock": 1,
+    "lastStock": 0,
+    "lastUpdate": "2026-04-07T08:21:56Z",
+    "cycle": 5
   },
   {
     "name": "YUDA",
@@ -204,24 +204,24 @@
   },
   {
     "name": "SUPARNI",
-    "stock": 52,
-    "lastStock": 54,
-    "lastUpdate": "2026-04-07T08:20:34Z",
-    "cycle": 4
+    "stock": 1,
+    "lastStock": 0,
+    "lastUpdate": "2026-04-07T08:21:56Z",
+    "cycle": 5
   },
   {
     "name": "YOGA RAJAN",
-    "stock": 69,
-    "lastStock": 70,
-    "lastUpdate": "2026-04-07T08:21:08Z",
-    "cycle": 1
+    "stock": 1,
+    "lastStock": 0,
+    "lastUpdate": "2026-04-07T08:21:56Z",
+    "cycle": 2
   },
   {
     "name": "ARIF FAUZI",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-07T08:21:09Z",
-    "cycle": 1
+    "lastUpdate": "2026-04-07T08:21:56Z",
+    "cycle": 2
   },
   {
     "name": "MOH HAFIF",
