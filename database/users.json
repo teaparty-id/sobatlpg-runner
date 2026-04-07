@@ -43,38 +43,38 @@
   },
   {
     "name": "SUCIYONO",
-    "stock": 20,
+    "stock": 17,
     "lastStock": 0,
-    "lastUpdate": "2026-04-07T05:52:35Z",
-    "cycle": 4
+    "lastUpdate": "2026-04-07T06:02:40Z",
+    "cycle": 5
   },
   {
     "name": "JAENAL",
-    "stock": 86,
+    "stock": 80,
     "lastStock": 13,
-    "lastUpdate": "2026-04-07T05:53:58Z",
-    "cycle": 4
+    "lastUpdate": "2026-04-07T06:02:40Z",
+    "cycle": 5
   },
   {
     "name": "JOKO SUWARNO",
-    "stock": 33,
+    "stock": 24,
     "lastStock": 0,
-    "lastUpdate": "2026-04-07T05:56:51Z",
-    "cycle": 4
+    "lastUpdate": "2026-04-07T06:02:40Z",
+    "cycle": 5
   },
   {
     "name": "KARSONO",
     "stock": 35,
     "lastStock": 0,
-    "lastUpdate": "2026-04-07T05:57:03Z",
-    "cycle": 4
+    "lastUpdate": "2026-04-07T06:02:40Z",
+    "cycle": 5
   },
   {
     "name": "LUTFI A.",
-    "stock": 34,
+    "stock": 32,
     "lastStock": 0,
-    "lastUpdate": "2026-04-07T05:57:40Z",
-    "cycle": 4
+    "lastUpdate": "2026-04-07T06:06:17Z",
+    "cycle": 5
   },
   {
     "name": "MOH SAID",
@@ -85,17 +85,17 @@
   },
   {
     "name": "TOKO 2 PUTRI",
-    "stock": 2,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-07T05:58:08Z",
-    "cycle": 1
+    "lastUpdate": "2026-04-07T06:06:58Z",
+    "cycle": 2
   },
   {
     "name": "TOKO IIN",
-    "stock": 54,
+    "stock": 52,
     "lastStock": 0,
-    "lastUpdate": "2026-04-07T04:26:09Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-07T06:07:07Z",
+    "cycle": 1
   },
   {
     "name": "HJ LILIK LAILIYAH",
@@ -115,8 +115,8 @@
     "name": "JONI H",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-07T02:53:35Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-07T06:07:54Z",
+    "cycle": 1
   },
   {
     "name": "ROSA V",
@@ -136,8 +136,8 @@
     "name": "BISTON MANURUNG",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-07T03:03:10Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-07T06:08:08Z",
+    "cycle": 1
   },
   {
     "name": "JAMILAH",
