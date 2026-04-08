@@ -127,10 +127,10 @@
   },
   {
     "name": "LUKMAN BS",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-08T16:38:03Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-08T19:38:55Z",
+    "cycle": 1
   },
   {
     "name": "BISTON MANURUNG",
@@ -190,10 +190,10 @@
   },
   {
     "name": "ONG SWI GIOK",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-08T16:38:03Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-08T19:38:55Z",
+    "cycle": 1
   },
   {
     "name": "YUSUF ISMAIL",
@@ -500,8 +500,8 @@
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-08T19:38:00Z",
-    "cycle": 3
+    "lastUpdate": "2026-04-08T19:38:55Z",
+    "cycle": 4
   },
   {
     "name": "SUMBER REJEKI",
