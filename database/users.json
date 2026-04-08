@@ -246,10 +246,10 @@
   },
   {
     "name": "BUDI",
-    "stock": 73,
+    "stock": 72,
     "lastStock": 60,
-    "lastUpdate": "2026-04-08T07:06:24Z",
-    "cycle": 4
+    "lastUpdate": "2026-04-08T07:17:39Z",
+    "cycle": 5
   },
   {
     "name": "YULI SORAYA",
@@ -267,10 +267,10 @@
   },
   {
     "name": "HJ. HAERONI",
-    "stock": 12,
+    "stock": 10,
     "lastStock": 0,
-    "lastUpdate": "2026-04-08T07:06:24Z",
-    "cycle": 3
+    "lastUpdate": "2026-04-08T07:17:39Z",
+    "cycle": 4
   },
   {
     "name": "IMA",
@@ -302,17 +302,17 @@
   },
   {
     "name": "TOKO ANITA",
-    "stock": 22,
+    "stock": 18,
     "lastStock": 45,
-    "lastUpdate": "2026-04-08T07:06:24Z",
-    "cycle": 4
+    "lastUpdate": "2026-04-08T07:17:39Z",
+    "cycle": 5
   },
   {
     "name": "TK. LUCKY",
-    "stock": 55,
+    "stock": 48,
     "lastStock": 55,
-    "lastUpdate": "2026-04-08T07:06:24Z",
-    "cycle": 4
+    "lastUpdate": "2026-04-08T07:17:39Z",
+    "cycle": 5
   },
   {
     "name": "UD SAMAN HADI",
@@ -332,22 +332,22 @@
     "name": "TOKO TIARA",
     "stock": 0,
     "lastStock": 14,
-    "lastUpdate": "2026-04-08T04:11:00Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-08T07:20:53Z",
+    "cycle": 1
   },
   {
     "name": "TOKO POJOK",
-    "stock": 1,
-    "lastStock": 0,
-    "lastUpdate": "2026-04-08T07:09:36Z",
-    "cycle": 2
+    "stock": 131,
+    "lastStock": 54,
+    "lastUpdate": "2026-04-08T07:21:12Z",
+    "cycle": 3
   },
   {
     "name": "UD RAHMAT",
-    "stock": 1,
+    "stock": 27,
     "lastStock": 0,
-    "lastUpdate": "2026-04-08T07:10:01Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-08T07:21:15Z",
+    "cycle": 3
   },
   {
     "name": "ULFA MARIA",
@@ -360,15 +360,15 @@
     "name": "TOKO SURYATI",
     "stock": 0,
     "lastStock": 1,
-    "lastUpdate": "2026-04-08T04:13:49Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-08T07:21:31Z",
+    "cycle": 1
   },
   {
     "name": "SUDJIONO",
-    "stock": 1,
-    "lastStock": 0,
-    "lastUpdate": "2026-04-08T07:10:06Z",
-    "cycle": 2
+    "stock": 15,
+    "lastStock": 7,
+    "lastUpdate": "2026-04-08T07:22:13Z",
+    "cycle": 3
   },
   {
     "name": "ANDRI HERU CAHYONO",
