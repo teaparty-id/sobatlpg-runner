@@ -85,10 +85,10 @@
   },
   {
     "name": "TOKO 2 PUTRI",
-    "stock": 8,
+    "stock": 7,
     "lastStock": 0,
-    "lastUpdate": "2026-04-08T06:27:32Z",
-    "cycle": 4
+    "lastUpdate": "2026-04-08T06:35:40Z",
+    "cycle": 5
   },
   {
     "name": "TOKO IIN",
@@ -113,10 +113,10 @@
   },
   {
     "name": "JONI H",
-    "stock": 10,
+    "stock": 8,
     "lastStock": 0,
-    "lastUpdate": "2026-04-08T06:27:32Z",
-    "cycle": 4
+    "lastUpdate": "2026-04-08T06:35:40Z",
+    "cycle": 5
   },
   {
     "name": "ROSA V",
@@ -141,10 +141,10 @@
   },
   {
     "name": "JAMILAH",
-    "stock": 22,
+    "stock": 19,
     "lastStock": 25,
-    "lastUpdate": "2026-04-08T06:30:15Z",
-    "cycle": 3
+    "lastUpdate": "2026-04-08T06:35:40Z",
+    "cycle": 4
   },
   {
     "name": "YUDA",
@@ -185,8 +185,8 @@
     "name": "SRI HIDAYATI",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-08T03:35:13Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-08T06:35:40Z",
+    "cycle": 1
   },
   {
     "name": "ONG SWI GIOK",
@@ -204,38 +204,38 @@
   },
   {
     "name": "SUPARNI",
-    "stock": 29,
+    "stock": 22,
     "lastStock": 54,
-    "lastUpdate": "2026-04-08T06:30:44Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-08T06:36:23Z",
+    "cycle": 3
   },
   {
     "name": "YOGA RAJAN",
     "stock": 101,
     "lastStock": 70,
-    "lastUpdate": "2026-04-08T06:31:32Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-08T06:38:53Z",
+    "cycle": 3
   },
   {
     "name": "ARIF FAUZI",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-08T03:18:20Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-08T06:38:57Z",
+    "cycle": 1
   },
   {
     "name": "MOH HAFIF",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-08T03:37:08Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-08T06:39:18Z",
+    "cycle": 1
   },
   {
     "name": "SAMSUL ARIFIN",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-08T03:39:23Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-08T06:39:36Z",
+    "cycle": 1
   },
   {
     "name": "HERDIANA DIYAH S",
