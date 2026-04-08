@@ -24,8 +24,8 @@
     "name": "EDI SUGENG SARIPAN",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-08T15:12:50Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-08T18:13:42Z",
+    "cycle": 1
   },
   {
     "name": "BINA MAKMUR",
@@ -430,8 +430,8 @@
     "name": "CAHYA HERAWATI",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-08T18:09:00Z",
-    "cycle": 3
+    "lastUpdate": "2026-04-08T18:13:42Z",
+    "cycle": 4
   },
   {
     "name": "MISRI CICI",
@@ -442,10 +442,10 @@
   },
   {
     "name": "ALFIAN DWI A.",
-    "stock": 25,
+    "stock": 24,
     "lastStock": 63,
-    "lastUpdate": "2026-04-08T18:09:38Z",
-    "cycle": 3
+    "lastUpdate": "2026-04-08T18:13:42Z",
+    "cycle": 4
   },
   {
     "name": "TOKO IRAWAN",
@@ -500,8 +500,8 @@
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-08T18:09:38Z",
-    "cycle": 3
+    "lastUpdate": "2026-04-08T18:13:42Z",
+    "cycle": 4
   },
   {
     "name": "SUMBER REJEKI",
