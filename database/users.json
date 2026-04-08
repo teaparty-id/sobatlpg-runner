@@ -50,10 +50,10 @@
   },
   {
     "name": "JAENAL",
-    "stock": 56,
+    "stock": 49,
     "lastStock": 13,
-    "lastUpdate": "2026-04-08T12:40:38Z",
-    "cycle": 3
+    "lastUpdate": "2026-04-08T12:44:00Z",
+    "cycle": 4
   },
   {
     "name": "JOKO SUWARNO",
@@ -64,10 +64,10 @@
   },
   {
     "name": "KARSONO",
-    "stock": 9,
+    "stock": 7,
     "lastStock": 0,
-    "lastUpdate": "2026-04-08T12:40:38Z",
-    "cycle": 3
+    "lastUpdate": "2026-04-08T12:44:00Z",
+    "cycle": 4
   },
   {
     "name": "LUTFI A.",
@@ -211,10 +211,10 @@
   },
   {
     "name": "YOGA RAJAN",
-    "stock": 1,
-    "lastStock": 0,
-    "lastUpdate": "2026-04-08T12:41:15Z",
-    "cycle": 2
+    "stock": 82,
+    "lastStock": 70,
+    "lastUpdate": "2026-04-08T12:44:00Z",
+    "cycle": 3
   },
   {
     "name": "ARIF FAUZI",
@@ -248,8 +248,8 @@
     "name": "BUDI",
     "stock": 51,
     "lastStock": 60,
-    "lastUpdate": "2026-04-08T12:32:35Z",
-    "cycle": 1
+    "lastUpdate": "2026-04-08T12:44:00Z",
+    "cycle": 2
   },
   {
     "name": "YULI SORAYA",
@@ -309,10 +309,10 @@
   },
   {
     "name": "TK. LUCKY",
-    "stock": 25,
+    "stock": 22,
     "lastStock": 55,
-    "lastUpdate": "2026-04-08T12:33:29Z",
-    "cycle": 1
+    "lastUpdate": "2026-04-08T12:46:41Z",
+    "cycle": 2
   },
   {
     "name": "UD SAMAN HADI",
@@ -337,10 +337,10 @@
   },
   {
     "name": "TOKO POJOK",
-    "stock": 83,
+    "stock": 80,
     "lastStock": 54,
-    "lastUpdate": "2026-04-08T11:48:39Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-08T12:47:49Z",
+    "cycle": 1
   },
   {
     "name": "UD RAHMAT",
@@ -379,10 +379,10 @@
   },
   {
     "name": "ABDUL WAFI",
-    "stock": 62,
+    "stock": 61,
     "lastStock": 0,
-    "lastUpdate": "2026-04-08T12:02:16Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-08T12:48:02Z",
+    "cycle": 1
   },
   {
     "name": "YUNIS WAHYUNI",
@@ -407,10 +407,10 @@
   },
   {
     "name": "TK. MAJU",
-    "stock": 16,
+    "stock": 12,
     "lastStock": 0,
-    "lastUpdate": "2026-04-08T12:02:16Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-08T12:48:55Z",
+    "cycle": 1
   },
   {
     "name": "H. JUMAT",
@@ -430,8 +430,8 @@
     "name": "CAHYA HERAWATI",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-08T12:06:00Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-08T12:49:37Z",
+    "cycle": 1
   },
   {
     "name": "MISRI CICI",
