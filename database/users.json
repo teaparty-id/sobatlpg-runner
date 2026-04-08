@@ -169,10 +169,10 @@
   },
   {
     "name": "SUROSO",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-08T18:37:17Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-08T21:37:44Z",
+    "cycle": 1
   },
   {
     "name": "HADI SUTOYO",
@@ -197,10 +197,10 @@
   },
   {
     "name": "YUSUF ISMAIL",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-08T18:37:17Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-08T21:37:44Z",
+    "cycle": 1
   },
   {
     "name": "SUPARNI",
@@ -267,10 +267,10 @@
   },
   {
     "name": "HJ. HAERONI",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-08T18:37:17Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-08T21:37:44Z",
+    "cycle": 1
   },
   {
     "name": "IMA",
@@ -430,8 +430,8 @@
     "name": "CAHYA HERAWATI",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-08T21:37:12Z",
-    "cycle": 1
+    "lastUpdate": "2026-04-08T21:37:44Z",
+    "cycle": 2
   },
   {
     "name": "MISRI CICI",
