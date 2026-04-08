@@ -1,10 +1,10 @@
 [
   {
     "name": "AKBAR RISQ",
-    "stock": 30,
+    "stock": 29,
     "lastStock": 0,
-    "lastUpdate": "2026-04-08T08:35:56Z",
-    "cycle": 3
+    "lastUpdate": "2026-04-08T08:45:32Z",
+    "cycle": 4
   },
   {
     "name": "ATHI HANDAYANI",
@@ -17,8 +17,8 @@
     "name": "CINDRAWATI",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-08T05:39:08Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-08T08:45:32Z",
+    "cycle": 1
   },
   {
     "name": "EDI SUGENG SARIPAN",
@@ -29,17 +29,17 @@
   },
   {
     "name": "BINA MAKMUR",
-    "stock": 20,
+    "stock": 16,
     "lastStock": 0,
-    "lastUpdate": "2026-04-08T08:35:56Z",
-    "cycle": 3
+    "lastUpdate": "2026-04-08T08:45:32Z",
+    "cycle": 4
   },
   {
     "name": "HENDRA KURNIAWAN",
-    "stock": 40,
+    "stock": 33,
     "lastStock": 27,
-    "lastUpdate": "2026-04-08T08:35:56Z",
-    "cycle": 3
+    "lastUpdate": "2026-04-08T08:45:32Z",
+    "cycle": 4
   },
   {
     "name": "SUCIYONO",
@@ -52,29 +52,29 @@
     "name": "JAENAL",
     "stock": 74,
     "lastStock": 13,
-    "lastUpdate": "2026-04-08T08:38:57Z",
-    "cycle": 3
+    "lastUpdate": "2026-04-08T08:46:23Z",
+    "cycle": 4
   },
   {
     "name": "JOKO SUWARNO",
-    "stock": 2,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-08T08:39:39Z",
-    "cycle": 3
+    "lastUpdate": "2026-04-08T08:51:13Z",
+    "cycle": 4
   },
   {
     "name": "KARSONO",
-    "stock": 34,
+    "stock": 32,
     "lastStock": 0,
-    "lastUpdate": "2026-04-08T08:40:20Z",
-    "cycle": 3
+    "lastUpdate": "2026-04-08T08:52:19Z",
+    "cycle": 4
   },
   {
     "name": "LUTFI A.",
-    "stock": 9,
+    "stock": 5,
     "lastStock": 0,
-    "lastUpdate": "2026-04-08T08:41:33Z",
-    "cycle": 3
+    "lastUpdate": "2026-04-08T08:52:41Z",
+    "cycle": 4
   },
   {
     "name": "MOH SAID",
@@ -113,10 +113,10 @@
   },
   {
     "name": "JONI H",
-    "stock": 8,
+    "stock": 3,
     "lastStock": 0,
-    "lastUpdate": "2026-04-08T08:42:12Z",
-    "cycle": 1
+    "lastUpdate": "2026-04-08T08:53:40Z",
+    "cycle": 2
   },
   {
     "name": "ROSA V",
