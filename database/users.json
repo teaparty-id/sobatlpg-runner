@@ -141,10 +141,10 @@
   },
   {
     "name": "JAMILAH",
-    "stock": 9,
-    "lastStock": 25,
-    "lastUpdate": "2026-04-08T09:14:27Z",
-    "cycle": 3
+    "stock": 1,
+    "lastStock": 0,
+    "lastUpdate": "2026-04-08T09:20:42Z",
+    "cycle": 4
   },
   {
     "name": "YUDA",
@@ -162,10 +162,10 @@
   },
   {
     "name": "NADIFATUS SOLEHA",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-08T06:17:33Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-08T09:20:42Z",
+    "cycle": 1
   },
   {
     "name": "SUROSO",
@@ -204,17 +204,17 @@
   },
   {
     "name": "SUPARNI",
-    "stock": 7,
-    "lastStock": 54,
-    "lastUpdate": "2026-04-08T09:15:08Z",
-    "cycle": 2
+    "stock": 1,
+    "lastStock": 0,
+    "lastUpdate": "2026-04-08T09:20:42Z",
+    "cycle": 3
   },
   {
     "name": "YOGA RAJAN",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-08T09:15:10Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-08T09:20:42Z",
+    "cycle": 3
   },
   {
     "name": "ARIF FAUZI",
