@@ -339,8 +339,8 @@
     "name": "TOKO POJOK",
     "stock": 30,
     "lastStock": 54,
-    "lastUpdate": "2026-04-08T17:26:35Z",
-    "cycle": 4
+    "lastUpdate": "2026-04-08T17:31:27Z",
+    "cycle": 5
   },
   {
     "name": "UD RAHMAT",
@@ -381,8 +381,8 @@
     "name": "ABDUL WAFI",
     "stock": 25,
     "lastStock": 0,
-    "lastUpdate": "2026-04-08T17:26:35Z",
-    "cycle": 3
+    "lastUpdate": "2026-04-08T17:31:27Z",
+    "cycle": 4
   },
   {
     "name": "YUNIS WAHYUNI",
@@ -430,8 +430,8 @@
     "name": "CAHYA HERAWATI",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-08T17:26:35Z",
-    "cycle": 3
+    "lastUpdate": "2026-04-08T17:31:27Z",
+    "cycle": 4
   },
   {
     "name": "MISRI CICI",
@@ -442,10 +442,10 @@
   },
   {
     "name": "ALFIAN DWI A.",
-    "stock": 35,
+    "stock": 34,
     "lastStock": 63,
-    "lastUpdate": "2026-04-08T17:27:14Z",
-    "cycle": 3
+    "lastUpdate": "2026-04-08T17:31:27Z",
+    "cycle": 4
   },
   {
     "name": "TOKO IRAWAN",
@@ -500,8 +500,8 @@
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-08T17:27:20Z",
-    "cycle": 3
+    "lastUpdate": "2026-04-08T17:32:08Z",
+    "cycle": 4
   },
   {
     "name": "SUMBER REJEKI",
