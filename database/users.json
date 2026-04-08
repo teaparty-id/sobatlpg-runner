@@ -50,10 +50,10 @@
   },
   {
     "name": "JAENAL",
-    "stock": 32,
+    "stock": 30,
     "lastStock": 13,
-    "lastUpdate": "2026-04-08T16:23:36Z",
-    "cycle": 3
+    "lastUpdate": "2026-04-08T16:31:54Z",
+    "cycle": 4
   },
   {
     "name": "JOKO SUWARNO",
@@ -211,10 +211,10 @@
   },
   {
     "name": "YOGA RAJAN",
-    "stock": 31,
+    "stock": 26,
     "lastStock": 70,
-    "lastUpdate": "2026-04-08T16:23:36Z",
-    "cycle": 3
+    "lastUpdate": "2026-04-08T16:31:54Z",
+    "cycle": 4
   },
   {
     "name": "ARIF FAUZI",
@@ -246,10 +246,10 @@
   },
   {
     "name": "BUDI",
-    "stock": 18,
+    "stock": 16,
     "lastStock": 60,
-    "lastUpdate": "2026-04-08T16:23:36Z",
-    "cycle": 3
+    "lastUpdate": "2026-04-08T16:31:54Z",
+    "cycle": 4
   },
   {
     "name": "YULI SORAYA",
@@ -332,15 +332,15 @@
     "name": "TOKO TIARA",
     "stock": 0,
     "lastStock": 14,
-    "lastUpdate": "2026-04-08T13:26:42Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-08T16:31:54Z",
+    "cycle": 1
   },
   {
     "name": "TOKO POJOK",
-    "stock": 36,
+    "stock": 35,
     "lastStock": 54,
-    "lastUpdate": "2026-04-08T16:23:36Z",
-    "cycle": 3
+    "lastUpdate": "2026-04-08T16:32:32Z",
+    "cycle": 4
   },
   {
     "name": "UD RAHMAT",
@@ -360,8 +360,8 @@
     "name": "TOKO SURYATI",
     "stock": 0,
     "lastStock": 1,
-    "lastUpdate": "2026-04-08T13:26:42Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-08T16:34:36Z",
+    "cycle": 1
   },
   {
     "name": "SUDJIONO",
@@ -381,8 +381,8 @@
     "name": "ABDUL WAFI",
     "stock": 41,
     "lastStock": 0,
-    "lastUpdate": "2026-04-08T16:26:16Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-08T16:34:53Z",
+    "cycle": 3
   },
   {
     "name": "YUNIS WAHYUNI",
@@ -395,15 +395,15 @@
     "name": "ROSIDI",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-08T13:31:32Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-08T16:34:55Z",
+    "cycle": 1
   },
   {
     "name": "HJ. ASLAMIYAH",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-08T13:31:32Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-08T16:35:16Z",
+    "cycle": 1
   },
   {
     "name": "TK. MAJU",
