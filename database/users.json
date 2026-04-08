@@ -1,10 +1,10 @@
 [
   {
     "name": "AKBAR RISQ",
-    "stock": 55,
+    "stock": 46,
     "lastStock": 0,
-    "lastUpdate": "2026-04-08T05:24:38Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-08T05:39:08Z",
+    "cycle": 3
   },
   {
     "name": "ATHI HANDAYANI",
@@ -15,10 +15,10 @@
   },
   {
     "name": "CINDRAWATI",
-    "stock": 3,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-08T05:24:38Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-08T05:39:08Z",
+    "cycle": 3
   },
   {
     "name": "EDI SUGENG SARIPAN",
@@ -29,52 +29,52 @@
   },
   {
     "name": "BINA MAKMUR",
-    "stock": 40,
+    "stock": 37,
     "lastStock": 0,
-    "lastUpdate": "2026-04-08T05:24:38Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-08T05:39:08Z",
+    "cycle": 3
   },
   {
     "name": "HENDRA KURNIAWAN",
-    "stock": 76,
+    "stock": 70,
     "lastStock": 27,
-    "lastUpdate": "2026-04-08T05:24:38Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-08T05:39:08Z",
+    "cycle": 3
   },
   {
     "name": "SUCIYONO",
-    "stock": 27,
+    "stock": 25,
     "lastStock": 0,
-    "lastUpdate": "2026-04-08T05:29:00Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-08T05:40:44Z",
+    "cycle": 3
   },
   {
     "name": "JAENAL",
-    "stock": 90,
+    "stock": 84,
     "lastStock": 13,
-    "lastUpdate": "2026-04-08T05:30:13Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-08T05:43:34Z",
+    "cycle": 3
   },
   {
     "name": "JOKO SUWARNO",
     "stock": 20,
     "lastStock": 0,
-    "lastUpdate": "2026-04-08T05:30:34Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-08T05:43:44Z",
+    "cycle": 3
   },
   {
     "name": "KARSONO",
     "stock": 45,
     "lastStock": 0,
-    "lastUpdate": "2026-04-08T05:30:41Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-08T05:44:42Z",
+    "cycle": 3
   },
   {
     "name": "LUTFI A.",
-    "stock": 31,
+    "stock": 24,
     "lastStock": 0,
-    "lastUpdate": "2026-04-08T05:34:13Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-08T05:45:11Z",
+    "cycle": 3
   },
   {
     "name": "MOH SAID",
