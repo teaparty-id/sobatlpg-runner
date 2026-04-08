@@ -276,8 +276,8 @@
     "name": "IMA",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-08T06:52:43Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-08T10:00:27Z",
+    "cycle": 1
   },
   {
     "name": "DARMAWAN P",
@@ -297,8 +297,8 @@
     "name": "SALMAH",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-08T06:52:49Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-08T10:00:27Z",
+    "cycle": 1
   },
   {
     "name": "TOKO ANITA",
@@ -318,8 +318,8 @@
     "name": "UD SAMAN HADI",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-08T06:53:20Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-08T10:00:27Z",
+    "cycle": 1
   },
   {
     "name": "SOEKAMTO",
@@ -365,10 +365,10 @@
   },
   {
     "name": "SUDJIONO",
-    "stock": 13,
+    "stock": 12,
     "lastStock": 7,
-    "lastUpdate": "2026-04-08T09:49:20Z",
-    "cycle": 4
+    "lastUpdate": "2026-04-08T10:00:27Z",
+    "cycle": 5
   },
   {
     "name": "ANDRI HERU CAHYONO",
@@ -379,10 +379,10 @@
   },
   {
     "name": "ABDUL WAFI",
-    "stock": 69,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-08T09:49:20Z",
-    "cycle": 4
+    "lastUpdate": "2026-04-08T10:01:07Z",
+    "cycle": 5
   },
   {
     "name": "YUNIS WAHYUNI",
@@ -407,10 +407,10 @@
   },
   {
     "name": "TK. MAJU",
-    "stock": 41,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-08T09:50:00Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-08T10:01:07Z",
+    "cycle": 3
   },
   {
     "name": "H. JUMAT",
@@ -430,8 +430,8 @@
     "name": "CAHYA HERAWATI",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-08T09:52:08Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-08T10:01:07Z",
+    "cycle": 3
   },
   {
     "name": "MISRI CICI",
@@ -501,6 +501,20 @@
     "stock": 1,
     "lastStock": 0,
     "lastUpdate": "2026-04-08T08:13:08Z",
+    "cycle": 0
+  },
+  {
+    "name": "SUMBER REJEKI",
+    "stock": 100,
+    "lastStock": 0,
+    "lastUpdate": "2026-04-08T10:00:26Z",
+    "cycle": 0
+  },
+  {
+    "name": "ISTIQOMAH",
+    "stock": 100,
+    "lastStock": 0,
+    "lastUpdate": "2026-04-08T10:00:26Z",
     "cycle": 0
   }
 ]
