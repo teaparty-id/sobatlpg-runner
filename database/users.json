@@ -50,10 +50,10 @@
   },
   {
     "name": "JAENAL",
-    "stock": 33,
+    "stock": 32,
     "lastStock": 13,
-    "lastUpdate": "2026-04-08T16:17:18Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-08T16:23:36Z",
+    "cycle": 3
   },
   {
     "name": "JOKO SUWARNO",
@@ -213,8 +213,8 @@
     "name": "YOGA RAJAN",
     "stock": 31,
     "lastStock": 70,
-    "lastUpdate": "2026-04-08T16:17:18Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-08T16:23:36Z",
+    "cycle": 3
   },
   {
     "name": "ARIF FAUZI",
@@ -246,10 +246,10 @@
   },
   {
     "name": "BUDI",
-    "stock": 20,
+    "stock": 18,
     "lastStock": 60,
-    "lastUpdate": "2026-04-08T16:17:18Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-08T16:23:36Z",
+    "cycle": 3
   },
   {
     "name": "YULI SORAYA",
@@ -337,10 +337,10 @@
   },
   {
     "name": "TOKO POJOK",
-    "stock": 39,
+    "stock": 36,
     "lastStock": 54,
-    "lastUpdate": "2026-04-08T16:17:18Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-08T16:23:36Z",
+    "cycle": 3
   },
   {
     "name": "UD RAHMAT",
@@ -379,10 +379,10 @@
   },
   {
     "name": "ABDUL WAFI",
-    "stock": 43,
+    "stock": 41,
     "lastStock": 0,
-    "lastUpdate": "2026-04-08T16:20:05Z",
-    "cycle": 1
+    "lastUpdate": "2026-04-08T16:26:16Z",
+    "cycle": 2
   },
   {
     "name": "YUNIS WAHYUNI",
@@ -409,8 +409,8 @@
     "name": "TK. MAJU",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-08T13:23:15Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-08T16:26:30Z",
+    "cycle": 1
   },
   {
     "name": "H. JUMAT",
@@ -430,8 +430,8 @@
     "name": "CAHYA HERAWATI",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-08T16:20:05Z",
-    "cycle": 1
+    "lastUpdate": "2026-04-08T16:26:34Z",
+    "cycle": 2
   },
   {
     "name": "MISRI CICI",
@@ -442,10 +442,10 @@
   },
   {
     "name": "ALFIAN DWI A.",
-    "stock": 50,
+    "stock": 46,
     "lastStock": 63,
-    "lastUpdate": "2026-04-08T16:20:11Z",
-    "cycle": 1
+    "lastUpdate": "2026-04-08T16:27:09Z",
+    "cycle": 2
   },
   {
     "name": "TOKO IRAWAN",
@@ -500,8 +500,8 @@
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-08T16:20:40Z",
-    "cycle": 1
+    "lastUpdate": "2026-04-08T16:27:13Z",
+    "cycle": 2
   },
   {
     "name": "SUMBER REJEKI",
