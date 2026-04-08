@@ -246,10 +246,10 @@
   },
   {
     "name": "BUDI",
-    "stock": 76,
+    "stock": 73,
     "lastStock": 60,
-    "lastUpdate": "2026-04-08T06:57:32Z",
-    "cycle": 3
+    "lastUpdate": "2026-04-08T07:06:24Z",
+    "cycle": 4
   },
   {
     "name": "YULI SORAYA",
@@ -267,10 +267,10 @@
   },
   {
     "name": "HJ. HAERONI",
-    "stock": 14,
+    "stock": 12,
     "lastStock": 0,
-    "lastUpdate": "2026-04-08T06:57:32Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-08T07:06:24Z",
+    "cycle": 3
   },
   {
     "name": "IMA",
@@ -302,17 +302,17 @@
   },
   {
     "name": "TOKO ANITA",
-    "stock": 26,
+    "stock": 22,
     "lastStock": 45,
-    "lastUpdate": "2026-04-08T06:57:32Z",
-    "cycle": 3
+    "lastUpdate": "2026-04-08T07:06:24Z",
+    "cycle": 4
   },
   {
     "name": "TK. LUCKY",
-    "stock": 58,
+    "stock": 55,
     "lastStock": 55,
-    "lastUpdate": "2026-04-08T06:57:32Z",
-    "cycle": 3
+    "lastUpdate": "2026-04-08T07:06:24Z",
+    "cycle": 4
   },
   {
     "name": "UD SAMAN HADI",
@@ -337,17 +337,17 @@
   },
   {
     "name": "TOKO POJOK",
-    "stock": 134,
-    "lastStock": 54,
-    "lastUpdate": "2026-04-08T07:01:31Z",
-    "cycle": 1
+    "stock": 1,
+    "lastStock": 0,
+    "lastUpdate": "2026-04-08T07:09:36Z",
+    "cycle": 2
   },
   {
     "name": "UD RAHMAT",
-    "stock": 30,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-08T07:01:47Z",
-    "cycle": 1
+    "lastUpdate": "2026-04-08T07:10:01Z",
+    "cycle": 2
   },
   {
     "name": "ULFA MARIA",
@@ -365,10 +365,10 @@
   },
   {
     "name": "SUDJIONO",
-    "stock": 16,
-    "lastStock": 7,
-    "lastUpdate": "2026-04-08T07:02:27Z",
-    "cycle": 1
+    "stock": 1,
+    "lastStock": 0,
+    "lastUpdate": "2026-04-08T07:10:06Z",
+    "cycle": 2
   },
   {
     "name": "ANDRI HERU CAHYONO",
@@ -381,8 +381,8 @@
     "name": "ABDUL WAFI",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-08T04:27:51Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-08T07:10:09Z",
+    "cycle": 1
   },
   {
     "name": "YUNIS WAHYUNI",
