@@ -204,17 +204,17 @@
   },
   {
     "name": "SUPARNI",
-    "stock": 20,
+    "stock": 17,
     "lastStock": 54,
-    "lastUpdate": "2026-04-08T06:41:50Z",
-    "cycle": 4
+    "lastUpdate": "2026-04-08T06:49:14Z",
+    "cycle": 5
   },
   {
     "name": "YOGA RAJAN",
-    "stock": 100,
+    "stock": 98,
     "lastStock": 70,
-    "lastUpdate": "2026-04-08T06:41:50Z",
-    "cycle": 4
+    "lastUpdate": "2026-04-08T06:49:14Z",
+    "cycle": 5
   },
   {
     "name": "ARIF FAUZI",
@@ -246,10 +246,10 @@
   },
   {
     "name": "BUDI",
-    "stock": 88,
+    "stock": 84,
     "lastStock": 60,
-    "lastUpdate": "2026-04-08T06:42:27Z",
-    "cycle": 1
+    "lastUpdate": "2026-04-08T06:49:14Z",
+    "cycle": 2
   },
   {
     "name": "YULI SORAYA",
@@ -267,17 +267,17 @@
   },
   {
     "name": "HJ. HAERONI",
-    "stock": 0,
+    "stock": 15,
     "lastStock": 0,
-    "lastUpdate": "2026-04-08T03:47:21Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-08T06:49:14Z",
+    "cycle": 1
   },
   {
     "name": "IMA",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-08T03:47:21Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-08T06:52:43Z",
+    "cycle": 1
   },
   {
     "name": "DARMAWAN P",
@@ -297,29 +297,29 @@
     "name": "SALMAH",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-08T03:47:21Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-08T06:52:49Z",
+    "cycle": 1
   },
   {
     "name": "TOKO ANITA",
-    "stock": 34,
+    "stock": 31,
     "lastStock": 45,
-    "lastUpdate": "2026-04-08T06:45:11Z",
-    "cycle": 1
+    "lastUpdate": "2026-04-08T06:52:51Z",
+    "cycle": 2
   },
   {
     "name": "TK. LUCKY",
-    "stock": 68,
+    "stock": 62,
     "lastStock": 55,
-    "lastUpdate": "2026-04-08T06:45:29Z",
-    "cycle": 1
+    "lastUpdate": "2026-04-08T06:53:01Z",
+    "cycle": 2
   },
   {
     "name": "UD SAMAN HADI",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-08T03:51:58Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-08T06:53:20Z",
+    "cycle": 1
   },
   {
     "name": "SOEKAMTO",
