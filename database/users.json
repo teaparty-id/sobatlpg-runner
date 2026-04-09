@@ -50,31 +50,31 @@
   },
   {
     "name": "JAENAL",
-    "stock": 66,
+    "stock": 65,
     "lastStock": 13,
-    "lastUpdate": "2026-04-09T06:21:41Z",
-    "cycle": 4
+    "lastUpdate": "2026-04-09T06:29:53Z",
+    "cycle": 5
   },
   {
     "name": "JOKO SUWARNO",
     "stock": 19,
     "lastStock": 0,
-    "lastUpdate": "2026-04-09T06:24:07Z",
-    "cycle": 4
+    "lastUpdate": "2026-04-09T06:29:53Z",
+    "cycle": 5
   },
   {
     "name": "KARSONO",
-    "stock": 40,
+    "stock": 39,
     "lastStock": 0,
-    "lastUpdate": "2026-04-09T06:24:34Z",
-    "cycle": 4
+    "lastUpdate": "2026-04-09T06:29:53Z",
+    "cycle": 5
   },
   {
     "name": "LUTFI A.",
-    "stock": 25,
+    "stock": 23,
     "lastStock": 0,
-    "lastUpdate": "2026-04-09T06:24:49Z",
-    "cycle": 3
+    "lastUpdate": "2026-04-09T06:29:53Z",
+    "cycle": 4
   },
   {
     "name": "MOH SAID",
@@ -92,10 +92,10 @@
   },
   {
     "name": "TOKO IIN",
-    "stock": 33,
+    "stock": 32,
     "lastStock": 0,
-    "lastUpdate": "2026-04-09T06:24:53Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-09T06:32:51Z",
+    "cycle": 3
   },
   {
     "name": "HJ LILIK LAILIYAH",
@@ -213,8 +213,8 @@
     "name": "YOGA RAJAN",
     "stock": 0,
     "lastStock": 70,
-    "lastUpdate": "2026-04-09T02:58:29Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-09T06:33:14Z",
+    "cycle": 1
   },
   {
     "name": "ARIF FAUZI",
@@ -248,8 +248,8 @@
     "name": "BUDI",
     "stock": 0,
     "lastStock": 60,
-    "lastUpdate": "2026-04-09T03:07:49Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-09T06:33:17Z",
+    "cycle": 1
   },
   {
     "name": "YULI SORAYA",
@@ -337,17 +337,17 @@
   },
   {
     "name": "TOKO POJOK",
-    "stock": 81,
+    "stock": 78,
     "lastStock": 54,
-    "lastUpdate": "2026-04-09T05:11:52Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-09T06:33:24Z",
+    "cycle": 1
   },
   {
     "name": "UD RAHMAT",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-09T03:07:49Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-09T06:33:55Z",
+    "cycle": 1
   },
   {
     "name": "ULFA MARIA",
