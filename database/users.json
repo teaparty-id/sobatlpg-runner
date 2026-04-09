@@ -1,10 +1,10 @@
 [
   {
     "name": "AKBAR RISQ",
-    "stock": 30,
+    "stock": 29,
     "lastStock": 0,
-    "lastUpdate": "2026-04-09T09:39:10Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-09T09:46:48Z",
+    "cycle": 3
   },
   {
     "name": "ATHI HANDAYANI",
@@ -36,10 +36,10 @@
   },
   {
     "name": "HENDRA KURNIAWAN",
-    "stock": 9,
+    "stock": 6,
     "lastStock": 27,
-    "lastUpdate": "2026-04-09T09:39:10Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-09T09:46:48Z",
+    "cycle": 3
   },
   {
     "name": "SUCIYONO",
@@ -50,24 +50,24 @@
   },
   {
     "name": "JAENAL",
-    "stock": 55,
+    "stock": 54,
     "lastStock": 13,
-    "lastUpdate": "2026-04-09T09:39:10Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-09T09:46:48Z",
+    "cycle": 3
   },
   {
     "name": "JOKO SUWARNO",
-    "stock": 3,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-09T09:41:10Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-09T09:46:48Z",
+    "cycle": 3
   },
   {
     "name": "KARSONO",
-    "stock": 22,
+    "stock": 18,
     "lastStock": 0,
-    "lastUpdate": "2026-04-09T09:42:37Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-09T09:49:54Z",
+    "cycle": 3
   },
   {
     "name": "LUTFI A.",
@@ -169,10 +169,10 @@
   },
   {
     "name": "SUROSO",
-    "stock": 6,
+    "stock": 4,
     "lastStock": 0,
-    "lastUpdate": "2026-04-09T09:43:22Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-09T09:50:17Z",
+    "cycle": 3
   },
   {
     "name": "HADI SUTOYO",
@@ -248,8 +248,8 @@
     "name": "BUDI",
     "stock": 0,
     "lastStock": 60,
-    "lastUpdate": "2026-04-09T06:33:17Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-09T09:50:27Z",
+    "cycle": 1
   },
   {
     "name": "YULI SORAYA",
@@ -337,17 +337,17 @@
   },
   {
     "name": "TOKO POJOK",
-    "stock": 64,
+    "stock": 59,
     "lastStock": 54,
-    "lastUpdate": "2026-04-09T09:06:16Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-09T09:51:08Z",
+    "cycle": 1
   },
   {
     "name": "UD RAHMAT",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-09T06:33:55Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-09T09:51:43Z",
+    "cycle": 1
   },
   {
     "name": "ULFA MARIA",
