@@ -8,10 +8,10 @@
   },
   {
     "name": "ATHI HANDAYANI",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-09T20:50:52Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-09T23:54:31Z",
+    "cycle": 1
   },
   {
     "name": "CINDRAWATI",
@@ -197,10 +197,10 @@
   },
   {
     "name": "YUSUF ISMAIL",
-    "stock": 40,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-09T23:49:59Z",
-    "cycle": 4
+    "lastUpdate": "2026-04-09T23:54:31Z",
+    "cycle": 5
   },
   {
     "name": "SUPARNI",
@@ -218,10 +218,10 @@
   },
   {
     "name": "ARIF FAUZI",
-    "stock": 12,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-09T23:49:59Z",
-    "cycle": 4
+    "lastUpdate": "2026-04-09T23:54:31Z",
+    "cycle": 5
   },
   {
     "name": "MOH HAFIF",
@@ -232,10 +232,10 @@
   },
   {
     "name": "SAMSUL ARIFIN",
-    "stock": 24,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-09T23:49:59Z",
-    "cycle": 4
+    "lastUpdate": "2026-04-09T23:54:31Z",
+    "cycle": 5
   },
   {
     "name": "HERDIANA DIYAH S",
