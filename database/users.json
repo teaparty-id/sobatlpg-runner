@@ -1,10 +1,10 @@
 [
   {
     "name": "AKBAR RISQ",
-    "stock": 31,
+    "stock": 30,
     "lastStock": 0,
-    "lastUpdate": "2026-04-09T09:29:01Z",
-    "cycle": 1
+    "lastUpdate": "2026-04-09T09:39:10Z",
+    "cycle": 2
   },
   {
     "name": "ATHI HANDAYANI",
@@ -36,45 +36,45 @@
   },
   {
     "name": "HENDRA KURNIAWAN",
-    "stock": 10,
+    "stock": 9,
     "lastStock": 27,
-    "lastUpdate": "2026-04-09T09:29:01Z",
-    "cycle": 1
+    "lastUpdate": "2026-04-09T09:39:10Z",
+    "cycle": 2
   },
   {
     "name": "SUCIYONO",
-    "stock": 3,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-09T09:29:01Z",
-    "cycle": 1
+    "lastUpdate": "2026-04-09T09:39:10Z",
+    "cycle": 2
   },
   {
     "name": "JAENAL",
-    "stock": 57,
+    "stock": 55,
     "lastStock": 13,
-    "lastUpdate": "2026-04-09T09:29:01Z",
-    "cycle": 1
+    "lastUpdate": "2026-04-09T09:39:10Z",
+    "cycle": 2
   },
   {
     "name": "JOKO SUWARNO",
-    "stock": 7,
+    "stock": 3,
     "lastStock": 0,
-    "lastUpdate": "2026-04-09T09:32:59Z",
-    "cycle": 1
+    "lastUpdate": "2026-04-09T09:41:10Z",
+    "cycle": 2
   },
   {
     "name": "KARSONO",
     "stock": 22,
     "lastStock": 0,
-    "lastUpdate": "2026-04-09T09:33:05Z",
-    "cycle": 1
+    "lastUpdate": "2026-04-09T09:42:37Z",
+    "cycle": 2
   },
   {
     "name": "LUTFI A.",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-09T09:33:12Z",
-    "cycle": 1
+    "lastUpdate": "2026-04-09T09:42:44Z",
+    "cycle": 2
   },
   {
     "name": "MOH SAID",
@@ -169,10 +169,10 @@
   },
   {
     "name": "SUROSO",
-    "stock": 7,
+    "stock": 6,
     "lastStock": 0,
-    "lastUpdate": "2026-04-09T09:34:56Z",
-    "cycle": 1
+    "lastUpdate": "2026-04-09T09:43:22Z",
+    "cycle": 2
   },
   {
     "name": "HADI SUTOYO",
@@ -213,8 +213,8 @@
     "name": "YOGA RAJAN",
     "stock": 0,
     "lastStock": 70,
-    "lastUpdate": "2026-04-09T06:33:14Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-09T09:43:57Z",
+    "cycle": 1
   },
   {
     "name": "ARIF FAUZI",
