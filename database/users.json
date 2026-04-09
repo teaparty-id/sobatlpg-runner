@@ -197,10 +197,10 @@
   },
   {
     "name": "YUSUF ISMAIL",
-    "stock": 43,
+    "stock": 42,
     "lastStock": 0,
-    "lastUpdate": "2026-04-09T23:41:22Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-09T23:44:56Z",
+    "cycle": 3
   },
   {
     "name": "SUPARNI",
@@ -218,10 +218,10 @@
   },
   {
     "name": "ARIF FAUZI",
-    "stock": 21,
+    "stock": 14,
     "lastStock": 0,
-    "lastUpdate": "2026-04-09T23:41:22Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-09T23:44:56Z",
+    "cycle": 3
   },
   {
     "name": "MOH HAFIF",
@@ -232,17 +232,17 @@
   },
   {
     "name": "SAMSUL ARIFIN",
-    "stock": 30,
+    "stock": 25,
     "lastStock": 0,
-    "lastUpdate": "2026-04-09T23:41:59Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-09T23:44:56Z",
+    "cycle": 3
   },
   {
     "name": "HERDIANA DIYAH S",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-09T23:42:00Z",
-    "cycle": 1
+    "lastUpdate": "2026-04-09T23:44:56Z",
+    "cycle": 2
   },
   {
     "name": "BUDI",
@@ -253,38 +253,38 @@
   },
   {
     "name": "YULI SORAYA",
-    "stock": 0,
+    "stock": 30,
     "lastStock": 0,
-    "lastUpdate": "2026-04-09T20:38:27Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-09T23:46:13Z",
+    "cycle": 1
   },
   {
     "name": "SUSILO",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-09T20:40:31Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-09T23:47:45Z",
+    "cycle": 1
   },
   {
     "name": "HJ. HAERONI",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-09T20:40:31Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-09T23:48:25Z",
+    "cycle": 1
   },
   {
     "name": "IMA",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-09T20:44:35Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-09T23:49:04Z",
+    "cycle": 1
   },
   {
     "name": "DARMAWAN P",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-09T20:44:35Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-09T23:49:07Z",
+    "cycle": 1
   },
   {
     "name": "DIYAH UTAMI",
