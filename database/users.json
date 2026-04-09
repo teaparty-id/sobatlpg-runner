@@ -17,8 +17,8 @@
     "name": "CINDRAWATI",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-08T20:52:12Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-08T23:55:25Z",
+    "cycle": 1
   },
   {
     "name": "EDI SUGENG SARIPAN",
@@ -29,10 +29,10 @@
   },
   {
     "name": "BINA MAKMUR",
-    "stock": 74,
+    "stock": 68,
     "lastStock": 0,
-    "lastUpdate": "2026-04-08T23:50:18Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-08T23:55:25Z",
+    "cycle": 3
   },
   {
     "name": "HENDRA KURNIAWAN",
@@ -43,10 +43,10 @@
   },
   {
     "name": "SUCIYONO",
-    "stock": 95,
+    "stock": 92,
     "lastStock": 0,
-    "lastUpdate": "2026-04-08T23:50:18Z",
-    "cycle": 1
+    "lastUpdate": "2026-04-08T23:55:25Z",
+    "cycle": 2
   },
   {
     "name": "JAENAL",
@@ -85,10 +85,10 @@
   },
   {
     "name": "TOKO 2 PUTRI",
-    "stock": 57,
+    "stock": 56,
     "lastStock": 0,
-    "lastUpdate": "2026-04-08T23:50:18Z",
-    "cycle": 1
+    "lastUpdate": "2026-04-08T23:55:25Z",
+    "cycle": 2
   },
   {
     "name": "TOKO IIN",
@@ -213,8 +213,8 @@
     "name": "YOGA RAJAN",
     "stock": 0,
     "lastStock": 70,
-    "lastUpdate": "2026-04-08T20:54:22Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-08T23:56:10Z",
+    "cycle": 1
   },
   {
     "name": "ARIF FAUZI",
@@ -430,8 +430,8 @@
     "name": "CAHYA HERAWATI",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-08T23:50:18Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-08T23:56:49Z",
+    "cycle": 3
   },
   {
     "name": "MISRI CICI",
