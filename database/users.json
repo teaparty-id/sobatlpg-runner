@@ -248,8 +248,8 @@
     "name": "BUDI",
     "stock": 0,
     "lastStock": 60,
-    "lastUpdate": "2026-04-09T00:06:22Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-09T03:07:49Z",
+    "cycle": 1
   },
   {
     "name": "YULI SORAYA",
@@ -346,8 +346,8 @@
     "name": "UD RAHMAT",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-09T00:07:02Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-09T03:07:49Z",
+    "cycle": 1
   },
   {
     "name": "ULFA MARIA",
@@ -477,10 +477,10 @@
   },
   {
     "name": "TITIK ISMIATIN",
-    "stock": 74,
+    "stock": 68,
     "lastStock": 3,
-    "lastUpdate": "2026-04-09T03:02:46Z",
-    "cycle": 3
+    "lastUpdate": "2026-04-09T03:07:49Z",
+    "cycle": 4
   },
   {
     "name": "SRI UTAMI",
@@ -500,21 +500,21 @@
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-09T03:02:46Z",
-    "cycle": 1
+    "lastUpdate": "2026-04-09T03:07:49Z",
+    "cycle": 2
   },
   {
     "name": "SUMBER REJEKI",
-    "stock": 75,
+    "stock": 64,
     "lastStock": 1,
-    "lastUpdate": "2026-04-09T03:03:24Z",
-    "cycle": 1
+    "lastUpdate": "2026-04-09T03:08:32Z",
+    "cycle": 2
   },
   {
     "name": "ISTIQOMAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-09T03:03:26Z",
-    "cycle": 1
+    "lastUpdate": "2026-04-09T03:08:32Z",
+    "cycle": 2
   }
 ]
