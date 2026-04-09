@@ -295,10 +295,10 @@
   },
   {
     "name": "SALMAH",
-    "stock": 36,
+    "stock": 33,
     "lastStock": 0,
-    "lastUpdate": "2026-04-09T11:45:18Z",
-    "cycle": 3
+    "lastUpdate": "2026-04-09T11:49:08Z",
+    "cycle": 4
   },
   {
     "name": "TOKO ANITA",
@@ -505,10 +505,10 @@
   },
   {
     "name": "SUMBER REJEKI",
-    "stock": 1,
-    "lastStock": 0,
-    "lastUpdate": "2026-04-09T11:40:43Z",
-    "cycle": 2
+    "stock": 16,
+    "lastStock": 1,
+    "lastUpdate": "2026-04-09T11:49:08Z",
+    "cycle": 3
   },
   {
     "name": "ISTIQOMAH",
