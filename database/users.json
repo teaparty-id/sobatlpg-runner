@@ -1,10 +1,10 @@
 [
   {
     "name": "AKBAR RISQ",
-    "stock": 48,
+    "stock": 46,
     "lastStock": 0,
-    "lastUpdate": "2026-04-09T06:04:18Z",
-    "cycle": 3
+    "lastUpdate": "2026-04-09T06:09:57Z",
+    "cycle": 4
   },
   {
     "name": "ATHI HANDAYANI",
@@ -29,52 +29,52 @@
   },
   {
     "name": "BINA MAKMUR",
-    "stock": 3,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-09T06:04:18Z",
-    "cycle": 3
+    "lastUpdate": "2026-04-09T06:09:57Z",
+    "cycle": 4
   },
   {
     "name": "HENDRA KURNIAWAN",
-    "stock": 38,
+    "stock": 32,
     "lastStock": 27,
-    "lastUpdate": "2026-04-09T06:05:02Z",
-    "cycle": 3
+    "lastUpdate": "2026-04-09T06:09:57Z",
+    "cycle": 4
   },
   {
     "name": "SUCIYONO",
-    "stock": 1,
+    "stock": 19,
     "lastStock": 0,
-    "lastUpdate": "2026-04-09T06:06:14Z",
-    "cycle": 3
+    "lastUpdate": "2026-04-09T06:09:57Z",
+    "cycle": 4
   },
   {
     "name": "JAENAL",
-    "stock": 69,
+    "stock": 67,
     "lastStock": 13,
-    "lastUpdate": "2026-04-09T05:57:04Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-09T06:13:06Z",
+    "cycle": 3
   },
   {
     "name": "JOKO SUWARNO",
-    "stock": 23,
+    "stock": 22,
     "lastStock": 0,
-    "lastUpdate": "2026-04-09T05:57:20Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-09T06:13:13Z",
+    "cycle": 3
   },
   {
     "name": "KARSONO",
-    "stock": 44,
+    "stock": 43,
     "lastStock": 0,
-    "lastUpdate": "2026-04-09T05:58:15Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-09T06:13:53Z",
+    "cycle": 3
   },
   {
     "name": "LUTFI A.",
-    "stock": 28,
+    "stock": 27,
     "lastStock": 0,
-    "lastUpdate": "2026-04-09T06:00:02Z",
-    "cycle": 1
+    "lastUpdate": "2026-04-09T06:15:29Z",
+    "cycle": 2
   },
   {
     "name": "MOH SAID",
@@ -92,10 +92,10 @@
   },
   {
     "name": "TOKO IIN",
-    "stock": 42,
+    "stock": 40,
     "lastStock": 0,
-    "lastUpdate": "2026-04-09T04:53:01Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-09T06:16:26Z",
+    "cycle": 1
   },
   {
     "name": "HJ LILIK LAILIYAH",
