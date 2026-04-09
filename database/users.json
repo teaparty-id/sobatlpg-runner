@@ -262,15 +262,15 @@
     "name": "SUSILO",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-09T17:37:03Z",
-    "cycle": 1
+    "lastUpdate": "2026-04-09T17:37:52Z",
+    "cycle": 2
   },
   {
     "name": "HJ. HAERONI",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-09T17:37:03Z",
-    "cycle": 1
+    "lastUpdate": "2026-04-09T17:37:52Z",
+    "cycle": 2
   },
   {
     "name": "IMA",
@@ -430,15 +430,15 @@
     "name": "CAHYA HERAWATI",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-09T17:29:13Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-09T17:37:52Z",
+    "cycle": 3
   },
   {
     "name": "MISRI CICI",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-09T13:19:15Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-09T17:37:52Z",
+    "cycle": 1
   },
   {
     "name": "ALFIAN DWI A.",
