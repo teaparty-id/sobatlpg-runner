@@ -127,10 +127,10 @@
   },
   {
     "name": "LUKMAN BS",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-09T17:59:57Z",
-    "cycle": 3
+    "lastUpdate": "2026-04-09T18:00:35Z",
+    "cycle": 4
   },
   {
     "name": "BISTON MANURUNG",
@@ -381,8 +381,8 @@
     "name": "ABDUL WAFI",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-09T17:59:57Z",
-    "cycle": 3
+    "lastUpdate": "2026-04-09T18:00:35Z",
+    "cycle": 4
   },
   {
     "name": "YUNIS WAHYUNI",
@@ -430,8 +430,8 @@
     "name": "CAHYA HERAWATI",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-09T17:59:57Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-09T18:00:35Z",
+    "cycle": 3
   },
   {
     "name": "MISRI CICI",
@@ -443,9 +443,9 @@
   {
     "name": "ALFIAN DWI A.",
     "stock": 1,
-    "lastStock": 0,
-    "lastUpdate": "2026-04-09T17:59:57Z",
-    "cycle": 2
+    "lastStock": 63,
+    "lastUpdate": "2026-04-09T18:00:35Z",
+    "cycle": 3
   },
   {
     "name": "TOKO IRAWAN",
@@ -500,8 +500,8 @@
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-09T17:57:28Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-09T18:01:14Z",
+    "cycle": 1
   },
   {
     "name": "SUMBER REJEKI",
