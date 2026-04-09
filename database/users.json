@@ -493,15 +493,15 @@
     "name": "TUSOK",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-09T17:56:00Z",
-    "cycle": 3
+    "lastUpdate": "2026-04-09T17:56:39Z",
+    "cycle": 4
   },
   {
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-09T17:56:00Z",
-    "cycle": 3
+    "lastUpdate": "2026-04-09T17:56:39Z",
+    "cycle": 4
   },
   {
     "name": "SUMBER REJEKI",
@@ -514,7 +514,7 @@
     "name": "ISTIQOMAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-09T17:56:00Z",
-    "cycle": 1
+    "lastUpdate": "2026-04-09T17:56:39Z",
+    "cycle": 2
   }
 ]
