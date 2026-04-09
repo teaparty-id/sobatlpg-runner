@@ -22,10 +22,10 @@
   },
   {
     "name": "EDI SUGENG SARIPAN",
-    "stock": 48,
+    "stock": 47,
     "lastStock": 0,
-    "lastUpdate": "2026-04-09T00:22:25Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-09T00:26:34Z",
+    "cycle": 3
   },
   {
     "name": "BINA MAKMUR",
@@ -59,8 +59,8 @@
     "name": "JOKO SUWARNO",
     "stock": 58,
     "lastStock": 0,
-    "lastUpdate": "2026-04-09T00:22:25Z",
-    "cycle": 3
+    "lastUpdate": "2026-04-09T00:26:34Z",
+    "cycle": 4
   },
   {
     "name": "KARSONO",
@@ -71,10 +71,10 @@
   },
   {
     "name": "LUTFI A.",
-    "stock": 90,
+    "stock": 85,
     "lastStock": 0,
-    "lastUpdate": "2026-04-09T00:22:25Z",
-    "cycle": 3
+    "lastUpdate": "2026-04-09T00:26:34Z",
+    "cycle": 4
   },
   {
     "name": "MOH SAID",
