@@ -59,8 +59,8 @@
     "name": "JOKO SUWARNO",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-09T09:46:48Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-09T12:47:55Z",
+    "cycle": 1
   },
   {
     "name": "KARSONO",
@@ -505,10 +505,10 @@
   },
   {
     "name": "SUMBER REJEKI",
-    "stock": 5,
+    "stock": 3,
     "lastStock": 1,
-    "lastUpdate": "2026-04-09T12:44:49Z",
-    "cycle": 3
+    "lastUpdate": "2026-04-09T12:47:55Z",
+    "cycle": 4
   },
   {
     "name": "ISTIQOMAH",
