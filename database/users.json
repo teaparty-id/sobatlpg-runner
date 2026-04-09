@@ -1,10 +1,10 @@
 [
   {
     "name": "AKBAR RISQ",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-09T21:06:18Z",
-    "cycle": 4
+    "lastUpdate": "2026-04-09T21:07:00Z",
+    "cycle": 0
   },
   {
     "name": "ATHI HANDAYANI",
@@ -109,7 +109,7 @@
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-04-09T21:02:53Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "JONI H",
@@ -151,7 +151,7 @@
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-04-09T21:02:53Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "BAMBANG HARTONO",
@@ -431,7 +431,7 @@
     "stock": 1,
     "lastStock": 0,
     "lastUpdate": "2026-04-09T21:06:18Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "MISRI CICI",
@@ -442,10 +442,10 @@
   },
   {
     "name": "ALFIAN DWI A.",
-    "stock": 1,
-    "lastStock": 0,
-    "lastUpdate": "2026-04-09T21:06:18Z",
-    "cycle": 4
+    "stock": 0,
+    "lastStock": 63,
+    "lastUpdate": "2026-04-09T21:07:00Z",
+    "cycle": 0
   },
   {
     "name": "TOKO IRAWAN",
@@ -501,7 +501,7 @@
     "stock": 1,
     "lastStock": 0,
     "lastUpdate": "2026-04-09T21:06:18Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "SUMBER REJEKI",
@@ -515,6 +515,6 @@
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-04-09T21:03:34Z",
-    "cycle": 1
+    "cycle": 0
   }
 ]
