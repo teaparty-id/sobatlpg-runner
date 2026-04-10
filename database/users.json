@@ -43,24 +43,24 @@
   },
   {
     "name": "SUCIYONO",
-    "stock": 97,
+    "stock": 96,
     "lastStock": 0,
-    "lastUpdate": "2026-04-10T00:52:15Z",
-    "cycle": 1
+    "lastUpdate": "2026-04-10T00:59:47Z",
+    "cycle": 2
   },
   {
     "name": "JAENAL",
     "stock": 98,
     "lastStock": 13,
-    "lastUpdate": "2026-04-10T00:52:15Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-10T00:59:47Z",
+    "cycle": 3
   },
   {
     "name": "JOKO SUWARNO",
-    "stock": 0,
+    "stock": 67,
     "lastStock": 0,
-    "lastUpdate": "2026-04-09T21:55:32Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-10T00:59:47Z",
+    "cycle": 1
   },
   {
     "name": "KARSONO",
@@ -71,10 +71,10 @@
   },
   {
     "name": "LUTFI A.",
-    "stock": 99,
+    "stock": 96,
     "lastStock": 0,
-    "lastUpdate": "2026-04-10T00:52:15Z",
-    "cycle": 1
+    "lastUpdate": "2026-04-10T00:59:47Z",
+    "cycle": 2
   },
   {
     "name": "MOH SAID",
@@ -92,10 +92,10 @@
   },
   {
     "name": "TOKO IIN",
-    "stock": 68,
+    "stock": 67,
     "lastStock": 0,
-    "lastUpdate": "2026-04-10T00:55:25Z",
-    "cycle": 3
+    "lastUpdate": "2026-04-10T01:01:53Z",
+    "cycle": 4
   },
   {
     "name": "HJ LILIK LAILIYAH",
@@ -248,8 +248,8 @@
     "name": "BUDI",
     "stock": 0,
     "lastStock": 60,
-    "lastUpdate": "2026-04-09T22:02:12Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-10T01:02:56Z",
+    "cycle": 1
   },
   {
     "name": "YULI SORAYA",
@@ -337,17 +337,17 @@
   },
   {
     "name": "TOKO POJOK",
-    "stock": 0,
+    "stock": 100,
     "lastStock": 54,
-    "lastUpdate": "2026-04-09T22:03:03Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-10T01:03:17Z",
+    "cycle": 1
   },
   {
     "name": "UD RAHMAT",
-    "stock": 0,
+    "stock": 57,
     "lastStock": 0,
-    "lastUpdate": "2026-04-09T22:02:12Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-10T01:03:26Z",
+    "cycle": 1
   },
   {
     "name": "ULFA MARIA",
@@ -479,8 +479,8 @@
     "name": "TITIK ISMIATIN",
     "stock": 75,
     "lastStock": 3,
-    "lastUpdate": "2026-04-10T00:56:15Z",
-    "cycle": 3
+    "lastUpdate": "2026-04-10T01:03:32Z",
+    "cycle": 4
   },
   {
     "name": "SRI UTAMI",
