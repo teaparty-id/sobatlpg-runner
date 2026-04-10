@@ -53,7 +53,7 @@
     "stock": 18,
     "lastStock": 13,
     "lastUpdate": "2026-04-10T17:29:39Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "JOKO SUWARNO",
@@ -256,7 +256,7 @@
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-04-10T17:33:11Z",
-    "cycle": 2
+    "cycle": 0
   },
   {
     "name": "SUSILO",
@@ -312,7 +312,7 @@
     "stock": 0,
     "lastStock": 55,
     "lastUpdate": "2026-04-10T17:21:15Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "UD SAMAN HADI",
@@ -340,7 +340,7 @@
     "stock": 1,
     "lastStock": 0,
     "lastUpdate": "2026-04-10T17:29:39Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "UD RAHMAT",
@@ -382,7 +382,7 @@
     "stock": 1,
     "lastStock": 0,
     "lastUpdate": "2026-04-10T17:29:39Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "YUNIS WAHYUNI",
@@ -431,7 +431,7 @@
     "stock": 1,
     "lastStock": 0,
     "lastUpdate": "2026-04-10T17:33:11Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "MISRI CICI",
@@ -445,7 +445,7 @@
     "stock": 33,
     "lastStock": 63,
     "lastUpdate": "2026-04-10T17:36:13Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "TOKO IRAWAN",
@@ -466,14 +466,14 @@
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-04-10T17:28:05Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "WIKAN K",
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-04-10T17:28:25Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "TITIK ISMIATIN",
@@ -487,21 +487,21 @@
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-04-10T17:28:42Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "TUSOK",
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-04-10T17:28:45Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-10T17:40:51Z",
-    "cycle": 4
+    "lastUpdate": "2026-04-10T17:41:43Z",
+    "cycle": 0
   },
   {
     "name": "SUMBER REJEKI",
@@ -515,6 +515,6 @@
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-04-10T17:40:01Z",
-    "cycle": 1
+    "cycle": 0
   }
 ]
