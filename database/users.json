@@ -358,10 +358,10 @@
   },
   {
     "name": "TOKO SURYATI",
-    "stock": 52,
+    "stock": 48,
     "lastStock": 1,
-    "lastUpdate": "2026-04-10T06:26:35Z",
-    "cycle": 3
+    "lastUpdate": "2026-04-10T06:30:57Z",
+    "cycle": 4
   },
   {
     "name": "SUDJIONO",
@@ -379,10 +379,10 @@
   },
   {
     "name": "ABDUL WAFI",
-    "stock": 96,
+    "stock": 94,
     "lastStock": 0,
-    "lastUpdate": "2026-04-10T06:26:35Z",
-    "cycle": 4
+    "lastUpdate": "2026-04-10T06:30:57Z",
+    "cycle": 5
   },
   {
     "name": "YUNIS WAHYUNI",
@@ -407,31 +407,31 @@
   },
   {
     "name": "TK. MAJU",
-    "stock": 53,
+    "stock": 50,
     "lastStock": 0,
-    "lastUpdate": "2026-04-10T06:27:18Z",
-    "cycle": 4
+    "lastUpdate": "2026-04-10T06:30:57Z",
+    "cycle": 5
   },
   {
     "name": "H. JUMAT",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-10T03:28:39Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-10T06:30:57Z",
+    "cycle": 1
   },
   {
     "name": "HARSININGSIH",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-10T03:28:50Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-10T06:31:41Z",
+    "cycle": 1
   },
   {
     "name": "CAHYA HERAWATI",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-10T06:27:19Z",
-    "cycle": 4
+    "lastUpdate": "2026-04-10T06:32:39Z",
+    "cycle": 5
   },
   {
     "name": "MISRI CICI",
