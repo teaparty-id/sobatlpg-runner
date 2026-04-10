@@ -8,10 +8,10 @@
   },
   {
     "name": "ATHI HANDAYANI",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-10T03:02:50Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-10T06:05:25Z",
+    "cycle": 1
   },
   {
     "name": "CINDRAWATI",
@@ -127,10 +127,10 @@
   },
   {
     "name": "LUKMAN BS",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-10T03:02:50Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-10T06:05:25Z",
+    "cycle": 1
   },
   {
     "name": "BISTON MANURUNG",
@@ -269,15 +269,15 @@
     "name": "HJ. HAERONI",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-10T06:00:27Z",
-    "cycle": 1
+    "lastUpdate": "2026-04-10T06:05:25Z",
+    "cycle": 2
   },
   {
     "name": "IMA",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-10T06:00:28Z",
-    "cycle": 1
+    "lastUpdate": "2026-04-10T06:05:25Z",
+    "cycle": 2
   },
   {
     "name": "DARMAWAN P",
