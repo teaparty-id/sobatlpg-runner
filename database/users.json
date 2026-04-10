@@ -80,8 +80,8 @@
     "name": "MOH SAID",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-10T17:13:06Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-10T20:13:38Z",
+    "cycle": 1
   },
   {
     "name": "TOKO 2 PUTRI",
@@ -337,10 +337,10 @@
   },
   {
     "name": "TOKO POJOK",
-    "stock": 28,
+    "stock": 27,
     "lastStock": 54,
-    "lastUpdate": "2026-04-10T20:09:41Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-10T20:13:38Z",
+    "cycle": 1
   },
   {
     "name": "UD RAHMAT",
@@ -379,10 +379,10 @@
   },
   {
     "name": "ABDUL WAFI",
-    "stock": 15,
+    "stock": 14,
     "lastStock": 0,
-    "lastUpdate": "2026-04-10T20:09:41Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-10T20:13:38Z",
+    "cycle": 1
   },
   {
     "name": "YUNIS WAHYUNI",
@@ -430,8 +430,8 @@
     "name": "CAHYA HERAWATI",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-10T20:09:41Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-10T20:13:38Z",
+    "cycle": 1
   },
   {
     "name": "MISRI CICI",
@@ -444,8 +444,8 @@
     "name": "ALFIAN DWI A.",
     "stock": 14,
     "lastStock": 63,
-    "lastUpdate": "2026-04-10T20:10:21Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-10T20:14:21Z",
+    "cycle": 1
   },
   {
     "name": "TOKO IRAWAN",
@@ -456,10 +456,10 @@
   },
   {
     "name": "SUPARMAN",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-10T17:13:06Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-10T20:14:23Z",
+    "cycle": 1
   },
   {
     "name": "P. SUK",
