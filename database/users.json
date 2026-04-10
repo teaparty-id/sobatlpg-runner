@@ -78,24 +78,24 @@
   },
   {
     "name": "MOH SAID",
-    "stock": 1,
+    "stock": 26,
     "lastStock": 0,
-    "lastUpdate": "2026-04-10T02:46:13Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-10T05:05:37Z",
+    "cycle": 1
   },
   {
     "name": "TOKO 2 PUTRI",
-    "stock": 1,
+    "stock": 53,
     "lastStock": 0,
-    "lastUpdate": "2026-04-10T02:46:13Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-10T05:05:37Z",
+    "cycle": 1
   },
   {
     "name": "TOKO IIN",
-    "stock": 1,
+    "stock": 56,
     "lastStock": 0,
-    "lastUpdate": "2026-04-10T02:46:13Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-10T05:05:37Z",
+    "cycle": 1
   },
   {
     "name": "HJ LILIK LAILIYAH",
@@ -197,10 +197,10 @@
   },
   {
     "name": "YUSUF ISMAIL",
-    "stock": 37,
+    "stock": 32,
     "lastStock": 0,
-    "lastUpdate": "2026-04-10T02:53:03Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-10T05:05:37Z",
+    "cycle": 1
   },
   {
     "name": "SUPARNI",
@@ -218,10 +218,10 @@
   },
   {
     "name": "ARIF FAUZI",
-    "stock": 1,
+    "stock": 5,
     "lastStock": 0,
-    "lastUpdate": "2026-04-10T02:57:52Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-10T05:09:00Z",
+    "cycle": 1
   },
   {
     "name": "MOH HAFIF",
@@ -232,10 +232,10 @@
   },
   {
     "name": "SAMSUL ARIFIN",
-    "stock": 15,
+    "stock": 7,
     "lastStock": 0,
-    "lastUpdate": "2026-04-10T03:06:10Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-10T05:09:39Z",
+    "cycle": 1
   },
   {
     "name": "HERDIANA DIYAH S",
@@ -253,10 +253,10 @@
   },
   {
     "name": "YULI SORAYA",
-    "stock": 24,
+    "stock": 17,
     "lastStock": 0,
-    "lastUpdate": "2026-04-10T03:09:19Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-10T05:09:56Z",
+    "cycle": 1
   },
   {
     "name": "SUSILO",
@@ -337,17 +337,17 @@
   },
   {
     "name": "TOKO POJOK",
-    "stock": 92,
+    "stock": 90,
     "lastStock": 54,
-    "lastUpdate": "2026-04-10T03:25:25Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-10T05:11:05Z",
+    "cycle": 1
   },
   {
     "name": "UD RAHMAT",
-    "stock": 33,
+    "stock": 28,
     "lastStock": 0,
-    "lastUpdate": "2026-04-10T03:34:08Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-10T05:12:59Z",
+    "cycle": 1
   },
   {
     "name": "ULFA MARIA",
