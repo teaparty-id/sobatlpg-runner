@@ -92,10 +92,10 @@
   },
   {
     "name": "TOKO IIN",
-    "stock": 11,
+    "stock": 10,
     "lastStock": 0,
-    "lastUpdate": "2026-04-10T10:51:56Z",
-    "cycle": 4
+    "lastUpdate": "2026-04-10T11:01:01Z",
+    "cycle": 5
   },
   {
     "name": "HJ LILIK LAILIYAH",
@@ -302,10 +302,10 @@
   },
   {
     "name": "TOKO ANITA",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 45,
-    "lastUpdate": "2026-04-10T10:51:56Z",
-    "cycle": 4
+    "lastUpdate": "2026-04-10T11:01:01Z",
+    "cycle": 5
   },
   {
     "name": "TK. LUCKY",
@@ -339,8 +339,8 @@
     "name": "TOKO POJOK",
     "stock": 72,
     "lastStock": 54,
-    "lastUpdate": "2026-04-10T10:51:56Z",
-    "cycle": 4
+    "lastUpdate": "2026-04-10T11:01:01Z",
+    "cycle": 5
   },
   {
     "name": "UD RAHMAT",
@@ -358,10 +358,10 @@
   },
   {
     "name": "TOKO SURYATI",
-    "stock": 12,
+    "stock": 6,
     "lastStock": 1,
-    "lastUpdate": "2026-04-10T10:51:56Z",
-    "cycle": 4
+    "lastUpdate": "2026-04-10T11:01:01Z",
+    "cycle": 5
   },
   {
     "name": "SUDJIONO",
@@ -379,10 +379,10 @@
   },
   {
     "name": "ABDUL WAFI",
-    "stock": 81,
+    "stock": 79,
     "lastStock": 0,
-    "lastUpdate": "2026-04-10T10:55:28Z",
-    "cycle": 3
+    "lastUpdate": "2026-04-10T11:03:30Z",
+    "cycle": 4
   },
   {
     "name": "YUNIS WAHYUNI",
@@ -407,10 +407,10 @@
   },
   {
     "name": "TK. MAJU",
-    "stock": 22,
+    "stock": 19,
     "lastStock": 0,
-    "lastUpdate": "2026-04-10T10:55:42Z",
-    "cycle": 3
+    "lastUpdate": "2026-04-10T11:04:07Z",
+    "cycle": 4
   },
   {
     "name": "H. JUMAT",
@@ -430,8 +430,8 @@
     "name": "CAHYA HERAWATI",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-10T10:55:56Z",
-    "cycle": 3
+    "lastUpdate": "2026-04-10T11:04:14Z",
+    "cycle": 4
   },
   {
     "name": "MISRI CICI",
@@ -442,10 +442,10 @@
   },
   {
     "name": "ALFIAN DWI A.",
-    "stock": 71,
+    "stock": 69,
     "lastStock": 63,
-    "lastUpdate": "2026-04-10T10:56:23Z",
-    "cycle": 1
+    "lastUpdate": "2026-04-10T11:04:53Z",
+    "cycle": 2
   },
   {
     "name": "TOKO IRAWAN",
@@ -458,8 +458,8 @@
     "name": "SUPARMAN",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-10T06:54:38Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-10T11:06:08Z",
+    "cycle": 1
   },
   {
     "name": "P. SUK",
