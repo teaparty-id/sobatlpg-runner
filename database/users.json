@@ -1,10 +1,10 @@
 [
   {
     "name": "AKBAR RISQ",
-    "stock": 90,
+    "stock": 87,
     "lastStock": 0,
-    "lastUpdate": "2026-04-10T00:18:15Z",
-    "cycle": 3
+    "lastUpdate": "2026-04-10T00:22:15Z",
+    "cycle": 4
   },
   {
     "name": "ATHI HANDAYANI",
@@ -15,10 +15,10 @@
   },
   {
     "name": "CINDRAWATI",
-    "stock": 0,
+    "stock": 58,
     "lastStock": 0,
-    "lastUpdate": "2026-04-09T21:19:20Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-10T00:22:15Z",
+    "cycle": 1
   },
   {
     "name": "EDI SUGENG SARIPAN",
@@ -444,8 +444,8 @@
     "name": "ALFIAN DWI A.",
     "stock": 97,
     "lastStock": 63,
-    "lastUpdate": "2026-04-10T00:18:15Z",
-    "cycle": 3
+    "lastUpdate": "2026-04-10T00:22:15Z",
+    "cycle": 4
   },
   {
     "name": "TOKO IRAWAN",
