@@ -78,10 +78,10 @@
   },
   {
     "name": "MOH SAID",
-    "stock": 44,
+    "stock": 42,
     "lastStock": 0,
-    "lastUpdate": "2026-04-10T23:34:39Z",
-    "cycle": 1
+    "lastUpdate": "2026-04-10T23:37:44Z",
+    "cycle": 2
   },
   {
     "name": "TOKO 2 PUTRI",
@@ -430,8 +430,8 @@
     "name": "CAHYA HERAWATI",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-10T23:34:39Z",
-    "cycle": 1
+    "lastUpdate": "2026-04-10T23:37:44Z",
+    "cycle": 2
   },
   {
     "name": "MISRI CICI",
@@ -491,17 +491,17 @@
   },
   {
     "name": "TUSOK",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-10T23:35:19Z",
-    "cycle": 1
+    "lastUpdate": "2026-04-10T23:37:44Z",
+    "cycle": 2
   },
   {
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-10T23:35:20Z",
-    "cycle": 1
+    "lastUpdate": "2026-04-10T23:37:44Z",
+    "cycle": 2
   },
   {
     "name": "SUMBER REJEKI",
