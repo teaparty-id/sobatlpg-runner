@@ -1,10 +1,10 @@
 [
   {
     "name": "AKBAR RISQ",
-    "stock": 12,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-10T11:42:25Z",
-    "cycle": 1
+    "lastUpdate": "2026-04-10T11:51:50Z",
+    "cycle": 2
   },
   {
     "name": "ATHI HANDAYANI",
@@ -29,10 +29,10 @@
   },
   {
     "name": "BINA MAKMUR",
-    "stock": 27,
+    "stock": 19,
     "lastStock": 0,
-    "lastUpdate": "2026-04-10T11:42:25Z",
-    "cycle": 1
+    "lastUpdate": "2026-04-10T11:51:50Z",
+    "cycle": 2
   },
   {
     "name": "HENDRA KURNIAWAN",
@@ -43,38 +43,38 @@
   },
   {
     "name": "SUCIYONO",
-    "stock": 2,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-10T11:42:25Z",
-    "cycle": 1
+    "lastUpdate": "2026-04-10T11:51:50Z",
+    "cycle": 2
   },
   {
     "name": "JAENAL",
-    "stock": 57,
+    "stock": 55,
     "lastStock": 13,
-    "lastUpdate": "2026-04-10T11:42:25Z",
-    "cycle": 1
+    "lastUpdate": "2026-04-10T11:51:50Z",
+    "cycle": 2
   },
   {
     "name": "JOKO SUWARNO",
-    "stock": 10,
+    "stock": 7,
     "lastStock": 0,
-    "lastUpdate": "2026-04-10T11:45:25Z",
-    "cycle": 1
+    "lastUpdate": "2026-04-10T11:54:01Z",
+    "cycle": 2
   },
   {
     "name": "KARSONO",
-    "stock": 33,
+    "stock": 29,
     "lastStock": 0,
-    "lastUpdate": "2026-04-10T11:46:07Z",
-    "cycle": 1
+    "lastUpdate": "2026-04-10T11:55:45Z",
+    "cycle": 2
   },
   {
     "name": "LUTFI A.",
-    "stock": 6,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-10T11:46:20Z",
-    "cycle": 1
+    "lastUpdate": "2026-04-10T11:56:09Z",
+    "cycle": 2
   },
   {
     "name": "MOH SAID",
@@ -92,17 +92,17 @@
   },
   {
     "name": "TOKO IIN",
-    "stock": 9,
+    "stock": 4,
     "lastStock": 0,
-    "lastUpdate": "2026-04-10T11:48:29Z",
-    "cycle": 1
+    "lastUpdate": "2026-04-10T11:58:00Z",
+    "cycle": 2
   },
   {
     "name": "HJ LILIK LAILIYAH",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-10T08:55:02Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-10T11:58:07Z",
+    "cycle": 1
   },
   {
     "name": "ERNA PUJIATI",
