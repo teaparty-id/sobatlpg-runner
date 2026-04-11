@@ -122,8 +122,8 @@
     "name": "ROSA V",
     "stock": 18,
     "lastStock": 0,
-    "lastUpdate": "2026-04-11T06:44:29Z",
-    "cycle": 3
+    "lastUpdate": "2026-04-11T06:49:37Z",
+    "cycle": 4
   },
   {
     "name": "LUKMAN BS",
@@ -150,36 +150,36 @@
     "name": "YUDA",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-11T03:45:42Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-11T06:49:37Z",
+    "cycle": 1
   },
   {
     "name": "BAMBANG HARTONO",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-11T03:45:44Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-11T06:49:37Z",
+    "cycle": 1
   },
   {
     "name": "NADIFATUS SOLEHA",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-11T03:45:57Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-11T06:49:37Z",
+    "cycle": 1
   },
   {
     "name": "SUROSO",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-11T03:50:09Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-11T06:50:19Z",
+    "cycle": 1
   },
   {
     "name": "HADI SUTOYO",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-11T03:50:09Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-11T06:50:21Z",
+    "cycle": 1
   },
   {
     "name": "SRI HIDAYATI",
