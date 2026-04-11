@@ -500,21 +500,21 @@
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-11T13:27:08Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-11T13:28:02Z",
+    "cycle": 3
   },
   {
     "name": "SUMBER REJEKI",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-11T13:27:08Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-11T13:28:02Z",
+    "cycle": 3
   },
   {
     "name": "ISTIQOMAH",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-11T09:08:09Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-11T13:28:02Z",
+    "cycle": 1
   }
 ]
