@@ -1,10 +1,10 @@
 [
   {
     "name": "AKBAR RISQ",
-    "stock": 23,
+    "stock": 22,
     "lastStock": 0,
-    "lastUpdate": "2026-04-11T15:19:45Z",
-    "cycle": 1
+    "lastUpdate": "2026-04-11T15:28:58Z",
+    "cycle": 2
   },
   {
     "name": "ATHI HANDAYANI",
@@ -24,15 +24,15 @@
     "name": "EDI SUGENG SARIPAN",
     "stock": 2,
     "lastStock": 0,
-    "lastUpdate": "2026-04-11T15:19:45Z",
-    "cycle": 1
+    "lastUpdate": "2026-04-11T15:28:58Z",
+    "cycle": 2
   },
   {
     "name": "BINA MAKMUR",
-    "stock": 2,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-11T15:19:45Z",
-    "cycle": 1
+    "lastUpdate": "2026-04-11T15:28:58Z",
+    "cycle": 2
   },
   {
     "name": "HENDRA KURNIAWAN",
@@ -50,10 +50,10 @@
   },
   {
     "name": "JAENAL",
-    "stock": 58,
+    "stock": 57,
     "lastStock": 13,
-    "lastUpdate": "2026-04-11T15:23:07Z",
-    "cycle": 1
+    "lastUpdate": "2026-04-11T15:28:58Z",
+    "cycle": 2
   },
   {
     "name": "JOKO SUWARNO",
@@ -66,8 +66,8 @@
     "name": "KARSONO",
     "stock": 23,
     "lastStock": 0,
-    "lastUpdate": "2026-04-11T15:24:02Z",
-    "cycle": 1
+    "lastUpdate": "2026-04-11T15:31:43Z",
+    "cycle": 2
   },
   {
     "name": "LUTFI A.",
@@ -213,8 +213,8 @@
     "name": "YOGA RAJAN",
     "stock": 0,
     "lastStock": 70,
-    "lastUpdate": "2026-04-11T12:25:24Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-11T15:31:57Z",
+    "cycle": 1
   },
   {
     "name": "ARIF FAUZI",
@@ -248,15 +248,15 @@
     "name": "BUDI",
     "stock": 0,
     "lastStock": 60,
-    "lastUpdate": "2026-04-11T12:26:28Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-11T15:32:02Z",
+    "cycle": 1
   },
   {
     "name": "YULI SORAYA",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-11T12:31:05Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-11T15:32:16Z",
+    "cycle": 1
   },
   {
     "name": "SUSILO",
@@ -304,8 +304,8 @@
     "name": "TOKO ANITA",
     "stock": 0,
     "lastStock": 45,
-    "lastUpdate": "2026-04-11T12:31:45Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-11T15:32:32Z",
+    "cycle": 1
   },
   {
     "name": "TK. LUCKY",
