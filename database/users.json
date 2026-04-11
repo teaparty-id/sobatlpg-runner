@@ -127,17 +127,17 @@
   },
   {
     "name": "LUKMAN BS",
-    "stock": 24,
+    "stock": 23,
     "lastStock": 0,
-    "lastUpdate": "2026-04-11T12:35:07Z",
-    "cycle": 3
+    "lastUpdate": "2026-04-11T12:43:48Z",
+    "cycle": 4
   },
   {
     "name": "BISTON MANURUNG",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-11T12:35:07Z",
-    "cycle": 3
+    "lastUpdate": "2026-04-11T12:43:48Z",
+    "cycle": 4
   },
   {
     "name": "JAMILAH",
@@ -241,8 +241,8 @@
     "name": "HERDIANA DIYAH S",
     "stock": 5,
     "lastStock": 0,
-    "lastUpdate": "2026-04-11T12:35:07Z",
-    "cycle": 3
+    "lastUpdate": "2026-04-11T12:43:48Z",
+    "cycle": 4
   },
   {
     "name": "BUDI",
@@ -339,8 +339,8 @@
     "name": "TOKO POJOK",
     "stock": 86,
     "lastStock": 54,
-    "lastUpdate": "2026-04-11T12:35:07Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-11T12:43:48Z",
+    "cycle": 3
   },
   {
     "name": "UD RAHMAT",
@@ -379,24 +379,24 @@
   },
   {
     "name": "ABDUL WAFI",
-    "stock": 74,
+    "stock": 73,
     "lastStock": 0,
-    "lastUpdate": "2026-04-11T12:37:52Z",
-    "cycle": 1
+    "lastUpdate": "2026-04-11T12:46:15Z",
+    "cycle": 2
   },
   {
     "name": "YUNIS WAHYUNI",
-    "stock": 4,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-11T12:38:37Z",
-    "cycle": 1
+    "lastUpdate": "2026-04-11T12:46:45Z",
+    "cycle": 2
   },
   {
     "name": "ROSIDI",
-    "stock": 36,
+    "stock": 31,
     "lastStock": 0,
-    "lastUpdate": "2026-04-11T12:38:49Z",
-    "cycle": 1
+    "lastUpdate": "2026-04-11T12:47:03Z",
+    "cycle": 2
   },
   {
     "name": "HJ. ASLAMIYAH",
@@ -407,17 +407,17 @@
   },
   {
     "name": "TK. MAJU",
-    "stock": 2,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-11T12:39:51Z",
-    "cycle": 1
+    "lastUpdate": "2026-04-11T12:47:10Z",
+    "cycle": 2
   },
   {
     "name": "H. JUMAT",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-11T09:21:15Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-11T12:49:41Z",
+    "cycle": 1
   },
   {
     "name": "HARSININGSIH",
