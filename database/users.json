@@ -470,45 +470,45 @@
   },
   {
     "name": "WIKAN K",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-11T13:20:25Z",
-    "cycle": 4
+    "lastUpdate": "2026-04-11T13:23:42Z",
+    "cycle": 5
   },
   {
     "name": "TITIK ISMIATIN",
-    "stock": 1,
-    "lastStock": 0,
-    "lastUpdate": "2026-04-11T13:16:06Z",
-    "cycle": 2
+    "stock": 0,
+    "lastStock": 3,
+    "lastUpdate": "2026-04-11T13:23:42Z",
+    "cycle": 3
   },
   {
     "name": "SRI UTAMI",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-11T08:57:56Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-11T13:23:42Z",
+    "cycle": 1
   },
   {
     "name": "TUSOK",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-11T08:58:20Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-11T13:23:42Z",
+    "cycle": 1
   },
   {
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-11T11:30:00Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-11T13:24:19Z",
+    "cycle": 1
   },
   {
     "name": "SUMBER REJEKI",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-11T11:30:37Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-11T13:24:22Z",
+    "cycle": 1
   },
   {
     "name": "ISTIQOMAH",
