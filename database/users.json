@@ -430,8 +430,8 @@
     "name": "CAHYA HERAWATI",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-11T23:03:13Z",
-    "cycle": 1
+    "lastUpdate": "2026-04-11T23:04:05Z",
+    "cycle": 2
   },
   {
     "name": "MISRI CICI",
@@ -500,8 +500,8 @@
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-11T23:03:13Z",
-    "cycle": 1
+    "lastUpdate": "2026-04-11T23:04:05Z",
+    "cycle": 2
   },
   {
     "name": "SUMBER REJEKI",
@@ -514,7 +514,7 @@
     "name": "ISTIQOMAH",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-11T20:04:01Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-11T23:04:05Z",
+    "cycle": 1
   }
 ]
