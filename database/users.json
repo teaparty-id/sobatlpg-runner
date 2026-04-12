@@ -127,10 +127,10 @@
   },
   {
     "name": "LUKMAN BS",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-12T02:34:44Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-12T05:34:52Z",
+    "cycle": 1
   },
   {
     "name": "BISTON MANURUNG",
@@ -430,8 +430,8 @@
     "name": "CAHYA HERAWATI",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-12T05:33:58Z",
-    "cycle": 4
+    "lastUpdate": "2026-04-12T05:34:52Z",
+    "cycle": 5
   },
   {
     "name": "MISRI CICI",
@@ -500,8 +500,8 @@
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-12T05:33:58Z",
-    "cycle": 4
+    "lastUpdate": "2026-04-12T05:34:52Z",
+    "cycle": 5
   },
   {
     "name": "SUMBER REJEKI",
