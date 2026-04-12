@@ -106,10 +106,10 @@
   },
   {
     "name": "ERNA PUJIATI",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-12T02:39:27Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-12T05:39:50Z",
+    "cycle": 1
   },
   {
     "name": "JONI H",
@@ -204,10 +204,10 @@
   },
   {
     "name": "SUPARNI",
-    "stock": 0,
-    "lastStock": 54,
-    "lastUpdate": "2026-04-12T02:39:27Z",
-    "cycle": 0
+    "stock": 1,
+    "lastStock": 0,
+    "lastUpdate": "2026-04-12T05:39:50Z",
+    "cycle": 1
   },
   {
     "name": "YOGA RAJAN",
@@ -430,8 +430,8 @@
     "name": "CAHYA HERAWATI",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-12T05:39:00Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-12T05:39:50Z",
+    "cycle": 3
   },
   {
     "name": "MISRI CICI",
@@ -500,8 +500,8 @@
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-12T05:39:00Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-12T05:39:50Z",
+    "cycle": 3
   },
   {
     "name": "SUMBER REJEKI",
