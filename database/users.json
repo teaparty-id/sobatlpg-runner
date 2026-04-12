@@ -155,10 +155,10 @@
   },
   {
     "name": "BAMBANG HARTONO",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-12T03:39:49Z",
-    "cycle": 4
+    "lastUpdate": "2026-04-12T03:43:08Z",
+    "cycle": 5
   },
   {
     "name": "NADIFATUS SOLEHA",
@@ -430,8 +430,8 @@
     "name": "CAHYA HERAWATI",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-12T03:39:49Z",
-    "cycle": 4
+    "lastUpdate": "2026-04-12T03:43:08Z",
+    "cycle": 5
   },
   {
     "name": "MISRI CICI",
@@ -500,8 +500,8 @@
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-12T03:40:30Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-12T03:43:08Z",
+    "cycle": 3
   },
   {
     "name": "SUMBER REJEKI",
