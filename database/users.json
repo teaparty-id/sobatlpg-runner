@@ -311,8 +311,8 @@
     "name": "TK. LUCKY",
     "stock": 0,
     "lastStock": 55,
-    "lastUpdate": "2026-04-12T15:05:02Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-12T18:05:21Z",
+    "cycle": 1
   },
   {
     "name": "UD SAMAN HADI",
@@ -330,10 +330,10 @@
   },
   {
     "name": "TOKO TIARA",
-    "stock": 0,
-    "lastStock": 14,
-    "lastUpdate": "2026-04-12T15:05:02Z",
-    "cycle": 0
+    "stock": 1,
+    "lastStock": 0,
+    "lastUpdate": "2026-04-12T18:05:21Z",
+    "cycle": 1
   },
   {
     "name": "TOKO POJOK",
@@ -430,8 +430,8 @@
     "name": "CAHYA HERAWATI",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-12T18:03:39Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-12T18:05:21Z",
+    "cycle": 1
   },
   {
     "name": "MISRI CICI",
@@ -500,8 +500,8 @@
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-12T18:04:30Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-12T18:05:21Z",
+    "cycle": 1
   },
   {
     "name": "SUMBER REJEKI",
