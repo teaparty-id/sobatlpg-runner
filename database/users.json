@@ -144,14 +144,14 @@
     "stock": 0,
     "lastStock": 25,
     "lastUpdate": "2026-04-12T10:29:10Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "YUDA",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-12T10:32:20Z",
-    "cycle": 3
+    "lastUpdate": "2026-04-12T10:32:58Z",
+    "cycle": 0
   },
   {
     "name": "BAMBANG HARTONO",
@@ -340,7 +340,7 @@
     "stock": 0,
     "lastStock": 54,
     "lastUpdate": "2026-04-12T10:29:10Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "UD RAHMAT",
@@ -431,7 +431,7 @@
     "stock": 1,
     "lastStock": 0,
     "lastUpdate": "2026-04-12T10:31:47Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "MISRI CICI",
@@ -501,7 +501,7 @@
     "stock": 1,
     "lastStock": 0,
     "lastUpdate": "2026-04-12T10:31:47Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "SUMBER REJEKI",
