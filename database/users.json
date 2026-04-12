@@ -239,10 +239,10 @@
   },
   {
     "name": "HERDIANA DIYAH S",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-12T07:04:55Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-12T10:05:46Z",
+    "cycle": 1
   },
   {
     "name": "BUDI",
@@ -407,10 +407,10 @@
   },
   {
     "name": "TK. MAJU",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-12T07:04:55Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-12T10:05:46Z",
+    "cycle": 1
   },
   {
     "name": "H. JUMAT",
@@ -421,17 +421,17 @@
   },
   {
     "name": "HARSININGSIH",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-12T07:04:55Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-12T10:05:46Z",
+    "cycle": 1
   },
   {
     "name": "CAHYA HERAWATI",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-12T10:04:51Z",
-    "cycle": 1
+    "lastUpdate": "2026-04-12T10:05:46Z",
+    "cycle": 2
   },
   {
     "name": "MISRI CICI",
