@@ -85,10 +85,10 @@
   },
   {
     "name": "TOKO 2 PUTRI",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-12T22:31:34Z",
-    "cycle": 4
+    "lastUpdate": "2026-04-12T22:32:11Z",
+    "cycle": 0
   },
   {
     "name": "TOKO IIN",
@@ -116,14 +116,14 @@
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-04-12T22:29:35Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "ROSA V",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-12T22:31:34Z",
-    "cycle": 4
+    "lastUpdate": "2026-04-12T22:32:11Z",
+    "cycle": 0
   },
   {
     "name": "LUKMAN BS",
@@ -431,7 +431,7 @@
     "stock": 1,
     "lastStock": 0,
     "lastUpdate": "2026-04-12T22:29:35Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "MISRI CICI",
@@ -501,7 +501,7 @@
     "stock": 1,
     "lastStock": 0,
     "lastUpdate": "2026-04-12T22:30:26Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "SUMBER REJEKI",
