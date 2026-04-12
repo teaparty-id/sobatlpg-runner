@@ -29,17 +29,17 @@
   },
   {
     "name": "BINA MAKMUR",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-12T15:44:01Z",
-    "cycle": 3
+    "lastUpdate": "2026-04-12T15:44:33Z",
+    "cycle": 0
   },
   {
     "name": "HENDRA KURNIAWAN",
-    "stock": 1,
-    "lastStock": 0,
-    "lastUpdate": "2026-04-12T15:44:01Z",
-    "cycle": 3
+    "stock": 0,
+    "lastStock": 27,
+    "lastUpdate": "2026-04-12T15:44:33Z",
+    "cycle": 0
   },
   {
     "name": "SUCIYONO",
@@ -57,10 +57,10 @@
   },
   {
     "name": "JOKO SUWARNO",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-12T15:44:01Z",
-    "cycle": 3
+    "lastUpdate": "2026-04-12T15:44:33Z",
+    "cycle": 0
   },
   {
     "name": "KARSONO",
@@ -431,7 +431,7 @@
     "stock": 1,
     "lastStock": 0,
     "lastUpdate": "2026-04-12T15:42:26Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "MISRI CICI",
@@ -501,7 +501,7 @@
     "stock": 1,
     "lastStock": 0,
     "lastUpdate": "2026-04-12T15:43:23Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "SUMBER REJEKI",
