@@ -36,10 +36,10 @@
   },
   {
     "name": "HENDRA KURNIAWAN",
-    "stock": 1,
-    "lastStock": 0,
-    "lastUpdate": "2026-04-12T00:26:30Z",
-    "cycle": 2
+    "stock": 0,
+    "lastStock": 27,
+    "lastUpdate": "2026-04-12T00:27:03Z",
+    "cycle": 3
   },
   {
     "name": "SUCIYONO",
@@ -64,10 +64,10 @@
   },
   {
     "name": "KARSONO",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-12T00:26:30Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-12T00:27:03Z",
+    "cycle": 3
   },
   {
     "name": "LUTFI A.",
@@ -92,10 +92,10 @@
   },
   {
     "name": "TOKO IIN",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-12T00:26:30Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-12T00:27:03Z",
+    "cycle": 3
   },
   {
     "name": "HJ LILIK LAILIYAH",
@@ -500,8 +500,8 @@
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-12T00:25:00Z",
-    "cycle": 3
+    "lastUpdate": "2026-04-12T00:27:03Z",
+    "cycle": 4
   },
   {
     "name": "SUMBER REJEKI",
