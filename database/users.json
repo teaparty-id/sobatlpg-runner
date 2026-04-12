@@ -213,8 +213,8 @@
     "name": "YOGA RAJAN",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-12T06:36:28Z",
-    "cycle": 1
+    "lastUpdate": "2026-04-12T06:37:57Z",
+    "cycle": 2
   },
   {
     "name": "ARIF FAUZI",
@@ -248,15 +248,15 @@
     "name": "BUDI",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-12T06:36:28Z",
-    "cycle": 1
+    "lastUpdate": "2026-04-12T06:37:57Z",
+    "cycle": 2
   },
   {
     "name": "YULI SORAYA",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-12T03:36:42Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-12T06:37:57Z",
+    "cycle": 1
   },
   {
     "name": "SUSILO",
@@ -430,8 +430,8 @@
     "name": "CAHYA HERAWATI",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-12T06:36:28Z",
-    "cycle": 1
+    "lastUpdate": "2026-04-12T06:37:57Z",
+    "cycle": 2
   },
   {
     "name": "MISRI CICI",
