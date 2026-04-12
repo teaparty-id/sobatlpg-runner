@@ -88,7 +88,7 @@
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-04-12T19:29:01Z",
-    "cycle": 3
+    "cycle": 0
   },
   {
     "name": "TOKO IIN",
@@ -116,14 +116,14 @@
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-04-12T19:29:01Z",
-    "cycle": 3
+    "cycle": 0
   },
   {
     "name": "ROSA V",
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-04-12T19:29:01Z",
-    "cycle": 3
+    "cycle": 0
   },
   {
     "name": "LUKMAN BS",
@@ -141,10 +141,10 @@
   },
   {
     "name": "JAMILAH",
-    "stock": 1,
-    "lastStock": 0,
-    "lastUpdate": "2026-04-12T19:32:19Z",
-    "cycle": 3
+    "stock": 0,
+    "lastStock": 25,
+    "lastUpdate": "2026-04-12T19:32:51Z",
+    "cycle": 0
   },
   {
     "name": "YUDA",
@@ -337,10 +337,10 @@
   },
   {
     "name": "TOKO POJOK",
-    "stock": 1,
-    "lastStock": 0,
-    "lastUpdate": "2026-04-12T19:32:19Z",
-    "cycle": 3
+    "stock": 0,
+    "lastStock": 54,
+    "lastUpdate": "2026-04-12T19:32:51Z",
+    "cycle": 0
   },
   {
     "name": "UD RAHMAT",
@@ -431,7 +431,7 @@
     "stock": 1,
     "lastStock": 0,
     "lastUpdate": "2026-04-12T19:31:04Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "MISRI CICI",
@@ -501,7 +501,7 @@
     "stock": 1,
     "lastStock": 0,
     "lastUpdate": "2026-04-12T19:32:19Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "SUMBER REJEKI",
