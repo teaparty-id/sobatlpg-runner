@@ -38,8 +38,8 @@
     "name": "HENDRA KURNIAWAN",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-12T06:28:39Z",
-    "cycle": 1
+    "lastUpdate": "2026-04-12T06:29:16Z",
+    "cycle": 2
   },
   {
     "name": "SUCIYONO",
@@ -66,8 +66,8 @@
     "name": "KARSONO",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-12T06:28:39Z",
-    "cycle": 1
+    "lastUpdate": "2026-04-12T06:29:16Z",
+    "cycle": 2
   },
   {
     "name": "LUTFI A.",
@@ -94,8 +94,8 @@
     "name": "TOKO IIN",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-12T06:28:39Z",
-    "cycle": 1
+    "lastUpdate": "2026-04-12T06:29:16Z",
+    "cycle": 2
   },
   {
     "name": "HJ LILIK LAILIYAH",
@@ -414,10 +414,10 @@
   },
   {
     "name": "H. JUMAT",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-12T03:29:09Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-12T06:29:16Z",
+    "cycle": 1
   },
   {
     "name": "HARSININGSIH",
