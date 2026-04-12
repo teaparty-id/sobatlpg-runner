@@ -8,10 +8,10 @@
   },
   {
     "name": "ATHI HANDAYANI",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-12T22:05:10Z",
-    "cycle": 1
+    "lastUpdate": "2026-04-12T22:05:47Z",
+    "cycle": 0
   },
   {
     "name": "CINDRAWATI",
@@ -134,10 +134,10 @@
   },
   {
     "name": "BISTON MANURUNG",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-12T22:05:10Z",
-    "cycle": 1
+    "lastUpdate": "2026-04-12T22:05:47Z",
+    "cycle": 0
   },
   {
     "name": "JAMILAH",
@@ -430,8 +430,8 @@
     "name": "CAHYA HERAWATI",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-12T22:05:10Z",
-    "cycle": 4
+    "lastUpdate": "2026-04-12T22:05:47Z",
+    "cycle": 0
   },
   {
     "name": "MISRI CICI",
@@ -500,8 +500,8 @@
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-12T22:05:10Z",
-    "cycle": 4
+    "lastUpdate": "2026-04-12T22:05:47Z",
+    "cycle": 0
   },
   {
     "name": "SUMBER REJEKI",
