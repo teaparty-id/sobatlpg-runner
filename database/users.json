@@ -431,7 +431,7 @@
     "stock": 1,
     "lastStock": 0,
     "lastUpdate": "2026-04-12T10:55:27Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "MISRI CICI",
@@ -470,17 +470,17 @@
   },
   {
     "name": "WIKAN K",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-12T10:55:27Z",
-    "cycle": 1
+    "lastUpdate": "2026-04-12T10:56:05Z",
+    "cycle": 0
   },
   {
     "name": "TITIK ISMIATIN",
-    "stock": 1,
-    "lastStock": 0,
-    "lastUpdate": "2026-04-12T10:55:27Z",
-    "cycle": 1
+    "stock": 0,
+    "lastStock": 3,
+    "lastUpdate": "2026-04-12T10:56:05Z",
+    "cycle": 0
   },
   {
     "name": "SRI UTAMI",
@@ -501,7 +501,7 @@
     "stock": 1,
     "lastStock": 0,
     "lastUpdate": "2026-04-12T10:55:27Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "SUMBER REJEKI",
