@@ -276,8 +276,8 @@
     "name": "IMA",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-12T18:24:16Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-12T21:24:45Z",
+    "cycle": 1
   },
   {
     "name": "DARMAWAN P",
@@ -430,8 +430,8 @@
     "name": "CAHYA HERAWATI",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-12T21:23:50Z",
-    "cycle": 1
+    "lastUpdate": "2026-04-12T21:24:45Z",
+    "cycle": 2
   },
   {
     "name": "MISRI CICI",
@@ -500,15 +500,15 @@
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-12T21:23:50Z",
-    "cycle": 1
+    "lastUpdate": "2026-04-12T21:24:45Z",
+    "cycle": 2
   },
   {
     "name": "SUMBER REJEKI",
     "stock": 0,
     "lastStock": 1,
-    "lastUpdate": "2026-04-12T18:24:16Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-12T21:24:45Z",
+    "cycle": 1
   },
   {
     "name": "ISTIQOMAH",
