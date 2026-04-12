@@ -108,8 +108,8 @@
     "name": "ERNA PUJIATI",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-12T05:39:50Z",
-    "cycle": 1
+    "lastUpdate": "2026-04-12T05:40:24Z",
+    "cycle": 2
   },
   {
     "name": "JONI H",
@@ -206,8 +206,8 @@
     "name": "SUPARNI",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-12T05:39:50Z",
-    "cycle": 1
+    "lastUpdate": "2026-04-12T05:40:24Z",
+    "cycle": 2
   },
   {
     "name": "YOGA RAJAN",
@@ -218,10 +218,10 @@
   },
   {
     "name": "ARIF FAUZI",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-12T02:40:09Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-12T05:40:24Z",
+    "cycle": 1
   },
   {
     "name": "MOH HAFIF",
@@ -430,8 +430,8 @@
     "name": "CAHYA HERAWATI",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-12T05:39:50Z",
-    "cycle": 3
+    "lastUpdate": "2026-04-12T05:40:24Z",
+    "cycle": 4
   },
   {
     "name": "MISRI CICI",
