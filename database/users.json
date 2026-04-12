@@ -10,8 +10,8 @@
     "name": "ATHI HANDAYANI",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-12T01:00:00Z",
-    "cycle": 1
+    "lastUpdate": "2026-04-12T01:00:34Z",
+    "cycle": 2
   },
   {
     "name": "CINDRAWATI",
@@ -136,8 +136,8 @@
     "name": "BISTON MANURUNG",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-12T01:00:00Z",
-    "cycle": 1
+    "lastUpdate": "2026-04-12T01:00:34Z",
+    "cycle": 2
   },
   {
     "name": "JAMILAH",
@@ -241,8 +241,8 @@
     "name": "HERDIANA DIYAH S",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-12T01:00:00Z",
-    "cycle": 1
+    "lastUpdate": "2026-04-12T01:00:34Z",
+    "cycle": 2
   },
   {
     "name": "BUDI",
@@ -407,10 +407,10 @@
   },
   {
     "name": "TK. MAJU",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-11T22:00:14Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-12T01:00:34Z",
+    "cycle": 1
   },
   {
     "name": "H. JUMAT",
