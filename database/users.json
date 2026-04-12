@@ -260,10 +260,10 @@
   },
   {
     "name": "SUSILO",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-12T18:10:31Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-12T21:10:57Z",
+    "cycle": 1
   },
   {
     "name": "HJ. HAERONI",
@@ -323,10 +323,10 @@
   },
   {
     "name": "SOEKAMTO",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-12T18:10:31Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-12T21:10:57Z",
+    "cycle": 1
   },
   {
     "name": "TOKO TIARA",
@@ -430,8 +430,8 @@
     "name": "CAHYA HERAWATI",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-12T21:09:21Z",
-    "cycle": 3
+    "lastUpdate": "2026-04-12T21:10:57Z",
+    "cycle": 4
   },
   {
     "name": "MISRI CICI",
@@ -500,8 +500,8 @@
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-12T21:10:03Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-12T21:10:57Z",
+    "cycle": 3
   },
   {
     "name": "SUMBER REJEKI",
