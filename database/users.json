@@ -431,14 +431,14 @@
     "stock": 1,
     "lastStock": 0,
     "lastUpdate": "2026-04-12T16:19:57Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "MISRI CICI",
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-04-12T16:18:21Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "ALFIAN DWI A.",
@@ -456,10 +456,10 @@
   },
   {
     "name": "SUPARMAN",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-12T16:19:57Z",
-    "cycle": 3
+    "lastUpdate": "2026-04-12T16:20:28Z",
+    "cycle": 0
   },
   {
     "name": "P. SUK",
@@ -501,7 +501,7 @@
     "stock": 1,
     "lastStock": 0,
     "lastUpdate": "2026-04-12T16:19:57Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "SUMBER REJEKI",
