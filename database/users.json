@@ -288,10 +288,10 @@
   },
   {
     "name": "DIYAH UTAMI",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-12T14:56:58Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-12T17:57:44Z",
+    "cycle": 1
   },
   {
     "name": "SALMAH",
@@ -500,8 +500,8 @@
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-12T17:56:50Z",
-    "cycle": 4
+    "lastUpdate": "2026-04-12T17:57:44Z",
+    "cycle": 5
   },
   {
     "name": "SUMBER REJEKI",
