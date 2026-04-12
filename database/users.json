@@ -186,7 +186,7 @@
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-04-12T18:14:52Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "ONG SWI GIOK",
@@ -347,35 +347,35 @@
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-04-12T18:14:52Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "ULFA MARIA",
     "stock": 0,
     "lastStock": 0,
     "lastUpdate": "2026-04-12T18:14:52Z",
-    "cycle": 1
+    "cycle": 0
   },
   {
     "name": "TOKO SURYATI",
     "stock": 0,
     "lastStock": 1,
     "lastUpdate": "2026-04-12T18:14:52Z",
-    "cycle": 4
+    "cycle": 0
   },
   {
     "name": "SUDJIONO",
     "stock": 0,
     "lastStock": 7,
     "lastUpdate": "2026-04-12T18:15:35Z",
-    "cycle": 4
+    "cycle": 0
   },
   {
     "name": "ANDRI HERU CAHYONO",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-12T18:17:05Z",
-    "cycle": 3
+    "lastUpdate": "2026-04-12T18:17:36Z",
+    "cycle": 0
   },
   {
     "name": "ABDUL WAFI",
@@ -431,7 +431,7 @@
     "stock": 1,
     "lastStock": 0,
     "lastUpdate": "2026-04-12T18:14:17Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "MISRI CICI",
@@ -501,7 +501,7 @@
     "stock": 1,
     "lastStock": 0,
     "lastUpdate": "2026-04-12T18:17:05Z",
-    "cycle": 5
+    "cycle": 0
   },
   {
     "name": "SUMBER REJEKI",
