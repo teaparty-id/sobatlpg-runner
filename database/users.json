@@ -43,17 +43,17 @@
   },
   {
     "name": "SUCIYONO",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-12T17:35:17Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-12T17:35:54Z",
+    "cycle": 3
   },
   {
     "name": "JAENAL",
-    "stock": 1,
-    "lastStock": 0,
-    "lastUpdate": "2026-04-12T17:35:17Z",
-    "cycle": 2
+    "stock": 0,
+    "lastStock": 13,
+    "lastUpdate": "2026-04-12T17:35:54Z",
+    "cycle": 3
   },
   {
     "name": "JOKO SUWARNO",
@@ -190,10 +190,10 @@
   },
   {
     "name": "ONG SWI GIOK",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-12T17:35:17Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-12T17:35:54Z",
+    "cycle": 3
   },
   {
     "name": "YUSUF ISMAIL",
@@ -430,8 +430,8 @@
     "name": "CAHYA HERAWATI",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-12T17:35:17Z",
-    "cycle": 3
+    "lastUpdate": "2026-04-12T17:35:54Z",
+    "cycle": 4
   },
   {
     "name": "MISRI CICI",
@@ -500,8 +500,8 @@
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-12T17:33:46Z",
-    "cycle": 1
+    "lastUpdate": "2026-04-12T17:36:31Z",
+    "cycle": 2
   },
   {
     "name": "SUMBER REJEKI",
