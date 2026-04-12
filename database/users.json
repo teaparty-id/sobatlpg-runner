@@ -393,10 +393,10 @@
   },
   {
     "name": "ROSIDI",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-12T12:57:48Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-12T15:58:20Z",
+    "cycle": 1
   },
   {
     "name": "HJ. ASLAMIYAH",
@@ -430,8 +430,8 @@
     "name": "CAHYA HERAWATI",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-12T15:57:29Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-12T15:58:20Z",
+    "cycle": 3
   },
   {
     "name": "MISRI CICI",
@@ -500,8 +500,8 @@
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-12T15:57:29Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-12T15:58:20Z",
+    "cycle": 3
   },
   {
     "name": "SUMBER REJEKI",
