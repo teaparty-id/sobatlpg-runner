@@ -484,10 +484,10 @@
   },
   {
     "name": "SRI UTAMI",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-12T02:46:46Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-12T05:46:57Z",
+    "cycle": 1
   },
   {
     "name": "TUSOK",
@@ -500,8 +500,8 @@
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-12T05:46:20Z",
-    "cycle": 4
+    "lastUpdate": "2026-04-12T05:46:57Z",
+    "cycle": 5
   },
   {
     "name": "SUMBER REJEKI",
