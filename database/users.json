@@ -323,10 +323,10 @@
   },
   {
     "name": "SOEKAMTO",
-    "stock": 40,
+    "stock": 38,
     "lastStock": 0,
-    "lastUpdate": "2026-04-13T10:34:00Z",
-    "cycle": 1
+    "lastUpdate": "2026-04-13T10:38:15Z",
+    "cycle": 2
   },
   {
     "name": "TOKO TIARA",
@@ -367,15 +367,15 @@
     "name": "SUDJIONO",
     "stock": 0,
     "lastStock": 7,
-    "lastUpdate": "2026-04-13T07:36:11Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-13T10:38:15Z",
+    "cycle": 1
   },
   {
     "name": "ANDRI HERU CAHYONO",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-13T07:36:21Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-13T10:38:15Z",
+    "cycle": 1
   },
   {
     "name": "ABDUL WAFI",
@@ -430,8 +430,8 @@
     "name": "CAHYA HERAWATI",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-13T10:34:00Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-13T10:38:15Z",
+    "cycle": 3
   },
   {
     "name": "MISRI CICI",
@@ -444,8 +444,8 @@
     "name": "ALFIAN DWI A.",
     "stock": 77,
     "lastStock": 63,
-    "lastUpdate": "2026-04-13T10:34:39Z",
-    "cycle": 3
+    "lastUpdate": "2026-04-13T10:38:56Z",
+    "cycle": 4
   },
   {
     "name": "TOKO IRAWAN",
@@ -458,8 +458,8 @@
     "name": "SUPARMAN",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-13T10:34:40Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-13T10:38:57Z",
+    "cycle": 3
   },
   {
     "name": "P. SUK",
@@ -479,8 +479,8 @@
     "name": "TITIK ISMIATIN",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-13T08:29:03Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-13T10:38:57Z",
+    "cycle": 1
   },
   {
     "name": "SRI UTAMI",
