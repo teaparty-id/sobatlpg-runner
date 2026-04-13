@@ -1,10 +1,10 @@
 [
   {
     "name": "AKBAR RISQ",
-    "stock": 93,
+    "stock": 91,
     "lastStock": 0,
-    "lastUpdate": "2026-04-12T23:56:19Z",
-    "cycle": 1
+    "lastUpdate": "2026-04-13T00:00:23Z",
+    "cycle": 2
   },
   {
     "name": "ATHI HANDAYANI",
@@ -15,10 +15,10 @@
   },
   {
     "name": "CINDRAWATI",
-    "stock": 49,
+    "stock": 39,
     "lastStock": 0,
-    "lastUpdate": "2026-04-12T23:56:19Z",
-    "cycle": 4
+    "lastUpdate": "2026-04-13T00:00:23Z",
+    "cycle": 5
   },
   {
     "name": "EDI SUGENG SARIPAN",
@@ -43,17 +43,17 @@
   },
   {
     "name": "SUCIYONO",
-    "stock": 1,
+    "stock": 92,
     "lastStock": 0,
-    "lastUpdate": "2026-04-12T23:56:19Z",
-    "cycle": 1
+    "lastUpdate": "2026-04-13T00:00:23Z",
+    "cycle": 2
   },
   {
     "name": "JAENAL",
-    "stock": 97,
+    "stock": 94,
     "lastStock": 13,
-    "lastUpdate": "2026-04-12T23:56:19Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-13T00:00:23Z",
+    "cycle": 3
   },
   {
     "name": "JOKO SUWARNO",
@@ -127,10 +127,10 @@
   },
   {
     "name": "LUKMAN BS",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-12T23:57:35Z",
-    "cycle": 1
+    "lastUpdate": "2026-04-13T00:04:26Z",
+    "cycle": 2
   },
   {
     "name": "BISTON MANURUNG",
@@ -192,22 +192,22 @@
     "name": "ONG SWI GIOK",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-12T20:36:21Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-13T00:05:03Z",
+    "cycle": 1
   },
   {
     "name": "YUSUF ISMAIL",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-12T20:44:06Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-13T00:05:05Z",
+    "cycle": 1
   },
   {
     "name": "SUPARNI",
     "stock": 0,
     "lastStock": 54,
-    "lastUpdate": "2026-04-12T20:45:06Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-13T00:05:07Z",
+    "cycle": 1
   },
   {
     "name": "YOGA RAJAN",
@@ -220,8 +220,8 @@
     "name": "ARIF FAUZI",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-12T20:47:13Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-13T00:05:26Z",
+    "cycle": 1
   },
   {
     "name": "MOH HAFIF",
