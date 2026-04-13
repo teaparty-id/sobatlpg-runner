@@ -64,10 +64,10 @@
   },
   {
     "name": "KARSONO",
-    "stock": 66,
+    "stock": 65,
     "lastStock": 0,
-    "lastUpdate": "2026-04-13T01:21:46Z",
-    "cycle": 4
+    "lastUpdate": "2026-04-13T01:30:48Z",
+    "cycle": 5
   },
   {
     "name": "LUTFI A.",
@@ -115,8 +115,8 @@
     "name": "JONI H",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-12T22:29:35Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-13T01:30:48Z",
+    "cycle": 1
   },
   {
     "name": "ROSA V",
@@ -407,10 +407,10 @@
   },
   {
     "name": "TK. MAJU",
-    "stock": 77,
+    "stock": 74,
     "lastStock": 0,
-    "lastUpdate": "2026-04-13T01:27:01Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-13T01:30:48Z",
+    "cycle": 3
   },
   {
     "name": "H. JUMAT",
