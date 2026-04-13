@@ -31,15 +31,15 @@
     "name": "BINA MAKMUR",
     "stock": 83,
     "lastStock": 0,
-    "lastUpdate": "2026-04-13T01:06:43Z",
-    "cycle": 3
+    "lastUpdate": "2026-04-13T01:13:44Z",
+    "cycle": 4
   },
   {
     "name": "HENDRA KURNIAWAN",
-    "stock": 76,
+    "stock": 72,
     "lastStock": 27,
-    "lastUpdate": "2026-04-13T01:06:43Z",
-    "cycle": 3
+    "lastUpdate": "2026-04-13T01:13:44Z",
+    "cycle": 4
   },
   {
     "name": "SUCIYONO",
@@ -57,17 +57,17 @@
   },
   {
     "name": "JOKO SUWARNO",
-    "stock": 64,
+    "stock": 63,
     "lastStock": 0,
-    "lastUpdate": "2026-04-13T01:06:43Z",
-    "cycle": 3
+    "lastUpdate": "2026-04-13T01:13:44Z",
+    "cycle": 4
   },
   {
     "name": "KARSONO",
     "stock": 70,
     "lastStock": 0,
-    "lastUpdate": "2026-04-13T01:07:32Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-13T01:13:44Z",
+    "cycle": 3
   },
   {
     "name": "LUTFI A.",
@@ -92,10 +92,10 @@
   },
   {
     "name": "TOKO IIN",
-    "stock": 73,
+    "stock": 68,
     "lastStock": 0,
-    "lastUpdate": "2026-04-13T01:09:59Z",
-    "cycle": 3
+    "lastUpdate": "2026-04-13T01:17:01Z",
+    "cycle": 4
   },
   {
     "name": "HJ LILIK LAILIYAH",
@@ -388,8 +388,8 @@
     "name": "YUNIS WAHYUNI",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-12T22:12:50Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-13T01:17:05Z",
+    "cycle": 1
   },
   {
     "name": "ROSIDI",
@@ -402,22 +402,22 @@
     "name": "HJ. ASLAMIYAH",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-12T21:58:31Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-13T01:17:27Z",
+    "cycle": 1
   },
   {
     "name": "TK. MAJU",
-    "stock": 0,
+    "stock": 79,
     "lastStock": 0,
-    "lastUpdate": "2026-04-12T22:12:50Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-13T01:17:47Z",
+    "cycle": 1
   },
   {
     "name": "H. JUMAT",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-12T21:55:00Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-13T01:18:07Z",
+    "cycle": 1
   },
   {
     "name": "HARSININGSIH",
