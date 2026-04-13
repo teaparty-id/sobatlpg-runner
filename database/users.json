@@ -325,8 +325,8 @@
     "name": "SOEKAMTO",
     "stock": 34,
     "lastStock": 0,
-    "lastUpdate": "2026-04-13T10:47:36Z",
-    "cycle": 4
+    "lastUpdate": "2026-04-13T10:51:00Z",
+    "cycle": 5
   },
   {
     "name": "TOKO TIARA",
@@ -500,15 +500,15 @@
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-13T10:47:36Z",
-    "cycle": 3
+    "lastUpdate": "2026-04-13T10:51:00Z",
+    "cycle": 4
   },
   {
     "name": "SUMBER REJEKI",
-    "stock": 30,
+    "stock": 26,
     "lastStock": 1,
-    "lastUpdate": "2026-04-13T10:47:36Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-13T10:51:00Z",
+    "cycle": 3
   },
   {
     "name": "ISTIQOMAH",
