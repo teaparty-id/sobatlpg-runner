@@ -87,8 +87,8 @@
     "name": "TOKO 2 PUTRI",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-13T20:58:17Z",
-    "cycle": 1
+    "lastUpdate": "2026-04-13T20:59:12Z",
+    "cycle": 2
   },
   {
     "name": "TOKO IIN",
@@ -148,10 +148,10 @@
   },
   {
     "name": "YUDA",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-13T17:58:46Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-13T20:59:12Z",
+    "cycle": 1
   },
   {
     "name": "BAMBANG HARTONO",
