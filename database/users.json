@@ -283,8 +283,8 @@
     "name": "DARMAWAN P",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-13T17:03:28Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-13T20:03:35Z",
+    "cycle": 1
   },
   {
     "name": "DIYAH UTAMI",
@@ -297,8 +297,8 @@
     "name": "SALMAH",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-13T17:03:28Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-13T20:03:37Z",
+    "cycle": 1
   },
   {
     "name": "TOKO ANITA",
@@ -337,10 +337,10 @@
   },
   {
     "name": "TOKO POJOK",
-    "stock": 15,
+    "stock": 14,
     "lastStock": 54,
-    "lastUpdate": "2026-04-13T19:51:58Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-13T20:03:38Z",
+    "cycle": 3
   },
   {
     "name": "UD RAHMAT",
@@ -379,10 +379,10 @@
   },
   {
     "name": "ABDUL WAFI",
-    "stock": 45,
+    "stock": 42,
     "lastStock": 0,
-    "lastUpdate": "2026-04-13T19:51:58Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-13T20:03:39Z",
+    "cycle": 3
   },
   {
     "name": "YUNIS WAHYUNI",
@@ -430,8 +430,8 @@
     "name": "CAHYA HERAWATI",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-13T19:51:58Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-13T20:04:20Z",
+    "cycle": 3
   },
   {
     "name": "MISRI CICI",
@@ -442,10 +442,10 @@
   },
   {
     "name": "ALFIAN DWI A.",
-    "stock": 28,
-    "lastStock": 63,
-    "lastUpdate": "2026-04-13T19:52:39Z",
-    "cycle": 1
+    "stock": 1,
+    "lastStock": 0,
+    "lastUpdate": "2026-04-13T20:04:20Z",
+    "cycle": 2
   },
   {
     "name": "TOKO IRAWAN",
