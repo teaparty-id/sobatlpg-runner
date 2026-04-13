@@ -281,45 +281,45 @@
   },
   {
     "name": "DARMAWAN P",
-    "stock": 1,
+    "stock": 26,
     "lastStock": 0,
-    "lastUpdate": "2026-04-13T10:29:22Z",
-    "cycle": 3
+    "lastUpdate": "2026-04-13T10:30:00Z",
+    "cycle": 4
   },
   {
     "name": "DIYAH UTAMI",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-13T10:29:22Z",
-    "cycle": 3
+    "lastUpdate": "2026-04-13T10:30:00Z",
+    "cycle": 4
   },
   {
     "name": "SALMAH",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-13T10:29:22Z",
-    "cycle": 3
+    "lastUpdate": "2026-04-13T10:30:00Z",
+    "cycle": 4
   },
   {
     "name": "TOKO ANITA",
-    "stock": 1,
-    "lastStock": 0,
-    "lastUpdate": "2026-04-13T10:29:22Z",
-    "cycle": 2
+    "stock": 0,
+    "lastStock": 45,
+    "lastUpdate": "2026-04-13T10:30:00Z",
+    "cycle": 3
   },
   {
     "name": "TK. LUCKY",
     "stock": 0,
     "lastStock": 55,
-    "lastUpdate": "2026-04-13T07:27:43Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-13T10:30:40Z",
+    "cycle": 1
   },
   {
     "name": "UD SAMAN HADI",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-13T07:27:43Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-13T10:30:40Z",
+    "cycle": 1
   },
   {
     "name": "SOEKAMTO",
