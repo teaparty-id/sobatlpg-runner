@@ -281,10 +281,10 @@
   },
   {
     "name": "DARMAWAN P",
-    "stock": 5,
+    "stock": 3,
     "lastStock": 0,
-    "lastUpdate": "2026-04-13T15:50:44Z",
-    "cycle": 4
+    "lastUpdate": "2026-04-13T15:58:28Z",
+    "cycle": 5
   },
   {
     "name": "DIYAH UTAMI",
@@ -323,10 +323,10 @@
   },
   {
     "name": "SOEKAMTO",
-    "stock": 11,
+    "stock": 10,
     "lastStock": 0,
-    "lastUpdate": "2026-04-13T15:50:44Z",
-    "cycle": 3
+    "lastUpdate": "2026-04-13T15:58:28Z",
+    "cycle": 4
   },
   {
     "name": "TOKO TIARA",
@@ -337,10 +337,10 @@
   },
   {
     "name": "TOKO POJOK",
-    "stock": 44,
+    "stock": 41,
     "lastStock": 54,
-    "lastUpdate": "2026-04-13T15:50:44Z",
-    "cycle": 3
+    "lastUpdate": "2026-04-13T15:58:28Z",
+    "cycle": 4
   },
   {
     "name": "UD RAHMAT",
@@ -358,10 +358,10 @@
   },
   {
     "name": "TOKO SURYATI",
-    "stock": 13,
+    "stock": 8,
     "lastStock": 1,
-    "lastUpdate": "2026-04-13T15:50:44Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-13T15:58:28Z",
+    "cycle": 3
   },
   {
     "name": "SUDJIONO",
@@ -379,10 +379,10 @@
   },
   {
     "name": "ABDUL WAFI",
-    "stock": 58,
+    "stock": 57,
     "lastStock": 0,
-    "lastUpdate": "2026-04-13T15:53:55Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-13T16:01:12Z",
+    "cycle": 3
   },
   {
     "name": "YUNIS WAHYUNI",
@@ -430,8 +430,8 @@
     "name": "CAHYA HERAWATI",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-13T15:54:41Z",
-    "cycle": 1
+    "lastUpdate": "2026-04-13T16:02:05Z",
+    "cycle": 2
   },
   {
     "name": "MISRI CICI",
@@ -442,17 +442,17 @@
   },
   {
     "name": "ALFIAN DWI A.",
-    "stock": 66,
+    "stock": 62,
     "lastStock": 63,
-    "lastUpdate": "2026-04-13T15:54:48Z",
-    "cycle": 1
+    "lastUpdate": "2026-04-13T16:02:40Z",
+    "cycle": 2
   },
   {
     "name": "TOKO IRAWAN",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-13T12:43:30Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-13T16:02:56Z",
+    "cycle": 1
   },
   {
     "name": "SUPARMAN",
@@ -465,8 +465,8 @@
     "name": "P. SUK",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-13T12:44:10Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-13T16:03:33Z",
+    "cycle": 1
   },
   {
     "name": "WIKAN K",
