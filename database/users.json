@@ -85,10 +85,10 @@
   },
   {
     "name": "TOKO 2 PUTRI",
-    "stock": 54,
+    "stock": 45,
     "lastStock": 0,
-    "lastUpdate": "2026-04-13T01:43:20Z",
-    "cycle": 3
+    "lastUpdate": "2026-04-13T01:47:12Z",
+    "cycle": 4
   },
   {
     "name": "TOKO IIN",
@@ -164,8 +164,8 @@
     "name": "NADIFATUS SOLEHA",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-12T22:43:54Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-13T01:47:12Z",
+    "cycle": 1
   },
   {
     "name": "SUROSO",
@@ -337,10 +337,10 @@
   },
   {
     "name": "TOKO POJOK",
-    "stock": 100,
+    "stock": 99,
     "lastStock": 54,
-    "lastUpdate": "2026-04-13T01:43:20Z",
-    "cycle": 3
+    "lastUpdate": "2026-04-13T01:47:12Z",
+    "cycle": 4
   },
   {
     "name": "UD RAHMAT",
