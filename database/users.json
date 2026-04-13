@@ -85,10 +85,10 @@
   },
   {
     "name": "TOKO 2 PUTRI",
-    "stock": 0,
+    "stock": 59,
     "lastStock": 0,
-    "lastUpdate": "2026-04-12T22:32:11Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-13T01:35:00Z",
+    "cycle": 1
   },
   {
     "name": "TOKO IIN",
@@ -122,8 +122,8 @@
     "name": "ROSA V",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-12T22:32:11Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-13T01:35:00Z",
+    "cycle": 1
   },
   {
     "name": "LUKMAN BS",
@@ -143,8 +143,8 @@
     "name": "JAMILAH",
     "stock": 0,
     "lastStock": 25,
-    "lastUpdate": "2026-04-12T22:33:03Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-13T01:35:00Z",
+    "cycle": 1
   },
   {
     "name": "YUDA",
@@ -337,10 +337,10 @@
   },
   {
     "name": "TOKO POJOK",
-    "stock": 0,
+    "stock": 100,
     "lastStock": 54,
-    "lastUpdate": "2026-04-12T22:33:03Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-13T01:35:00Z",
+    "cycle": 1
   },
   {
     "name": "UD RAHMAT",
@@ -407,10 +407,10 @@
   },
   {
     "name": "TK. MAJU",
-    "stock": 74,
+    "stock": 72,
     "lastStock": 0,
-    "lastUpdate": "2026-04-13T01:30:48Z",
-    "cycle": 3
+    "lastUpdate": "2026-04-13T01:35:41Z",
+    "cycle": 4
   },
   {
     "name": "H. JUMAT",
