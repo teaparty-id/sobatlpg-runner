@@ -87,15 +87,15 @@
     "name": "TOKO 2 PUTRI",
     "stock": 2,
     "lastStock": 0,
-    "lastUpdate": "2026-04-13T11:48:14Z",
-    "cycle": 3
+    "lastUpdate": "2026-04-13T11:52:15Z",
+    "cycle": 4
   },
   {
     "name": "TOKO IIN",
     "stock": 25,
     "lastStock": 0,
-    "lastUpdate": "2026-04-13T11:48:14Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-13T11:52:15Z",
+    "cycle": 3
   },
   {
     "name": "HJ LILIK LAILIYAH",
@@ -141,17 +141,17 @@
   },
   {
     "name": "JAMILAH",
-    "stock": 1,
-    "lastStock": 0,
-    "lastUpdate": "2026-04-13T11:48:54Z",
-    "cycle": 1
+    "stock": 0,
+    "lastStock": 25,
+    "lastUpdate": "2026-04-13T11:52:15Z",
+    "cycle": 2
   },
   {
     "name": "YUDA",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-13T08:10:58Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-13T11:52:15Z",
+    "cycle": 1
   },
   {
     "name": "BAMBANG HARTONO",
@@ -164,15 +164,15 @@
     "name": "NADIFATUS SOLEHA",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-13T08:13:01Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-13T11:52:57Z",
+    "cycle": 1
   },
   {
     "name": "SUROSO",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-13T08:13:01Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-13T11:52:58Z",
+    "cycle": 1
   },
   {
     "name": "HADI SUTOYO",
