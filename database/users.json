@@ -192,8 +192,8 @@
     "name": "ONG SWI GIOK",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-13T11:58:38Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-13T11:59:15Z",
+    "cycle": 3
   },
   {
     "name": "YUSUF ISMAIL",
@@ -281,10 +281,10 @@
   },
   {
     "name": "DARMAWAN P",
-    "stock": 1,
+    "stock": 22,
     "lastStock": 0,
-    "lastUpdate": "2026-04-13T11:58:38Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-13T11:59:15Z",
+    "cycle": 3
   },
   {
     "name": "DIYAH UTAMI",
@@ -323,24 +323,24 @@
   },
   {
     "name": "SOEKAMTO",
-    "stock": 1,
+    "stock": 30,
     "lastStock": 0,
-    "lastUpdate": "2026-04-13T11:58:38Z",
-    "cycle": 1
+    "lastUpdate": "2026-04-13T11:59:15Z",
+    "cycle": 2
   },
   {
     "name": "TOKO TIARA",
     "stock": 4,
     "lastStock": 14,
-    "lastUpdate": "2026-04-13T10:10:30Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-13T11:59:15Z",
+    "cycle": 1
   },
   {
     "name": "TOKO POJOK",
-    "stock": 73,
+    "stock": 70,
     "lastStock": 54,
-    "lastUpdate": "2026-04-13T10:11:10Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-13T12:02:03Z",
+    "cycle": 1
   },
   {
     "name": "UD RAHMAT",
@@ -351,17 +351,17 @@
   },
   {
     "name": "ULFA MARIA",
-    "stock": 1,
+    "stock": 18,
     "lastStock": 0,
-    "lastUpdate": "2026-04-13T10:11:21Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-13T12:02:37Z",
+    "cycle": 1
   },
   {
     "name": "TOKO SURYATI",
-    "stock": 1,
-    "lastStock": 0,
-    "lastUpdate": "2026-04-13T10:15:18Z",
-    "cycle": 0
+    "stock": 45,
+    "lastStock": 1,
+    "lastUpdate": "2026-04-13T12:02:57Z",
+    "cycle": 1
   },
   {
     "name": "SUDJIONO",
@@ -379,17 +379,17 @@
   },
   {
     "name": "ABDUL WAFI",
-    "stock": 1,
+    "stock": 72,
     "lastStock": 0,
-    "lastUpdate": "2026-04-13T10:16:45Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-13T12:03:29Z",
+    "cycle": 1
   },
   {
     "name": "YUNIS WAHYUNI",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-13T08:17:51Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-13T12:05:27Z",
+    "cycle": 1
   },
   {
     "name": "ROSIDI",
