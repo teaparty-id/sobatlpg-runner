@@ -344,10 +344,10 @@
   },
   {
     "name": "UD RAHMAT",
-    "stock": 46,
+    "stock": 41,
     "lastStock": 0,
-    "lastUpdate": "2026-04-13T00:25:27Z",
-    "cycle": 3
+    "lastUpdate": "2026-04-13T00:29:27Z",
+    "cycle": 4
   },
   {
     "name": "ULFA MARIA",
@@ -449,10 +449,10 @@
   },
   {
     "name": "TOKO IRAWAN",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-13T00:26:03Z",
-    "cycle": 1
+    "lastUpdate": "2026-04-13T00:29:27Z",
+    "cycle": 2
   },
   {
     "name": "SUPARMAN",
@@ -505,10 +505,10 @@
   },
   {
     "name": "SUMBER REJEKI",
-    "stock": 1,
-    "lastStock": 0,
-    "lastUpdate": "2026-04-13T00:26:05Z",
-    "cycle": 1
+    "stock": 75,
+    "lastStock": 1,
+    "lastUpdate": "2026-04-13T00:29:27Z",
+    "cycle": 2
   },
   {
     "name": "ISTIQOMAH",
