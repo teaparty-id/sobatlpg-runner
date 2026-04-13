@@ -10,8 +10,8 @@
     "name": "ATHI HANDAYANI",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-13T07:08:55Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-13T10:10:30Z",
+    "cycle": 1
   },
   {
     "name": "CINDRAWATI",
@@ -101,8 +101,8 @@
     "name": "HJ LILIK LAILIYAH",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-13T07:09:50Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-13T10:10:30Z",
+    "cycle": 1
   },
   {
     "name": "ERNA PUJIATI",
@@ -190,10 +190,10 @@
   },
   {
     "name": "ONG SWI GIOK",
-    "stock": 15,
+    "stock": 11,
     "lastStock": 0,
-    "lastUpdate": "2026-04-13T10:02:25Z",
-    "cycle": 4
+    "lastUpdate": "2026-04-13T10:10:30Z",
+    "cycle": 5
   },
   {
     "name": "YUSUF ISMAIL",
@@ -330,17 +330,17 @@
   },
   {
     "name": "TOKO TIARA",
-    "stock": 5,
+    "stock": 4,
     "lastStock": 14,
-    "lastUpdate": "2026-04-13T10:03:13Z",
-    "cycle": 4
+    "lastUpdate": "2026-04-13T10:10:30Z",
+    "cycle": 5
   },
   {
     "name": "TOKO POJOK",
     "stock": 73,
     "lastStock": 54,
-    "lastUpdate": "2026-04-13T10:05:23Z",
-    "cycle": 4
+    "lastUpdate": "2026-04-13T10:11:10Z",
+    "cycle": 5
   },
   {
     "name": "UD RAHMAT",
@@ -351,10 +351,10 @@
   },
   {
     "name": "ULFA MARIA",
-    "stock": 24,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-13T10:05:46Z",
-    "cycle": 4
+    "lastUpdate": "2026-04-13T10:11:21Z",
+    "cycle": 5
   },
   {
     "name": "TOKO SURYATI",
