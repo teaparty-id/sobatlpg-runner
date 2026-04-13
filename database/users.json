@@ -381,8 +381,8 @@
     "name": "ABDUL WAFI",
     "stock": 97,
     "lastStock": 0,
-    "lastUpdate": "2026-04-13T00:34:00Z",
-    "cycle": 1
+    "lastUpdate": "2026-04-13T00:40:01Z",
+    "cycle": 2
   },
   {
     "name": "YUNIS WAHYUNI",
@@ -505,10 +505,10 @@
   },
   {
     "name": "SUMBER REJEKI",
-    "stock": 68,
+    "stock": 64,
     "lastStock": 1,
-    "lastUpdate": "2026-04-13T00:34:00Z",
-    "cycle": 3
+    "lastUpdate": "2026-04-13T00:40:01Z",
+    "cycle": 4
   },
   {
     "name": "ISTIQOMAH",
