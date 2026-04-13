@@ -164,15 +164,15 @@
     "name": "NADIFATUS SOLEHA",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-13T08:10:59Z",
-    "cycle": 1
+    "lastUpdate": "2026-04-13T08:11:49Z",
+    "cycle": 2
   },
   {
     "name": "SUROSO",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-13T08:10:59Z",
-    "cycle": 1
+    "lastUpdate": "2026-04-13T08:11:49Z",
+    "cycle": 2
   },
   {
     "name": "HADI SUTOYO",
@@ -239,10 +239,10 @@
   },
   {
     "name": "HERDIANA DIYAH S",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-13T05:11:09Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-13T08:11:49Z",
+    "cycle": 1
   },
   {
     "name": "BUDI",
@@ -358,10 +358,10 @@
   },
   {
     "name": "TOKO SURYATI",
-    "stock": 56,
-    "lastStock": 1,
-    "lastUpdate": "2026-04-13T08:03:32Z",
-    "cycle": 4
+    "stock": 1,
+    "lastStock": 0,
+    "lastUpdate": "2026-04-13T08:11:49Z",
+    "cycle": 5
   },
   {
     "name": "SUDJIONO",
