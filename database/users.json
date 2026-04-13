@@ -3,8 +3,8 @@
     "name": "AKBAR RISQ",
     "stock": 9,
     "lastStock": 0,
-    "lastUpdate": "2026-04-13T16:35:08Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-13T16:42:20Z",
+    "cycle": 3
   },
   {
     "name": "ATHI HANDAYANI",
@@ -52,8 +52,8 @@
     "name": "JAENAL",
     "stock": 58,
     "lastStock": 13,
-    "lastUpdate": "2026-04-13T16:35:08Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-13T16:42:20Z",
+    "cycle": 3
   },
   {
     "name": "JOKO SUWARNO",
@@ -64,17 +64,17 @@
   },
   {
     "name": "KARSONO",
-    "stock": 11,
+    "stock": 10,
     "lastStock": 0,
-    "lastUpdate": "2026-04-13T16:35:08Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-13T16:42:20Z",
+    "cycle": 3
   },
   {
     "name": "LUTFI A.",
-    "stock": 17,
+    "stock": 16,
     "lastStock": 0,
-    "lastUpdate": "2026-04-13T16:37:19Z",
-    "cycle": 1
+    "lastUpdate": "2026-04-13T16:42:20Z",
+    "cycle": 2
   },
   {
     "name": "MOH SAID",
@@ -92,10 +92,10 @@
   },
   {
     "name": "TOKO IIN",
-    "stock": 6,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-13T16:37:31Z",
-    "cycle": 1
+    "lastUpdate": "2026-04-13T16:45:37Z",
+    "cycle": 2
   },
   {
     "name": "HJ LILIK LAILIYAH",
@@ -281,10 +281,10 @@
   },
   {
     "name": "DARMAWAN P",
-    "stock": 2,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-13T16:38:52Z",
-    "cycle": 1
+    "lastUpdate": "2026-04-13T16:45:46Z",
+    "cycle": 2
   },
   {
     "name": "DIYAH UTAMI",
@@ -323,10 +323,10 @@
   },
   {
     "name": "SOEKAMTO",
-    "stock": 7,
+    "stock": 2,
     "lastStock": 0,
-    "lastUpdate": "2026-04-13T16:39:11Z",
-    "cycle": 1
+    "lastUpdate": "2026-04-13T16:45:49Z",
+    "cycle": 2
   },
   {
     "name": "TOKO TIARA",
@@ -337,10 +337,10 @@
   },
   {
     "name": "TOKO POJOK",
-    "stock": 41,
+    "stock": 40,
     "lastStock": 54,
-    "lastUpdate": "2026-04-13T16:07:41Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-13T16:46:01Z",
+    "cycle": 1
   },
   {
     "name": "UD RAHMAT",
@@ -360,8 +360,8 @@
     "name": "TOKO SURYATI",
     "stock": 6,
     "lastStock": 1,
-    "lastUpdate": "2026-04-13T16:14:09Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-13T16:48:49Z",
+    "cycle": 1
   },
   {
     "name": "SUDJIONO",
