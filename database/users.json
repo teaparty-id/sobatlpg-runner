@@ -164,15 +164,15 @@
     "name": "NADIFATUS SOLEHA",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-14T00:10:33Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-14T03:30:27Z",
+    "cycle": 1
   },
   {
     "name": "SUROSO",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-14T00:11:02Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-14T03:30:27Z",
+    "cycle": 1
   },
   {
     "name": "HADI SUTOYO",
@@ -190,10 +190,10 @@
   },
   {
     "name": "ONG SWI GIOK",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-14T00:24:15Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-14T03:30:27Z",
+    "cycle": 1
   },
   {
     "name": "YUSUF ISMAIL",
@@ -204,10 +204,10 @@
   },
   {
     "name": "SUPARNI",
-    "stock": 36,
+    "stock": 35,
     "lastStock": 54,
-    "lastUpdate": "2026-04-14T00:32:59Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-14T03:30:27Z",
+    "cycle": 1
   },
   {
     "name": "YOGA RAJAN",
