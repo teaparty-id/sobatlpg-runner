@@ -316,10 +316,10 @@
   },
   {
     "name": "UD SAMAN HADI",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-14T13:43:25Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-14T16:43:33Z",
+    "cycle": 1
   },
   {
     "name": "SOEKAMTO",
@@ -500,15 +500,15 @@
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-14T16:42:40Z",
-    "cycle": 3
+    "lastUpdate": "2026-04-14T16:43:33Z",
+    "cycle": 4
   },
   {
     "name": "SUMBER REJEKI",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-14T16:42:42Z",
-    "cycle": 3
+    "lastUpdate": "2026-04-14T16:43:33Z",
+    "cycle": 4
   },
   {
     "name": "ISTIQOMAH",
