@@ -29,10 +29,10 @@
   },
   {
     "name": "BINA MAKMUR",
-    "stock": 98,
+    "stock": 95,
     "lastStock": 0,
-    "lastUpdate": "2026-04-14T00:23:04Z",
-    "cycle": 1
+    "lastUpdate": "2026-04-14T00:27:32Z",
+    "cycle": 2
   },
   {
     "name": "HENDRA KURNIAWAN",
@@ -85,10 +85,10 @@
   },
   {
     "name": "TOKO 2 PUTRI",
-    "stock": 50,
+    "stock": 47,
     "lastStock": 0,
-    "lastUpdate": "2026-04-14T00:23:04Z",
-    "cycle": 4
+    "lastUpdate": "2026-04-14T00:27:32Z",
+    "cycle": 5
   },
   {
     "name": "TOKO IIN",
@@ -204,10 +204,10 @@
   },
   {
     "name": "SUPARNI",
-    "stock": 1,
-    "lastStock": 0,
-    "lastUpdate": "2026-04-14T00:24:52Z",
-    "cycle": 3
+    "stock": 36,
+    "lastStock": 54,
+    "lastUpdate": "2026-04-14T00:27:32Z",
+    "cycle": 4
   },
   {
     "name": "YOGA RAJAN",
@@ -407,10 +407,10 @@
   },
   {
     "name": "TK. MAJU",
-    "stock": 65,
+    "stock": 64,
     "lastStock": 0,
-    "lastUpdate": "2026-04-14T00:18:21Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-14T00:27:32Z",
+    "cycle": 3
   },
   {
     "name": "H. JUMAT",
