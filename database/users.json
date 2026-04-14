@@ -71,38 +71,38 @@
   },
   {
     "name": "LUTFI A.",
-    "stock": 70,
+    "stock": 68,
     "lastStock": 0,
-    "lastUpdate": "2026-04-14T07:55:43Z",
-    "cycle": 1
+    "lastUpdate": "2026-04-14T08:00:31Z",
+    "cycle": 2
   },
   {
     "name": "MOH SAID",
-    "stock": 30,
+    "stock": 23,
     "lastStock": 0,
-    "lastUpdate": "2026-04-14T06:14:02Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-14T08:00:31Z",
+    "cycle": 1
   },
   {
     "name": "TOKO 2 PUTRI",
-    "stock": 27,
+    "stock": 26,
     "lastStock": 0,
-    "lastUpdate": "2026-04-14T06:14:02Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-14T08:00:31Z",
+    "cycle": 1
   },
   {
     "name": "TOKO IIN",
-    "stock": 49,
+    "stock": 44,
     "lastStock": 0,
-    "lastUpdate": "2026-04-14T06:14:02Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-14T08:00:31Z",
+    "cycle": 1
   },
   {
     "name": "HJ LILIK LAILIYAH",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-14T04:31:54Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-14T08:03:13Z",
+    "cycle": 1
   },
   {
     "name": "ERNA PUJIATI",
@@ -204,10 +204,10 @@
   },
   {
     "name": "SUPARNI",
-    "stock": 14,
+    "stock": 12,
     "lastStock": 54,
-    "lastUpdate": "2026-04-14T06:17:08Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-14T08:03:53Z",
+    "cycle": 1
   },
   {
     "name": "YOGA RAJAN",
@@ -337,17 +337,17 @@
   },
   {
     "name": "TOKO POJOK",
-    "stock": 1,
-    "lastStock": 0,
-    "lastUpdate": "2026-04-14T06:31:12Z",
-    "cycle": 0
+    "stock": 94,
+    "lastStock": 54,
+    "lastUpdate": "2026-04-14T08:04:00Z",
+    "cycle": 1
   },
   {
     "name": "UD RAHMAT",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-14T04:01:28Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-14T08:04:07Z",
+    "cycle": 1
   },
   {
     "name": "ULFA MARIA",
@@ -358,10 +358,10 @@
   },
   {
     "name": "TOKO SURYATI",
-    "stock": 1,
-    "lastStock": 0,
-    "lastUpdate": "2026-04-14T06:31:12Z",
-    "cycle": 0
+    "stock": 60,
+    "lastStock": 1,
+    "lastUpdate": "2026-04-14T08:04:21Z",
+    "cycle": 1
   },
   {
     "name": "SUDJIONO",
