@@ -339,8 +339,8 @@
     "name": "TOKO POJOK",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-14T22:54:51Z",
-    "cycle": 1
+    "lastUpdate": "2026-04-14T22:55:23Z",
+    "cycle": 2
   },
   {
     "name": "UD RAHMAT",
@@ -500,8 +500,8 @@
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-14T22:54:51Z",
-    "cycle": 1
+    "lastUpdate": "2026-04-14T22:55:23Z",
+    "cycle": 2
   },
   {
     "name": "SUMBER REJEKI",
@@ -514,7 +514,7 @@
     "name": "ISTIQOMAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-14T22:54:51Z",
-    "cycle": 1
+    "lastUpdate": "2026-04-14T22:55:23Z",
+    "cycle": 2
   }
 ]
