@@ -276,15 +276,15 @@
     "name": "IMA",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-14T12:09:26Z",
-    "cycle": 1
+    "lastUpdate": "2026-04-14T12:10:22Z",
+    "cycle": 2
   },
   {
     "name": "DARMAWAN P",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-14T12:09:27Z",
-    "cycle": 1
+    "lastUpdate": "2026-04-14T12:10:22Z",
+    "cycle": 2
   },
   {
     "name": "DIYAH UTAMI",
@@ -421,17 +421,17 @@
   },
   {
     "name": "HARSININGSIH",
-    "stock": 17,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-14T11:59:50Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-14T12:10:22Z",
+    "cycle": 3
   },
   {
     "name": "CAHYA HERAWATI",
-    "stock": 56,
-    "lastStock": 2,
-    "lastUpdate": "2026-04-14T12:00:32Z",
-    "cycle": 2
+    "stock": 1,
+    "lastStock": 0,
+    "lastUpdate": "2026-04-14T12:10:22Z",
+    "cycle": 3
   },
   {
     "name": "MISRI CICI",
