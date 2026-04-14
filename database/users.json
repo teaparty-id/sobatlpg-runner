@@ -400,10 +400,10 @@
   },
   {
     "name": "HJ. ASLAMIYAH",
-    "stock": 11,
+    "stock": 8,
     "lastStock": 0,
-    "lastUpdate": "2026-04-14T01:06:27Z",
-    "cycle": 3
+    "lastUpdate": "2026-04-14T01:10:04Z",
+    "cycle": 4
   },
   {
     "name": "TK. MAJU",
@@ -451,8 +451,8 @@
     "name": "TOKO IRAWAN",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-13T22:08:44Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-14T01:10:04Z",
+    "cycle": 1
   },
   {
     "name": "SUPARMAN",
