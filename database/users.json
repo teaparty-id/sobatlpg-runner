@@ -267,24 +267,24 @@
   },
   {
     "name": "HJ. HAERONI",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-14T06:02:16Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-14T09:04:10Z",
+    "cycle": 1
   },
   {
     "name": "IMA",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-14T06:02:55Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-14T09:04:10Z",
+    "cycle": 1
   },
   {
     "name": "DARMAWAN P",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-14T06:02:56Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-14T09:04:10Z",
+    "cycle": 1
   },
   {
     "name": "DIYAH UTAMI",
@@ -407,10 +407,10 @@
   },
   {
     "name": "TK. MAJU",
-    "stock": 42,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-14T08:55:19Z",
-    "cycle": 4
+    "lastUpdate": "2026-04-14T09:04:10Z",
+    "cycle": 5
   },
   {
     "name": "H. JUMAT",
