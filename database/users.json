@@ -43,17 +43,17 @@
   },
   {
     "name": "SUCIYONO",
-    "stock": 99,
+    "stock": 96,
     "lastStock": 0,
-    "lastUpdate": "2026-04-14T01:42:18Z",
-    "cycle": 1
+    "lastUpdate": "2026-04-14T01:46:34Z",
+    "cycle": 2
   },
   {
     "name": "JAENAL",
-    "stock": 1,
-    "lastStock": 0,
-    "lastUpdate": "2026-04-14T01:42:18Z",
-    "cycle": 1
+    "stock": 97,
+    "lastStock": 13,
+    "lastUpdate": "2026-04-14T01:46:34Z",
+    "cycle": 2
   },
   {
     "name": "JOKO SUWARNO",
@@ -157,8 +157,8 @@
     "name": "BAMBANG HARTONO",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-13T22:46:22Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-14T01:46:34Z",
+    "cycle": 1
   },
   {
     "name": "NADIFATUS SOLEHA",
@@ -505,16 +505,16 @@
   },
   {
     "name": "SUMBER REJEKI",
-    "stock": 0,
+    "stock": 75,
     "lastStock": 1,
-    "lastUpdate": "2026-04-13T22:42:47Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-14T01:46:34Z",
+    "cycle": 1
   },
   {
     "name": "ISTIQOMAH",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-13T22:47:01Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-14T01:47:16Z",
+    "cycle": 1
   }
 ]
