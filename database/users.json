@@ -29,10 +29,10 @@
   },
   {
     "name": "BINA MAKMUR",
-    "stock": 94,
+    "stock": 92,
     "lastStock": 0,
-    "lastUpdate": "2026-04-14T00:32:59Z",
-    "cycle": 3
+    "lastUpdate": "2026-04-14T00:37:00Z",
+    "cycle": 4
   },
   {
     "name": "HENDRA KURNIAWAN",
@@ -64,10 +64,10 @@
   },
   {
     "name": "KARSONO",
-    "stock": 0,
+    "stock": 63,
     "lastStock": 0,
-    "lastUpdate": "2026-04-13T21:33:59Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-14T00:37:00Z",
+    "cycle": 1
   },
   {
     "name": "LUTFI A.",
@@ -227,8 +227,8 @@
     "name": "MOH HAFIF",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-13T21:33:59Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-14T00:37:00Z",
+    "cycle": 1
   },
   {
     "name": "SAMSUL ARIFIN",
@@ -407,10 +407,10 @@
   },
   {
     "name": "TK. MAJU",
-    "stock": 59,
+    "stock": 58,
     "lastStock": 0,
-    "lastUpdate": "2026-04-14T00:32:59Z",
-    "cycle": 4
+    "lastUpdate": "2026-04-14T00:37:00Z",
+    "cycle": 5
   },
   {
     "name": "H. JUMAT",
