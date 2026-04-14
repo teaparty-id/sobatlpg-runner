@@ -162,10 +162,10 @@
   },
   {
     "name": "NADIFATUS SOLEHA",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-14T03:30:27Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-14T06:30:35Z",
+    "cycle": 1
   },
   {
     "name": "SUROSO",
@@ -339,8 +339,8 @@
     "name": "TOKO POJOK",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-14T06:29:41Z",
-    "cycle": 3
+    "lastUpdate": "2026-04-14T06:30:35Z",
+    "cycle": 4
   },
   {
     "name": "UD RAHMAT",
@@ -360,8 +360,8 @@
     "name": "TOKO SURYATI",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-14T06:29:42Z",
-    "cycle": 3
+    "lastUpdate": "2026-04-14T06:30:35Z",
+    "cycle": 4
   },
   {
     "name": "SUDJIONO",
@@ -374,8 +374,8 @@
     "name": "ANDRI HERU CAHYONO",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-14T06:29:44Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-14T06:30:35Z",
+    "cycle": 3
   },
   {
     "name": "ABDUL WAFI",
