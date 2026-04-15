@@ -78,24 +78,24 @@
   },
   {
     "name": "MOH SAID",
-    "stock": 13,
+    "stock": 10,
     "lastStock": 0,
-    "lastUpdate": "2026-04-15T07:28:52Z",
-    "cycle": 4
+    "lastUpdate": "2026-04-15T07:36:01Z",
+    "cycle": 5
   },
   {
     "name": "TOKO 2 PUTRI",
-    "stock": 22,
+    "stock": 14,
     "lastStock": 0,
-    "lastUpdate": "2026-04-15T07:28:52Z",
-    "cycle": 4
+    "lastUpdate": "2026-04-15T07:36:01Z",
+    "cycle": 5
   },
   {
     "name": "TOKO IIN",
-    "stock": 32,
+    "stock": 29,
     "lastStock": 0,
-    "lastUpdate": "2026-04-15T07:28:52Z",
-    "cycle": 4
+    "lastUpdate": "2026-04-15T07:36:01Z",
+    "cycle": 5
   },
   {
     "name": "HJ LILIK LAILIYAH",
@@ -106,10 +106,10 @@
   },
   {
     "name": "ERNA PUJIATI",
-    "stock": 5,
+    "stock": 4,
     "lastStock": 0,
-    "lastUpdate": "2026-04-15T07:28:52Z",
-    "cycle": 4
+    "lastUpdate": "2026-04-15T07:36:01Z",
+    "cycle": 5
   },
   {
     "name": "JONI H",
@@ -211,10 +211,10 @@
   },
   {
     "name": "YOGA RAJAN",
-    "stock": 41,
+    "stock": 36,
     "lastStock": 70,
-    "lastUpdate": "2026-04-15T07:31:33Z",
-    "cycle": 3
+    "lastUpdate": "2026-04-15T07:39:09Z",
+    "cycle": 4
   },
   {
     "name": "ARIF FAUZI",
@@ -246,10 +246,10 @@
   },
   {
     "name": "BUDI",
-    "stock": 34,
+    "stock": 33,
     "lastStock": 60,
-    "lastUpdate": "2026-04-15T07:31:40Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-15T07:39:45Z",
+    "cycle": 3
   },
   {
     "name": "YULI SORAYA",
@@ -283,22 +283,22 @@
     "name": "DARMAWAN P",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-15T04:27:08Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-15T07:39:51Z",
+    "cycle": 1
   },
   {
     "name": "DIYAH UTAMI",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-15T04:33:03Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-15T07:40:30Z",
+    "cycle": 1
   },
   {
     "name": "SALMAH",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-15T04:33:20Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-15T07:40:36Z",
+    "cycle": 1
   },
   {
     "name": "TOKO ANITA",
