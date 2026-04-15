@@ -29,10 +29,10 @@
   },
   {
     "name": "BINA MAKMUR",
-    "stock": 74,
+    "stock": 73,
     "lastStock": 0,
-    "lastUpdate": "2026-04-15T00:30:06Z",
-    "cycle": 4
+    "lastUpdate": "2026-04-15T00:42:11Z",
+    "cycle": 5
   },
   {
     "name": "HENDRA KURNIAWAN",
@@ -43,24 +43,24 @@
   },
   {
     "name": "SUCIYONO",
-    "stock": 0,
+    "stock": 98,
     "lastStock": 0,
-    "lastUpdate": "2026-04-14T21:38:20Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-15T00:42:11Z",
+    "cycle": 1
   },
   {
     "name": "JAENAL",
     "stock": 96,
     "lastStock": 13,
-    "lastUpdate": "2026-04-15T00:39:16Z",
-    "cycle": 3
+    "lastUpdate": "2026-04-15T00:42:11Z",
+    "cycle": 4
   },
   {
     "name": "JOKO SUWARNO",
-    "stock": 50,
+    "stock": 46,
     "lastStock": 0,
-    "lastUpdate": "2026-04-15T00:30:06Z",
-    "cycle": 4
+    "lastUpdate": "2026-04-15T00:42:11Z",
+    "cycle": 5
   },
   {
     "name": "KARSONO",
@@ -71,17 +71,17 @@
   },
   {
     "name": "LUTFI A.",
-    "stock": 0,
+    "stock": 96,
     "lastStock": 0,
-    "lastUpdate": "2026-04-14T21:38:20Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-15T00:44:54Z",
+    "cycle": 1
   },
   {
     "name": "MOH SAID",
-    "stock": 39,
+    "stock": 38,
     "lastStock": 0,
-    "lastUpdate": "2026-04-15T00:30:06Z",
-    "cycle": 4
+    "lastUpdate": "2026-04-15T00:46:16Z",
+    "cycle": 5
   },
   {
     "name": "TOKO 2 PUTRI",
@@ -92,10 +92,10 @@
   },
   {
     "name": "TOKO IIN",
-    "stock": 73,
+    "stock": 66,
     "lastStock": 0,
-    "lastUpdate": "2026-04-15T00:34:07Z",
-    "cycle": 3
+    "lastUpdate": "2026-04-15T00:46:17Z",
+    "cycle": 4
   },
   {
     "name": "HJ LILIK LAILIYAH",
@@ -339,15 +339,15 @@
     "name": "TOKO POJOK",
     "stock": 99,
     "lastStock": 54,
-    "lastUpdate": "2026-04-15T00:34:16Z",
-    "cycle": 4
+    "lastUpdate": "2026-04-15T00:46:57Z",
+    "cycle": 5
   },
   {
     "name": "UD RAHMAT",
-    "stock": 42,
+    "stock": 36,
     "lastStock": 0,
-    "lastUpdate": "2026-04-15T00:34:17Z",
-    "cycle": 4
+    "lastUpdate": "2026-04-15T00:48:36Z",
+    "cycle": 5
   },
   {
     "name": "ULFA MARIA",
