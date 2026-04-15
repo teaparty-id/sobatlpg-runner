@@ -1,10 +1,10 @@
 [
   {
     "name": "AKBAR RISQ",
-    "stock": 24,
+    "stock": 23,
     "lastStock": 0,
-    "lastUpdate": "2026-04-15T15:23:07Z",
-    "cycle": 3
+    "lastUpdate": "2026-04-15T15:32:37Z",
+    "cycle": 4
   },
   {
     "name": "ATHI HANDAYANI",
@@ -29,31 +29,31 @@
   },
   {
     "name": "BINA MAKMUR",
-    "stock": 8,
+    "stock": 7,
     "lastStock": 0,
-    "lastUpdate": "2026-04-15T15:23:07Z",
-    "cycle": 3
+    "lastUpdate": "2026-04-15T15:32:37Z",
+    "cycle": 4
   },
   {
     "name": "HENDRA KURNIAWAN",
-    "stock": 25,
+    "stock": 24,
     "lastStock": 27,
-    "lastUpdate": "2026-04-15T15:23:07Z",
-    "cycle": 3
+    "lastUpdate": "2026-04-15T15:32:37Z",
+    "cycle": 4
   },
   {
     "name": "SUCIYONO",
-    "stock": 22,
+    "stock": 20,
     "lastStock": 0,
-    "lastUpdate": "2026-04-15T15:23:07Z",
-    "cycle": 3
+    "lastUpdate": "2026-04-15T15:32:37Z",
+    "cycle": 4
   },
   {
     "name": "JAENAL",
-    "stock": 53,
+    "stock": 49,
     "lastStock": 13,
-    "lastUpdate": "2026-04-15T15:26:55Z",
-    "cycle": 3
+    "lastUpdate": "2026-04-15T15:36:32Z",
+    "cycle": 4
   },
   {
     "name": "JOKO SUWARNO",
@@ -66,15 +66,15 @@
     "name": "KARSONO",
     "stock": 33,
     "lastStock": 0,
-    "lastUpdate": "2026-04-15T15:27:43Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-15T15:36:35Z",
+    "cycle": 3
   },
   {
     "name": "LUTFI A.",
-    "stock": 43,
+    "stock": 42,
     "lastStock": 0,
-    "lastUpdate": "2026-04-15T15:28:22Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-15T15:37:12Z",
+    "cycle": 3
   },
   {
     "name": "MOH SAID",
@@ -94,8 +94,8 @@
     "name": "TOKO IIN",
     "stock": 12,
     "lastStock": 0,
-    "lastUpdate": "2026-04-15T15:29:20Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-15T15:37:25Z",
+    "cycle": 3
   },
   {
     "name": "HJ LILIK LAILIYAH",
@@ -129,8 +129,8 @@
     "name": "LUKMAN BS",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-15T12:14:07Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-15T15:39:55Z",
+    "cycle": 1
   },
   {
     "name": "BISTON MANURUNG",
