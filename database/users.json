@@ -388,15 +388,15 @@
     "name": "YUNIS WAHYUNI",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-15T02:59:13Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-15T06:00:41Z",
+    "cycle": 1
   },
   {
     "name": "ROSIDI",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-15T02:59:13Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-15T06:00:41Z",
+    "cycle": 1
   },
   {
     "name": "HJ. ASLAMIYAH",
@@ -491,10 +491,10 @@
   },
   {
     "name": "TUSOK",
-    "stock": 14,
+    "stock": 11,
     "lastStock": 0,
-    "lastUpdate": "2026-04-15T05:56:17Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-15T06:00:41Z",
+    "cycle": 3
   },
   {
     "name": "DJAMIAH",
@@ -512,9 +512,9 @@
   },
   {
     "name": "ISTIQOMAH",
-    "stock": 22,
+    "stock": 20,
     "lastStock": 0,
-    "lastUpdate": "2026-04-15T05:56:17Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-15T06:00:41Z",
+    "cycle": 3
   }
 ]
