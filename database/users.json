@@ -1,10 +1,10 @@
 [
   {
     "name": "AKBAR RISQ",
-    "stock": 22,
+    "stock": 21,
     "lastStock": 0,
-    "lastUpdate": "2026-04-15T16:57:11Z",
-    "cycle": 1
+    "lastUpdate": "2026-04-15T17:07:36Z",
+    "cycle": 2
   },
   {
     "name": "ATHI HANDAYANI",
@@ -29,31 +29,31 @@
   },
   {
     "name": "BINA MAKMUR",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-15T16:57:11Z",
-    "cycle": 1
+    "lastUpdate": "2026-04-15T17:07:36Z",
+    "cycle": 2
   },
   {
     "name": "HENDRA KURNIAWAN",
     "stock": 17,
     "lastStock": 27,
-    "lastUpdate": "2026-04-15T16:57:11Z",
-    "cycle": 1
+    "lastUpdate": "2026-04-15T17:07:36Z",
+    "cycle": 2
   },
   {
     "name": "SUCIYONO",
     "stock": 12,
     "lastStock": 0,
-    "lastUpdate": "2026-04-15T16:57:11Z",
-    "cycle": 1
+    "lastUpdate": "2026-04-15T17:07:36Z",
+    "cycle": 2
   },
   {
     "name": "JAENAL",
-    "stock": 42,
+    "stock": 41,
     "lastStock": 13,
-    "lastUpdate": "2026-04-15T17:00:38Z",
-    "cycle": 1
+    "lastUpdate": "2026-04-15T17:08:58Z",
+    "cycle": 2
   },
   {
     "name": "JOKO SUWARNO",
@@ -64,17 +64,17 @@
   },
   {
     "name": "KARSONO",
-    "stock": 31,
+    "stock": 30,
     "lastStock": 0,
-    "lastUpdate": "2026-04-15T17:01:27Z",
-    "cycle": 1
+    "lastUpdate": "2026-04-15T17:10:41Z",
+    "cycle": 2
   },
   {
     "name": "LUTFI A.",
-    "stock": 30,
+    "stock": 29,
     "lastStock": 0,
-    "lastUpdate": "2026-04-15T17:02:56Z",
-    "cycle": 1
+    "lastUpdate": "2026-04-15T17:11:04Z",
+    "cycle": 2
   },
   {
     "name": "MOH SAID",
@@ -94,8 +94,8 @@
     "name": "TOKO IIN",
     "stock": 8,
     "lastStock": 0,
-    "lastUpdate": "2026-04-15T17:03:19Z",
-    "cycle": 1
+    "lastUpdate": "2026-04-15T17:11:27Z",
+    "cycle": 2
   },
   {
     "name": "HJ LILIK LAILIYAH",
@@ -269,8 +269,8 @@
     "name": "HJ. HAERONI",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-15T13:53:17Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-15T17:12:14Z",
+    "cycle": 1
   },
   {
     "name": "IMA",
