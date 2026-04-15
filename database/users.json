@@ -1,10 +1,10 @@
 [
   {
     "name": "AKBAR RISQ",
-    "stock": 25,
+    "stock": 24,
     "lastStock": 0,
-    "lastUpdate": "2026-04-15T15:13:58Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-15T15:23:07Z",
+    "cycle": 3
   },
   {
     "name": "ATHI HANDAYANI",
@@ -29,31 +29,31 @@
   },
   {
     "name": "BINA MAKMUR",
-    "stock": 13,
+    "stock": 8,
     "lastStock": 0,
-    "lastUpdate": "2026-04-15T15:13:58Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-15T15:23:07Z",
+    "cycle": 3
   },
   {
     "name": "HENDRA KURNIAWAN",
-    "stock": 26,
+    "stock": 25,
     "lastStock": 27,
-    "lastUpdate": "2026-04-15T15:13:58Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-15T15:23:07Z",
+    "cycle": 3
   },
   {
     "name": "SUCIYONO",
-    "stock": 25,
+    "stock": 22,
     "lastStock": 0,
-    "lastUpdate": "2026-04-15T15:13:58Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-15T15:23:07Z",
+    "cycle": 3
   },
   {
     "name": "JAENAL",
-    "stock": 55,
+    "stock": 53,
     "lastStock": 13,
-    "lastUpdate": "2026-04-15T15:18:01Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-15T15:26:55Z",
+    "cycle": 3
   },
   {
     "name": "JOKO SUWARNO",
@@ -66,15 +66,15 @@
     "name": "KARSONO",
     "stock": 33,
     "lastStock": 0,
-    "lastUpdate": "2026-04-15T15:10:14Z",
-    "cycle": 1
+    "lastUpdate": "2026-04-15T15:27:43Z",
+    "cycle": 2
   },
   {
     "name": "LUTFI A.",
-    "stock": 47,
+    "stock": 43,
     "lastStock": 0,
-    "lastUpdate": "2026-04-15T15:10:14Z",
-    "cycle": 1
+    "lastUpdate": "2026-04-15T15:28:22Z",
+    "cycle": 2
   },
   {
     "name": "MOH SAID",
@@ -92,10 +92,10 @@
   },
   {
     "name": "TOKO IIN",
-    "stock": 13,
+    "stock": 12,
     "lastStock": 0,
-    "lastUpdate": "2026-04-15T15:19:46Z",
-    "cycle": 1
+    "lastUpdate": "2026-04-15T15:29:20Z",
+    "cycle": 2
   },
   {
     "name": "HJ LILIK LAILIYAH",
@@ -120,10 +120,10 @@
   },
   {
     "name": "ROSA V",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-15T13:41:05Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-15T15:29:41Z",
+    "cycle": 1
   },
   {
     "name": "LUKMAN BS",
