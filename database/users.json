@@ -78,24 +78,24 @@
   },
   {
     "name": "MOH SAID",
-    "stock": 33,
+    "stock": 28,
     "lastStock": 0,
-    "lastUpdate": "2026-04-15T04:06:44Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-15T04:13:49Z",
+    "cycle": 3
   },
   {
     "name": "TOKO 2 PUTRI",
-    "stock": 36,
+    "stock": 34,
     "lastStock": 0,
-    "lastUpdate": "2026-04-15T04:06:44Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-15T04:13:49Z",
+    "cycle": 3
   },
   {
     "name": "TOKO IIN",
-    "stock": 61,
+    "stock": 55,
     "lastStock": 0,
-    "lastUpdate": "2026-04-15T04:06:44Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-15T04:13:49Z",
+    "cycle": 3
   },
   {
     "name": "HJ LILIK LAILIYAH",
@@ -106,10 +106,10 @@
   },
   {
     "name": "ERNA PUJIATI",
-    "stock": 23,
+    "stock": 17,
     "lastStock": 0,
-    "lastUpdate": "2026-04-15T04:06:44Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-15T04:13:49Z",
+    "cycle": 3
   },
   {
     "name": "JONI H",
@@ -211,10 +211,10 @@
   },
   {
     "name": "YOGA RAJAN",
-    "stock": 57,
+    "stock": 56,
     "lastStock": 70,
-    "lastUpdate": "2026-04-15T04:10:51Z",
-    "cycle": 1
+    "lastUpdate": "2026-04-15T04:17:15Z",
+    "cycle": 2
   },
   {
     "name": "ARIF FAUZI",
@@ -234,15 +234,15 @@
     "name": "SAMSUL ARIFIN",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-15T01:12:52Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-15T04:17:40Z",
+    "cycle": 1
   },
   {
     "name": "HERDIANA DIYAH S",
-    "stock": 12,
+    "stock": 9,
     "lastStock": 0,
-    "lastUpdate": "2026-04-15T02:31:36Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-15T04:18:20Z",
+    "cycle": 1
   },
   {
     "name": "BUDI",
@@ -255,15 +255,15 @@
     "name": "YULI SORAYA",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-15T01:12:59Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-15T04:18:22Z",
+    "cycle": 1
   },
   {
     "name": "SUSILO",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-15T01:13:09Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-15T04:18:33Z",
+    "cycle": 1
   },
   {
     "name": "HJ. HAERONI",
