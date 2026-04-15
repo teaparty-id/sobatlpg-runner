@@ -78,24 +78,24 @@
   },
   {
     "name": "MOH SAID",
-    "stock": 10,
+    "stock": 7,
     "lastStock": 0,
-    "lastUpdate": "2026-04-15T07:36:01Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-15T10:06:08Z",
+    "cycle": 1
   },
   {
     "name": "TOKO 2 PUTRI",
     "stock": 14,
     "lastStock": 0,
-    "lastUpdate": "2026-04-15T07:36:01Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-15T10:06:08Z",
+    "cycle": 1
   },
   {
     "name": "TOKO IIN",
-    "stock": 29,
+    "stock": 28,
     "lastStock": 0,
-    "lastUpdate": "2026-04-15T07:36:01Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-15T10:06:08Z",
+    "cycle": 1
   },
   {
     "name": "HJ LILIK LAILIYAH",
@@ -108,8 +108,8 @@
     "name": "ERNA PUJIATI",
     "stock": 4,
     "lastStock": 0,
-    "lastUpdate": "2026-04-15T07:36:01Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-15T10:06:08Z",
+    "cycle": 1
   },
   {
     "name": "JONI H",
@@ -211,10 +211,10 @@
   },
   {
     "name": "YOGA RAJAN",
-    "stock": 34,
+    "stock": 32,
     "lastStock": 70,
-    "lastUpdate": "2026-04-15T07:44:04Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-15T10:09:03Z",
+    "cycle": 1
   },
   {
     "name": "ARIF FAUZI",
@@ -246,10 +246,10 @@
   },
   {
     "name": "BUDI",
-    "stock": 27,
+    "stock": 26,
     "lastStock": 60,
-    "lastUpdate": "2026-04-15T07:51:49Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-15T10:09:17Z",
+    "cycle": 1
   },
   {
     "name": "YULI SORAYA",
@@ -302,24 +302,24 @@
   },
   {
     "name": "TOKO ANITA",
-    "stock": 1,
-    "lastStock": 0,
-    "lastUpdate": "2026-04-15T08:08:01Z",
-    "cycle": 0
+    "stock": 17,
+    "lastStock": 45,
+    "lastUpdate": "2026-04-15T10:09:18Z",
+    "cycle": 1
   },
   {
     "name": "TK. LUCKY",
-    "stock": 1,
-    "lastStock": 0,
-    "lastUpdate": "2026-04-15T08:08:01Z",
-    "cycle": 0
+    "stock": 19,
+    "lastStock": 55,
+    "lastUpdate": "2026-04-15T10:09:40Z",
+    "cycle": 1
   },
   {
     "name": "UD SAMAN HADI",
-    "stock": 27,
+    "stock": 26,
     "lastStock": 0,
-    "lastUpdate": "2026-04-15T08:08:35Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-15T10:12:09Z",
+    "cycle": 1
   },
   {
     "name": "SOEKAMTO",
