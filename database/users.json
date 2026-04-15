@@ -78,24 +78,24 @@
   },
   {
     "name": "MOH SAID",
-    "stock": 28,
+    "stock": 27,
     "lastStock": 0,
-    "lastUpdate": "2026-04-15T04:13:49Z",
-    "cycle": 3
+    "lastUpdate": "2026-04-15T04:22:20Z",
+    "cycle": 4
   },
   {
     "name": "TOKO 2 PUTRI",
-    "stock": 34,
+    "stock": 29,
     "lastStock": 0,
-    "lastUpdate": "2026-04-15T04:13:49Z",
-    "cycle": 3
+    "lastUpdate": "2026-04-15T04:22:20Z",
+    "cycle": 4
   },
   {
     "name": "TOKO IIN",
-    "stock": 55,
+    "stock": 54,
     "lastStock": 0,
-    "lastUpdate": "2026-04-15T04:13:49Z",
-    "cycle": 3
+    "lastUpdate": "2026-04-15T04:22:20Z",
+    "cycle": 4
   },
   {
     "name": "HJ LILIK LAILIYAH",
@@ -106,10 +106,10 @@
   },
   {
     "name": "ERNA PUJIATI",
-    "stock": 17,
+    "stock": 13,
     "lastStock": 0,
-    "lastUpdate": "2026-04-15T04:13:49Z",
-    "cycle": 3
+    "lastUpdate": "2026-04-15T04:22:20Z",
+    "cycle": 4
   },
   {
     "name": "JONI H",
@@ -211,10 +211,10 @@
   },
   {
     "name": "YOGA RAJAN",
-    "stock": 56,
+    "stock": 54,
     "lastStock": 70,
-    "lastUpdate": "2026-04-15T04:17:15Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-15T04:25:19Z",
+    "cycle": 3
   },
   {
     "name": "ARIF FAUZI",
@@ -239,10 +239,10 @@
   },
   {
     "name": "HERDIANA DIYAH S",
-    "stock": 9,
+    "stock": 6,
     "lastStock": 0,
-    "lastUpdate": "2026-04-15T04:18:20Z",
-    "cycle": 1
+    "lastUpdate": "2026-04-15T04:25:33Z",
+    "cycle": 2
   },
   {
     "name": "BUDI",
@@ -269,22 +269,22 @@
     "name": "HJ. HAERONI",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-15T01:13:15Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-15T04:26:29Z",
+    "cycle": 1
   },
   {
     "name": "IMA",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-15T01:17:54Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-15T04:26:39Z",
+    "cycle": 1
   },
   {
     "name": "DARMAWAN P",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-15T01:17:54Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-15T04:27:08Z",
+    "cycle": 1
   },
   {
     "name": "DIYAH UTAMI",
