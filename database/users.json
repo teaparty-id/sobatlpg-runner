@@ -24,8 +24,8 @@
     "name": "EDI SUGENG SARIPAN",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-15T11:09:49Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-15T14:15:27Z",
+    "cycle": 1
   },
   {
     "name": "BINA MAKMUR",
@@ -171,8 +171,8 @@
     "name": "SUROSO",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-15T11:09:49Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-15T14:15:27Z",
+    "cycle": 1
   },
   {
     "name": "HADI SUTOYO",
@@ -192,8 +192,8 @@
     "name": "ONG SWI GIOK",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-15T11:09:49Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-15T14:15:27Z",
+    "cycle": 1
   },
   {
     "name": "YUSUF ISMAIL",
@@ -220,15 +220,15 @@
     "name": "ARIF FAUZI",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-15T11:09:49Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-15T14:15:27Z",
+    "cycle": 1
   },
   {
     "name": "MOH HAFIF",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-15T11:10:27Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-15T14:16:10Z",
+    "cycle": 1
   },
   {
     "name": "SAMSUL ARIFIN",
@@ -309,17 +309,17 @@
   },
   {
     "name": "TK. LUCKY",
-    "stock": 6,
-    "lastStock": 55,
-    "lastUpdate": "2026-04-15T14:07:48Z",
-    "cycle": 3
+    "stock": 1,
+    "lastStock": 0,
+    "lastUpdate": "2026-04-15T14:16:10Z",
+    "cycle": 4
   },
   {
     "name": "UD SAMAN HADI",
-    "stock": 8,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-15T14:07:48Z",
-    "cycle": 3
+    "lastUpdate": "2026-04-15T14:16:11Z",
+    "cycle": 4
   },
   {
     "name": "SOEKAMTO",
