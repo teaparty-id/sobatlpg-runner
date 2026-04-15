@@ -491,10 +491,10 @@
   },
   {
     "name": "TUSOK",
-    "stock": 11,
+    "stock": 10,
     "lastStock": 0,
-    "lastUpdate": "2026-04-15T06:00:41Z",
-    "cycle": 3
+    "lastUpdate": "2026-04-15T06:04:36Z",
+    "cycle": 4
   },
   {
     "name": "DJAMIAH",
@@ -512,9 +512,9 @@
   },
   {
     "name": "ISTIQOMAH",
-    "stock": 20,
+    "stock": 18,
     "lastStock": 0,
-    "lastUpdate": "2026-04-15T06:00:41Z",
-    "cycle": 3
+    "lastUpdate": "2026-04-15T06:04:36Z",
+    "cycle": 4
   }
 ]
