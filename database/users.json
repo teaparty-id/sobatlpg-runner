@@ -29,10 +29,10 @@
   },
   {
     "name": "BINA MAKMUR",
-    "stock": 84,
+    "stock": 82,
     "lastStock": 0,
-    "lastUpdate": "2026-04-15T00:06:51Z",
-    "cycle": 1
+    "lastUpdate": "2026-04-15T00:13:32Z",
+    "cycle": 2
   },
   {
     "name": "HENDRA KURNIAWAN",
@@ -57,10 +57,10 @@
   },
   {
     "name": "JOKO SUWARNO",
-    "stock": 54,
+    "stock": 53,
     "lastStock": 0,
-    "lastUpdate": "2026-04-15T00:06:51Z",
-    "cycle": 1
+    "lastUpdate": "2026-04-15T00:13:32Z",
+    "cycle": 2
   },
   {
     "name": "KARSONO",
@@ -78,10 +78,10 @@
   },
   {
     "name": "MOH SAID",
-    "stock": 49,
+    "stock": 45,
     "lastStock": 0,
-    "lastUpdate": "2026-04-15T00:06:51Z",
-    "cycle": 1
+    "lastUpdate": "2026-04-15T00:13:32Z",
+    "cycle": 2
   },
   {
     "name": "TOKO 2 PUTRI",
@@ -92,10 +92,10 @@
   },
   {
     "name": "TOKO IIN",
-    "stock": 0,
+    "stock": 77,
     "lastStock": 0,
-    "lastUpdate": "2026-04-14T21:08:23Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-15T00:13:32Z",
+    "cycle": 1
   },
   {
     "name": "HJ LILIK LAILIYAH",
@@ -337,17 +337,17 @@
   },
   {
     "name": "TOKO POJOK",
-    "stock": 103,
+    "stock": 102,
     "lastStock": 54,
-    "lastUpdate": "2026-04-15T00:06:51Z",
-    "cycle": 1
+    "lastUpdate": "2026-04-15T00:16:54Z",
+    "cycle": 2
   },
   {
     "name": "UD RAHMAT",
-    "stock": 46,
+    "stock": 44,
     "lastStock": 0,
-    "lastUpdate": "2026-04-15T00:09:47Z",
-    "cycle": 1
+    "lastUpdate": "2026-04-15T00:17:22Z",
+    "cycle": 2
   },
   {
     "name": "ULFA MARIA",
@@ -407,10 +407,10 @@
   },
   {
     "name": "TK. MAJU",
-    "stock": 68,
+    "stock": 66,
     "lastStock": 0,
-    "lastUpdate": "2026-04-15T00:10:04Z",
-    "cycle": 1
+    "lastUpdate": "2026-04-15T00:17:35Z",
+    "cycle": 2
   },
   {
     "name": "H. JUMAT",
@@ -500,8 +500,8 @@
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-15T00:10:59Z",
-    "cycle": 1
+    "lastUpdate": "2026-04-15T00:17:47Z",
+    "cycle": 2
   },
   {
     "name": "SUMBER REJEKI",
