@@ -1,10 +1,10 @@
 [
   {
     "name": "AKBAR RISQ",
-    "stock": 89,
+    "stock": 86,
     "lastStock": 0,
-    "lastUpdate": "2026-04-15T01:17:54Z",
-    "cycle": 3
+    "lastUpdate": "2026-04-15T01:21:57Z",
+    "cycle": 4
   },
   {
     "name": "ATHI HANDAYANI",
@@ -15,10 +15,10 @@
   },
   {
     "name": "CINDRAWATI",
-    "stock": 0,
+    "stock": 58,
     "lastStock": 0,
-    "lastUpdate": "2026-04-14T22:21:41Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-15T01:21:57Z",
+    "cycle": 1
   },
   {
     "name": "EDI SUGENG SARIPAN",
@@ -211,10 +211,10 @@
   },
   {
     "name": "YOGA RAJAN",
-    "stock": 58,
+    "stock": 57,
     "lastStock": 70,
-    "lastUpdate": "2026-04-15T01:17:54Z",
-    "cycle": 3
+    "lastUpdate": "2026-04-15T01:21:57Z",
+    "cycle": 4
   },
   {
     "name": "ARIF FAUZI",
@@ -295,24 +295,24 @@
   },
   {
     "name": "SALMAH",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-15T01:18:39Z",
-    "cycle": 1
+    "lastUpdate": "2026-04-15T01:21:57Z",
+    "cycle": 2
   },
   {
     "name": "TOKO ANITA",
-    "stock": 0,
+    "stock": 46,
     "lastStock": 45,
-    "lastUpdate": "2026-04-14T22:21:41Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-15T01:22:39Z",
+    "cycle": 1
   },
   {
     "name": "TK. LUCKY",
-    "stock": 0,
+    "stock": 48,
     "lastStock": 55,
-    "lastUpdate": "2026-04-14T22:17:26Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-15T01:24:48Z",
+    "cycle": 1
   },
   {
     "name": "UD SAMAN HADI",
@@ -325,8 +325,8 @@
     "name": "SOEKAMTO",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-14T22:21:41Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-15T01:25:43Z",
+    "cycle": 1
   },
   {
     "name": "TOKO TIARA",
@@ -442,10 +442,10 @@
   },
   {
     "name": "ALFIAN DWI A.",
-    "stock": 109,
+    "stock": 104,
     "lastStock": 63,
-    "lastUpdate": "2026-04-15T01:03:49Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-15T01:26:22Z",
+    "cycle": 3
   },
   {
     "name": "TOKO IRAWAN",
@@ -505,10 +505,10 @@
   },
   {
     "name": "SUMBER REJEKI",
-    "stock": 0,
+    "stock": 77,
     "lastStock": 1,
-    "lastUpdate": "2026-04-14T22:07:15Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-15T01:26:27Z",
+    "cycle": 1
   },
   {
     "name": "ISTIQOMAH",
