@@ -227,8 +227,8 @@
     "name": "MOH HAFIF",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-15T20:46:56Z",
-    "cycle": 1
+    "lastUpdate": "2026-04-15T20:47:54Z",
+    "cycle": 2
   },
   {
     "name": "SAMSUL ARIFIN",
@@ -276,22 +276,22 @@
     "name": "IMA",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-15T20:46:56Z",
-    "cycle": 1
+    "lastUpdate": "2026-04-15T20:47:54Z",
+    "cycle": 2
   },
   {
     "name": "DARMAWAN P",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-15T20:46:56Z",
-    "cycle": 1
+    "lastUpdate": "2026-04-15T20:47:54Z",
+    "cycle": 2
   },
   {
     "name": "DIYAH UTAMI",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-15T17:42:55Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-15T20:47:54Z",
+    "cycle": 1
   },
   {
     "name": "SALMAH",
