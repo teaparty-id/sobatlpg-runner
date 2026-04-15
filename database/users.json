@@ -346,15 +346,15 @@
     "name": "UD RAHMAT",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-15T11:11:17Z",
-    "cycle": 4
+    "lastUpdate": "2026-04-15T11:11:52Z",
+    "cycle": 5
   },
   {
     "name": "ULFA MARIA",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-15T11:11:17Z",
-    "cycle": 1
+    "lastUpdate": "2026-04-15T11:11:52Z",
+    "cycle": 2
   },
   {
     "name": "TOKO SURYATI",
@@ -381,8 +381,8 @@
     "name": "ABDUL WAFI",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-15T11:11:17Z",
-    "cycle": 4
+    "lastUpdate": "2026-04-15T11:11:52Z",
+    "cycle": 5
   },
   {
     "name": "YUNIS WAHYUNI",
@@ -407,10 +407,10 @@
   },
   {
     "name": "TK. MAJU",
-    "stock": 40,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-15T11:01:55Z",
-    "cycle": 3
+    "lastUpdate": "2026-04-15T11:11:52Z",
+    "cycle": 4
   },
   {
     "name": "H. JUMAT",
