@@ -87,8 +87,8 @@
     "name": "TOKO 2 PUTRI",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-15T11:41:10Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-15T14:42:22Z",
+    "cycle": 1
   },
   {
     "name": "TOKO IIN",
@@ -477,10 +477,10 @@
   },
   {
     "name": "TITIK ISMIATIN",
-    "stock": 13,
+    "stock": 11,
     "lastStock": 3,
-    "lastUpdate": "2026-04-15T14:38:21Z",
-    "cycle": 3
+    "lastUpdate": "2026-04-15T14:42:22Z",
+    "cycle": 4
   },
   {
     "name": "SRI UTAMI",
@@ -500,15 +500,15 @@
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-15T14:38:21Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-15T14:42:22Z",
+    "cycle": 3
   },
   {
     "name": "SUMBER REJEKI",
-    "stock": 37,
+    "stock": 33,
     "lastStock": 1,
-    "lastUpdate": "2026-04-15T14:38:21Z",
-    "cycle": 1
+    "lastUpdate": "2026-04-15T14:42:22Z",
+    "cycle": 2
   },
   {
     "name": "ISTIQOMAH",
