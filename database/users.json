@@ -29,10 +29,10 @@
   },
   {
     "name": "BINA MAKMUR",
-    "stock": 82,
+    "stock": 80,
     "lastStock": 0,
-    "lastUpdate": "2026-04-15T00:13:32Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-15T00:21:57Z",
+    "cycle": 3
   },
   {
     "name": "HENDRA KURNIAWAN",
@@ -50,17 +50,17 @@
   },
   {
     "name": "JAENAL",
-    "stock": 0,
+    "stock": 100,
     "lastStock": 13,
-    "lastUpdate": "2026-04-14T21:19:45Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-15T00:21:57Z",
+    "cycle": 1
   },
   {
     "name": "JOKO SUWARNO",
-    "stock": 53,
+    "stock": 50,
     "lastStock": 0,
-    "lastUpdate": "2026-04-15T00:13:32Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-15T00:21:57Z",
+    "cycle": 3
   },
   {
     "name": "KARSONO",
@@ -78,10 +78,10 @@
   },
   {
     "name": "MOH SAID",
-    "stock": 45,
+    "stock": 43,
     "lastStock": 0,
-    "lastUpdate": "2026-04-15T00:13:32Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-15T00:21:57Z",
+    "cycle": 3
   },
   {
     "name": "TOKO 2 PUTRI",
@@ -94,8 +94,8 @@
     "name": "TOKO IIN",
     "stock": 77,
     "lastStock": 0,
-    "lastUpdate": "2026-04-15T00:13:32Z",
-    "cycle": 1
+    "lastUpdate": "2026-04-15T00:25:08Z",
+    "cycle": 2
   },
   {
     "name": "HJ LILIK LAILIYAH",
@@ -339,15 +339,15 @@
     "name": "TOKO POJOK",
     "stock": 102,
     "lastStock": 54,
-    "lastUpdate": "2026-04-15T00:16:54Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-15T00:25:41Z",
+    "cycle": 3
   },
   {
     "name": "UD RAHMAT",
-    "stock": 44,
+    "stock": 43,
     "lastStock": 0,
-    "lastUpdate": "2026-04-15T00:17:22Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-15T00:26:04Z",
+    "cycle": 3
   },
   {
     "name": "ULFA MARIA",
@@ -409,8 +409,8 @@
     "name": "TK. MAJU",
     "stock": 66,
     "lastStock": 0,
-    "lastUpdate": "2026-04-15T00:17:35Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-15T00:26:47Z",
+    "cycle": 3
   },
   {
     "name": "H. JUMAT",
@@ -500,8 +500,8 @@
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-15T00:17:47Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-15T00:27:54Z",
+    "cycle": 3
   },
   {
     "name": "SUMBER REJEKI",
