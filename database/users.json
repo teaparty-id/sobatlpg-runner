@@ -80,22 +80,22 @@
     "name": "MOH SAID",
     "stock": 27,
     "lastStock": 0,
-    "lastUpdate": "2026-04-15T04:22:20Z",
-    "cycle": 4
+    "lastUpdate": "2026-04-15T04:29:56Z",
+    "cycle": 5
   },
   {
     "name": "TOKO 2 PUTRI",
-    "stock": 29,
+    "stock": 28,
     "lastStock": 0,
-    "lastUpdate": "2026-04-15T04:22:20Z",
-    "cycle": 4
+    "lastUpdate": "2026-04-15T04:29:56Z",
+    "cycle": 5
   },
   {
     "name": "TOKO IIN",
     "stock": 54,
     "lastStock": 0,
-    "lastUpdate": "2026-04-15T04:22:20Z",
-    "cycle": 4
+    "lastUpdate": "2026-04-15T04:29:56Z",
+    "cycle": 5
   },
   {
     "name": "HJ LILIK LAILIYAH",
@@ -106,10 +106,10 @@
   },
   {
     "name": "ERNA PUJIATI",
-    "stock": 13,
+    "stock": 10,
     "lastStock": 0,
-    "lastUpdate": "2026-04-15T04:22:20Z",
-    "cycle": 4
+    "lastUpdate": "2026-04-15T04:29:56Z",
+    "cycle": 5
   },
   {
     "name": "JONI H",
@@ -211,10 +211,10 @@
   },
   {
     "name": "YOGA RAJAN",
-    "stock": 54,
+    "stock": 51,
     "lastStock": 70,
-    "lastUpdate": "2026-04-15T04:25:19Z",
-    "cycle": 3
+    "lastUpdate": "2026-04-15T04:32:40Z",
+    "cycle": 4
   },
   {
     "name": "ARIF FAUZI",
@@ -239,10 +239,10 @@
   },
   {
     "name": "HERDIANA DIYAH S",
-    "stock": 6,
+    "stock": 5,
     "lastStock": 0,
-    "lastUpdate": "2026-04-15T04:25:33Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-15T04:33:00Z",
+    "cycle": 3
   },
   {
     "name": "BUDI",
@@ -290,22 +290,22 @@
     "name": "DIYAH UTAMI",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-15T01:18:38Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-15T04:33:03Z",
+    "cycle": 1
   },
   {
     "name": "SALMAH",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-15T01:21:57Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-15T04:33:20Z",
+    "cycle": 1
   },
   {
     "name": "TOKO ANITA",
-    "stock": 37,
+    "stock": 36,
     "lastStock": 45,
-    "lastUpdate": "2026-04-15T02:12:16Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-15T04:33:43Z",
+    "cycle": 1
   },
   {
     "name": "TK. LUCKY",
