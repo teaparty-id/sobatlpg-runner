@@ -486,35 +486,35 @@
     "name": "SRI UTAMI",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-15T05:51:41Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-15T08:56:50Z",
+    "cycle": 1
   },
   {
     "name": "TUSOK",
-    "stock": 4,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-15T08:50:06Z",
-    "cycle": 4
+    "lastUpdate": "2026-04-15T08:56:50Z",
+    "cycle": 5
   },
   {
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-15T08:50:06Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-15T08:56:50Z",
+    "cycle": 3
   },
   {
     "name": "SUMBER REJEKI",
-    "stock": 55,
+    "stock": 54,
     "lastStock": 1,
-    "lastUpdate": "2026-04-15T08:50:49Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-15T08:56:50Z",
+    "cycle": 3
   },
   {
     "name": "ISTIQOMAH",
-    "stock": 1,
+    "stock": 6,
     "lastStock": 0,
-    "lastUpdate": "2026-04-15T08:51:07Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-15T08:57:31Z",
+    "cycle": 3
   }
 ]
