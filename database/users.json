@@ -22,10 +22,10 @@
   },
   {
     "name": "EDI SUGENG SARIPAN",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-15T04:54:40Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-15T08:04:21Z",
+    "cycle": 1
   },
   {
     "name": "BINA MAKMUR",
@@ -169,10 +169,10 @@
   },
   {
     "name": "SUROSO",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-15T04:54:40Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-15T08:04:21Z",
+    "cycle": 1
   },
   {
     "name": "HADI SUTOYO",
@@ -190,10 +190,10 @@
   },
   {
     "name": "ONG SWI GIOK",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-15T04:54:40Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-15T08:04:21Z",
+    "cycle": 1
   },
   {
     "name": "YUSUF ISMAIL",
@@ -218,10 +218,10 @@
   },
   {
     "name": "ARIF FAUZI",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-15T04:54:40Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-15T08:04:21Z",
+    "cycle": 1
   },
   {
     "name": "MOH HAFIF",
