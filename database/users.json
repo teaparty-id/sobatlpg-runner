@@ -71,31 +71,31 @@
   },
   {
     "name": "LUTFI A.",
-    "stock": 62,
+    "stock": 61,
     "lastStock": 0,
-    "lastUpdate": "2026-04-16T03:37:46Z",
-    "cycle": 4
+    "lastUpdate": "2026-04-16T03:45:46Z",
+    "cycle": 5
   },
   {
     "name": "MOH SAID",
     "stock": 43,
     "lastStock": 0,
-    "lastUpdate": "2026-04-16T03:37:46Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-16T03:45:46Z",
+    "cycle": 3
   },
   {
     "name": "TOKO 2 PUTRI",
-    "stock": 38,
+    "stock": 37,
     "lastStock": 0,
-    "lastUpdate": "2026-04-16T03:37:46Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-16T03:45:46Z",
+    "cycle": 3
   },
   {
     "name": "TOKO IIN",
     "stock": 63,
     "lastStock": 0,
-    "lastUpdate": "2026-04-16T03:37:46Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-16T03:45:46Z",
+    "cycle": 3
   },
   {
     "name": "HJ LILIK LAILIYAH",
@@ -122,8 +122,8 @@
     "name": "ROSA V",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-16T00:42:09Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-16T03:48:08Z",
+    "cycle": 1
   },
   {
     "name": "LUKMAN BS",
@@ -234,8 +234,8 @@
     "name": "SAMSUL ARIFIN",
     "stock": 3,
     "lastStock": 0,
-    "lastUpdate": "2026-04-16T03:40:56Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-16T03:48:11Z",
+    "cycle": 3
   },
   {
     "name": "HERDIANA DIYAH S",
@@ -253,10 +253,10 @@
   },
   {
     "name": "YULI SORAYA",
-    "stock": 33,
+    "stock": 32,
     "lastStock": 0,
-    "lastUpdate": "2026-04-16T03:41:21Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-16T03:48:23Z",
+    "cycle": 3
   },
   {
     "name": "SUSILO",
@@ -290,15 +290,15 @@
     "name": "DIYAH UTAMI",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-15T23:50:59Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-16T03:48:39Z",
+    "cycle": 1
   },
   {
     "name": "SALMAH",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-15T23:51:06Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-16T03:48:49Z",
+    "cycle": 1
   },
   {
     "name": "TOKO ANITA",
