@@ -1,10 +1,10 @@
 [
   {
     "name": "AKBAR RISQ",
-    "stock": 95,
+    "stock": 91,
     "lastStock": 0,
-    "lastUpdate": "2026-04-16T01:37:18Z",
-    "cycle": 1
+    "lastUpdate": "2026-04-16T01:41:26Z",
+    "cycle": 2
   },
   {
     "name": "ATHI HANDAYANI",
@@ -407,10 +407,10 @@
   },
   {
     "name": "TK. MAJU",
-    "stock": 67,
+    "stock": 63,
     "lastStock": 0,
-    "lastUpdate": "2026-04-16T01:37:18Z",
-    "cycle": 4
+    "lastUpdate": "2026-04-16T01:41:26Z",
+    "cycle": 5
   },
   {
     "name": "H. JUMAT",
@@ -442,10 +442,10 @@
   },
   {
     "name": "ALFIAN DWI A.",
-    "stock": 128,
+    "stock": 127,
     "lastStock": 63,
-    "lastUpdate": "2026-04-16T01:37:18Z",
-    "cycle": 3
+    "lastUpdate": "2026-04-16T01:41:26Z",
+    "cycle": 4
   },
   {
     "name": "TOKO IRAWAN",
@@ -477,44 +477,44 @@
   },
   {
     "name": "TITIK ISMIATIN",
-    "stock": 0,
+    "stock": 74,
     "lastStock": 3,
-    "lastUpdate": "2026-04-15T22:39:47Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-16T01:41:26Z",
+    "cycle": 1
   },
   {
     "name": "SRI UTAMI",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-16T01:38:40Z",
-    "cycle": 1
+    "lastUpdate": "2026-04-16T01:44:59Z",
+    "cycle": 2
   },
   {
     "name": "TUSOK",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-15T21:08:59Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-16T01:45:57Z",
+    "cycle": 1
   },
   {
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-15T23:20:19Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-16T01:46:07Z",
+    "cycle": 1
   },
   {
     "name": "SUMBER REJEKI",
-    "stock": 0,
+    "stock": 77,
     "lastStock": 1,
-    "lastUpdate": "2026-04-15T21:14:17Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-16T01:46:07Z",
+    "cycle": 1
   },
   {
     "name": "ISTIQOMAH",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-15T21:09:38Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-16T01:46:34Z",
+    "cycle": 1
   }
 ]
