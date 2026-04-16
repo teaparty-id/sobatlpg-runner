@@ -87,15 +87,15 @@
     "name": "TOKO 2 PUTRI",
     "stock": 23,
     "lastStock": 0,
-    "lastUpdate": "2026-04-16T05:47:24Z",
-    "cycle": 4
+    "lastUpdate": "2026-04-16T05:50:50Z",
+    "cycle": 5
   },
   {
     "name": "TOKO IIN",
     "stock": 49,
     "lastStock": 0,
-    "lastUpdate": "2026-04-16T05:47:24Z",
-    "cycle": 4
+    "lastUpdate": "2026-04-16T05:50:50Z",
+    "cycle": 5
   },
   {
     "name": "HJ LILIK LAILIYAH",
@@ -253,17 +253,17 @@
   },
   {
     "name": "YULI SORAYA",
-    "stock": 1,
+    "stock": 21,
     "lastStock": 0,
-    "lastUpdate": "2026-04-16T05:48:48Z",
-    "cycle": 1
+    "lastUpdate": "2026-04-16T05:50:50Z",
+    "cycle": 2
   },
   {
     "name": "SUSILO",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-16T05:48:49Z",
-    "cycle": 1
+    "lastUpdate": "2026-04-16T05:50:50Z",
+    "cycle": 2
   },
   {
     "name": "HJ. HAERONI",
@@ -337,10 +337,10 @@
   },
   {
     "name": "TOKO POJOK",
-    "stock": 1,
-    "lastStock": 0,
-    "lastUpdate": "2026-04-16T04:11:13Z",
-    "cycle": 0
+    "stock": 123,
+    "lastStock": 54,
+    "lastUpdate": "2026-04-16T05:51:32Z",
+    "cycle": 1
   },
   {
     "name": "UD RAHMAT",
@@ -379,10 +379,10 @@
   },
   {
     "name": "ABDUL WAFI",
-    "stock": 93,
+    "stock": 92,
     "lastStock": 0,
-    "lastUpdate": "2026-04-16T04:11:51Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-16T05:53:42Z",
+    "cycle": 1
   },
   {
     "name": "YUNIS WAHYUNI",
@@ -409,8 +409,8 @@
     "name": "TK. MAJU",
     "stock": 62,
     "lastStock": 0,
-    "lastUpdate": "2026-04-16T04:11:51Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-16T05:53:59Z",
+    "cycle": 1
   },
   {
     "name": "H. JUMAT",
@@ -444,8 +444,8 @@
     "name": "ALFIAN DWI A.",
     "stock": 124,
     "lastStock": 63,
-    "lastUpdate": "2026-04-16T04:23:23Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-16T05:54:11Z",
+    "cycle": 1
   },
   {
     "name": "TOKO IRAWAN",
@@ -465,8 +465,8 @@
     "name": "P. SUK",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-16T01:37:18Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-16T05:55:30Z",
+    "cycle": 1
   },
   {
     "name": "WIKAN K",
