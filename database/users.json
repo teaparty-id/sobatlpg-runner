@@ -337,10 +337,10 @@
   },
   {
     "name": "TOKO POJOK",
-    "stock": 114,
+    "stock": 113,
     "lastStock": 54,
-    "lastUpdate": "2026-04-17T22:52:09Z",
-    "cycle": 4
+    "lastUpdate": "2026-04-17T22:56:19Z",
+    "cycle": 5
   },
   {
     "name": "UD RAHMAT",
@@ -358,10 +358,10 @@
   },
   {
     "name": "TOKO SURYATI",
-    "stock": 33,
+    "stock": 31,
     "lastStock": 1,
-    "lastUpdate": "2026-04-17T22:52:09Z",
-    "cycle": 3
+    "lastUpdate": "2026-04-17T22:56:19Z",
+    "cycle": 4
   },
   {
     "name": "SUDJIONO",
@@ -379,10 +379,10 @@
   },
   {
     "name": "ABDUL WAFI",
-    "stock": 120,
+    "stock": 119,
     "lastStock": 0,
-    "lastUpdate": "2026-04-17T22:52:09Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-17T22:56:19Z",
+    "cycle": 3
   },
   {
     "name": "YUNIS WAHYUNI",
@@ -407,24 +407,24 @@
   },
   {
     "name": "TK. MAJU",
-    "stock": 1,
+    "stock": 55,
     "lastStock": 0,
-    "lastUpdate": "2026-04-17T22:53:28Z",
-    "cycle": 1
+    "lastUpdate": "2026-04-17T22:56:19Z",
+    "cycle": 2
   },
   {
     "name": "H. JUMAT",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-17T19:22:18Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-17T22:59:59Z",
+    "cycle": 1
   },
   {
     "name": "HARSININGSIH",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-17T19:22:57Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-17T23:00:35Z",
+    "cycle": 1
   },
   {
     "name": "CAHYA HERAWATI",
@@ -442,10 +442,10 @@
   },
   {
     "name": "ALFIAN DWI A.",
-    "stock": 122,
+    "stock": 121,
     "lastStock": 63,
-    "lastUpdate": "2026-04-17T20:57:37Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-17T23:00:39Z",
+    "cycle": 1
   },
   {
     "name": "TOKO IRAWAN",
@@ -500,15 +500,15 @@
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-17T21:17:26Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-17T23:00:45Z",
+    "cycle": 1
   },
   {
     "name": "SUMBER REJEKI",
-    "stock": 55,
+    "stock": 51,
     "lastStock": 1,
-    "lastUpdate": "2026-04-17T21:22:32Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-17T23:00:46Z",
+    "cycle": 1
   },
   {
     "name": "ISTIQOMAH",
