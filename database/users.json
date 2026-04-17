@@ -150,22 +150,22 @@
     "name": "YUDA",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-17T15:59:47Z",
-    "cycle": 1
+    "lastUpdate": "2026-04-17T16:00:43Z",
+    "cycle": 2
   },
   {
     "name": "BAMBANG HARTONO",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-17T15:59:48Z",
-    "cycle": 1
+    "lastUpdate": "2026-04-17T16:00:43Z",
+    "cycle": 2
   },
   {
     "name": "NADIFATUS SOLEHA",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-17T15:59:48Z",
-    "cycle": 1
+    "lastUpdate": "2026-04-17T16:00:43Z",
+    "cycle": 2
   },
   {
     "name": "SUROSO",
@@ -176,10 +176,10 @@
   },
   {
     "name": "HADI SUTOYO",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-17T12:59:50Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-17T16:00:43Z",
+    "cycle": 1
   },
   {
     "name": "SRI HIDAYATI",
