@@ -52,8 +52,8 @@
     "name": "JAENAL",
     "stock": 149,
     "lastStock": 13,
-    "lastUpdate": "2026-04-17T04:07:11Z",
-    "cycle": 3
+    "lastUpdate": "2026-04-17T04:15:41Z",
+    "cycle": 4
   },
   {
     "name": "JOKO SUWARNO",
@@ -337,9 +337,9 @@
   },
   {
     "name": "TOKO POJOK",
-    "stock": 207,
+    "stock": 206,
     "lastStock": 54,
-    "lastUpdate": "2026-04-17T04:07:11Z",
+    "lastUpdate": "2026-04-17T04:15:41Z",
     "cycle": 1
   },
   {
@@ -358,10 +358,10 @@
   },
   {
     "name": "TOKO SURYATI",
-    "stock": 42,
+    "stock": 40,
     "lastStock": 1,
-    "lastUpdate": "2026-04-17T04:07:11Z",
-    "cycle": 4
+    "lastUpdate": "2026-04-17T04:15:41Z",
+    "cycle": 5
   },
   {
     "name": "SUDJIONO",
@@ -381,7 +381,7 @@
     "name": "ABDUL WAFI",
     "stock": 176,
     "lastStock": 0,
-    "lastUpdate": "2026-04-17T04:10:25Z",
+    "lastUpdate": "2026-04-17T04:15:41Z",
     "cycle": 1
   },
   {
@@ -407,10 +407,10 @@
   },
   {
     "name": "TK. MAJU",
-    "stock": 133,
+    "stock": 132,
     "lastStock": 0,
-    "lastUpdate": "2026-04-17T04:10:39Z",
-    "cycle": 3
+    "lastUpdate": "2026-04-17T04:18:13Z",
+    "cycle": 4
   },
   {
     "name": "H. JUMAT",
@@ -442,9 +442,9 @@
   },
   {
     "name": "ALFIAN DWI A.",
-    "stock": 212,
+    "stock": 211,
     "lastStock": 63,
-    "lastUpdate": "2026-04-17T04:11:28Z",
+    "lastUpdate": "2026-04-17T04:18:57Z",
     "cycle": 1
   },
   {
@@ -456,24 +456,24 @@
   },
   {
     "name": "SUPARMAN",
-    "stock": 0,
+    "stock": 31,
     "lastStock": 0,
-    "lastUpdate": "2026-04-16T08:54:26Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-17T04:19:24Z",
+    "cycle": 1
   },
   {
     "name": "P. SUK",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-16T08:57:41Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-17T04:19:38Z",
+    "cycle": 1
   },
   {
     "name": "WIKAN K",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-16T09:02:18Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-17T04:20:19Z",
+    "cycle": 1
   },
   {
     "name": "TITIK ISMIATIN",
