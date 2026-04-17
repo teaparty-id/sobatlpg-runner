@@ -50,38 +50,38 @@
   },
   {
     "name": "JAENAL",
-    "stock": 112,
+    "stock": 110,
     "lastStock": 13,
-    "lastUpdate": "2026-04-17T19:50:50Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-17T19:56:42Z",
+    "cycle": 3
   },
   {
     "name": "JOKO SUWARNO",
-    "stock": 43,
+    "stock": 42,
     "lastStock": 0,
-    "lastUpdate": "2026-04-17T19:51:18Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-17T19:56:42Z",
+    "cycle": 3
   },
   {
     "name": "KARSONO",
-    "stock": 55,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-17T19:51:24Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-17T19:56:42Z",
+    "cycle": 3
   },
   {
     "name": "LUTFI A.",
-    "stock": 91,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-17T19:52:48Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-17T19:56:42Z",
+    "cycle": 3
   },
   {
     "name": "MOH SAID",
-    "stock": 28,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-17T19:53:07Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-17T19:59:11Z",
+    "cycle": 3
   },
   {
     "name": "TOKO 2 PUTRI",
@@ -344,10 +344,10 @@
   },
   {
     "name": "UD RAHMAT",
-    "stock": 6,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-17T19:31:54Z",
-    "cycle": 1
+    "lastUpdate": "2026-04-17T20:00:33Z",
+    "cycle": 2
   },
   {
     "name": "ULFA MARIA",
@@ -358,10 +358,10 @@
   },
   {
     "name": "TOKO SURYATI",
-    "stock": 57,
+    "stock": 49,
     "lastStock": 1,
-    "lastUpdate": "2026-04-17T19:31:57Z",
-    "cycle": 1
+    "lastUpdate": "2026-04-17T20:00:33Z",
+    "cycle": 2
   },
   {
     "name": "SUDJIONO",
@@ -381,15 +381,15 @@
     "name": "ABDUL WAFI",
     "stock": 127,
     "lastStock": 0,
-    "lastUpdate": "2026-04-17T18:50:23Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-17T20:00:33Z",
+    "cycle": 1
   },
   {
     "name": "YUNIS WAHYUNI",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-17T16:36:54Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-17T20:00:39Z",
+    "cycle": 1
   },
   {
     "name": "ROSIDI",
