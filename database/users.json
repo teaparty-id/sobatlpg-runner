@@ -85,10 +85,10 @@
   },
   {
     "name": "TOKO 2 PUTRI",
-    "stock": 56,
+    "stock": 53,
     "lastStock": 0,
-    "lastUpdate": "2026-04-17T23:39:49Z",
-    "cycle": 1
+    "lastUpdate": "2026-04-17T23:43:47Z",
+    "cycle": 2
   },
   {
     "name": "TOKO IIN",
@@ -381,7 +381,7 @@
     "name": "ABDUL WAFI",
     "stock": 214,
     "lastStock": 0,
-    "lastUpdate": "2026-04-17T23:39:49Z",
+    "lastUpdate": "2026-04-17T23:43:47Z",
     "cycle": 1
   },
   {
@@ -442,9 +442,9 @@
   },
   {
     "name": "ALFIAN DWI A.",
-    "stock": 217,
+    "stock": 216,
     "lastStock": 63,
-    "lastUpdate": "2026-04-17T23:39:49Z",
+    "lastUpdate": "2026-04-17T23:43:47Z",
     "cycle": 1
   },
   {
