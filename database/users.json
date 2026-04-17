@@ -297,8 +297,8 @@
     "name": "SALMAH",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-17T18:03:48Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-17T21:06:51Z",
+    "cycle": 1
   },
   {
     "name": "TOKO ANITA",
@@ -500,15 +500,15 @@
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-17T21:01:43Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-17T21:06:51Z",
+    "cycle": 3
   },
   {
     "name": "SUMBER REJEKI",
-    "stock": 73,
+    "stock": 69,
     "lastStock": 1,
-    "lastUpdate": "2026-04-17T21:01:43Z",
-    "cycle": 1
+    "lastUpdate": "2026-04-17T21:06:51Z",
+    "cycle": 2
   },
   {
     "name": "ISTIQOMAH",
