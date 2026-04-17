@@ -85,17 +85,17 @@
   },
   {
     "name": "TOKO 2 PUTRI",
-    "stock": 9,
+    "stock": 8,
     "lastStock": 0,
-    "lastUpdate": "2026-04-17T18:27:08Z",
-    "cycle": 4
+    "lastUpdate": "2026-04-17T18:36:29Z",
+    "cycle": 5
   },
   {
     "name": "TOKO IIN",
-    "stock": 19,
+    "stock": 17,
     "lastStock": 0,
-    "lastUpdate": "2026-04-17T18:27:08Z",
-    "cycle": 4
+    "lastUpdate": "2026-04-17T18:36:29Z",
+    "cycle": 5
   },
   {
     "name": "HJ LILIK LAILIYAH",
@@ -304,8 +304,8 @@
     "name": "TOKO ANITA",
     "stock": 20,
     "lastStock": 45,
-    "lastUpdate": "2026-04-17T18:27:08Z",
-    "cycle": 3
+    "lastUpdate": "2026-04-17T18:36:29Z",
+    "cycle": 4
   },
   {
     "name": "TK. LUCKY",
@@ -337,17 +337,17 @@
   },
   {
     "name": "TOKO POJOK",
-    "stock": 129,
+    "stock": 126,
     "lastStock": 54,
-    "lastUpdate": "2026-04-17T18:27:08Z",
-    "cycle": 3
+    "lastUpdate": "2026-04-17T18:36:29Z",
+    "cycle": 4
   },
   {
     "name": "UD RAHMAT",
-    "stock": 8,
+    "stock": 7,
     "lastStock": 0,
-    "lastUpdate": "2026-04-17T18:29:54Z",
-    "cycle": 3
+    "lastUpdate": "2026-04-17T18:39:03Z",
+    "cycle": 4
   },
   {
     "name": "ULFA MARIA",
@@ -360,8 +360,8 @@
     "name": "TOKO SURYATI",
     "stock": 60,
     "lastStock": 1,
-    "lastUpdate": "2026-04-17T18:30:02Z",
-    "cycle": 3
+    "lastUpdate": "2026-04-17T18:39:50Z",
+    "cycle": 4
   },
   {
     "name": "SUDJIONO",
@@ -381,8 +381,8 @@
     "name": "ABDUL WAFI",
     "stock": 128,
     "lastStock": 0,
-    "lastUpdate": "2026-04-17T18:30:30Z",
-    "cycle": 3
+    "lastUpdate": "2026-04-17T18:40:04Z",
+    "cycle": 4
   },
   {
     "name": "YUNIS WAHYUNI",
@@ -407,10 +407,10 @@
   },
   {
     "name": "TK. MAJU",
-    "stock": 80,
+    "stock": 78,
     "lastStock": 0,
-    "lastUpdate": "2026-04-17T18:30:31Z",
-    "cycle": 3
+    "lastUpdate": "2026-04-17T18:41:12Z",
+    "cycle": 4
   },
   {
     "name": "H. JUMAT",
@@ -444,8 +444,8 @@
     "name": "ALFIAN DWI A.",
     "stock": 132,
     "lastStock": 63,
-    "lastUpdate": "2026-04-17T18:32:54Z",
-    "cycle": 1
+    "lastUpdate": "2026-04-17T18:42:06Z",
+    "cycle": 2
   },
   {
     "name": "TOKO IRAWAN",
