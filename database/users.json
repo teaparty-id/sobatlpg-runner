@@ -339,8 +339,8 @@
     "name": "TOKO POJOK",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-17T06:11:53Z",
-    "cycle": 1
+    "lastUpdate": "2026-04-17T06:12:46Z",
+    "cycle": 2
   },
   {
     "name": "UD RAHMAT",
@@ -381,8 +381,8 @@
     "name": "ABDUL WAFI",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-17T06:11:53Z",
-    "cycle": 1
+    "lastUpdate": "2026-04-17T06:12:46Z",
+    "cycle": 2
   },
   {
     "name": "YUNIS WAHYUNI",
@@ -442,9 +442,9 @@
   },
   {
     "name": "ALFIAN DWI A.",
-    "stock": 184,
-    "lastStock": 63,
-    "lastUpdate": "2026-04-17T06:05:27Z",
+    "stock": 1,
+    "lastStock": 0,
+    "lastUpdate": "2026-04-17T06:12:46Z",
     "cycle": 1
   },
   {
