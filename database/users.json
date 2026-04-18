@@ -1,9 +1,9 @@
 [
   {
     "name": "AKBAR RISQ",
-    "stock": 167,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-18T13:29:19Z",
+    "lastUpdate": "2026-04-18T13:36:20Z",
     "cycle": 1
   },
   {
@@ -50,9 +50,9 @@
   },
   {
     "name": "JAENAL",
-    "stock": 192,
+    "stock": 190,
     "lastStock": 13,
-    "lastUpdate": "2026-04-18T13:29:19Z",
+    "lastUpdate": "2026-04-18T13:36:20Z",
     "cycle": 1
   },
   {
@@ -337,9 +337,9 @@
   },
   {
     "name": "TOKO POJOK",
-    "stock": 208,
-    "lastStock": 54,
-    "lastUpdate": "2026-04-18T13:29:19Z",
+    "stock": 1,
+    "lastStock": 0,
+    "lastUpdate": "2026-04-18T13:36:20Z",
     "cycle": 1
   },
   {
@@ -409,15 +409,15 @@
     "name": "TK. MAJU",
     "stock": 118,
     "lastStock": 0,
-    "lastUpdate": "2026-04-18T13:31:43Z",
-    "cycle": 4
+    "lastUpdate": "2026-04-18T13:36:20Z",
+    "cycle": 5
   },
   {
     "name": "H. JUMAT",
-    "stock": 47,
+    "stock": 46,
     "lastStock": 0,
-    "lastUpdate": "2026-04-18T13:32:09Z",
-    "cycle": 3
+    "lastUpdate": "2026-04-18T13:37:05Z",
+    "cycle": 4
   },
   {
     "name": "HARSININGSIH",
@@ -442,10 +442,10 @@
   },
   {
     "name": "ALFIAN DWI A.",
-    "stock": 141,
-    "lastStock": 63,
-    "lastUpdate": "2026-04-18T13:32:58Z",
-    "cycle": 1
+    "stock": 1,
+    "lastStock": 0,
+    "lastUpdate": "2026-04-18T13:37:23Z",
+    "cycle": 2
   },
   {
     "name": "TOKO IRAWAN",
