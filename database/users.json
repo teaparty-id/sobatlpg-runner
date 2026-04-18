@@ -1,9 +1,9 @@
 [
   {
     "name": "AKBAR RISQ",
-    "stock": 161,
+    "stock": 159,
     "lastStock": 0,
-    "lastUpdate": "2026-04-18T14:50:24Z",
+    "lastUpdate": "2026-04-18T14:54:30Z",
     "cycle": 1
   },
   {
@@ -50,9 +50,9 @@
   },
   {
     "name": "JAENAL",
-    "stock": 177,
+    "stock": 176,
     "lastStock": 13,
-    "lastUpdate": "2026-04-18T14:50:24Z",
+    "lastUpdate": "2026-04-18T14:54:30Z",
     "cycle": 1
   },
   {
@@ -192,8 +192,8 @@
     "name": "ONG SWI GIOK",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-18T11:50:41Z",
-    "cycle": 1
+    "lastUpdate": "2026-04-18T14:54:30Z",
+    "cycle": 2
   },
   {
     "name": "YUSUF ISMAIL",
@@ -337,10 +337,10 @@
   },
   {
     "name": "TOKO POJOK",
-    "stock": 203,
+    "stock": 202,
     "lastStock": 54,
-    "lastUpdate": "2026-04-18T14:50:24Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-18T14:54:30Z",
+    "cycle": 1
   },
   {
     "name": "UD RAHMAT",
