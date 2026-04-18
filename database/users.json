@@ -50,9 +50,9 @@
   },
   {
     "name": "JAENAL",
-    "stock": 154,
+    "stock": 148,
     "lastStock": 13,
-    "lastUpdate": "2026-04-18T16:27:02Z",
+    "lastUpdate": "2026-04-18T16:30:53Z",
     "cycle": 1
   },
   {
@@ -337,9 +337,9 @@
   },
   {
     "name": "TOKO POJOK",
-    "stock": 183,
+    "stock": 181,
     "lastStock": 54,
-    "lastUpdate": "2026-04-18T16:27:02Z",
+    "lastUpdate": "2026-04-18T16:30:53Z",
     "cycle": 1
   },
   {
@@ -423,8 +423,8 @@
     "name": "HARSININGSIH",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-18T13:27:17Z",
-    "cycle": 1
+    "lastUpdate": "2026-04-18T16:30:53Z",
+    "cycle": 2
   },
   {
     "name": "CAHYA HERAWATI",
