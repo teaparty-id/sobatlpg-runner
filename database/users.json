@@ -1,10 +1,10 @@
 [
   {
     "name": "AKBAR RISQ",
-    "stock": 150,
+    "stock": 144,
     "lastStock": 0,
-    "lastUpdate": "2026-04-18T15:14:44Z",
-    "cycle": 1
+    "lastUpdate": "2026-04-18T15:18:45Z",
+    "cycle": 2
   },
   {
     "name": "ATHI HANDAYANI",
@@ -52,7 +52,7 @@
     "name": "JAENAL",
     "stock": 172,
     "lastStock": 13,
-    "lastUpdate": "2026-04-18T15:14:44Z",
+    "lastUpdate": "2026-04-18T15:18:45Z",
     "cycle": 1
   },
   {
@@ -339,7 +339,7 @@
     "name": "TOKO POJOK",
     "stock": 201,
     "lastStock": 54,
-    "lastUpdate": "2026-04-18T15:14:44Z",
+    "lastUpdate": "2026-04-18T15:18:45Z",
     "cycle": 1
   },
   {
