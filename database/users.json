@@ -71,31 +71,31 @@
   },
   {
     "name": "LUTFI A.",
-    "stock": 140,
+    "stock": 134,
     "lastStock": 0,
-    "lastUpdate": "2026-04-18T21:14:20Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-18T21:23:13Z",
+    "cycle": 3
   },
   {
     "name": "MOH SAID",
-    "stock": 61,
+    "stock": 58,
     "lastStock": 0,
-    "lastUpdate": "2026-04-18T21:14:20Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-18T21:23:13Z",
+    "cycle": 3
   },
   {
     "name": "TOKO 2 PUTRI",
-    "stock": 27,
+    "stock": 24,
     "lastStock": 0,
-    "lastUpdate": "2026-04-18T21:14:20Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-18T21:23:13Z",
+    "cycle": 3
   },
   {
     "name": "TOKO IIN",
-    "stock": 65,
+    "stock": 60,
     "lastStock": 0,
-    "lastUpdate": "2026-04-18T21:15:23Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-18T21:23:13Z",
+    "cycle": 3
   },
   {
     "name": "HJ LILIK LAILIYAH",
@@ -108,8 +108,8 @@
     "name": "ERNA PUJIATI",
     "stock": 28,
     "lastStock": 0,
-    "lastUpdate": "2026-04-18T21:17:28Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-18T21:26:22Z",
+    "cycle": 3
   },
   {
     "name": "JONI H",
@@ -120,10 +120,10 @@
   },
   {
     "name": "ROSA V",
-    "stock": 14,
+    "stock": 13,
     "lastStock": 0,
-    "lastUpdate": "2026-04-18T21:17:40Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-18T21:26:55Z",
+    "cycle": 3
   },
   {
     "name": "LUKMAN BS",
@@ -134,24 +134,24 @@
   },
   {
     "name": "BISTON MANURUNG",
-    "stock": 25,
+    "stock": 20,
     "lastStock": 0,
-    "lastUpdate": "2026-04-18T21:18:23Z",
-    "cycle": 1
+    "lastUpdate": "2026-04-18T21:27:26Z",
+    "cycle": 2
   },
   {
     "name": "JAMILAH",
     "stock": 0,
     "lastStock": 25,
-    "lastUpdate": "2026-04-18T17:49:36Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-18T21:28:41Z",
+    "cycle": 1
   },
   {
     "name": "YUDA",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-18T17:49:36Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-18T21:29:21Z",
+    "cycle": 1
   },
   {
     "name": "BAMBANG HARTONO",
