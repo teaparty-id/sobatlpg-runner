@@ -155,10 +155,10 @@
   },
   {
     "name": "BAMBANG HARTONO",
-    "stock": 32,
+    "stock": 30,
     "lastStock": 0,
-    "lastUpdate": "2026-04-18T21:50:37Z",
-    "cycle": 4
+    "lastUpdate": "2026-04-18T21:56:43Z",
+    "cycle": 5
   },
   {
     "name": "NADIFATUS SOLEHA",
@@ -176,17 +176,17 @@
   },
   {
     "name": "HADI SUTOYO",
-    "stock": 12,
+    "stock": 11,
     "lastStock": 0,
-    "lastUpdate": "2026-04-18T21:50:37Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-18T21:56:43Z",
+    "cycle": 3
   },
   {
     "name": "SRI HIDAYATI",
-    "stock": 31,
+    "stock": 30,
     "lastStock": 0,
-    "lastUpdate": "2026-04-18T21:50:37Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-18T21:56:43Z",
+    "cycle": 3
   },
   {
     "name": "ONG SWI GIOK",
@@ -225,10 +225,10 @@
   },
   {
     "name": "MOH HAFIF",
-    "stock": 29,
+    "stock": 25,
     "lastStock": 0,
-    "lastUpdate": "2026-04-18T21:50:37Z",
-    "cycle": 1
+    "lastUpdate": "2026-04-18T21:56:43Z",
+    "cycle": 2
   },
   {
     "name": "SAMSUL ARIFIN",
@@ -239,10 +239,10 @@
   },
   {
     "name": "HERDIANA DIYAH S",
-    "stock": 86,
+    "stock": 81,
     "lastStock": 0,
-    "lastUpdate": "2026-04-18T21:53:39Z",
-    "cycle": 1
+    "lastUpdate": "2026-04-18T21:58:58Z",
+    "cycle": 2
   },
   {
     "name": "BUDI",
@@ -269,29 +269,29 @@
     "name": "HJ. HAERONI",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-18T18:28:20Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-18T21:59:31Z",
+    "cycle": 1
   },
   {
     "name": "IMA",
     "stock": 15,
     "lastStock": 0,
-    "lastUpdate": "2026-04-18T12:50:19Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-18T22:00:02Z",
+    "cycle": 1
   },
   {
     "name": "DARMAWAN P",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-18T18:28:20Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-18T22:00:07Z",
+    "cycle": 1
   },
   {
     "name": "DIYAH UTAMI",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-18T18:28:20Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-18T22:00:28Z",
+    "cycle": 1
   },
   {
     "name": "SALMAH",
