@@ -1,10 +1,10 @@
 [
   {
     "name": "AKBAR RISQ",
-    "stock": 1,
+    "stock": 167,
     "lastStock": 0,
-    "lastUpdate": "2026-04-18T13:36:20Z",
-    "cycle": 1
+    "lastUpdate": "2026-04-18T13:40:38Z",
+    "cycle": 2
   },
   {
     "name": "ATHI HANDAYANI",
@@ -52,7 +52,7 @@
     "name": "JAENAL",
     "stock": 190,
     "lastStock": 13,
-    "lastUpdate": "2026-04-18T13:36:20Z",
+    "lastUpdate": "2026-04-18T13:40:38Z",
     "cycle": 1
   },
   {
@@ -339,8 +339,8 @@
     "name": "TOKO POJOK",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-18T13:36:20Z",
-    "cycle": 1
+    "lastUpdate": "2026-04-18T13:40:38Z",
+    "cycle": 2
   },
   {
     "name": "UD RAHMAT",
@@ -414,10 +414,10 @@
   },
   {
     "name": "H. JUMAT",
-    "stock": 46,
+    "stock": 45,
     "lastStock": 0,
-    "lastUpdate": "2026-04-18T13:37:05Z",
-    "cycle": 4
+    "lastUpdate": "2026-04-18T13:40:38Z",
+    "cycle": 5
   },
   {
     "name": "HARSININGSIH",
@@ -442,38 +442,38 @@
   },
   {
     "name": "ALFIAN DWI A.",
-    "stock": 1,
-    "lastStock": 0,
-    "lastUpdate": "2026-04-18T13:37:23Z",
-    "cycle": 2
+    "stock": 141,
+    "lastStock": 63,
+    "lastUpdate": "2026-04-18T13:42:47Z",
+    "cycle": 3
   },
   {
     "name": "TOKO IRAWAN",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-18T08:44:42Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-18T13:43:20Z",
+    "cycle": 1
   },
   {
     "name": "SUPARMAN",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-18T09:10:16Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-18T13:43:26Z",
+    "cycle": 1
   },
   {
     "name": "P. SUK",
-    "stock": 0,
+    "stock": 18,
     "lastStock": 0,
-    "lastUpdate": "2026-04-18T09:03:21Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-18T13:43:59Z",
+    "cycle": 1
   },
   {
     "name": "WIKAN K",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-18T09:03:21Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-18T13:44:10Z",
+    "cycle": 1
   },
   {
     "name": "TITIK ISMIATIN",
