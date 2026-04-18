@@ -122,8 +122,8 @@
     "name": "ROSA V",
     "stock": 26,
     "lastStock": 0,
-    "lastUpdate": "2026-04-18T07:28:59Z",
-    "cycle": 4
+    "lastUpdate": "2026-04-18T07:33:28Z",
+    "cycle": 5
   },
   {
     "name": "LUKMAN BS",
@@ -157,36 +157,36 @@
     "name": "BAMBANG HARTONO",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-18T04:31:58Z",
-    "cycle": 4
+    "lastUpdate": "2026-04-18T07:33:28Z",
+    "cycle": 5
   },
   {
     "name": "NADIFATUS SOLEHA",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-18T04:31:58Z",
-    "cycle": 4
+    "lastUpdate": "2026-04-18T07:33:28Z",
+    "cycle": 5
   },
   {
     "name": "SUROSO",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-18T04:31:58Z",
-    "cycle": 3
+    "lastUpdate": "2026-04-18T07:33:28Z",
+    "cycle": 4
   },
   {
     "name": "HADI SUTOYO",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-18T04:31:58Z",
-    "cycle": 3
+    "lastUpdate": "2026-04-18T07:34:06Z",
+    "cycle": 4
   },
   {
     "name": "SRI HIDAYATI",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-18T04:32:39Z",
-    "cycle": 4
+    "lastUpdate": "2026-04-18T07:34:06Z",
+    "cycle": 5
   },
   {
     "name": "ONG SWI GIOK",
@@ -444,8 +444,8 @@
     "name": "ALFIAN DWI A.",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-18T07:29:39Z",
-    "cycle": 1
+    "lastUpdate": "2026-04-18T07:34:06Z",
+    "cycle": 2
   },
   {
     "name": "TOKO IRAWAN",
