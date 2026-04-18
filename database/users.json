@@ -1,9 +1,9 @@
 [
   {
     "name": "AKBAR RISQ",
-    "stock": 156,
+    "stock": 154,
     "lastStock": 0,
-    "lastUpdate": "2026-04-18T15:02:46Z",
+    "lastUpdate": "2026-04-18T15:06:35Z",
     "cycle": 1
   },
   {
@@ -50,9 +50,9 @@
   },
   {
     "name": "JAENAL",
-    "stock": 174,
+    "stock": 173,
     "lastStock": 13,
-    "lastUpdate": "2026-04-18T15:02:46Z",
+    "lastUpdate": "2026-04-18T15:06:35Z",
     "cycle": 1
   },
   {
@@ -218,10 +218,10 @@
   },
   {
     "name": "ARIF FAUZI",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-18T15:03:52Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-18T15:06:35Z",
+    "cycle": 3
   },
   {
     "name": "MOH HAFIF",
@@ -234,8 +234,8 @@
     "name": "SAMSUL ARIFIN",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-18T12:06:32Z",
-    "cycle": 1
+    "lastUpdate": "2026-04-18T15:06:35Z",
+    "cycle": 2
   },
   {
     "name": "HERDIANA DIYAH S",
@@ -337,9 +337,9 @@
   },
   {
     "name": "TOKO POJOK",
-    "stock": 202,
+    "stock": 201,
     "lastStock": 54,
-    "lastUpdate": "2026-04-18T14:58:17Z",
+    "lastUpdate": "2026-04-18T15:07:14Z",
     "cycle": 1
   },
   {
