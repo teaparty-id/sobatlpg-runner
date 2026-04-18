@@ -50,9 +50,9 @@
   },
   {
     "name": "JAENAL",
-    "stock": 167,
+    "stock": 166,
     "lastStock": 13,
-    "lastUpdate": "2026-04-18T15:52:08Z",
+    "lastUpdate": "2026-04-18T15:56:02Z",
     "cycle": 1
   },
   {
@@ -339,7 +339,7 @@
     "name": "TOKO POJOK",
     "stock": 194,
     "lastStock": 54,
-    "lastUpdate": "2026-04-18T15:52:08Z",
+    "lastUpdate": "2026-04-18T15:56:02Z",
     "cycle": 1
   },
   {
@@ -374,8 +374,8 @@
     "name": "ANDRI HERU CAHYONO",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-18T12:53:41Z",
-    "cycle": 1
+    "lastUpdate": "2026-04-18T15:56:02Z",
+    "cycle": 2
   },
   {
     "name": "ABDUL WAFI",
