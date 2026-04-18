@@ -136,22 +136,22 @@
     "name": "BISTON MANURUNG",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-18T01:23:32Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-18T01:24:23Z",
+    "cycle": 3
   },
   {
     "name": "JAMILAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-18T01:23:33Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-18T01:24:23Z",
+    "cycle": 3
   },
   {
     "name": "YUDA",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-17T22:23:59Z",
-    "cycle": 1
+    "lastUpdate": "2026-04-18T01:24:23Z",
+    "cycle": 2
   },
   {
     "name": "BAMBANG HARTONO",
@@ -379,9 +379,9 @@
   },
   {
     "name": "ABDUL WAFI",
-    "stock": 188,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-18T01:18:03Z",
+    "lastUpdate": "2026-04-18T01:24:23Z",
     "cycle": 1
   },
   {
