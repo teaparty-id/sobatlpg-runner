@@ -339,7 +339,7 @@
     "name": "TOKO POJOK",
     "stock": 153,
     "lastStock": 54,
-    "lastUpdate": "2026-04-18T19:44:37Z",
+    "lastUpdate": "2026-04-18T19:48:54Z",
     "cycle": 1
   },
   {
@@ -451,15 +451,15 @@
     "name": "TOKO IRAWAN",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-18T16:46:44Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-18T19:48:54Z",
+    "cycle": 3
   },
   {
     "name": "SUPARMAN",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-18T16:46:44Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-18T19:48:54Z",
+    "cycle": 3
   },
   {
     "name": "P. SUK",
@@ -472,8 +472,8 @@
     "name": "WIKAN K",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-18T16:47:27Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-18T19:48:54Z",
+    "cycle": 3
   },
   {
     "name": "TITIK ISMIATIN",
