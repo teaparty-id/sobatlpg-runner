@@ -176,17 +176,17 @@
   },
   {
     "name": "HADI SUTOYO",
-    "stock": 11,
+    "stock": 10,
     "lastStock": 0,
-    "lastUpdate": "2026-04-18T21:56:43Z",
-    "cycle": 3
+    "lastUpdate": "2026-04-18T22:03:08Z",
+    "cycle": 4
   },
   {
     "name": "SRI HIDAYATI",
-    "stock": 30,
+    "stock": 29,
     "lastStock": 0,
-    "lastUpdate": "2026-04-18T21:56:43Z",
-    "cycle": 3
+    "lastUpdate": "2026-04-18T22:03:08Z",
+    "cycle": 4
   },
   {
     "name": "ONG SWI GIOK",
@@ -225,10 +225,10 @@
   },
   {
     "name": "MOH HAFIF",
-    "stock": 25,
+    "stock": 23,
     "lastStock": 0,
-    "lastUpdate": "2026-04-18T21:56:43Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-18T22:03:08Z",
+    "cycle": 3
   },
   {
     "name": "SAMSUL ARIFIN",
@@ -239,10 +239,10 @@
   },
   {
     "name": "HERDIANA DIYAH S",
-    "stock": 81,
+    "stock": 76,
     "lastStock": 0,
-    "lastUpdate": "2026-04-18T21:58:58Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-18T22:03:08Z",
+    "cycle": 3
   },
   {
     "name": "BUDI",
@@ -274,10 +274,10 @@
   },
   {
     "name": "IMA",
-    "stock": 15,
+    "stock": 13,
     "lastStock": 0,
-    "lastUpdate": "2026-04-18T22:00:02Z",
-    "cycle": 1
+    "lastUpdate": "2026-04-18T22:05:57Z",
+    "cycle": 2
   },
   {
     "name": "DARMAWAN P",
@@ -297,29 +297,29 @@
     "name": "SALMAH",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-18T18:34:46Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-18T22:06:20Z",
+    "cycle": 1
   },
   {
     "name": "TOKO ANITA",
     "stock": 0,
     "lastStock": 45,
-    "lastUpdate": "2026-04-18T18:34:46Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-18T22:06:30Z",
+    "cycle": 1
   },
   {
     "name": "TK. LUCKY",
     "stock": 0,
     "lastStock": 55,
-    "lastUpdate": "2026-04-18T18:34:46Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-18T22:06:59Z",
+    "cycle": 1
   },
   {
     "name": "UD SAMAN HADI",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-18T18:40:46Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-18T22:07:21Z",
+    "cycle": 1
   },
   {
     "name": "SOEKAMTO",
