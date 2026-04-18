@@ -8,10 +8,10 @@
   },
   {
     "name": "ATHI HANDAYANI",
-    "stock": 58,
+    "stock": 48,
     "lastStock": 0,
-    "lastUpdate": "2026-04-17T23:52:34Z",
-    "cycle": 1
+    "lastUpdate": "2026-04-17T23:59:43Z",
+    "cycle": 2
   },
   {
     "name": "CINDRAWATI",
@@ -22,10 +22,10 @@
   },
   {
     "name": "EDI SUGENG SARIPAN",
-    "stock": 57,
+    "stock": 53,
     "lastStock": 0,
-    "lastUpdate": "2026-04-17T23:52:34Z",
-    "cycle": 1
+    "lastUpdate": "2026-04-17T23:59:43Z",
+    "cycle": 2
   },
   {
     "name": "BINA MAKMUR",
@@ -85,10 +85,10 @@
   },
   {
     "name": "TOKO 2 PUTRI",
-    "stock": 47,
+    "stock": 45,
     "lastStock": 0,
-    "lastUpdate": "2026-04-17T23:52:34Z",
-    "cycle": 4
+    "lastUpdate": "2026-04-17T23:59:43Z",
+    "cycle": 5
   },
   {
     "name": "TOKO IIN",
@@ -379,9 +379,9 @@
   },
   {
     "name": "ABDUL WAFI",
-    "stock": 208,
+    "stock": 206,
     "lastStock": 0,
-    "lastUpdate": "2026-04-17T23:53:39Z",
+    "lastUpdate": "2026-04-17T23:59:43Z",
     "cycle": 1
   },
   {
@@ -442,9 +442,9 @@
   },
   {
     "name": "ALFIAN DWI A.",
-    "stock": 215,
+    "stock": 214,
     "lastStock": 63,
-    "lastUpdate": "2026-04-17T23:55:34Z",
+    "lastUpdate": "2026-04-18T00:02:47Z",
     "cycle": 1
   },
   {
@@ -458,8 +458,8 @@
     "name": "SUPARMAN",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-17T20:57:37Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-18T00:04:22Z",
+    "cycle": 1
   },
   {
     "name": "P. SUK",
@@ -477,24 +477,24 @@
   },
   {
     "name": "TITIK ISMIATIN",
-    "stock": 0,
+    "stock": 80,
     "lastStock": 3,
-    "lastUpdate": "2026-04-17T20:57:37Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-18T00:04:54Z",
+    "cycle": 1
   },
   {
     "name": "SRI UTAMI",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-17T20:57:37Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-18T00:04:56Z",
+    "cycle": 1
   },
   {
     "name": "TUSOK",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-17T20:58:17Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-18T00:05:02Z",
+    "cycle": 1
   },
   {
     "name": "DJAMIAH",
