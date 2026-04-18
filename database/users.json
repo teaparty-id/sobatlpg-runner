@@ -1,9 +1,9 @@
 [
   {
     "name": "AKBAR RISQ",
-    "stock": 168,
+    "stock": 167,
     "lastStock": 0,
-    "lastUpdate": "2026-04-18T12:34:02Z",
+    "lastUpdate": "2026-04-18T12:42:24Z",
     "cycle": 1
   },
   {
@@ -50,9 +50,9 @@
   },
   {
     "name": "JAENAL",
-    "stock": 196,
+    "stock": 193,
     "lastStock": 13,
-    "lastUpdate": "2026-04-18T12:34:02Z",
+    "lastUpdate": "2026-04-18T12:42:24Z",
     "cycle": 1
   },
   {
@@ -71,10 +71,10 @@
   },
   {
     "name": "LUTFI A.",
-    "stock": 149,
+    "stock": 147,
     "lastStock": 0,
-    "lastUpdate": "2026-04-18T12:34:02Z",
-    "cycle": 1
+    "lastUpdate": "2026-04-18T12:42:24Z",
+    "cycle": 2
   },
   {
     "name": "MOH SAID",
@@ -274,10 +274,10 @@
   },
   {
     "name": "IMA",
-    "stock": 18,
+    "stock": 17,
     "lastStock": 0,
-    "lastUpdate": "2026-04-18T12:37:22Z",
-    "cycle": 3
+    "lastUpdate": "2026-04-18T12:42:24Z",
+    "cycle": 4
   },
   {
     "name": "DARMAWAN P",
@@ -337,38 +337,38 @@
   },
   {
     "name": "TOKO POJOK",
-    "stock": 113,
+    "stock": 212,
     "lastStock": 54,
-    "lastUpdate": "2026-04-17T22:56:19Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-18T12:45:20Z",
+    "cycle": 1
   },
   {
     "name": "UD RAHMAT",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-18T08:18:16Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-18T12:45:36Z",
+    "cycle": 1
   },
   {
     "name": "ULFA MARIA",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-18T07:51:40Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-18T12:45:57Z",
+    "cycle": 1
   },
   {
     "name": "TOKO SURYATI",
-    "stock": 30,
+    "stock": 27,
     "lastStock": 1,
-    "lastUpdate": "2026-04-17T23:05:52Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-18T12:46:01Z",
+    "cycle": 1
   },
   {
     "name": "SUDJIONO",
     "stock": 0,
     "lastStock": 7,
-    "lastUpdate": "2026-04-18T07:51:40Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-18T12:46:16Z",
+    "cycle": 1
   },
   {
     "name": "ANDRI HERU CAHYONO",
