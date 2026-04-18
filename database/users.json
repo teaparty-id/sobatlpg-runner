@@ -50,9 +50,9 @@
   },
   {
     "name": "JAENAL",
-    "stock": 166,
+    "stock": 160,
     "lastStock": 13,
-    "lastUpdate": "2026-04-18T15:59:44Z",
+    "lastUpdate": "2026-04-18T16:04:32Z",
     "cycle": 1
   },
   {
@@ -339,7 +339,7 @@
     "name": "TOKO POJOK",
     "stock": 189,
     "lastStock": 54,
-    "lastUpdate": "2026-04-18T15:59:44Z",
+    "lastUpdate": "2026-04-18T16:04:32Z",
     "cycle": 1
   },
   {
@@ -402,8 +402,8 @@
     "name": "HJ. ASLAMIYAH",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-18T13:02:47Z",
-    "cycle": 1
+    "lastUpdate": "2026-04-18T16:04:32Z",
+    "cycle": 2
   },
   {
     "name": "TK. MAJU",
