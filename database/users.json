@@ -10,8 +10,8 @@
     "name": "ATHI HANDAYANI",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-19T09:39:02Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-19T12:40:11Z",
+    "cycle": 1
   },
   {
     "name": "CINDRAWATI",
@@ -78,10 +78,10 @@
   },
   {
     "name": "MOH SAID",
-    "stock": 20,
+    "stock": 19,
     "lastStock": 0,
-    "lastUpdate": "2026-04-19T12:31:41Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-19T12:40:11Z",
+    "cycle": 3
   },
   {
     "name": "TOKO 2 PUTRI",
@@ -92,10 +92,10 @@
   },
   {
     "name": "TOKO IIN",
-    "stock": 23,
+    "stock": 20,
     "lastStock": 0,
-    "lastUpdate": "2026-04-19T12:31:41Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-19T12:40:11Z",
+    "cycle": 3
   },
   {
     "name": "HJ LILIK LAILIYAH",
@@ -155,10 +155,10 @@
   },
   {
     "name": "BAMBANG HARTONO",
-    "stock": 3,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-19T12:31:41Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-19T12:40:11Z",
+    "cycle": 3
   },
   {
     "name": "NADIFATUS SOLEHA",
@@ -183,10 +183,10 @@
   },
   {
     "name": "SRI HIDAYATI",
-    "stock": 8,
+    "stock": 6,
     "lastStock": 0,
-    "lastUpdate": "2026-04-19T12:34:19Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-19T12:41:19Z",
+    "cycle": 3
   },
   {
     "name": "ONG SWI GIOK",
@@ -239,10 +239,10 @@
   },
   {
     "name": "HERDIANA DIYAH S",
-    "stock": 53,
+    "stock": 52,
     "lastStock": 0,
-    "lastUpdate": "2026-04-19T12:34:33Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-19T12:42:49Z",
+    "cycle": 3
   },
   {
     "name": "BUDI",
@@ -337,10 +337,10 @@
   },
   {
     "name": "TOKO POJOK",
-    "stock": 136,
+    "stock": 135,
     "lastStock": 54,
-    "lastUpdate": "2026-04-19T12:35:04Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-19T12:43:22Z",
+    "cycle": 3
   },
   {
     "name": "UD RAHMAT",
@@ -358,10 +358,10 @@
   },
   {
     "name": "TOKO SURYATI",
-    "stock": 28,
+    "stock": 26,
     "lastStock": 1,
-    "lastUpdate": "2026-04-19T12:35:30Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-19T12:44:09Z",
+    "cycle": 3
   },
   {
     "name": "SUDJIONO",
@@ -381,8 +381,8 @@
     "name": "ABDUL WAFI",
     "stock": 117,
     "lastStock": 0,
-    "lastUpdate": "2026-04-19T12:37:05Z",
-    "cycle": 1
+    "lastUpdate": "2026-04-19T12:44:42Z",
+    "cycle": 2
   },
   {
     "name": "YUNIS WAHYUNI",
