@@ -78,10 +78,10 @@
   },
   {
     "name": "MOH SAID",
-    "stock": 27,
+    "stock": 22,
     "lastStock": 0,
-    "lastUpdate": "2026-04-19T10:30:48Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-19T12:22:34Z",
+    "cycle": 1
   },
   {
     "name": "TOKO 2 PUTRI",
@@ -92,10 +92,10 @@
   },
   {
     "name": "TOKO IIN",
-    "stock": 25,
+    "stock": 24,
     "lastStock": 0,
-    "lastUpdate": "2026-04-19T10:30:48Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-19T12:22:34Z",
+    "cycle": 1
   },
   {
     "name": "HJ LILIK LAILIYAH",
@@ -108,8 +108,8 @@
     "name": "ERNA PUJIATI",
     "stock": 5,
     "lastStock": 0,
-    "lastUpdate": "2026-04-19T10:30:48Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-19T12:22:34Z",
+    "cycle": 1
   },
   {
     "name": "JONI H",
@@ -155,10 +155,10 @@
   },
   {
     "name": "BAMBANG HARTONO",
-    "stock": 4,
+    "stock": 3,
     "lastStock": 0,
-    "lastUpdate": "2026-04-19T10:30:48Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-19T12:22:34Z",
+    "cycle": 1
   },
   {
     "name": "NADIFATUS SOLEHA",
@@ -183,10 +183,10 @@
   },
   {
     "name": "SRI HIDAYATI",
-    "stock": 10,
+    "stock": 9,
     "lastStock": 0,
-    "lastUpdate": "2026-04-19T10:34:00Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-19T12:25:19Z",
+    "cycle": 1
   },
   {
     "name": "ONG SWI GIOK",
@@ -225,10 +225,10 @@
   },
   {
     "name": "MOH HAFIF",
-    "stock": 3,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-19T10:34:07Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-19T12:25:19Z",
+    "cycle": 1
   },
   {
     "name": "SAMSUL ARIFIN",
@@ -239,10 +239,10 @@
   },
   {
     "name": "HERDIANA DIYAH S",
-    "stock": 1,
+    "stock": 53,
     "lastStock": 0,
-    "lastUpdate": "2026-04-19T10:45:41Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-19T12:26:12Z",
+    "cycle": 1
   },
   {
     "name": "BUDI",
@@ -337,10 +337,10 @@
   },
   {
     "name": "TOKO POJOK",
-    "stock": 1,
-    "lastStock": 0,
-    "lastUpdate": "2026-04-19T10:46:36Z",
-    "cycle": 0
+    "stock": 137,
+    "lastStock": 54,
+    "lastUpdate": "2026-04-19T12:27:01Z",
+    "cycle": 1
   },
   {
     "name": "UD RAHMAT",
@@ -358,10 +358,10 @@
   },
   {
     "name": "TOKO SURYATI",
-    "stock": 1,
-    "lastStock": 0,
-    "lastUpdate": "2026-04-19T10:57:03Z",
-    "cycle": 0
+    "stock": 33,
+    "lastStock": 1,
+    "lastUpdate": "2026-04-19T12:28:11Z",
+    "cycle": 1
   },
   {
     "name": "SUDJIONO",
