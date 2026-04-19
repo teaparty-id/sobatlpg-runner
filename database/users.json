@@ -108,8 +108,8 @@
     "name": "ERNA PUJIATI",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-19T12:31:41Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-19T15:36:44Z",
+    "cycle": 1
   },
   {
     "name": "JONI H",
@@ -407,10 +407,10 @@
   },
   {
     "name": "TK. MAJU",
-    "stock": 40,
+    "stock": 35,
     "lastStock": 0,
-    "lastUpdate": "2026-04-19T15:29:56Z",
-    "cycle": 4
+    "lastUpdate": "2026-04-19T15:36:44Z",
+    "cycle": 5
   },
   {
     "name": "H. JUMAT",
@@ -444,8 +444,8 @@
     "name": "ALFIAN DWI A.",
     "stock": 118,
     "lastStock": 63,
-    "lastUpdate": "2026-04-19T15:29:56Z",
-    "cycle": 3
+    "lastUpdate": "2026-04-19T15:36:44Z",
+    "cycle": 4
   },
   {
     "name": "TOKO IRAWAN",
@@ -500,15 +500,15 @@
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-19T15:29:56Z",
-    "cycle": 3
+    "lastUpdate": "2026-04-19T15:36:44Z",
+    "cycle": 4
   },
   {
     "name": "SUMBER REJEKI",
-    "stock": 79,
+    "stock": 77,
     "lastStock": 1,
-    "lastUpdate": "2026-04-19T15:30:34Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-19T15:37:23Z",
+    "cycle": 3
   },
   {
     "name": "ISTIQOMAH",
