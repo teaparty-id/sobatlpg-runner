@@ -71,17 +71,17 @@
   },
   {
     "name": "LUTFI A.",
-    "stock": 122,
+    "stock": 117,
     "lastStock": 0,
-    "lastUpdate": "2026-04-19T00:32:20Z",
-    "cycle": 3
+    "lastUpdate": "2026-04-19T00:40:53Z",
+    "cycle": 4
   },
   {
     "name": "MOH SAID",
     "stock": 50,
     "lastStock": 0,
-    "lastUpdate": "2026-04-19T00:32:20Z",
-    "cycle": 3
+    "lastUpdate": "2026-04-19T00:40:53Z",
+    "cycle": 4
   },
   {
     "name": "TOKO 2 PUTRI",
@@ -92,10 +92,10 @@
   },
   {
     "name": "TOKO IIN",
-    "stock": 47,
+    "stock": 40,
     "lastStock": 0,
-    "lastUpdate": "2026-04-19T00:32:20Z",
-    "cycle": 3
+    "lastUpdate": "2026-04-19T00:40:53Z",
+    "cycle": 4
   },
   {
     "name": "HJ LILIK LAILIYAH",
@@ -106,10 +106,10 @@
   },
   {
     "name": "ERNA PUJIATI",
-    "stock": 23,
+    "stock": 22,
     "lastStock": 0,
-    "lastUpdate": "2026-04-19T00:35:24Z",
-    "cycle": 3
+    "lastUpdate": "2026-04-19T00:40:53Z",
+    "cycle": 4
   },
   {
     "name": "JONI H",
@@ -134,10 +134,10 @@
   },
   {
     "name": "BISTON MANURUNG",
-    "stock": 9,
+    "stock": 6,
     "lastStock": 0,
-    "lastUpdate": "2026-04-19T00:35:40Z",
-    "cycle": 3
+    "lastUpdate": "2026-04-19T00:43:20Z",
+    "cycle": 4
   },
   {
     "name": "JAMILAH",
@@ -155,10 +155,10 @@
   },
   {
     "name": "BAMBANG HARTONO",
-    "stock": 26,
+    "stock": 25,
     "lastStock": 0,
-    "lastUpdate": "2026-04-19T00:36:50Z",
-    "cycle": 1
+    "lastUpdate": "2026-04-19T00:43:44Z",
+    "cycle": 2
   },
   {
     "name": "NADIFATUS SOLEHA",
@@ -171,22 +171,22 @@
     "name": "SUROSO",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-18T21:45:01Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-19T00:45:28Z",
+    "cycle": 1
   },
   {
     "name": "HADI SUTOYO",
-    "stock": 8,
+    "stock": 7,
     "lastStock": 0,
-    "lastUpdate": "2026-04-18T22:09:28Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-19T00:45:38Z",
+    "cycle": 1
   },
   {
     "name": "SRI HIDAYATI",
     "stock": 22,
     "lastStock": 0,
-    "lastUpdate": "2026-04-18T22:09:28Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-19T00:46:06Z",
+    "cycle": 1
   },
   {
     "name": "ONG SWI GIOK",
