@@ -227,8 +227,8 @@
     "name": "MOH HAFIF",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-19T12:25:19Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-19T15:29:56Z",
+    "cycle": 1
   },
   {
     "name": "SAMSUL ARIFIN",
@@ -409,8 +409,8 @@
     "name": "TK. MAJU",
     "stock": 40,
     "lastStock": 0,
-    "lastUpdate": "2026-04-19T15:21:20Z",
-    "cycle": 3
+    "lastUpdate": "2026-04-19T15:29:56Z",
+    "cycle": 4
   },
   {
     "name": "H. JUMAT",
@@ -442,10 +442,10 @@
   },
   {
     "name": "ALFIAN DWI A.",
-    "stock": 119,
+    "stock": 118,
     "lastStock": 63,
-    "lastUpdate": "2026-04-19T15:21:20Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-19T15:29:56Z",
+    "cycle": 3
   },
   {
     "name": "TOKO IRAWAN",
@@ -500,15 +500,15 @@
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-19T15:24:36Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-19T15:29:56Z",
+    "cycle": 3
   },
   {
     "name": "SUMBER REJEKI",
-    "stock": 88,
+    "stock": 79,
     "lastStock": 1,
-    "lastUpdate": "2026-04-19T15:24:39Z",
-    "cycle": 1
+    "lastUpdate": "2026-04-19T15:30:34Z",
+    "cycle": 2
   },
   {
     "name": "ISTIQOMAH",
