@@ -451,8 +451,8 @@
     "name": "TOKO IRAWAN",
     "stock": 35,
     "lastStock": 0,
-    "lastUpdate": "2026-04-19T08:44:09Z",
-    "cycle": 4
+    "lastUpdate": "2026-04-19T08:47:38Z",
+    "cycle": 5
   },
   {
     "name": "SUPARMAN",
@@ -500,15 +500,15 @@
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-19T08:44:09Z",
-    "cycle": 3
+    "lastUpdate": "2026-04-19T08:47:38Z",
+    "cycle": 4
   },
   {
     "name": "SUMBER REJEKI",
-    "stock": 98,
+    "stock": 97,
     "lastStock": 1,
-    "lastUpdate": "2026-04-19T08:44:09Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-19T08:47:38Z",
+    "cycle": 3
   },
   {
     "name": "ISTIQOMAH",
