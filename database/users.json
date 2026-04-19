@@ -234,8 +234,8 @@
     "name": "SAMSUL ARIFIN",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-19T10:45:39Z",
-    "cycle": 1
+    "lastUpdate": "2026-04-19T10:46:36Z",
+    "cycle": 2
   },
   {
     "name": "HERDIANA DIYAH S",
@@ -248,15 +248,15 @@
     "name": "BUDI",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-19T10:45:46Z",
-    "cycle": 1
+    "lastUpdate": "2026-04-19T10:46:36Z",
+    "cycle": 2
   },
   {
     "name": "YULI SORAYA",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-19T07:44:43Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-19T10:46:36Z",
+    "cycle": 1
   },
   {
     "name": "SUSILO",
@@ -337,10 +337,10 @@
   },
   {
     "name": "TOKO POJOK",
-    "stock": 140,
-    "lastStock": 54,
-    "lastUpdate": "2026-04-19T10:35:24Z",
-    "cycle": 4
+    "stock": 1,
+    "lastStock": 0,
+    "lastUpdate": "2026-04-19T10:46:36Z",
+    "cycle": 5
   },
   {
     "name": "UD RAHMAT",
