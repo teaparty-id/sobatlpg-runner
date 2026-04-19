@@ -155,10 +155,10 @@
   },
   {
     "name": "BAMBANG HARTONO",
-    "stock": 19,
+    "stock": 18,
     "lastStock": 0,
-    "lastUpdate": "2026-04-19T00:52:36Z",
-    "cycle": 3
+    "lastUpdate": "2026-04-19T00:57:29Z",
+    "cycle": 4
   },
   {
     "name": "NADIFATUS SOLEHA",
@@ -178,15 +178,15 @@
     "name": "HADI SUTOYO",
     "stock": 2,
     "lastStock": 0,
-    "lastUpdate": "2026-04-19T00:52:59Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-19T00:57:29Z",
+    "cycle": 3
   },
   {
     "name": "SRI HIDAYATI",
-    "stock": 19,
+    "stock": 17,
     "lastStock": 0,
-    "lastUpdate": "2026-04-19T00:53:43Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-19T00:57:29Z",
+    "cycle": 3
   },
   {
     "name": "ONG SWI GIOK",
@@ -199,15 +199,15 @@
     "name": "YUSUF ISMAIL",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-18T21:49:03Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-19T00:57:29Z",
+    "cycle": 1
   },
   {
     "name": "SUPARNI",
-    "stock": 0,
-    "lastStock": 54,
-    "lastUpdate": "2026-04-18T21:49:16Z",
-    "cycle": 0
+    "stock": 1,
+    "lastStock": 0,
+    "lastUpdate": "2026-04-19T00:58:11Z",
+    "cycle": 1
   },
   {
     "name": "YOGA RAJAN",
