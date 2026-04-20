@@ -185,8 +185,8 @@
     "name": "SRI HIDAYATI",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-20T02:20:26Z",
-    "cycle": 1
+    "lastUpdate": "2026-04-20T05:22:57Z",
+    "cycle": 2
   },
   {
     "name": "ONG SWI GIOK",
@@ -227,8 +227,8 @@
     "name": "MOH HAFIF",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-20T02:20:58Z",
-    "cycle": 1
+    "lastUpdate": "2026-04-20T05:22:57Z",
+    "cycle": 2
   },
   {
     "name": "SAMSUL ARIFIN",
@@ -337,9 +337,9 @@
   },
   {
     "name": "TOKO POJOK",
-    "stock": 175,
+    "stock": 173,
     "lastStock": 54,
-    "lastUpdate": "2026-04-20T05:19:24Z",
+    "lastUpdate": "2026-04-20T05:22:57Z",
     "cycle": 1
   },
   {
@@ -379,9 +379,9 @@
   },
   {
     "name": "ABDUL WAFI",
-    "stock": 160,
+    "stock": 158,
     "lastStock": 0,
-    "lastUpdate": "2026-04-20T05:19:24Z",
+    "lastUpdate": "2026-04-20T05:22:57Z",
     "cycle": 1
   },
   {
