@@ -1,10 +1,10 @@
 [
   {
     "name": "AKBAR RISQ",
-    "stock": 97,
+    "stock": 96,
     "lastStock": 0,
-    "lastUpdate": "2026-04-20T18:00:38Z",
-    "cycle": 3
+    "lastUpdate": "2026-04-20T18:11:11Z",
+    "cycle": 4
   },
   {
     "name": "ATHI HANDAYANI",
@@ -29,52 +29,52 @@
   },
   {
     "name": "BINA MAKMUR",
-    "stock": 93,
+    "stock": 91,
     "lastStock": 0,
-    "lastUpdate": "2026-04-20T18:00:38Z",
-    "cycle": 3
+    "lastUpdate": "2026-04-20T18:11:11Z",
+    "cycle": 4
   },
   {
     "name": "HENDRA KURNIAWAN",
-    "stock": 103,
+    "stock": 100,
     "lastStock": 27,
-    "lastUpdate": "2026-04-20T18:00:38Z",
-    "cycle": 3
+    "lastUpdate": "2026-04-20T18:11:11Z",
+    "cycle": 4
   },
   {
     "name": "SUCIYONO",
-    "stock": 61,
+    "stock": 52,
     "lastStock": 0,
-    "lastUpdate": "2026-04-20T18:00:38Z",
-    "cycle": 3
+    "lastUpdate": "2026-04-20T18:11:11Z",
+    "cycle": 4
   },
   {
     "name": "JAENAL",
-    "stock": 92,
+    "stock": 91,
     "lastStock": 13,
-    "lastUpdate": "2026-04-20T18:04:46Z",
-    "cycle": 3
+    "lastUpdate": "2026-04-20T18:15:04Z",
+    "cycle": 4
   },
   {
     "name": "JOKO SUWARNO",
-    "stock": 48,
+    "stock": 45,
     "lastStock": 0,
-    "lastUpdate": "2026-04-20T18:05:27Z",
-    "cycle": 3
+    "lastUpdate": "2026-04-20T18:15:34Z",
+    "cycle": 4
   },
   {
     "name": "KARSONO",
-    "stock": 90,
+    "stock": 87,
     "lastStock": 0,
-    "lastUpdate": "2026-04-20T18:05:28Z",
-    "cycle": 3
+    "lastUpdate": "2026-04-20T18:16:11Z",
+    "cycle": 4
   },
   {
     "name": "LUTFI A.",
-    "stock": 78,
+    "stock": 73,
     "lastStock": 0,
-    "lastUpdate": "2026-04-20T18:05:45Z",
-    "cycle": 3
+    "lastUpdate": "2026-04-20T18:16:54Z",
+    "cycle": 4
   },
   {
     "name": "MOH SAID",
@@ -85,10 +85,10 @@
   },
   {
     "name": "TOKO 2 PUTRI",
-    "stock": 10,
+    "stock": 8,
     "lastStock": 0,
-    "lastUpdate": "2026-04-20T18:07:49Z",
-    "cycle": 1
+    "lastUpdate": "2026-04-20T18:18:01Z",
+    "cycle": 2
   },
   {
     "name": "TOKO IIN",
