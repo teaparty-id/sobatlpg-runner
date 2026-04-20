@@ -136,8 +136,8 @@
     "name": "BISTON MANURUNG",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-20T18:31:27Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-20T21:39:23Z",
+    "cycle": 1
   },
   {
     "name": "JAMILAH",
@@ -157,8 +157,8 @@
     "name": "BAMBANG HARTONO",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-20T18:32:10Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-20T21:39:23Z",
+    "cycle": 1
   },
   {
     "name": "NADIFATUS SOLEHA",
@@ -178,15 +178,15 @@
     "name": "HADI SUTOYO",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-20T18:38:01Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-20T21:39:23Z",
+    "cycle": 1
   },
   {
     "name": "SRI HIDAYATI",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-20T18:38:39Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-20T21:39:23Z",
+    "cycle": 1
   },
   {
     "name": "ONG SWI GIOK",
@@ -227,8 +227,8 @@
     "name": "MOH HAFIF",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-20T18:38:51Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-20T21:40:04Z",
+    "cycle": 1
   },
   {
     "name": "SAMSUL ARIFIN",
@@ -442,10 +442,10 @@
   },
   {
     "name": "ALFIAN DWI A.",
-    "stock": 111,
-    "lastStock": 63,
-    "lastUpdate": "2026-04-20T21:30:26Z",
-    "cycle": 4
+    "stock": 1,
+    "lastStock": 0,
+    "lastUpdate": "2026-04-20T21:40:04Z",
+    "cycle": 5
   },
   {
     "name": "TOKO IRAWAN",
@@ -477,10 +477,10 @@
   },
   {
     "name": "TITIK ISMIATIN",
-    "stock": 26,
-    "lastStock": 3,
-    "lastUpdate": "2026-04-20T21:30:26Z",
-    "cycle": 3
+    "stock": 1,
+    "lastStock": 0,
+    "lastUpdate": "2026-04-20T21:40:05Z",
+    "cycle": 4
   },
   {
     "name": "SRI UTAMI",
