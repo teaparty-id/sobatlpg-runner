@@ -323,10 +323,10 @@
   },
   {
     "name": "SOEKAMTO",
-    "stock": 0,
+    "stock": 38,
     "lastStock": 0,
-    "lastUpdate": "2026-04-20T03:14:39Z",
-    "cycle": 1
+    "lastUpdate": "2026-04-20T06:17:50Z",
+    "cycle": 2
   },
   {
     "name": "TOKO TIARA",
@@ -339,7 +339,7 @@
     "name": "TOKO POJOK",
     "stock": 158,
     "lastStock": 54,
-    "lastUpdate": "2026-04-20T06:14:38Z",
+    "lastUpdate": "2026-04-20T06:17:50Z",
     "cycle": 1
   },
   {
