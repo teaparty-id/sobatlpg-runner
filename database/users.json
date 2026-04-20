@@ -1,10 +1,10 @@
 [
   {
     "name": "AKBAR RISQ",
-    "stock": 99,
+    "stock": 97,
     "lastStock": 0,
-    "lastUpdate": "2026-04-20T17:50:37Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-20T18:00:38Z",
+    "cycle": 3
   },
   {
     "name": "ATHI HANDAYANI",
@@ -29,52 +29,52 @@
   },
   {
     "name": "BINA MAKMUR",
-    "stock": 95,
+    "stock": 93,
     "lastStock": 0,
-    "lastUpdate": "2026-04-20T17:50:37Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-20T18:00:38Z",
+    "cycle": 3
   },
   {
     "name": "HENDRA KURNIAWAN",
-    "stock": 106,
+    "stock": 103,
     "lastStock": 27,
-    "lastUpdate": "2026-04-20T17:50:37Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-20T18:00:38Z",
+    "cycle": 3
   },
   {
     "name": "SUCIYONO",
-    "stock": 65,
+    "stock": 61,
     "lastStock": 0,
-    "lastUpdate": "2026-04-20T17:53:20Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-20T18:00:38Z",
+    "cycle": 3
   },
   {
     "name": "JAENAL",
-    "stock": 93,
+    "stock": 92,
     "lastStock": 13,
-    "lastUpdate": "2026-04-20T17:53:55Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-20T18:04:46Z",
+    "cycle": 3
   },
   {
     "name": "JOKO SUWARNO",
-    "stock": 49,
+    "stock": 48,
     "lastStock": 0,
-    "lastUpdate": "2026-04-20T17:54:51Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-20T18:05:27Z",
+    "cycle": 3
   },
   {
     "name": "KARSONO",
     "stock": 90,
     "lastStock": 0,
-    "lastUpdate": "2026-04-20T17:55:23Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-20T18:05:28Z",
+    "cycle": 3
   },
   {
     "name": "LUTFI A.",
     "stock": 78,
     "lastStock": 0,
-    "lastUpdate": "2026-04-20T17:57:14Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-20T18:05:45Z",
+    "cycle": 3
   },
   {
     "name": "MOH SAID",
@@ -85,10 +85,10 @@
   },
   {
     "name": "TOKO 2 PUTRI",
-    "stock": 12,
+    "stock": 10,
     "lastStock": 0,
-    "lastUpdate": "2026-04-20T16:26:12Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-20T18:07:49Z",
+    "cycle": 1
   },
   {
     "name": "TOKO IIN",
