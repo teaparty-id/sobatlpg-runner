@@ -395,15 +395,15 @@
     "name": "ROSIDI",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-20T14:19:00Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-20T17:20:12Z",
+    "cycle": 1
   },
   {
     "name": "HJ. ASLAMIYAH",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-20T14:19:08Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-20T17:20:12Z",
+    "cycle": 1
   },
   {
     "name": "TK. MAJU",
@@ -416,15 +416,15 @@
     "name": "H. JUMAT",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-20T14:19:46Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-20T17:20:12Z",
+    "cycle": 1
   },
   {
     "name": "HARSININGSIH",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-20T14:19:51Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-20T17:20:12Z",
+    "cycle": 1
   },
   {
     "name": "CAHYA HERAWATI",
@@ -479,8 +479,8 @@
     "name": "TITIK ISMIATIN",
     "stock": 52,
     "lastStock": 3,
-    "lastUpdate": "2026-04-20T17:16:15Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-20T17:20:52Z",
+    "cycle": 3
   },
   {
     "name": "SRI UTAMI",
@@ -500,15 +500,15 @@
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-20T17:16:16Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-20T17:20:53Z",
+    "cycle": 3
   },
   {
     "name": "SUMBER REJEKI",
-    "stock": 78,
-    "lastStock": 1,
-    "lastUpdate": "2026-04-20T14:53:51Z",
-    "cycle": 0
+    "stock": 1,
+    "lastStock": 0,
+    "lastUpdate": "2026-04-20T17:20:55Z",
+    "cycle": 1
   },
   {
     "name": "ISTIQOMAH",
