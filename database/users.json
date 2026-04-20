@@ -78,24 +78,24 @@
   },
   {
     "name": "MOH SAID",
-    "stock": 16,
+    "stock": 15,
     "lastStock": 0,
-    "lastUpdate": "2026-04-20T11:04:08Z",
-    "cycle": 4
+    "lastUpdate": "2026-04-20T11:08:49Z",
+    "cycle": 5
   },
   {
     "name": "TOKO 2 PUTRI",
-    "stock": 31,
+    "stock": 29,
     "lastStock": 0,
-    "lastUpdate": "2026-04-20T11:04:08Z",
-    "cycle": 4
+    "lastUpdate": "2026-04-20T11:08:49Z",
+    "cycle": 5
   },
   {
     "name": "TOKO IIN",
-    "stock": 29,
+    "stock": 26,
     "lastStock": 0,
-    "lastUpdate": "2026-04-20T11:04:08Z",
-    "cycle": 4
+    "lastUpdate": "2026-04-20T11:08:49Z",
+    "cycle": 5
   },
   {
     "name": "HJ LILIK LAILIYAH",
@@ -127,10 +127,10 @@
   },
   {
     "name": "LUKMAN BS",
-    "stock": 1,
+    "stock": 60,
     "lastStock": 0,
-    "lastUpdate": "2026-04-20T11:05:42Z",
-    "cycle": 1
+    "lastUpdate": "2026-04-20T11:08:49Z",
+    "cycle": 2
   },
   {
     "name": "BISTON MANURUNG",
@@ -143,15 +143,15 @@
     "name": "JAMILAH",
     "stock": 0,
     "lastStock": 25,
-    "lastUpdate": "2026-04-20T08:02:50Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-20T11:11:32Z",
+    "cycle": 1
   },
   {
     "name": "YUDA",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-20T08:07:06Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-20T11:11:59Z",
+    "cycle": 1
   },
   {
     "name": "BAMBANG HARTONO",
@@ -162,10 +162,10 @@
   },
   {
     "name": "NADIFATUS SOLEHA",
-    "stock": 36,
+    "stock": 35,
     "lastStock": 0,
-    "lastUpdate": "2026-04-20T10:53:56Z",
-    "cycle": 3
+    "lastUpdate": "2026-04-20T11:12:11Z",
+    "cycle": 4
   },
   {
     "name": "SUROSO",
@@ -241,8 +241,8 @@
     "name": "HERDIANA DIYAH S",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-20T08:10:02Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-20T11:12:11Z",
+    "cycle": 1
   },
   {
     "name": "BUDI",
@@ -323,10 +323,10 @@
   },
   {
     "name": "SOEKAMTO",
-    "stock": 14,
+    "stock": 13,
     "lastStock": 0,
-    "lastUpdate": "2026-04-20T10:57:10Z",
-    "cycle": 3
+    "lastUpdate": "2026-04-20T11:12:40Z",
+    "cycle": 4
   },
   {
     "name": "TOKO TIARA",
