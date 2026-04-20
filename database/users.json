@@ -337,24 +337,24 @@
   },
   {
     "name": "TOKO POJOK",
-    "stock": 1,
-    "lastStock": 0,
-    "lastUpdate": "2026-04-20T19:05:15Z",
-    "cycle": 3
+    "stock": 120,
+    "lastStock": 54,
+    "lastUpdate": "2026-04-20T19:07:35Z",
+    "cycle": 4
   },
   {
     "name": "UD RAHMAT",
-    "stock": 1,
+    "stock": 17,
     "lastStock": 0,
-    "lastUpdate": "2026-04-20T19:05:18Z",
-    "cycle": 3
+    "lastUpdate": "2026-04-20T19:07:35Z",
+    "cycle": 4
   },
   {
     "name": "ULFA MARIA",
-    "stock": 12,
+    "stock": 6,
     "lastStock": 0,
-    "lastUpdate": "2026-04-20T18:57:30Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-20T19:07:35Z",
+    "cycle": 3
   },
   {
     "name": "TOKO SURYATI",
@@ -381,8 +381,8 @@
     "name": "ABDUL WAFI",
     "stock": 105,
     "lastStock": 0,
-    "lastUpdate": "2026-04-20T18:58:09Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-20T19:07:35Z",
+    "cycle": 3
   },
   {
     "name": "YUNIS WAHYUNI",
@@ -407,10 +407,10 @@
   },
   {
     "name": "TK. MAJU",
-    "stock": 35,
+    "stock": 34,
     "lastStock": 0,
-    "lastUpdate": "2026-04-20T19:00:49Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-20T19:09:40Z",
+    "cycle": 3
   },
   {
     "name": "H. JUMAT",
@@ -437,29 +437,29 @@
     "name": "MISRI CICI",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-20T14:40:02Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-20T19:10:10Z",
+    "cycle": 1
   },
   {
     "name": "ALFIAN DWI A.",
-    "stock": 118,
+    "stock": 117,
     "lastStock": 63,
-    "lastUpdate": "2026-04-20T17:15:36Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-20T19:10:49Z",
+    "cycle": 1
   },
   {
     "name": "TOKO IRAWAN",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-20T14:40:02Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-20T19:11:03Z",
+    "cycle": 1
   },
   {
     "name": "SUPARMAN",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-20T14:44:23Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-20T19:11:20Z",
+    "cycle": 1
   },
   {
     "name": "P. SUK",
