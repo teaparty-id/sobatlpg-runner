@@ -87,15 +87,15 @@
     "name": "TOKO 2 PUTRI",
     "stock": 18,
     "lastStock": 0,
-    "lastUpdate": "2026-04-20T15:59:11Z",
-    "cycle": 1
+    "lastUpdate": "2026-04-20T16:06:03Z",
+    "cycle": 2
   },
   {
     "name": "TOKO IIN",
     "stock": 13,
     "lastStock": 0,
-    "lastUpdate": "2026-04-20T15:59:11Z",
-    "cycle": 1
+    "lastUpdate": "2026-04-20T16:06:03Z",
+    "cycle": 2
   },
   {
     "name": "HJ LILIK LAILIYAH",
@@ -127,10 +127,10 @@
   },
   {
     "name": "LUKMAN BS",
-    "stock": 46,
+    "stock": 45,
     "lastStock": 0,
-    "lastUpdate": "2026-04-20T15:59:49Z",
-    "cycle": 1
+    "lastUpdate": "2026-04-20T16:06:03Z",
+    "cycle": 2
   },
   {
     "name": "BISTON MANURUNG",
@@ -162,10 +162,10 @@
   },
   {
     "name": "NADIFATUS SOLEHA",
-    "stock": 17,
+    "stock": 16,
     "lastStock": 0,
-    "lastUpdate": "2026-04-20T16:01:54Z",
-    "cycle": 1
+    "lastUpdate": "2026-04-20T16:06:03Z",
+    "cycle": 2
   },
   {
     "name": "SUROSO",
@@ -192,8 +192,8 @@
     "name": "ONG SWI GIOK",
     "stock": 13,
     "lastStock": 0,
-    "lastUpdate": "2026-04-20T16:02:35Z",
-    "cycle": 1
+    "lastUpdate": "2026-04-20T16:08:43Z",
+    "cycle": 2
   },
   {
     "name": "YUSUF ISMAIL",
@@ -213,15 +213,15 @@
     "name": "YOGA RAJAN",
     "stock": 0,
     "lastStock": 70,
-    "lastUpdate": "2026-04-20T11:57:57Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-20T16:08:46Z",
+    "cycle": 1
   },
   {
     "name": "ARIF FAUZI",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-20T12:00:22Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-20T16:08:52Z",
+    "cycle": 1
   },
   {
     "name": "MOH HAFIF",
@@ -234,8 +234,8 @@
     "name": "SAMSUL ARIFIN",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-20T12:00:22Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-20T16:09:04Z",
+    "cycle": 1
   },
   {
     "name": "HERDIANA DIYAH S",
@@ -248,8 +248,8 @@
     "name": "BUDI",
     "stock": 0,
     "lastStock": 60,
-    "lastUpdate": "2026-04-20T12:00:22Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-20T16:09:24Z",
+    "cycle": 1
   },
   {
     "name": "YULI SORAYA",
