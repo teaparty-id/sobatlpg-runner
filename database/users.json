@@ -78,17 +78,17 @@
   },
   {
     "name": "MOH SAID",
-    "stock": 55,
+    "stock": 53,
     "lastStock": 0,
-    "lastUpdate": "2026-04-20T23:15:10Z",
-    "cycle": 1
+    "lastUpdate": "2026-04-20T23:23:46Z",
+    "cycle": 2
   },
   {
     "name": "TOKO 2 PUTRI",
-    "stock": 0,
+    "stock": 60,
     "lastStock": 0,
-    "lastUpdate": "2026-04-20T20:20:14Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-20T23:23:46Z",
+    "cycle": 1
   },
   {
     "name": "TOKO IIN",
@@ -379,9 +379,9 @@
   },
   {
     "name": "ABDUL WAFI",
-    "stock": 189,
+    "stock": 187,
     "lastStock": 0,
-    "lastUpdate": "2026-04-20T23:15:10Z",
+    "lastUpdate": "2026-04-20T23:23:46Z",
     "cycle": 1
   },
   {
@@ -444,7 +444,7 @@
     "name": "ALFIAN DWI A.",
     "stock": 210,
     "lastStock": 63,
-    "lastUpdate": "2026-04-20T23:15:10Z",
+    "lastUpdate": "2026-04-20T23:23:46Z",
     "cycle": 1
   },
   {
@@ -479,8 +479,8 @@
     "name": "TITIK ISMIATIN",
     "stock": 103,
     "lastStock": 3,
-    "lastUpdate": "2026-04-20T23:15:10Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-20T23:26:36Z",
+    "cycle": 3
   },
   {
     "name": "SRI UTAMI",
@@ -500,15 +500,15 @@
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-20T23:18:17Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-20T23:27:12Z",
+    "cycle": 3
   },
   {
     "name": "SUMBER REJEKI",
-    "stock": 145,
+    "stock": 144,
     "lastStock": 1,
-    "lastUpdate": "2026-04-20T23:18:56Z",
-    "cycle": 1
+    "lastUpdate": "2026-04-20T23:27:18Z",
+    "cycle": 2
   },
   {
     "name": "ISTIQOMAH",
