@@ -108,8 +108,8 @@
     "name": "ERNA PUJIATI",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-20T13:46:24Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-20T16:52:37Z",
+    "cycle": 1
   },
   {
     "name": "JONI H",
@@ -288,10 +288,10 @@
   },
   {
     "name": "DIYAH UTAMI",
-    "stock": 13,
+    "stock": 12,
     "lastStock": 0,
-    "lastUpdate": "2026-04-20T16:44:12Z",
-    "cycle": 4
+    "lastUpdate": "2026-04-20T16:52:37Z",
+    "cycle": 5
   },
   {
     "name": "SALMAH",
@@ -325,36 +325,36 @@
     "name": "SOEKAMTO",
     "stock": 2,
     "lastStock": 0,
-    "lastUpdate": "2026-04-20T16:44:12Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-20T16:52:37Z",
+    "cycle": 3
   },
   {
     "name": "TOKO TIARA",
-    "stock": 5,
+    "stock": 1,
     "lastStock": 14,
-    "lastUpdate": "2026-04-20T16:44:12Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-20T16:52:37Z",
+    "cycle": 3
   },
   {
     "name": "TOKO POJOK",
-    "stock": 124,
+    "stock": 123,
     "lastStock": 54,
-    "lastUpdate": "2026-04-20T16:44:12Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-20T16:53:30Z",
+    "cycle": 3
   },
   {
     "name": "UD RAHMAT",
-    "stock": 23,
+    "stock": 19,
     "lastStock": 0,
-    "lastUpdate": "2026-04-20T16:46:50Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-20T16:55:09Z",
+    "cycle": 3
   },
   {
     "name": "ULFA MARIA",
-    "stock": 20,
+    "stock": 18,
     "lastStock": 0,
-    "lastUpdate": "2026-04-20T16:46:57Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-20T16:55:53Z",
+    "cycle": 3
   },
   {
     "name": "TOKO SURYATI",
@@ -379,10 +379,10 @@
   },
   {
     "name": "ABDUL WAFI",
-    "stock": 116,
+    "stock": 110,
     "lastStock": 0,
-    "lastUpdate": "2026-04-20T16:47:21Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-20T16:56:10Z",
+    "cycle": 3
   },
   {
     "name": "YUNIS WAHYUNI",
@@ -409,8 +409,8 @@
     "name": "TK. MAJU",
     "stock": 37,
     "lastStock": 0,
-    "lastUpdate": "2026-04-20T16:48:26Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-20T16:56:56Z",
+    "cycle": 3
   },
   {
     "name": "H. JUMAT",
