@@ -136,8 +136,8 @@
     "name": "BISTON MANURUNG",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-20T05:26:57Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-20T08:30:07Z",
+    "cycle": 1
   },
   {
     "name": "JAMILAH",
@@ -157,15 +157,15 @@
     "name": "BAMBANG HARTONO",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-20T05:26:57Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-20T08:30:07Z",
+    "cycle": 1
   },
   {
     "name": "NADIFATUS SOLEHA",
-    "stock": 44,
+    "stock": 43,
     "lastStock": 0,
-    "lastUpdate": "2026-04-20T08:22:22Z",
-    "cycle": 3
+    "lastUpdate": "2026-04-20T08:30:07Z",
+    "cycle": 4
   },
   {
     "name": "SUROSO",
@@ -323,24 +323,24 @@
   },
   {
     "name": "SOEKAMTO",
-    "stock": 23,
+    "stock": 22,
     "lastStock": 0,
-    "lastUpdate": "2026-04-20T08:25:55Z",
-    "cycle": 3
+    "lastUpdate": "2026-04-20T08:30:07Z",
+    "cycle": 4
   },
   {
     "name": "TOKO TIARA",
     "stock": 27,
     "lastStock": 14,
-    "lastUpdate": "2026-04-20T08:26:12Z",
-    "cycle": 3
+    "lastUpdate": "2026-04-20T08:30:49Z",
+    "cycle": 4
   },
   {
     "name": "TOKO POJOK",
-    "stock": 146,
-    "lastStock": 54,
-    "lastUpdate": "2026-04-20T08:26:21Z",
-    "cycle": 3
+    "stock": 1,
+    "lastStock": 0,
+    "lastUpdate": "2026-04-20T08:30:54Z",
+    "cycle": 4
   },
   {
     "name": "UD RAHMAT",
