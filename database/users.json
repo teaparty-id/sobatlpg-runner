@@ -15,10 +15,10 @@
   },
   {
     "name": "CINDRAWATI",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-20T17:50:37Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-20T20:51:33Z",
+    "cycle": 1
   },
   {
     "name": "EDI SUGENG SARIPAN",
@@ -127,10 +127,10 @@
   },
   {
     "name": "LUKMAN BS",
-    "stock": 23,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-20T20:48:09Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-20T20:51:33Z",
+    "cycle": 3
   },
   {
     "name": "BISTON MANURUNG",
@@ -162,10 +162,10 @@
   },
   {
     "name": "NADIFATUS SOLEHA",
-    "stock": 7,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-20T20:48:09Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-20T20:51:33Z",
+    "cycle": 3
   },
   {
     "name": "SUROSO",
@@ -288,10 +288,10 @@
   },
   {
     "name": "DIYAH UTAMI",
-    "stock": 5,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-20T20:48:58Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-20T20:51:33Z",
+    "cycle": 3
   },
   {
     "name": "SALMAH",
