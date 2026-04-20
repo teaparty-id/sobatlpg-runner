@@ -1,10 +1,10 @@
 [
   {
     "name": "AKBAR RISQ",
-    "stock": 82,
+    "stock": 78,
     "lastStock": 0,
-    "lastUpdate": "2026-04-20T22:09:40Z",
-    "cycle": 3
+    "lastUpdate": "2026-04-20T22:33:37Z",
+    "cycle": 4
   },
   {
     "name": "ATHI HANDAYANI",
@@ -29,52 +29,52 @@
   },
   {
     "name": "BINA MAKMUR",
-    "stock": 83,
+    "stock": 81,
     "lastStock": 0,
-    "lastUpdate": "2026-04-20T22:18:16Z",
-    "cycle": 4
+    "lastUpdate": "2026-04-20T22:33:37Z",
+    "cycle": 5
   },
   {
     "name": "HENDRA KURNIAWAN",
-    "stock": 83,
+    "stock": 80,
     "lastStock": 27,
-    "lastUpdate": "2026-04-20T22:18:16Z",
-    "cycle": 4
+    "lastUpdate": "2026-04-20T22:33:37Z",
+    "cycle": 5
   },
   {
     "name": "SUCIYONO",
-    "stock": 1,
+    "stock": 32,
     "lastStock": 0,
-    "lastUpdate": "2026-04-20T22:19:26Z",
-    "cycle": 4
+    "lastUpdate": "2026-04-20T22:33:37Z",
+    "cycle": 5
   },
   {
     "name": "JAENAL",
-    "stock": 1,
-    "lastStock": 0,
-    "lastUpdate": "2026-04-20T22:22:00Z",
-    "cycle": 4
+    "stock": 74,
+    "lastStock": 13,
+    "lastUpdate": "2026-04-20T22:36:55Z",
+    "cycle": 5
   },
   {
     "name": "JOKO SUWARNO",
-    "stock": 32,
+    "stock": 31,
     "lastStock": 0,
-    "lastUpdate": "2026-04-20T22:13:39Z",
-    "cycle": 3
+    "lastUpdate": "2026-04-20T22:37:55Z",
+    "cycle": 4
   },
   {
     "name": "KARSONO",
     "stock": 71,
     "lastStock": 0,
-    "lastUpdate": "2026-04-20T22:13:47Z",
-    "cycle": 3
+    "lastUpdate": "2026-04-20T22:38:11Z",
+    "cycle": 4
   },
   {
     "name": "LUTFI A.",
-    "stock": 1,
+    "stock": 55,
     "lastStock": 0,
-    "lastUpdate": "2026-04-20T22:24:06Z",
-    "cycle": 4
+    "lastUpdate": "2026-04-20T22:38:24Z",
+    "cycle": 5
   },
   {
     "name": "MOH SAID",
@@ -127,10 +127,10 @@
   },
   {
     "name": "LUKMAN BS",
-    "stock": 1,
+    "stock": 18,
     "lastStock": 0,
-    "lastUpdate": "2026-04-20T22:24:06Z",
-    "cycle": 1
+    "lastUpdate": "2026-04-20T22:39:33Z",
+    "cycle": 2
   },
   {
     "name": "BISTON MANURUNG",
