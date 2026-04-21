@@ -85,24 +85,24 @@
   },
   {
     "name": "TOKO 2 PUTRI",
-    "stock": 11,
+    "stock": 4,
     "lastStock": 0,
-    "lastUpdate": "2026-04-21T16:13:38Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-21T16:20:30Z",
+    "cycle": 3
   },
   {
     "name": "TOKO IIN",
     "stock": 46,
     "lastStock": 0,
-    "lastUpdate": "2026-04-21T16:13:38Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-21T16:20:30Z",
+    "cycle": 3
   },
   {
     "name": "HJ LILIK LAILIYAH",
-    "stock": 16,
+    "stock": 15,
     "lastStock": 0,
-    "lastUpdate": "2026-04-21T16:13:38Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-21T16:20:30Z",
+    "cycle": 3
   },
   {
     "name": "ERNA PUJIATI",
@@ -204,17 +204,17 @@
   },
   {
     "name": "SUPARNI",
-    "stock": 35,
+    "stock": 34,
     "lastStock": 54,
-    "lastUpdate": "2026-04-21T16:16:47Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-21T16:20:30Z",
+    "cycle": 3
   },
   {
     "name": "YOGA RAJAN",
-    "stock": 39,
+    "stock": 34,
     "lastStock": 70,
-    "lastUpdate": "2026-04-21T16:16:58Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-21T16:23:40Z",
+    "cycle": 3
   },
   {
     "name": "ARIF FAUZI",
@@ -253,17 +253,17 @@
   },
   {
     "name": "YULI SORAYA",
-    "stock": 18,
+    "stock": 17,
     "lastStock": 0,
-    "lastUpdate": "2026-04-21T16:17:16Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-21T16:23:43Z",
+    "cycle": 3
   },
   {
     "name": "SUSILO",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-21T13:20:59Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-21T16:24:11Z",
+    "cycle": 1
   },
   {
     "name": "HJ. HAERONI",
@@ -339,8 +339,8 @@
     "name": "TOKO POJOK",
     "stock": 78,
     "lastStock": 54,
-    "lastUpdate": "2026-04-21T16:08:26Z",
-    "cycle": 1
+    "lastUpdate": "2026-04-21T16:24:58Z",
+    "cycle": 2
   },
   {
     "name": "UD RAHMAT",
@@ -358,10 +358,10 @@
   },
   {
     "name": "TOKO SURYATI",
-    "stock": 34,
+    "stock": 33,
     "lastStock": 1,
-    "lastUpdate": "2026-04-21T14:19:37Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-21T16:25:12Z",
+    "cycle": 1
   },
   {
     "name": "SUDJIONO",
