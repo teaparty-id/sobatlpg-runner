@@ -337,9 +337,9 @@
   },
   {
     "name": "TOKO POJOK",
-    "stock": 155,
+    "stock": 154,
     "lastStock": 54,
-    "lastUpdate": "2026-04-21T08:22:22Z",
+    "lastUpdate": "2026-04-21T08:26:26Z",
     "cycle": 1
   },
   {
@@ -423,22 +423,22 @@
     "name": "HARSININGSIH",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-21T05:25:18Z",
-    "cycle": 1
+    "lastUpdate": "2026-04-21T08:26:26Z",
+    "cycle": 2
   },
   {
     "name": "CAHYA HERAWATI",
     "stock": 0,
     "lastStock": 2,
-    "lastUpdate": "2026-04-21T05:25:27Z",
-    "cycle": 1
+    "lastUpdate": "2026-04-21T08:26:26Z",
+    "cycle": 2
   },
   {
     "name": "MISRI CICI",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-21T05:25:52Z",
-    "cycle": 1
+    "lastUpdate": "2026-04-21T08:26:26Z",
+    "cycle": 2
   },
   {
     "name": "ALFIAN DWI A.",
