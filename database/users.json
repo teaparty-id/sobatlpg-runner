@@ -204,17 +204,17 @@
   },
   {
     "name": "SUPARNI",
-    "stock": 40,
+    "stock": 37,
     "lastStock": 54,
-    "lastUpdate": "2026-04-21T13:37:48Z",
-    "cycle": 3
+    "lastUpdate": "2026-04-21T13:43:36Z",
+    "cycle": 4
   },
   {
     "name": "YOGA RAJAN",
-    "stock": 56,
+    "stock": 50,
     "lastStock": 70,
-    "lastUpdate": "2026-04-21T13:38:46Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-21T13:43:36Z",
+    "cycle": 3
   },
   {
     "name": "ARIF FAUZI",
@@ -253,10 +253,10 @@
   },
   {
     "name": "YULI SORAYA",
-    "stock": 44,
+    "stock": 41,
     "lastStock": 0,
-    "lastUpdate": "2026-04-21T13:39:48Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-21T13:43:36Z",
+    "cycle": 3
   },
   {
     "name": "SUSILO",
@@ -281,17 +281,17 @@
   },
   {
     "name": "DARMAWAN P",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-21T10:36:41Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-21T13:43:36Z",
+    "cycle": 1
   },
   {
     "name": "DIYAH UTAMI",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-21T10:30:12Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-21T13:46:40Z",
+    "cycle": 1
   },
   {
     "name": "SALMAH",
@@ -325,29 +325,29 @@
     "name": "SOEKAMTO",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-21T10:30:12Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-21T13:47:04Z",
+    "cycle": 1
   },
   {
     "name": "TOKO TIARA",
     "stock": 0,
     "lastStock": 14,
-    "lastUpdate": "2026-04-21T10:30:50Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-21T13:47:13Z",
+    "cycle": 1
   },
   {
     "name": "TOKO POJOK",
-    "stock": 88,
+    "stock": 81,
     "lastStock": 54,
-    "lastUpdate": "2026-04-21T10:42:32Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-21T13:47:18Z",
+    "cycle": 1
   },
   {
     "name": "UD RAHMAT",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-21T10:33:42Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-21T13:47:42Z",
+    "cycle": 1
   },
   {
     "name": "ULFA MARIA",
