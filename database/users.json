@@ -479,8 +479,8 @@
     "name": "TITIK ISMIATIN",
     "stock": 9,
     "lastStock": 3,
-    "lastUpdate": "2026-04-21T19:24:17Z",
-    "cycle": 3
+    "lastUpdate": "2026-04-21T19:28:41Z",
+    "cycle": 4
   },
   {
     "name": "SRI UTAMI",
@@ -500,15 +500,15 @@
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-21T19:24:17Z",
-    "cycle": 3
+    "lastUpdate": "2026-04-21T19:28:41Z",
+    "cycle": 4
   },
   {
     "name": "SUMBER REJEKI",
     "stock": 123,
     "lastStock": 1,
-    "lastUpdate": "2026-04-21T19:24:17Z",
-    "cycle": 1
+    "lastUpdate": "2026-04-21T19:28:41Z",
+    "cycle": 2
   },
   {
     "name": "ISTIQOMAH",
