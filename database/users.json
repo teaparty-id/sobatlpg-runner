@@ -337,10 +337,10 @@
   },
   {
     "name": "TOKO POJOK",
-    "stock": 65,
+    "stock": 58,
     "lastStock": 54,
-    "lastUpdate": "2026-04-21T20:55:49Z",
-    "cycle": 3
+    "lastUpdate": "2026-04-21T21:02:42Z",
+    "cycle": 4
   },
   {
     "name": "UD RAHMAT",
@@ -358,17 +358,17 @@
   },
   {
     "name": "TOKO SURYATI",
-    "stock": 26,
+    "stock": 23,
     "lastStock": 1,
-    "lastUpdate": "2026-04-21T20:55:49Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-21T21:02:42Z",
+    "cycle": 3
   },
   {
     "name": "SUDJIONO",
-    "stock": 14,
+    "stock": 13,
     "lastStock": 7,
-    "lastUpdate": "2026-04-21T20:58:05Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-21T21:02:42Z",
+    "cycle": 3
   },
   {
     "name": "ANDRI HERU CAHYONO",
@@ -381,8 +381,8 @@
     "name": "ABDUL WAFI",
     "stock": 116,
     "lastStock": 0,
-    "lastUpdate": "2026-04-21T20:58:20Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-21T21:02:42Z",
+    "cycle": 3
   },
   {
     "name": "YUNIS WAHYUNI",
@@ -407,17 +407,17 @@
   },
   {
     "name": "TK. MAJU",
-    "stock": 55,
+    "stock": 53,
     "lastStock": 0,
-    "lastUpdate": "2026-04-21T20:59:19Z",
-    "cycle": 1
+    "lastUpdate": "2026-04-21T21:04:40Z",
+    "cycle": 2
   },
   {
     "name": "H. JUMAT",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-21T17:20:07Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-21T21:05:33Z",
+    "cycle": 1
   },
   {
     "name": "HARSININGSIH",
@@ -428,24 +428,24 @@
   },
   {
     "name": "CAHYA HERAWATI",
-    "stock": 25,
+    "stock": 24,
     "lastStock": 2,
-    "lastUpdate": "2026-04-21T19:15:39Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-21T21:06:14Z",
+    "cycle": 1
   },
   {
     "name": "MISRI CICI",
-    "stock": 3,
+    "stock": 2,
     "lastStock": 0,
-    "lastUpdate": "2026-04-21T19:15:39Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-21T21:06:16Z",
+    "cycle": 1
   },
   {
     "name": "ALFIAN DWI A.",
-    "stock": 121,
+    "stock": 116,
     "lastStock": 63,
-    "lastUpdate": "2026-04-21T19:20:37Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-21T21:08:13Z",
+    "cycle": 1
   },
   {
     "name": "TOKO IRAWAN",
