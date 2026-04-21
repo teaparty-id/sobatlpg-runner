@@ -157,8 +157,8 @@
     "name": "BAMBANG HARTONO",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-21T16:33:42Z",
-    "cycle": 1
+    "lastUpdate": "2026-04-21T16:35:30Z",
+    "cycle": 2
   },
   {
     "name": "NADIFATUS SOLEHA",
@@ -169,24 +169,24 @@
   },
   {
     "name": "SUROSO",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-21T13:33:09Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-21T16:35:30Z",
+    "cycle": 1
   },
   {
     "name": "HADI SUTOYO",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-21T13:33:18Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-21T16:35:30Z",
+    "cycle": 1
   },
   {
     "name": "SRI HIDAYATI",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-21T13:33:49Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-21T16:35:30Z",
+    "cycle": 1
   },
   {
     "name": "ONG SWI GIOK",
