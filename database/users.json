@@ -206,15 +206,15 @@
     "name": "SUPARNI",
     "stock": 27,
     "lastStock": 54,
-    "lastUpdate": "2026-04-21T23:05:20Z",
-    "cycle": 3
+    "lastUpdate": "2026-04-21T23:11:48Z",
+    "cycle": 4
   },
   {
     "name": "YOGA RAJAN",
     "stock": 23,
     "lastStock": 70,
-    "lastUpdate": "2026-04-21T23:05:20Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-21T23:11:48Z",
+    "cycle": 3
   },
   {
     "name": "ARIF FAUZI",
@@ -339,8 +339,8 @@
     "name": "TOKO POJOK",
     "stock": 156,
     "lastStock": 54,
-    "lastUpdate": "2026-04-21T23:05:20Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-21T23:11:48Z",
+    "cycle": 1
   },
   {
     "name": "UD RAHMAT",
@@ -360,15 +360,15 @@
     "name": "TOKO SURYATI",
     "stock": 15,
     "lastStock": 1,
-    "lastUpdate": "2026-04-21T23:06:00Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-21T23:11:48Z",
+    "cycle": 3
   },
   {
     "name": "SUDJIONO",
     "stock": 8,
     "lastStock": 7,
-    "lastUpdate": "2026-04-21T23:08:13Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-21T23:14:18Z",
+    "cycle": 3
   },
   {
     "name": "ANDRI HERU CAHYONO",
@@ -381,8 +381,8 @@
     "name": "ABDUL WAFI",
     "stock": 215,
     "lastStock": 0,
-    "lastUpdate": "2026-04-21T23:08:19Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-21T23:14:24Z",
+    "cycle": 1
   },
   {
     "name": "YUNIS WAHYUNI",
@@ -409,8 +409,8 @@
     "name": "TK. MAJU",
     "stock": 129,
     "lastStock": 0,
-    "lastUpdate": "2026-04-21T23:08:20Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-21T23:14:54Z",
+    "cycle": 3
   },
   {
     "name": "H. JUMAT",
@@ -428,17 +428,17 @@
   },
   {
     "name": "CAHYA HERAWATI",
-    "stock": 23,
+    "stock": 22,
     "lastStock": 2,
-    "lastUpdate": "2026-04-21T23:08:23Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-21T23:15:19Z",
+    "cycle": 3
   },
   {
     "name": "MISRI CICI",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-21T21:34:42Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-21T23:16:53Z",
+    "cycle": 1
   },
   {
     "name": "ALFIAN DWI A.",
