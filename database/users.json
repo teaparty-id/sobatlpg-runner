@@ -423,8 +423,8 @@
     "name": "HARSININGSIH",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-21T18:49:53Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-21T21:50:05Z",
+    "cycle": 1
   },
   {
     "name": "CAHYA HERAWATI",
@@ -500,15 +500,15 @@
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-21T21:45:42Z",
-    "cycle": 3
+    "lastUpdate": "2026-04-21T21:50:05Z",
+    "cycle": 4
   },
   {
     "name": "SUMBER REJEKI",
     "stock": 118,
     "lastStock": 1,
-    "lastUpdate": "2026-04-21T21:45:42Z",
-    "cycle": 3
+    "lastUpdate": "2026-04-21T21:50:05Z",
+    "cycle": 4
   },
   {
     "name": "ISTIQOMAH",
