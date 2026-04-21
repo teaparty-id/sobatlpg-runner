@@ -206,15 +206,15 @@
     "name": "SUPARNI",
     "stock": 27,
     "lastStock": 54,
-    "lastUpdate": "2026-04-21T20:48:55Z",
-    "cycle": 4
+    "lastUpdate": "2026-04-21T20:55:49Z",
+    "cycle": 5
   },
   {
     "name": "YOGA RAJAN",
-    "stock": 25,
+    "stock": 24,
     "lastStock": 70,
-    "lastUpdate": "2026-04-21T20:48:55Z",
-    "cycle": 4
+    "lastUpdate": "2026-04-21T20:55:49Z",
+    "cycle": 5
   },
   {
     "name": "ARIF FAUZI",
@@ -339,8 +339,8 @@
     "name": "TOKO POJOK",
     "stock": 65,
     "lastStock": 54,
-    "lastUpdate": "2026-04-21T20:48:55Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-21T20:55:49Z",
+    "cycle": 3
   },
   {
     "name": "UD RAHMAT",
@@ -360,15 +360,15 @@
     "name": "TOKO SURYATI",
     "stock": 26,
     "lastStock": 1,
-    "lastUpdate": "2026-04-21T20:51:19Z",
-    "cycle": 1
+    "lastUpdate": "2026-04-21T20:55:49Z",
+    "cycle": 2
   },
   {
     "name": "SUDJIONO",
-    "stock": 15,
+    "stock": 14,
     "lastStock": 7,
-    "lastUpdate": "2026-04-21T20:51:35Z",
-    "cycle": 1
+    "lastUpdate": "2026-04-21T20:58:05Z",
+    "cycle": 2
   },
   {
     "name": "ANDRI HERU CAHYONO",
@@ -379,10 +379,10 @@
   },
   {
     "name": "ABDUL WAFI",
-    "stock": 117,
+    "stock": 116,
     "lastStock": 0,
-    "lastUpdate": "2026-04-21T20:52:29Z",
-    "cycle": 1
+    "lastUpdate": "2026-04-21T20:58:20Z",
+    "cycle": 2
   },
   {
     "name": "YUNIS WAHYUNI",
@@ -395,22 +395,22 @@
     "name": "ROSIDI",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-21T17:08:52Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-21T20:58:38Z",
+    "cycle": 1
   },
   {
     "name": "HJ. ASLAMIYAH",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-21T17:15:20Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-21T20:58:55Z",
+    "cycle": 1
   },
   {
     "name": "TK. MAJU",
     "stock": 55,
     "lastStock": 0,
-    "lastUpdate": "2026-04-21T19:15:39Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-21T20:59:19Z",
+    "cycle": 1
   },
   {
     "name": "H. JUMAT",
