@@ -253,10 +253,10 @@
   },
   {
     "name": "YULI SORAYA",
-    "stock": 9,
+    "stock": 8,
     "lastStock": 0,
-    "lastUpdate": "2026-04-21T18:41:01Z",
-    "cycle": 4
+    "lastUpdate": "2026-04-21T18:46:46Z",
+    "cycle": 5
   },
   {
     "name": "SUSILO",
@@ -339,8 +339,8 @@
     "name": "TOKO POJOK",
     "stock": 72,
     "lastStock": 54,
-    "lastUpdate": "2026-04-21T18:41:06Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-21T18:46:46Z",
+    "cycle": 3
   },
   {
     "name": "UD RAHMAT",
@@ -360,15 +360,15 @@
     "name": "TOKO SURYATI",
     "stock": 26,
     "lastStock": 1,
-    "lastUpdate": "2026-04-21T18:41:06Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-21T18:46:46Z",
+    "cycle": 3
   },
   {
     "name": "SUDJIONO",
-    "stock": 19,
+    "stock": 18,
     "lastStock": 7,
-    "lastUpdate": "2026-04-21T18:41:18Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-21T18:46:46Z",
+    "cycle": 3
   },
   {
     "name": "ANDRI HERU CAHYONO",
@@ -381,8 +381,8 @@
     "name": "ABDUL WAFI",
     "stock": 117,
     "lastStock": 0,
-    "lastUpdate": "2026-04-21T18:43:12Z",
-    "cycle": 1
+    "lastUpdate": "2026-04-21T18:49:14Z",
+    "cycle": 2
   },
   {
     "name": "YUNIS WAHYUNI",
@@ -409,8 +409,8 @@
     "name": "TK. MAJU",
     "stock": 58,
     "lastStock": 0,
-    "lastUpdate": "2026-04-21T17:02:29Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-21T18:49:49Z",
+    "cycle": 1
   },
   {
     "name": "H. JUMAT",
@@ -423,22 +423,22 @@
     "name": "HARSININGSIH",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-21T14:35:39Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-21T18:49:53Z",
+    "cycle": 1
   },
   {
     "name": "CAHYA HERAWATI",
-    "stock": 1,
-    "lastStock": 0,
-    "lastUpdate": "2026-04-21T17:09:47Z",
-    "cycle": 0
+    "stock": 27,
+    "lastStock": 2,
+    "lastUpdate": "2026-04-21T18:49:59Z",
+    "cycle": 1
   },
   {
     "name": "MISRI CICI",
-    "stock": 1,
+    "stock": 4,
     "lastStock": 0,
-    "lastUpdate": "2026-04-21T17:09:47Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-21T18:50:30Z",
+    "cycle": 1
   },
   {
     "name": "ALFIAN DWI A.",
