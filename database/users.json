@@ -92,10 +92,10 @@
   },
   {
     "name": "TOKO IIN",
-    "stock": 0,
+    "stock": 78,
     "lastStock": 0,
-    "lastUpdate": "2026-04-20T21:59:52Z",
-    "cycle": 1
+    "lastUpdate": "2026-04-21T01:03:18Z",
+    "cycle": 2
   },
   {
     "name": "HJ LILIK LAILIYAH",
@@ -379,9 +379,9 @@
   },
   {
     "name": "ABDUL WAFI",
-    "stock": 175,
+    "stock": 172,
     "lastStock": 0,
-    "lastUpdate": "2026-04-21T00:59:39Z",
+    "lastUpdate": "2026-04-21T01:03:18Z",
     "cycle": 1
   },
   {
@@ -442,9 +442,9 @@
   },
   {
     "name": "ALFIAN DWI A.",
-    "stock": 202,
+    "stock": 198,
     "lastStock": 63,
-    "lastUpdate": "2026-04-21T00:59:39Z",
+    "lastUpdate": "2026-04-21T01:03:18Z",
     "cycle": 1
   },
   {
