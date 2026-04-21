@@ -3,8 +3,8 @@
     "name": "AKBAR RISQ",
     "stock": 149,
     "lastStock": 0,
-    "lastUpdate": "2026-04-21T04:45:39Z",
-    "cycle": 1
+    "lastUpdate": "2026-04-21T04:54:29Z",
+    "cycle": 2
   },
   {
     "name": "ATHI HANDAYANI",
@@ -31,7 +31,7 @@
     "name": "BINA MAKMUR",
     "stock": 159,
     "lastStock": 0,
-    "lastUpdate": "2026-04-21T04:45:39Z",
+    "lastUpdate": "2026-04-21T04:54:29Z",
     "cycle": 1
   },
   {
@@ -50,10 +50,10 @@
   },
   {
     "name": "JAENAL",
-    "stock": 150,
+    "stock": 146,
     "lastStock": 13,
-    "lastUpdate": "2026-04-21T04:45:39Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-21T04:54:29Z",
+    "cycle": 3
   },
   {
     "name": "JOKO SUWARNO",
@@ -164,8 +164,8 @@
     "name": "NADIFATUS SOLEHA",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-21T01:50:28Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-21T04:54:29Z",
+    "cycle": 1
   },
   {
     "name": "SUROSO",
@@ -199,15 +199,15 @@
     "name": "YUSUF ISMAIL",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-21T01:50:28Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-21T04:55:11Z",
+    "cycle": 1
   },
   {
     "name": "SUPARNI",
-    "stock": 0,
-    "lastStock": 54,
-    "lastUpdate": "2026-04-21T01:50:28Z",
-    "cycle": 0
+    "stock": 1,
+    "lastStock": 0,
+    "lastUpdate": "2026-04-21T04:55:51Z",
+    "cycle": 1
   },
   {
     "name": "YOGA RAJAN",
