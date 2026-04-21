@@ -262,8 +262,8 @@
     "name": "SUSILO",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-21T16:24:11Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-21T19:24:17Z",
+    "cycle": 1
   },
   {
     "name": "HJ. HAERONI",
@@ -479,8 +479,8 @@
     "name": "TITIK ISMIATIN",
     "stock": 9,
     "lastStock": 3,
-    "lastUpdate": "2026-04-21T19:21:15Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-21T19:24:17Z",
+    "cycle": 3
   },
   {
     "name": "SRI UTAMI",
@@ -500,15 +500,15 @@
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-21T19:21:15Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-21T19:24:17Z",
+    "cycle": 3
   },
   {
     "name": "SUMBER REJEKI",
-    "stock": 124,
+    "stock": 123,
     "lastStock": 1,
-    "lastUpdate": "2026-04-21T17:28:23Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-21T19:24:17Z",
+    "cycle": 1
   },
   {
     "name": "ISTIQOMAH",
