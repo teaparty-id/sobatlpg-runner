@@ -1,9 +1,9 @@
 [
   {
     "name": "AKBAR RISQ",
-    "stock": 159,
+    "stock": 157,
     "lastStock": 0,
-    "lastUpdate": "2026-04-21T03:42:05Z",
+    "lastUpdate": "2026-04-21T03:48:56Z",
     "cycle": 1
   },
   {
@@ -29,16 +29,16 @@
   },
   {
     "name": "BINA MAKMUR",
-    "stock": 173,
+    "stock": 172,
     "lastStock": 0,
-    "lastUpdate": "2026-04-21T03:42:05Z",
+    "lastUpdate": "2026-04-21T03:48:56Z",
     "cycle": 1
   },
   {
     "name": "HENDRA KURNIAWAN",
-    "stock": 152,
+    "stock": 148,
     "lastStock": 27,
-    "lastUpdate": "2026-04-21T03:42:05Z",
+    "lastUpdate": "2026-04-21T03:48:56Z",
     "cycle": 1
   },
   {
@@ -50,9 +50,9 @@
   },
   {
     "name": "JAENAL",
-    "stock": 157,
+    "stock": 156,
     "lastStock": 13,
-    "lastUpdate": "2026-04-21T03:42:05Z",
+    "lastUpdate": "2026-04-21T03:48:56Z",
     "cycle": 1
   },
   {
@@ -71,10 +71,10 @@
   },
   {
     "name": "LUTFI A.",
-    "stock": 140,
+    "stock": 139,
     "lastStock": 0,
-    "lastUpdate": "2026-04-21T03:44:24Z",
-    "cycle": 4
+    "lastUpdate": "2026-04-21T03:51:45Z",
+    "cycle": 5
   },
   {
     "name": "MOH SAID",
@@ -127,10 +127,10 @@
   },
   {
     "name": "LUKMAN BS",
-    "stock": 10,
+    "stock": 4,
     "lastStock": 0,
-    "lastUpdate": "2026-04-21T03:45:48Z",
-    "cycle": 3
+    "lastUpdate": "2026-04-21T03:52:47Z",
+    "cycle": 4
   },
   {
     "name": "BISTON MANURUNG",
@@ -157,8 +157,8 @@
     "name": "BAMBANG HARTONO",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-21T00:41:34Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-21T03:53:01Z",
+    "cycle": 1
   },
   {
     "name": "NADIFATUS SOLEHA",
@@ -171,15 +171,15 @@
     "name": "SUROSO",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-20T23:49:29Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-21T03:53:43Z",
+    "cycle": 1
   },
   {
     "name": "HADI SUTOYO",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-21T00:41:34Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-21T03:54:22Z",
+    "cycle": 1
   },
   {
     "name": "SRI HIDAYATI",
