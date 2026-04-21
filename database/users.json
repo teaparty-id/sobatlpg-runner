@@ -92,17 +92,17 @@
   },
   {
     "name": "TOKO IIN",
-    "stock": 26,
+    "stock": 25,
     "lastStock": 0,
-    "lastUpdate": "2026-04-21T20:29:14Z",
-    "cycle": 3
+    "lastUpdate": "2026-04-21T20:34:35Z",
+    "cycle": 4
   },
   {
     "name": "HJ LILIK LAILIYAH",
-    "stock": 7,
+    "stock": 5,
     "lastStock": 0,
-    "lastUpdate": "2026-04-21T20:29:14Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-21T20:34:35Z",
+    "cycle": 3
   },
   {
     "name": "ERNA PUJIATI",
@@ -206,15 +206,15 @@
     "name": "SUPARNI",
     "stock": 29,
     "lastStock": 54,
-    "lastUpdate": "2026-04-21T20:29:56Z",
-    "cycle": 1
+    "lastUpdate": "2026-04-21T20:34:35Z",
+    "cycle": 2
   },
   {
     "name": "YOGA RAJAN",
-    "stock": 31,
+    "stock": 29,
     "lastStock": 70,
-    "lastUpdate": "2026-04-21T20:31:47Z",
-    "cycle": 1
+    "lastUpdate": "2026-04-21T20:34:35Z",
+    "cycle": 2
   },
   {
     "name": "ARIF FAUZI",
@@ -248,15 +248,15 @@
     "name": "BUDI",
     "stock": 0,
     "lastStock": 60,
-    "lastUpdate": "2026-04-21T17:20:07Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-21T20:36:09Z",
+    "cycle": 1
   },
   {
     "name": "YULI SORAYA",
-    "stock": 8,
+    "stock": 5,
     "lastStock": 0,
-    "lastUpdate": "2026-04-21T18:46:46Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-21T20:36:48Z",
+    "cycle": 1
   },
   {
     "name": "SUSILO",
@@ -283,15 +283,15 @@
     "name": "DARMAWAN P",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-21T16:46:31Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-21T20:36:56Z",
+    "cycle": 1
   },
   {
     "name": "DIYAH UTAMI",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-21T16:50:09Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-21T20:37:36Z",
+    "cycle": 1
   },
   {
     "name": "SALMAH",
@@ -325,8 +325,8 @@
     "name": "SOEKAMTO",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-21T16:50:09Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-21T20:37:37Z",
+    "cycle": 1
   },
   {
     "name": "TOKO TIARA",
