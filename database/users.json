@@ -1,10 +1,10 @@
 [
   {
     "name": "AKBAR RISQ",
-    "stock": 144,
+    "stock": 143,
     "lastStock": 0,
-    "lastUpdate": "2026-04-22T16:23:58Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-22T17:05:29Z",
+    "cycle": 1
   },
   {
     "name": "ATHI HANDAYANI",
@@ -15,59 +15,59 @@
   },
   {
     "name": "CINDRAWATI",
-    "stock": 47,
+    "stock": 46,
     "lastStock": 0,
-    "lastUpdate": "2026-04-22T08:26:15Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-22T17:05:29Z",
+    "cycle": 1
   },
   {
     "name": "EDI SUGENG SARIPAN",
-    "stock": 19,
+    "stock": 18,
     "lastStock": 0,
-    "lastUpdate": "2026-04-22T08:26:15Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-22T17:05:29Z",
+    "cycle": 1
   },
   {
     "name": "BINA MAKMUR",
-    "stock": 149,
+    "stock": 148,
     "lastStock": 0,
-    "lastUpdate": "2026-04-22T16:28:08Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-22T17:05:29Z",
+    "cycle": 1
   },
   {
     "name": "HENDRA KURNIAWAN",
-    "stock": 143,
+    "stock": 142,
     "lastStock": 27,
-    "lastUpdate": "2026-04-22T16:19:30Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-22T17:08:44Z",
+    "cycle": 1
   },
   {
     "name": "SUCIYONO",
-    "stock": 145,
+    "stock": 143,
     "lastStock": 0,
-    "lastUpdate": "2026-04-22T13:19:01Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-22T17:08:54Z",
+    "cycle": 1
   },
   {
     "name": "JAENAL",
-    "stock": 126,
+    "stock": 125,
     "lastStock": 13,
-    "lastUpdate": "2026-04-22T17:01:30Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-22T17:08:58Z",
+    "cycle": 1
   },
   {
     "name": "JOKO SUWARNO",
-    "stock": 135,
+    "stock": 134,
     "lastStock": 0,
-    "lastUpdate": "2026-04-22T08:31:23Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-22T17:09:25Z",
+    "cycle": 1
   },
   {
     "name": "KARSONO",
-    "stock": 141,
+    "stock": 140,
     "lastStock": 0,
-    "lastUpdate": "2026-04-22T13:29:50Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-22T17:11:29Z",
+    "cycle": 1
   },
   {
     "name": "LUTFI A.",
