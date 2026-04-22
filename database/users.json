@@ -294,13 +294,6 @@
     "cycle": 1
   },
   {
-    "name": "SALMAH",
-    "stock": 1,
-    "lastStock": 0,
-    "lastUpdate": "2026-04-22T21:40:26Z",
-    "cycle": 1
-  },
-  {
     "name": "TOKO ANITA",
     "stock": 1,
     "lastStock": 0,
@@ -311,15 +304,15 @@
     "name": "TK. LUCKY",
     "stock": 17,
     "lastStock": 55,
-    "lastUpdate": "2026-04-22T21:21:42Z",
-    "cycle": 3
+    "lastUpdate": "2026-04-22T21:42:42Z",
+    "cycle": 4
   },
   {
     "name": "UD SAMAN HADI",
-    "stock": 16,
+    "stock": 9,
     "lastStock": 0,
-    "lastUpdate": "2026-04-22T21:22:19Z",
-    "cycle": 3
+    "lastUpdate": "2026-04-22T21:42:42Z",
+    "cycle": 4
   },
   {
     "name": "SOEKAMTO",
@@ -337,17 +330,17 @@
   },
   {
     "name": "TOKO POJOK",
-    "stock": 131,
+    "stock": 124,
     "lastStock": 54,
-    "lastUpdate": "2026-04-22T21:23:11Z",
-    "cycle": 1
+    "lastUpdate": "2026-04-22T21:42:42Z",
+    "cycle": 2
   },
   {
     "name": "UD RAHMAT",
     "stock": 28,
     "lastStock": 0,
-    "lastUpdate": "2026-04-22T19:27:54Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-22T21:43:56Z",
+    "cycle": 1
   },
   {
     "name": "ULFA MARIA",
@@ -359,9 +352,9 @@
   {
     "name": "TOKO SURYATI",
     "stock": 1,
-    "lastStock": 1,
-    "lastUpdate": "2026-04-22T19:27:54Z",
-    "cycle": 0
+    "lastStock": 0,
+    "lastUpdate": "2026-04-22T21:46:19Z",
+    "cycle": 1
   },
   {
     "name": "SUDJIONO",
@@ -379,10 +372,10 @@
   },
   {
     "name": "ABDUL WAFI",
-    "stock": 121,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-22T19:34:55Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-22T21:46:19Z",
+    "cycle": 1
   },
   {
     "name": "YUNIS WAHYUNI",
@@ -409,8 +402,8 @@
     "name": "TK. MAJU",
     "stock": 119,
     "lastStock": 0,
-    "lastUpdate": "2026-04-22T19:43:28Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-22T21:49:40Z",
+    "cycle": 1
   },
   {
     "name": "H. JUMAT",
@@ -428,10 +421,10 @@
   },
   {
     "name": "CAHYA HERAWATI",
-    "stock": 6,
+    "stock": 3,
     "lastStock": 2,
-    "lastUpdate": "2026-04-22T19:43:28Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-22T21:49:40Z",
+    "cycle": 1
   },
   {
     "name": "MISRI CICI",
