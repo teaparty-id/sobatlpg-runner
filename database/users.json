@@ -1,10 +1,10 @@
 [
   {
     "name": "AKBAR RISQ",
-    "stock": 110,
+    "stock": 206,
     "lastStock": 0,
-    "lastUpdate": "2026-04-21T22:43:35Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-22T07:47:30Z",
+    "cycle": 1
   },
   {
     "name": "ATHI HANDAYANI",
@@ -15,59 +15,59 @@
   },
   {
     "name": "CINDRAWATI",
-    "stock": 53,
+    "stock": 49,
     "lastStock": 0,
-    "lastUpdate": "2026-04-22T01:14:08Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-22T07:47:30Z",
+    "cycle": 1
   },
   {
     "name": "EDI SUGENG SARIPAN",
-    "stock": 18,
+    "stock": 20,
     "lastStock": 0,
-    "lastUpdate": "2026-04-21T22:43:35Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-22T07:47:30Z",
+    "cycle": 1
   },
   {
     "name": "BINA MAKMUR",
-    "stock": 114,
+    "stock": 212,
     "lastStock": 0,
-    "lastUpdate": "2026-04-21T22:43:35Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-22T07:47:30Z",
+    "cycle": 1
   },
   {
     "name": "HENDRA KURNIAWAN",
-    "stock": 123,
+    "stock": 210,
     "lastStock": 27,
-    "lastUpdate": "2026-04-21T22:43:35Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-22T07:51:19Z",
+    "cycle": 1
   },
   {
     "name": "SUCIYONO",
-    "stock": 84,
+    "stock": 188,
     "lastStock": 0,
-    "lastUpdate": "2026-04-21T22:46:38Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-22T07:51:26Z",
+    "cycle": 1
   },
   {
     "name": "JAENAL",
-    "stock": 121,
+    "stock": 217,
     "lastStock": 13,
-    "lastUpdate": "2026-04-21T22:46:46Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-22T07:51:45Z",
+    "cycle": 1
   },
   {
     "name": "JOKO SUWARNO",
-    "stock": 63,
+    "stock": 135,
     "lastStock": 0,
-    "lastUpdate": "2026-04-21T22:47:24Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-22T07:52:17Z",
+    "cycle": 1
   },
   {
     "name": "KARSONO",
-    "stock": 107,
+    "stock": 178,
     "lastStock": 0,
-    "lastUpdate": "2026-04-21T22:48:08Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-22T07:55:10Z",
+    "cycle": 1
   },
   {
     "name": "LUTFI A.",
