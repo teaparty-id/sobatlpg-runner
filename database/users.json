@@ -71,10 +71,10 @@
   },
   {
     "name": "LUTFI A.",
-    "stock": 126,
+    "stock": 123,
     "lastStock": 0,
-    "lastUpdate": "2026-04-22T18:23:12Z",
-    "cycle": 4
+    "lastUpdate": "2026-04-22T18:29:50Z",
+    "cycle": 5
   },
   {
     "name": "MOH SAID",
@@ -85,17 +85,17 @@
   },
   {
     "name": "TOKO 2 PUTRI",
-    "stock": 23,
+    "stock": 17,
     "lastStock": 0,
-    "lastUpdate": "2026-04-22T18:23:12Z",
-    "cycle": 3
+    "lastUpdate": "2026-04-22T18:29:50Z",
+    "cycle": 4
   },
   {
     "name": "TOKO IIN",
     "stock": 87,
     "lastStock": 0,
-    "lastUpdate": "2026-04-22T18:23:12Z",
-    "cycle": 3
+    "lastUpdate": "2026-04-22T18:29:50Z",
+    "cycle": 4
   },
   {
     "name": "HJ LILIK LAILIYAH",
@@ -115,8 +115,8 @@
     "name": "JONI H",
     "stock": 19,
     "lastStock": 0,
-    "lastUpdate": "2026-04-22T18:23:12Z",
-    "cycle": 3
+    "lastUpdate": "2026-04-22T18:29:50Z",
+    "cycle": 4
   },
   {
     "name": "ROSA V",
@@ -204,10 +204,10 @@
   },
   {
     "name": "SUPARNI",
-    "stock": 17,
+    "stock": 15,
     "lastStock": 54,
-    "lastUpdate": "2026-04-22T18:26:05Z",
-    "cycle": 3
+    "lastUpdate": "2026-04-22T18:32:35Z",
+    "cycle": 4
   },
   {
     "name": "YOGA RAJAN",
@@ -246,31 +246,31 @@
   },
   {
     "name": "BUDI",
-    "stock": 51,
+    "stock": 49,
     "lastStock": 60,
-    "lastUpdate": "2026-04-22T18:26:55Z",
-    "cycle": 1
+    "lastUpdate": "2026-04-22T18:32:48Z",
+    "cycle": 2
   },
   {
     "name": "YULI SORAYA",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-22T14:48:54Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-22T18:34:01Z",
+    "cycle": 1
   },
   {
     "name": "SUSILO",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-22T14:49:08Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-22T18:34:10Z",
+    "cycle": 1
   },
   {
     "name": "HJ. HAERONI",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-22T14:49:33Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-22T18:34:44Z",
+    "cycle": 1
   },
   {
     "name": "IMA",
