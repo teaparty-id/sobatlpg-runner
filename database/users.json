@@ -71,10 +71,10 @@
   },
   {
     "name": "LUTFI A.",
-    "stock": 116,
+    "stock": 114,
     "lastStock": 0,
-    "lastUpdate": "2026-04-22T20:45:50Z",
-    "cycle": 4
+    "lastUpdate": "2026-04-22T20:59:04Z",
+    "cycle": 5
   },
   {
     "name": "MOH SAID",
@@ -85,17 +85,17 @@
   },
   {
     "name": "TOKO 2 PUTRI",
-    "stock": 15,
+    "stock": 13,
     "lastStock": 0,
-    "lastUpdate": "2026-04-22T18:36:06Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-22T20:59:04Z",
+    "cycle": 1
   },
   {
     "name": "TOKO IIN",
-    "stock": 86,
+    "stock": 81,
     "lastStock": 0,
-    "lastUpdate": "2026-04-22T18:36:06Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-22T20:59:04Z",
+    "cycle": 1
   },
   {
     "name": "HJ LILIK LAILIYAH",
@@ -113,10 +113,10 @@
   },
   {
     "name": "JONI H",
-    "stock": 18,
+    "stock": 17,
     "lastStock": 0,
-    "lastUpdate": "2026-04-22T18:36:06Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-22T20:59:04Z",
+    "cycle": 1
   },
   {
     "name": "ROSA V",
@@ -204,10 +204,10 @@
   },
   {
     "name": "SUPARNI",
-    "stock": 7,
+    "stock": 2,
     "lastStock": 54,
-    "lastUpdate": "2026-04-22T18:36:06Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-22T21:01:21Z",
+    "cycle": 1
   },
   {
     "name": "YOGA RAJAN",
@@ -246,10 +246,10 @@
   },
   {
     "name": "BUDI",
-    "stock": 37,
+    "stock": 32,
     "lastStock": 60,
-    "lastUpdate": "2026-04-22T18:51:31Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-22T21:01:23Z",
+    "cycle": 1
   },
   {
     "name": "YULI SORAYA",
@@ -302,24 +302,24 @@
   },
   {
     "name": "TOKO ANITA",
-    "stock": 14,
+    "stock": 11,
     "lastStock": 45,
-    "lastUpdate": "2026-04-22T19:09:54Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-22T21:02:25Z",
+    "cycle": 1
   },
   {
     "name": "TK. LUCKY",
-    "stock": 31,
+    "stock": 25,
     "lastStock": 55,
-    "lastUpdate": "2026-04-22T19:09:54Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-22T21:03:04Z",
+    "cycle": 1
   },
   {
     "name": "UD SAMAN HADI",
-    "stock": 24,
+    "stock": 21,
     "lastStock": 0,
-    "lastUpdate": "2026-04-22T19:09:54Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-22T21:04:52Z",
+    "cycle": 1
   },
   {
     "name": "SOEKAMTO",
