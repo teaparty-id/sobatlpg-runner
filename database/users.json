@@ -85,17 +85,17 @@
   },
   {
     "name": "TOKO 2 PUTRI",
-    "stock": 17,
+    "stock": 15,
     "lastStock": 0,
-    "lastUpdate": "2026-04-22T18:29:50Z",
-    "cycle": 4
+    "lastUpdate": "2026-04-22T18:36:06Z",
+    "cycle": 5
   },
   {
     "name": "TOKO IIN",
-    "stock": 87,
+    "stock": 86,
     "lastStock": 0,
-    "lastUpdate": "2026-04-22T18:29:50Z",
-    "cycle": 4
+    "lastUpdate": "2026-04-22T18:36:06Z",
+    "cycle": 5
   },
   {
     "name": "HJ LILIK LAILIYAH",
@@ -113,10 +113,10 @@
   },
   {
     "name": "JONI H",
-    "stock": 19,
+    "stock": 18,
     "lastStock": 0,
-    "lastUpdate": "2026-04-22T18:29:50Z",
-    "cycle": 4
+    "lastUpdate": "2026-04-22T18:36:06Z",
+    "cycle": 5
   },
   {
     "name": "ROSA V",
@@ -204,10 +204,10 @@
   },
   {
     "name": "SUPARNI",
-    "stock": 15,
+    "stock": 7,
     "lastStock": 54,
-    "lastUpdate": "2026-04-22T18:32:35Z",
-    "cycle": 4
+    "lastUpdate": "2026-04-22T18:36:06Z",
+    "cycle": 5
   },
   {
     "name": "YOGA RAJAN",
@@ -246,10 +246,10 @@
   },
   {
     "name": "BUDI",
-    "stock": 49,
+    "stock": 43,
     "lastStock": 60,
-    "lastUpdate": "2026-04-22T18:32:48Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-22T18:39:09Z",
+    "cycle": 3
   },
   {
     "name": "YULI SORAYA",
@@ -276,29 +276,29 @@
     "name": "IMA",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-22T14:55:15Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-22T18:39:09Z",
+    "cycle": 1
   },
   {
     "name": "DARMAWAN P",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-22T14:55:51Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-22T18:39:19Z",
+    "cycle": 1
   },
   {
     "name": "DIYAH UTAMI",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-22T15:02:43Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-22T18:39:53Z",
+    "cycle": 1
   },
   {
     "name": "SALMAH",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-22T15:03:08Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-22T18:39:58Z",
+    "cycle": 1
   },
   {
     "name": "TOKO ANITA",
