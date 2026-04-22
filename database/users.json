@@ -1,9 +1,9 @@
 [
   {
     "name": "AKBAR RISQ",
-    "stock": 172,
+    "stock": 171,
     "lastStock": 0,
-    "lastUpdate": "2026-04-22T12:38:21Z",
+    "lastUpdate": "2026-04-22T12:46:29Z",
     "cycle": 1
   },
   {
@@ -31,28 +31,28 @@
     "name": "BINA MAKMUR",
     "stock": 179,
     "lastStock": 0,
-    "lastUpdate": "2026-04-22T12:38:21Z",
+    "lastUpdate": "2026-04-22T12:46:29Z",
     "cycle": 1
   },
   {
     "name": "HENDRA KURNIAWAN",
     "stock": 176,
     "lastStock": 27,
-    "lastUpdate": "2026-04-22T12:38:21Z",
+    "lastUpdate": "2026-04-22T12:46:29Z",
     "cycle": 1
   },
   {
     "name": "SUCIYONO",
-    "stock": 151,
+    "stock": 148,
     "lastStock": 0,
-    "lastUpdate": "2026-04-22T12:38:21Z",
+    "lastUpdate": "2026-04-22T12:46:29Z",
     "cycle": 1
   },
   {
     "name": "JAENAL",
-    "stock": 195,
+    "stock": 193,
     "lastStock": 13,
-    "lastUpdate": "2026-04-22T12:42:22Z",
+    "lastUpdate": "2026-04-22T12:49:27Z",
     "cycle": 1
   },
   {
@@ -66,7 +66,7 @@
     "name": "KARSONO",
     "stock": 151,
     "lastStock": 0,
-    "lastUpdate": "2026-04-22T12:42:35Z",
+    "lastUpdate": "2026-04-22T12:49:50Z",
     "cycle": 1
   },
   {
@@ -129,8 +129,8 @@
     "name": "LUKMAN BS",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-22T09:50:16Z",
-    "cycle": 1
+    "lastUpdate": "2026-04-22T12:50:30Z",
+    "cycle": 2
   },
   {
     "name": "BISTON MANURUNG",
@@ -311,15 +311,15 @@
     "name": "TK. LUCKY",
     "stock": 53,
     "lastStock": 55,
-    "lastUpdate": "2026-04-22T12:35:03Z",
-    "cycle": 4
+    "lastUpdate": "2026-04-22T12:51:10Z",
+    "cycle": 5
   },
   {
     "name": "UD SAMAN HADI",
     "stock": 34,
     "lastStock": 0,
-    "lastUpdate": "2026-04-22T12:28:02Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-22T12:51:11Z",
+    "cycle": 3
   },
   {
     "name": "SOEKAMTO",
