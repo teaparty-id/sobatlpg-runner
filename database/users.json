@@ -157,8 +157,8 @@
     "name": "BAMBANG HARTONO",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-22T19:43:28Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-22T22:44:04Z",
+    "cycle": 1
   },
   {
     "name": "NADIFATUS SOLEHA",
@@ -498,17 +498,17 @@
   },
   {
     "name": "SUMBER REJEKI",
-    "stock": 131,
+    "stock": 124,
     "lastStock": 1,
-    "lastUpdate": "2026-04-22T22:39:11Z",
-    "cycle": 3
+    "lastUpdate": "2026-04-22T22:44:04Z",
+    "cycle": 4
   },
   {
     "name": "ISTIQOMAH",
-    "stock": 16,
+    "stock": 9,
     "lastStock": 0,
-    "lastUpdate": "2026-04-22T22:39:56Z",
-    "cycle": 4
+    "lastUpdate": "2026-04-22T22:44:04Z",
+    "cycle": 5
   },
   {
     "name": "SALMAH",
