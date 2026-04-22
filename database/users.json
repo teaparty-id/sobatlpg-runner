@@ -10,15 +10,15 @@
     "name": "ATHI HANDAYANI",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-21T21:54:15Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-22T00:55:28Z",
+    "cycle": 1
   },
   {
     "name": "CINDRAWATI",
-    "stock": 59,
+    "stock": 58,
     "lastStock": 0,
-    "lastUpdate": "2026-04-22T00:46:27Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-22T00:55:28Z",
+    "cycle": 3
   },
   {
     "name": "EDI SUGENG SARIPAN",
@@ -85,10 +85,10 @@
   },
   {
     "name": "TOKO 2 PUTRI",
-    "stock": 59,
+    "stock": 57,
     "lastStock": 0,
-    "lastUpdate": "2026-04-22T00:46:27Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-22T00:55:28Z",
+    "cycle": 3
   },
   {
     "name": "TOKO IIN",
@@ -302,24 +302,24 @@
   },
   {
     "name": "TOKO ANITA",
-    "stock": 48,
+    "stock": 38,
     "lastStock": 45,
-    "lastUpdate": "2026-04-22T00:46:27Z",
-    "cycle": 4
+    "lastUpdate": "2026-04-22T00:55:28Z",
+    "cycle": 5
   },
   {
     "name": "TK. LUCKY",
-    "stock": 59,
+    "stock": 53,
     "lastStock": 55,
-    "lastUpdate": "2026-04-22T00:46:27Z",
-    "cycle": 4
+    "lastUpdate": "2026-04-22T00:56:45Z",
+    "cycle": 5
   },
   {
     "name": "UD SAMAN HADI",
-    "stock": 48,
+    "stock": 41,
     "lastStock": 0,
-    "lastUpdate": "2026-04-22T00:49:35Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-22T00:59:06Z",
+    "cycle": 3
   },
   {
     "name": "SOEKAMTO",
@@ -337,10 +337,10 @@
   },
   {
     "name": "TOKO POJOK",
-    "stock": 150,
+    "stock": 149,
     "lastStock": 54,
-    "lastUpdate": "2026-04-22T00:49:39Z",
-    "cycle": 1
+    "lastUpdate": "2026-04-22T00:59:32Z",
+    "cycle": 2
   },
   {
     "name": "UD RAHMAT",
@@ -379,9 +379,9 @@
   },
   {
     "name": "ABDUL WAFI",
-    "stock": 209,
+    "stock": 208,
     "lastStock": 0,
-    "lastUpdate": "2026-04-22T00:49:41Z",
+    "lastUpdate": "2026-04-22T01:00:34Z",
     "cycle": 1
   },
   {
@@ -444,7 +444,7 @@
     "name": "ALFIAN DWI A.",
     "stock": 206,
     "lastStock": 63,
-    "lastUpdate": "2026-04-22T00:51:35Z",
+    "lastUpdate": "2026-04-22T01:00:51Z",
     "cycle": 1
   },
   {
