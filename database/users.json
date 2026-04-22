@@ -379,9 +379,9 @@
   },
   {
     "name": "ABDUL WAFI",
-    "stock": 191,
+    "stock": 190,
     "lastStock": 0,
-    "lastUpdate": "2026-04-22T03:27:20Z",
+    "lastUpdate": "2026-04-22T03:32:10Z",
     "cycle": 1
   },
   {
@@ -444,7 +444,7 @@
     "name": "ALFIAN DWI A.",
     "stock": 191,
     "lastStock": 63,
-    "lastUpdate": "2026-04-22T03:27:59Z",
+    "lastUpdate": "2026-04-22T03:32:10Z",
     "cycle": 1
   },
   {
@@ -505,10 +505,10 @@
   },
   {
     "name": "SUMBER REJEKI",
-    "stock": 1,
-    "lastStock": 0,
-    "lastUpdate": "2026-04-22T03:27:59Z",
-    "cycle": 1
+    "stock": 166,
+    "lastStock": 1,
+    "lastUpdate": "2026-04-22T03:32:10Z",
+    "cycle": 2
   },
   {
     "name": "ISTIQOMAH",
