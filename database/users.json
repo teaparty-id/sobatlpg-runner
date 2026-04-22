@@ -246,10 +246,10 @@
   },
   {
     "name": "BUDI",
-    "stock": 54,
-    "lastStock": 60,
-    "lastUpdate": "2026-04-22T05:42:16Z",
-    "cycle": 3
+    "stock": 1,
+    "lastStock": 0,
+    "lastUpdate": "2026-04-22T05:44:52Z",
+    "cycle": 4
   },
   {
     "name": "YULI SORAYA",
@@ -381,8 +381,8 @@
     "name": "ABDUL WAFI",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-22T05:43:06Z",
-    "cycle": 1
+    "lastUpdate": "2026-04-22T05:44:52Z",
+    "cycle": 2
   },
   {
     "name": "YUNIS WAHYUNI",
@@ -442,9 +442,9 @@
   },
   {
     "name": "ALFIAN DWI A.",
-    "stock": 179,
-    "lastStock": 63,
-    "lastUpdate": "2026-04-22T05:38:19Z",
+    "stock": 1,
+    "lastStock": 0,
+    "lastUpdate": "2026-04-22T05:44:52Z",
     "cycle": 1
   },
   {
