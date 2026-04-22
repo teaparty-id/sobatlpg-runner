@@ -225,10 +225,10 @@
   },
   {
     "name": "MOH HAFIF",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-22T02:12:24Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-22T02:17:02Z",
+    "cycle": 3
   },
   {
     "name": "SAMSUL ARIFIN",
@@ -381,7 +381,7 @@
     "name": "ABDUL WAFI",
     "stock": 199,
     "lastStock": 0,
-    "lastUpdate": "2026-04-22T01:52:51Z",
+    "lastUpdate": "2026-04-22T02:17:02Z",
     "cycle": 1
   },
   {
@@ -444,7 +444,7 @@
     "name": "ALFIAN DWI A.",
     "stock": 200,
     "lastStock": 63,
-    "lastUpdate": "2026-04-22T01:52:51Z",
+    "lastUpdate": "2026-04-22T02:17:02Z",
     "cycle": 1
   },
   {
@@ -505,9 +505,9 @@
   },
   {
     "name": "SUMBER REJEKI",
-    "stock": 180,
+    "stock": 178,
     "lastStock": 1,
-    "lastUpdate": "2026-04-22T01:52:51Z",
+    "lastUpdate": "2026-04-22T02:17:02Z",
     "cycle": 1
   },
   {
