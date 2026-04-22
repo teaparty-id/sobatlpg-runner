@@ -381,7 +381,7 @@
     "name": "ABDUL WAFI",
     "stock": 176,
     "lastStock": 0,
-    "lastUpdate": "2026-04-22T06:06:30Z",
+    "lastUpdate": "2026-04-22T06:10:50Z",
     "cycle": 1
   },
   {
@@ -444,7 +444,7 @@
     "name": "ALFIAN DWI A.",
     "stock": 174,
     "lastStock": 63,
-    "lastUpdate": "2026-04-22T06:06:30Z",
+    "lastUpdate": "2026-04-22T06:10:50Z",
     "cycle": 1
   },
   {
@@ -491,10 +491,10 @@
   },
   {
     "name": "TUSOK",
-    "stock": 0,
+    "stock": 23,
     "lastStock": 0,
-    "lastUpdate": "2026-04-22T03:10:18Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-22T06:10:50Z",
+    "cycle": 3
   },
   {
     "name": "DJAMIAH",
