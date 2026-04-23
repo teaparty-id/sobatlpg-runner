@@ -59,7 +59,7 @@
     "name": "JOKO SUWARNO",
     "stock": 167,
     "lastStock": 0,
-    "lastUpdate": "2026-04-23T08:53:42Z",
+    "lastUpdate": "2026-04-23T08:59:27Z",
     "cycle": 1
   },
   {
@@ -330,10 +330,10 @@
   },
   {
     "name": "TOKO POJOK",
-    "stock": 136,
+    "stock": 133,
     "lastStock": 54,
-    "lastUpdate": "2026-04-23T08:53:42Z",
-    "cycle": 4
+    "lastUpdate": "2026-04-23T08:59:27Z",
+    "cycle": 5
   },
   {
     "name": "UD RAHMAT",
@@ -437,7 +437,7 @@
     "name": "ALFIAN DWI A.",
     "stock": 151,
     "lastStock": 63,
-    "lastUpdate": "2026-04-23T08:53:42Z",
+    "lastUpdate": "2026-04-23T08:59:27Z",
     "cycle": 1
   },
   {
@@ -479,8 +479,8 @@
     "name": "SRI UTAMI",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-23T05:55:38Z",
-    "cycle": 1
+    "lastUpdate": "2026-04-23T08:59:27Z",
+    "cycle": 2
   },
   {
     "name": "TUSOK",
