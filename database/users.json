@@ -59,7 +59,7 @@
     "name": "JOKO SUWARNO",
     "stock": 167,
     "lastStock": 0,
-    "lastUpdate": "2026-04-23T07:35:56Z",
+    "lastUpdate": "2026-04-23T07:38:50Z",
     "cycle": 1
   },
   {
@@ -239,10 +239,10 @@
   },
   {
     "name": "HERDIANA DIYAH S",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-23T07:36:40Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-23T07:38:50Z",
+    "cycle": 3
   },
   {
     "name": "BUDI",
@@ -253,31 +253,31 @@
   },
   {
     "name": "YULI SORAYA",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-23T07:36:41Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-23T07:38:50Z",
+    "cycle": 3
   },
   {
     "name": "SUSILO",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-23T04:33:07Z",
-    "cycle": 1
+    "lastUpdate": "2026-04-23T07:38:50Z",
+    "cycle": 2
   },
   {
     "name": "HJ. HAERONI",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-23T04:33:19Z",
-    "cycle": 1
+    "lastUpdate": "2026-04-23T07:39:35Z",
+    "cycle": 2
   },
   {
     "name": "IMA",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-23T04:33:30Z",
-    "cycle": 1
+    "lastUpdate": "2026-04-23T07:39:36Z",
+    "cycle": 2
   },
   {
     "name": "DARMAWAN P",
