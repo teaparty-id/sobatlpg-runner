@@ -59,7 +59,7 @@
     "name": "JOKO SUWARNO",
     "stock": 167,
     "lastStock": 0,
-    "lastUpdate": "2026-04-23T19:09:17Z",
+    "lastUpdate": "2026-04-23T19:13:48Z",
     "cycle": 1
   },
   {
@@ -498,10 +498,10 @@
   },
   {
     "name": "SUMBER REJEKI",
-    "stock": 122,
+    "stock": 117,
     "lastStock": 1,
-    "lastUpdate": "2026-04-23T19:09:17Z",
-    "cycle": 4
+    "lastUpdate": "2026-04-23T19:13:48Z",
+    "cycle": 5
   },
   {
     "name": "ISTIQOMAH",
@@ -512,9 +512,9 @@
   },
   {
     "name": "SALMAH",
-    "stock": 13,
+    "stock": 12,
     "lastStock": 0,
-    "lastUpdate": "2026-04-23T19:09:17Z",
-    "cycle": 3
+    "lastUpdate": "2026-04-23T19:13:48Z",
+    "cycle": 4
   }
 ]
