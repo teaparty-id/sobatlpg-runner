@@ -59,7 +59,7 @@
     "name": "JOKO SUWARNO",
     "stock": 167,
     "lastStock": 0,
-    "lastUpdate": "2026-04-23T21:04:40Z",
+    "lastUpdate": "2026-04-23T21:07:46Z",
     "cycle": 1
   },
   {
@@ -281,24 +281,24 @@
   },
   {
     "name": "DARMAWAN P",
-    "stock": 1,
+    "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-23T21:05:22Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-23T21:07:46Z",
+    "cycle": 3
   },
   {
     "name": "DIYAH UTAMI",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-23T18:06:40Z",
-    "cycle": 1
+    "lastUpdate": "2026-04-23T21:07:46Z",
+    "cycle": 2
   },
   {
     "name": "TOKO ANITA",
     "stock": 0,
     "lastStock": 45,
-    "lastUpdate": "2026-04-23T18:07:19Z",
-    "cycle": 1
+    "lastUpdate": "2026-04-23T21:07:46Z",
+    "cycle": 2
   },
   {
     "name": "TK. LUCKY",
