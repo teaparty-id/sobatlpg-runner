@@ -59,7 +59,7 @@
     "name": "JOKO SUWARNO",
     "stock": 167,
     "lastStock": 0,
-    "lastUpdate": "2026-04-23T10:22:56Z",
+    "lastUpdate": "2026-04-23T10:30:40Z",
     "cycle": 1
   },
   {
@@ -169,10 +169,10 @@
   },
   {
     "name": "SUROSO",
-    "stock": 26,
+    "stock": 14,
     "lastStock": 0,
-    "lastUpdate": "2026-04-23T10:22:56Z",
-    "cycle": 4
+    "lastUpdate": "2026-04-23T10:30:40Z",
+    "cycle": 5
   },
   {
     "name": "HADI SUTOYO",
@@ -197,10 +197,10 @@
   },
   {
     "name": "YUSUF ISMAIL",
-    "stock": 47,
+    "stock": 39,
     "lastStock": 0,
-    "lastUpdate": "2026-04-23T10:22:56Z",
-    "cycle": 4
+    "lastUpdate": "2026-04-23T10:30:40Z",
+    "cycle": 5
   },
   {
     "name": "SUPARNI",
