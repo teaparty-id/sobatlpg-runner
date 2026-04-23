@@ -106,10 +106,10 @@
   },
   {
     "name": "ERNA PUJIATI",
-    "stock": 0,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-23T12:34:08Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-23T15:35:34Z",
+    "cycle": 1
   },
   {
     "name": "JONI H",
@@ -304,8 +304,8 @@
     "name": "TK. LUCKY",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-23T15:33:58Z",
-    "cycle": 4
+    "lastUpdate": "2026-04-23T15:35:34Z",
+    "cycle": 5
   },
   {
     "name": "UD SAMAN HADI",
@@ -332,15 +332,15 @@
     "name": "TOKO POJOK",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-23T15:33:58Z",
-    "cycle": 1
+    "lastUpdate": "2026-04-23T15:35:34Z",
+    "cycle": 2
   },
   {
     "name": "UD RAHMAT",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-23T15:34:37Z",
-    "cycle": 1
+    "lastUpdate": "2026-04-23T15:35:34Z",
+    "cycle": 2
   },
   {
     "name": "ULFA MARIA",
