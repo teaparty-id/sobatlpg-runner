@@ -59,7 +59,7 @@
     "name": "JOKO SUWARNO",
     "stock": 167,
     "lastStock": 0,
-    "lastUpdate": "2026-04-23T05:59:06Z",
+    "lastUpdate": "2026-04-23T06:08:39Z",
     "cycle": 1
   },
   {
@@ -330,9 +330,9 @@
   },
   {
     "name": "TOKO POJOK",
-    "stock": 197,
+    "stock": 190,
     "lastStock": 54,
-    "lastUpdate": "2026-04-23T05:59:06Z",
+    "lastUpdate": "2026-04-23T06:08:39Z",
     "cycle": 1
   },
   {
@@ -372,9 +372,9 @@
   },
   {
     "name": "ABDUL WAFI",
-    "stock": 200,
+    "stock": 194,
     "lastStock": 0,
-    "lastUpdate": "2026-04-23T05:59:06Z",
+    "lastUpdate": "2026-04-23T06:08:39Z",
     "cycle": 1
   },
   {
@@ -400,9 +400,9 @@
   },
   {
     "name": "TK. MAJU",
-    "stock": 179,
+    "stock": 174,
     "lastStock": 0,
-    "lastUpdate": "2026-04-23T06:00:55Z",
+    "lastUpdate": "2026-04-23T06:08:39Z",
     "cycle": 1
   },
   {
@@ -435,9 +435,9 @@
   },
   {
     "name": "ALFIAN DWI A.",
-    "stock": 198,
+    "stock": 195,
     "lastStock": 63,
-    "lastUpdate": "2026-04-23T06:01:38Z",
+    "lastUpdate": "2026-04-23T06:10:51Z",
     "cycle": 1
   },
   {
@@ -470,10 +470,10 @@
   },
   {
     "name": "TITIK ISMIATIN",
-    "stock": 119,
+    "stock": 114,
     "lastStock": 3,
-    "lastUpdate": "2026-04-23T06:04:00Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-23T06:12:48Z",
+    "cycle": 3
   },
   {
     "name": "SRI UTAMI",
@@ -493,22 +493,22 @@
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-23T06:04:10Z",
-    "cycle": 1
+    "lastUpdate": "2026-04-23T06:13:00Z",
+    "cycle": 2
   },
   {
     "name": "SUMBER REJEKI",
-    "stock": 115,
+    "stock": 190,
     "lastStock": 1,
-    "lastUpdate": "2026-04-22T22:51:31Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-23T06:13:36Z",
+    "cycle": 1
   },
   {
     "name": "ISTIQOMAH",
-    "stock": 9,
+    "stock": 7,
     "lastStock": 0,
-    "lastUpdate": "2026-04-22T22:44:04Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-23T06:13:36Z",
+    "cycle": 1
   },
   {
     "name": "SALMAH",
