@@ -330,9 +330,9 @@
   },
   {
     "name": "TOKO POJOK",
-    "stock": 205,
-    "lastStock": 54,
-    "lastUpdate": "2026-04-24T16:18:12Z",
+    "stock": 1,
+    "lastStock": 0,
+    "lastUpdate": "2026-04-24T16:21:31Z",
     "cycle": 1
   },
   {
@@ -372,9 +372,9 @@
   },
   {
     "name": "ABDUL WAFI",
-    "stock": 169,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-24T16:18:12Z",
+    "lastUpdate": "2026-04-24T16:21:31Z",
     "cycle": 1
   },
   {
@@ -400,9 +400,9 @@
   },
   {
     "name": "TK. MAJU",
-    "stock": 190,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-24T16:18:12Z",
+    "lastUpdate": "2026-04-24T16:21:31Z",
     "cycle": 1
   },
   {
@@ -421,10 +421,10 @@
   },
   {
     "name": "CAHYA HERAWATI",
-    "stock": 0,
-    "lastStock": 2,
-    "lastUpdate": "2026-04-24T13:20:15Z",
-    "cycle": 1
+    "stock": 1,
+    "lastStock": 0,
+    "lastUpdate": "2026-04-24T16:21:31Z",
+    "cycle": 2
   },
   {
     "name": "MISRI CICI",
