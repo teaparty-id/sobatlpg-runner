@@ -29,10 +29,10 @@
   },
   {
     "name": "BINA MAKMUR",
-    "stock": 149,
+    "stock": 146,
     "lastStock": 0,
-    "lastUpdate": "2026-04-24T12:18:50Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-24T12:26:58Z",
+    "cycle": 3
   },
   {
     "name": "HENDRA KURNIAWAN",
@@ -45,14 +45,14 @@
     "name": "SUCIYONO",
     "stock": 152,
     "lastStock": 0,
-    "lastUpdate": "2026-04-24T12:18:50Z",
+    "lastUpdate": "2026-04-24T12:26:58Z",
     "cycle": 1
   },
   {
     "name": "JAENAL",
-    "stock": 167,
+    "stock": 165,
     "lastStock": 13,
-    "lastUpdate": "2026-04-24T12:18:50Z",
+    "lastUpdate": "2026-04-24T12:26:58Z",
     "cycle": 1
   },
   {
@@ -73,7 +73,7 @@
     "name": "LUTFI A.",
     "stock": 158,
     "lastStock": 0,
-    "lastUpdate": "2026-04-24T12:18:50Z",
+    "lastUpdate": "2026-04-24T12:26:58Z",
     "cycle": 1
   },
   {
@@ -92,9 +92,9 @@
   },
   {
     "name": "TOKO IIN",
-    "stock": 165,
+    "stock": 162,
     "lastStock": 0,
-    "lastUpdate": "2026-04-24T12:21:45Z",
+    "lastUpdate": "2026-04-24T12:30:13Z",
     "cycle": 1
   },
   {
@@ -330,9 +330,9 @@
   },
   {
     "name": "TOKO POJOK",
-    "stock": 220,
+    "stock": 218,
     "lastStock": 54,
-    "lastUpdate": "2026-04-24T12:22:19Z",
+    "lastUpdate": "2026-04-24T12:30:14Z",
     "cycle": 1
   },
   {
@@ -351,10 +351,10 @@
   },
   {
     "name": "TOKO SURYATI",
-    "stock": 80,
+    "stock": 76,
     "lastStock": 1,
-    "lastUpdate": "2026-04-24T12:22:52Z",
-    "cycle": 3
+    "lastUpdate": "2026-04-24T12:30:54Z",
+    "cycle": 4
   },
   {
     "name": "SUDJIONO",
@@ -372,17 +372,17 @@
   },
   {
     "name": "ABDUL WAFI",
-    "stock": 97,
+    "stock": 196,
     "lastStock": 0,
-    "lastUpdate": "2026-04-23T18:44:06Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-24T12:31:04Z",
+    "cycle": 1
   },
   {
     "name": "YUNIS WAHYUNI",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-24T03:33:41Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-24T12:33:29Z",
+    "cycle": 1
   },
   {
     "name": "ROSIDI",
