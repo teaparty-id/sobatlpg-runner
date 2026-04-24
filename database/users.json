@@ -1,9 +1,9 @@
 [
   {
     "name": "AKBAR RISQ",
-    "stock": 162,
+    "stock": 161,
     "lastStock": 0,
-    "lastUpdate": "2026-04-24T08:05:58Z",
+    "lastUpdate": "2026-04-24T08:16:38Z",
     "cycle": 1
   },
   {
@@ -29,9 +29,9 @@
   },
   {
     "name": "BINA MAKMUR",
-    "stock": 175,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-24T08:05:58Z",
+    "lastUpdate": "2026-04-24T08:16:38Z",
     "cycle": 1
   },
   {
@@ -43,16 +43,16 @@
   },
   {
     "name": "SUCIYONO",
-    "stock": 187,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-24T08:05:58Z",
+    "lastUpdate": "2026-04-24T08:16:38Z",
     "cycle": 1
   },
   {
     "name": "JAENAL",
-    "stock": 203,
-    "lastStock": 13,
-    "lastUpdate": "2026-04-24T08:05:58Z",
+    "stock": 1,
+    "lastStock": 0,
+    "lastUpdate": "2026-04-24T08:16:38Z",
     "cycle": 1
   },
   {
