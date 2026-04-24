@@ -29,10 +29,10 @@
   },
   {
     "name": "BINA MAKMUR",
-    "stock": 150,
+    "stock": 149,
     "lastStock": 0,
-    "lastUpdate": "2026-04-24T12:10:19Z",
-    "cycle": 1
+    "lastUpdate": "2026-04-24T12:18:50Z",
+    "cycle": 2
   },
   {
     "name": "HENDRA KURNIAWAN",
@@ -45,14 +45,14 @@
     "name": "SUCIYONO",
     "stock": 152,
     "lastStock": 0,
-    "lastUpdate": "2026-04-24T12:10:19Z",
+    "lastUpdate": "2026-04-24T12:18:50Z",
     "cycle": 1
   },
   {
     "name": "JAENAL",
-    "stock": 170,
+    "stock": 167,
     "lastStock": 13,
-    "lastUpdate": "2026-04-24T12:10:19Z",
+    "lastUpdate": "2026-04-24T12:18:50Z",
     "cycle": 1
   },
   {
@@ -73,7 +73,7 @@
     "name": "LUTFI A.",
     "stock": 158,
     "lastStock": 0,
-    "lastUpdate": "2026-04-24T12:10:19Z",
+    "lastUpdate": "2026-04-24T12:18:50Z",
     "cycle": 1
   },
   {
@@ -94,7 +94,7 @@
     "name": "TOKO IIN",
     "stock": 165,
     "lastStock": 0,
-    "lastUpdate": "2026-04-24T12:13:38Z",
+    "lastUpdate": "2026-04-24T12:21:45Z",
     "cycle": 1
   },
   {
@@ -330,17 +330,17 @@
   },
   {
     "name": "TOKO POJOK",
-    "stock": 221,
+    "stock": 220,
     "lastStock": 54,
-    "lastUpdate": "2026-04-24T12:13:52Z",
+    "lastUpdate": "2026-04-24T12:22:19Z",
     "cycle": 1
   },
   {
     "name": "UD RAHMAT",
-    "stock": 51,
+    "stock": 48,
     "lastStock": 0,
-    "lastUpdate": "2026-04-24T12:14:03Z",
-    "cycle": 4
+    "lastUpdate": "2026-04-24T12:22:46Z",
+    "cycle": 5
   },
   {
     "name": "ULFA MARIA",
@@ -351,10 +351,10 @@
   },
   {
     "name": "TOKO SURYATI",
-    "stock": 82,
+    "stock": 80,
     "lastStock": 1,
-    "lastUpdate": "2026-04-24T12:14:33Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-24T12:22:52Z",
+    "cycle": 3
   },
   {
     "name": "SUDJIONO",
@@ -367,8 +367,8 @@
     "name": "ANDRI HERU CAHYONO",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-24T03:26:21Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-24T12:24:25Z",
+    "cycle": 1
   },
   {
     "name": "ABDUL WAFI",
