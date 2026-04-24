@@ -29,9 +29,9 @@
   },
   {
     "name": "BINA MAKMUR",
-    "stock": 152,
+    "stock": 151,
     "lastStock": 0,
-    "lastUpdate": "2026-04-24T11:32:53Z",
+    "lastUpdate": "2026-04-24T11:43:02Z",
     "cycle": 1
   },
   {
@@ -43,16 +43,16 @@
   },
   {
     "name": "SUCIYONO",
-    "stock": 158,
+    "stock": 154,
     "lastStock": 0,
-    "lastUpdate": "2026-04-24T11:32:53Z",
+    "lastUpdate": "2026-04-24T11:43:02Z",
     "cycle": 1
   },
   {
     "name": "JAENAL",
-    "stock": 179,
+    "stock": 177,
     "lastStock": 13,
-    "lastUpdate": "2026-04-24T11:32:53Z",
+    "lastUpdate": "2026-04-24T11:43:02Z",
     "cycle": 1
   },
   {
@@ -71,9 +71,9 @@
   },
   {
     "name": "LUTFI A.",
-    "stock": 163,
+    "stock": 161,
     "lastStock": 0,
-    "lastUpdate": "2026-04-24T11:32:53Z",
+    "lastUpdate": "2026-04-24T11:43:02Z",
     "cycle": 1
   },
   {
@@ -92,9 +92,9 @@
   },
   {
     "name": "TOKO IIN",
-    "stock": 169,
+    "stock": 167,
     "lastStock": 0,
-    "lastUpdate": "2026-04-24T11:35:23Z",
+    "lastUpdate": "2026-04-24T11:45:34Z",
     "cycle": 1
   },
   {
@@ -295,10 +295,10 @@
   },
   {
     "name": "TOKO ANITA",
-    "stock": 35,
+    "stock": 33,
     "lastStock": 45,
-    "lastUpdate": "2026-04-24T11:37:22Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-24T11:46:56Z",
+    "cycle": 3
   },
   {
     "name": "TK. LUCKY",
@@ -325,22 +325,22 @@
     "name": "TOKO TIARA",
     "stock": 0,
     "lastStock": 14,
-    "lastUpdate": "2026-04-24T03:19:19Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-24T11:47:08Z",
+    "cycle": 1
   },
   {
     "name": "TOKO POJOK",
-    "stock": 127,
+    "stock": 228,
     "lastStock": 54,
-    "lastUpdate": "2026-04-23T18:29:06Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-24T11:47:49Z",
+    "cycle": 1
   },
   {
     "name": "UD RAHMAT",
-    "stock": 54,
+    "stock": 52,
     "lastStock": 0,
-    "lastUpdate": "2026-04-24T00:26:34Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-24T11:48:51Z",
+    "cycle": 1
   },
   {
     "name": "ULFA MARIA",
