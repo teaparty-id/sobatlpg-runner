@@ -50,9 +50,9 @@
   },
   {
     "name": "JAENAL",
-    "stock": 153,
+    "stock": 150,
     "lastStock": 13,
-    "lastUpdate": "2026-04-24T13:40:52Z",
+    "lastUpdate": "2026-04-24T13:59:21Z",
     "cycle": 1
   },
   {
@@ -92,10 +92,10 @@
   },
   {
     "name": "TOKO IIN",
-    "stock": 150,
+    "stock": 149,
     "lastStock": 0,
-    "lastUpdate": "2026-04-24T13:40:52Z",
-    "cycle": 1
+    "lastUpdate": "2026-04-24T13:59:21Z",
+    "cycle": 2
   },
   {
     "name": "HJ LILIK LAILIYAH",
@@ -178,8 +178,8 @@
     "name": "HADI SUTOYO",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-24T10:54:39Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-24T13:59:21Z",
+    "cycle": 3
   },
   {
     "name": "SRI HIDAYATI",
@@ -330,9 +330,9 @@
   },
   {
     "name": "TOKO POJOK",
-    "stock": 212,
+    "stock": 208,
     "lastStock": 54,
-    "lastUpdate": "2026-04-24T13:41:38Z",
+    "lastUpdate": "2026-04-24T13:59:21Z",
     "cycle": 1
   },
   {
@@ -372,9 +372,9 @@
   },
   {
     "name": "ABDUL WAFI",
-    "stock": 185,
+    "stock": 180,
     "lastStock": 0,
-    "lastUpdate": "2026-04-24T13:43:50Z",
+    "lastUpdate": "2026-04-24T14:00:03Z",
     "cycle": 1
   },
   {
@@ -400,9 +400,9 @@
   },
   {
     "name": "TK. MAJU",
-    "stock": 202,
+    "stock": 200,
     "lastStock": 0,
-    "lastUpdate": "2026-04-24T13:43:54Z",
+    "lastUpdate": "2026-04-24T14:02:20Z",
     "cycle": 1
   },
   {
@@ -414,10 +414,10 @@
   },
   {
     "name": "HARSININGSIH",
-    "stock": 17,
+    "stock": 15,
     "lastStock": 0,
-    "lastUpdate": "2026-04-24T13:44:14Z",
-    "cycle": 4
+    "lastUpdate": "2026-04-24T14:02:24Z",
+    "cycle": 5
   },
   {
     "name": "CAHYA HERAWATI",
@@ -435,17 +435,17 @@
   },
   {
     "name": "ALFIAN DWI A.",
-    "stock": 224,
+    "stock": 220,
     "lastStock": 63,
-    "lastUpdate": "2026-04-24T13:45:44Z",
+    "lastUpdate": "2026-04-24T14:02:36Z",
     "cycle": 1
   },
   {
     "name": "TOKO IRAWAN",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-24T04:06:23Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-24T14:03:18Z",
+    "cycle": 1
   },
   {
     "name": "SUPARMAN",
