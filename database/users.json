@@ -332,8 +332,8 @@
     "name": "TOKO POJOK",
     "stock": 207,
     "lastStock": 54,
-    "lastUpdate": "2026-04-24T14:50:15Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-24T14:58:03Z",
+    "cycle": 1
   },
   {
     "name": "UD RAHMAT",
@@ -372,10 +372,10 @@
   },
   {
     "name": "ABDUL WAFI",
-    "stock": 176,
+    "stock": 174,
     "lastStock": 0,
-    "lastUpdate": "2026-04-24T14:50:15Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-24T14:58:03Z",
+    "cycle": 1
   },
   {
     "name": "YUNIS WAHYUNI",
@@ -400,9 +400,9 @@
   },
   {
     "name": "TK. MAJU",
-    "stock": 196,
+    "stock": 195,
     "lastStock": 0,
-    "lastUpdate": "2026-04-24T14:50:15Z",
+    "lastUpdate": "2026-04-24T14:58:03Z",
     "cycle": 1
   },
   {
@@ -435,10 +435,10 @@
   },
   {
     "name": "ALFIAN DWI A.",
-    "stock": 217,
+    "stock": 216,
     "lastStock": 63,
-    "lastUpdate": "2026-04-24T14:50:53Z",
-    "cycle": 3
+    "lastUpdate": "2026-04-24T14:58:03Z",
+    "cycle": 1
   },
   {
     "name": "TOKO IRAWAN",
@@ -451,8 +451,8 @@
     "name": "SUPARMAN",
     "stock": 30,
     "lastStock": 0,
-    "lastUpdate": "2026-04-24T14:52:45Z",
-    "cycle": 3
+    "lastUpdate": "2026-04-24T15:01:07Z",
+    "cycle": 4
   },
   {
     "name": "P. SUK",
@@ -472,8 +472,8 @@
     "name": "TITIK ISMIATIN",
     "stock": 85,
     "lastStock": 3,
-    "lastUpdate": "2026-04-24T14:52:52Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-24T15:01:18Z",
+    "cycle": 3
   },
   {
     "name": "SRI UTAMI",
@@ -493,22 +493,22 @@
     "name": "DJAMIAH",
     "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-24T14:53:00Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-24T15:01:18Z",
+    "cycle": 3
   },
   {
     "name": "SUMBER REJEKI",
     "stock": 198,
     "lastStock": 1,
-    "lastUpdate": "2026-04-24T14:53:37Z",
+    "lastUpdate": "2026-04-24T15:01:58Z",
     "cycle": 1
   },
   {
     "name": "ISTIQOMAH",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-24T03:54:46Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-24T15:02:01Z",
+    "cycle": 1
   },
   {
     "name": "SALMAH",
