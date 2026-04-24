@@ -43,16 +43,16 @@
   },
   {
     "name": "SUCIYONO",
-    "stock": 143,
+    "stock": 142,
     "lastStock": 0,
-    "lastUpdate": "2026-04-24T13:32:31Z",
-    "cycle": 4
+    "lastUpdate": "2026-04-24T13:40:52Z",
+    "cycle": 5
   },
   {
     "name": "JAENAL",
     "stock": 153,
     "lastStock": 13,
-    "lastUpdate": "2026-04-24T13:32:31Z",
+    "lastUpdate": "2026-04-24T13:40:52Z",
     "cycle": 1
   },
   {
@@ -92,9 +92,9 @@
   },
   {
     "name": "TOKO IIN",
-    "stock": 152,
+    "stock": 150,
     "lastStock": 0,
-    "lastUpdate": "2026-04-24T13:32:31Z",
+    "lastUpdate": "2026-04-24T13:40:52Z",
     "cycle": 1
   },
   {
@@ -248,8 +248,8 @@
     "name": "BUDI",
     "stock": 0,
     "lastStock": 60,
-    "lastUpdate": "2026-04-24T10:37:06Z",
-    "cycle": 1
+    "lastUpdate": "2026-04-24T13:40:52Z",
+    "cycle": 2
   },
   {
     "name": "YULI SORAYA",
@@ -330,9 +330,9 @@
   },
   {
     "name": "TOKO POJOK",
-    "stock": 213,
+    "stock": 212,
     "lastStock": 54,
-    "lastUpdate": "2026-04-24T13:35:09Z",
+    "lastUpdate": "2026-04-24T13:41:38Z",
     "cycle": 1
   },
   {
@@ -372,9 +372,9 @@
   },
   {
     "name": "ABDUL WAFI",
-    "stock": 189,
+    "stock": 185,
     "lastStock": 0,
-    "lastUpdate": "2026-04-24T13:35:51Z",
+    "lastUpdate": "2026-04-24T13:43:50Z",
     "cycle": 1
   },
   {
@@ -402,7 +402,7 @@
     "name": "TK. MAJU",
     "stock": 202,
     "lastStock": 0,
-    "lastUpdate": "2026-04-24T13:36:57Z",
+    "lastUpdate": "2026-04-24T13:43:54Z",
     "cycle": 1
   },
   {
@@ -414,10 +414,10 @@
   },
   {
     "name": "HARSININGSIH",
-    "stock": 21,
+    "stock": 17,
     "lastStock": 0,
-    "lastUpdate": "2026-04-24T13:37:41Z",
-    "cycle": 3
+    "lastUpdate": "2026-04-24T13:44:14Z",
+    "cycle": 4
   },
   {
     "name": "CAHYA HERAWATI",
@@ -435,10 +435,10 @@
   },
   {
     "name": "ALFIAN DWI A.",
-    "stock": 124,
+    "stock": 224,
     "lastStock": 63,
-    "lastUpdate": "2026-04-23T18:59:37Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-24T13:45:44Z",
+    "cycle": 1
   },
   {
     "name": "TOKO IRAWAN",
