@@ -29,9 +29,9 @@
   },
   {
     "name": "BINA MAKMUR",
-    "stock": 161,
+    "stock": 160,
     "lastStock": 0,
-    "lastUpdate": "2026-04-24T10:20:57Z",
+    "lastUpdate": "2026-04-24T10:30:35Z",
     "cycle": 1
   },
   {
@@ -43,16 +43,16 @@
   },
   {
     "name": "SUCIYONO",
-    "stock": 168,
+    "stock": 165,
     "lastStock": 0,
-    "lastUpdate": "2026-04-24T10:20:57Z",
+    "lastUpdate": "2026-04-24T10:30:35Z",
     "cycle": 1
   },
   {
     "name": "JAENAL",
-    "stock": 188,
+    "stock": 187,
     "lastStock": 13,
-    "lastUpdate": "2026-04-24T10:20:57Z",
+    "lastUpdate": "2026-04-24T10:30:35Z",
     "cycle": 1
   },
   {
@@ -64,16 +64,16 @@
   },
   {
     "name": "KARSONO",
-    "stock": 155,
+    "stock": 152,
     "lastStock": 0,
-    "lastUpdate": "2026-04-24T10:20:57Z",
+    "lastUpdate": "2026-04-24T10:30:35Z",
     "cycle": 1
   },
   {
     "name": "LUTFI A.",
-    "stock": 176,
+    "stock": 175,
     "lastStock": 0,
-    "lastUpdate": "2026-04-24T10:24:52Z",
+    "lastUpdate": "2026-04-24T10:33:34Z",
     "cycle": 1
   },
   {
@@ -92,9 +92,9 @@
   },
   {
     "name": "TOKO IIN",
-    "stock": 179,
+    "stock": 177,
     "lastStock": 0,
-    "lastUpdate": "2026-04-24T10:24:56Z",
+    "lastUpdate": "2026-04-24T10:33:57Z",
     "cycle": 1
   },
   {
@@ -232,24 +232,24 @@
   },
   {
     "name": "SAMSUL ARIFIN",
-    "stock": 20,
+    "stock": 19,
     "lastStock": 0,
-    "lastUpdate": "2026-04-24T10:26:11Z",
-    "cycle": 3
+    "lastUpdate": "2026-04-24T10:34:43Z",
+    "cycle": 4
   },
   {
     "name": "HERDIANA DIYAH S",
-    "stock": 80,
+    "stock": 72,
     "lastStock": 0,
-    "lastUpdate": "2026-04-24T10:26:24Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-24T10:35:51Z",
+    "cycle": 3
   },
   {
     "name": "BUDI",
-    "stock": 1,
-    "lastStock": 0,
-    "lastUpdate": "2026-04-23T18:10:08Z",
-    "cycle": 0
+    "stock": 0,
+    "lastStock": 60,
+    "lastUpdate": "2026-04-24T10:37:06Z",
+    "cycle": 1
   },
   {
     "name": "YULI SORAYA",
