@@ -213,8 +213,8 @@
     "name": "YOGA RAJAN",
     "stock": 0,
     "lastStock": 70,
-    "lastUpdate": "2026-04-24T11:37:21Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-24T14:40:18Z",
+    "cycle": 3
   },
   {
     "name": "ARIF FAUZI",
@@ -311,15 +311,15 @@
     "name": "UD SAMAN HADI",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-24T11:37:52Z",
-    "cycle": 1
+    "lastUpdate": "2026-04-24T14:40:18Z",
+    "cycle": 2
   },
   {
     "name": "SOEKAMTO",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-24T11:38:01Z",
-    "cycle": 1
+    "lastUpdate": "2026-04-24T14:40:18Z",
+    "cycle": 2
   },
   {
     "name": "TOKO TIARA",
@@ -332,7 +332,7 @@
     "name": "TOKO POJOK",
     "stock": 207,
     "lastStock": 54,
-    "lastUpdate": "2026-04-24T14:33:06Z",
+    "lastUpdate": "2026-04-24T14:40:18Z",
     "cycle": 1
   },
   {
@@ -372,9 +372,9 @@
   },
   {
     "name": "ABDUL WAFI",
-    "stock": 177,
+    "stock": 176,
     "lastStock": 0,
-    "lastUpdate": "2026-04-24T14:33:06Z",
+    "lastUpdate": "2026-04-24T14:41:00Z",
     "cycle": 1
   },
   {
@@ -400,10 +400,10 @@
   },
   {
     "name": "TK. MAJU",
-    "stock": 198,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-24T14:33:06Z",
-    "cycle": 3
+    "lastUpdate": "2026-04-24T14:41:05Z",
+    "cycle": 1
   },
   {
     "name": "H. JUMAT",
@@ -435,10 +435,10 @@
   },
   {
     "name": "ALFIAN DWI A.",
-    "stock": 217,
-    "lastStock": 63,
-    "lastUpdate": "2026-04-24T14:33:06Z",
-    "cycle": 2
+    "stock": 1,
+    "lastStock": 0,
+    "lastUpdate": "2026-04-24T14:41:06Z",
+    "cycle": 1
   },
   {
     "name": "TOKO IRAWAN",
