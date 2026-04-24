@@ -43,16 +43,16 @@
   },
   {
     "name": "SUCIYONO",
-    "stock": 147,
+    "stock": 146,
     "lastStock": 0,
-    "lastUpdate": "2026-04-24T13:14:32Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-24T13:23:51Z",
+    "cycle": 3
   },
   {
     "name": "JAENAL",
-    "stock": 155,
+    "stock": 154,
     "lastStock": 13,
-    "lastUpdate": "2026-04-24T13:14:32Z",
+    "lastUpdate": "2026-04-24T13:23:51Z",
     "cycle": 1
   },
   {
@@ -73,8 +73,8 @@
     "name": "LUTFI A.",
     "stock": 146,
     "lastStock": 0,
-    "lastUpdate": "2026-04-24T13:14:32Z",
-    "cycle": 3
+    "lastUpdate": "2026-04-24T13:23:51Z",
+    "cycle": 4
   },
   {
     "name": "MOH SAID",
@@ -94,7 +94,7 @@
     "name": "TOKO IIN",
     "stock": 152,
     "lastStock": 0,
-    "lastUpdate": "2026-04-24T13:14:32Z",
+    "lastUpdate": "2026-04-24T13:23:51Z",
     "cycle": 1
   },
   {
@@ -164,8 +164,8 @@
     "name": "NADIFATUS SOLEHA",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-24T10:25:33Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-24T13:25:51Z",
+    "cycle": 3
   },
   {
     "name": "SUROSO",
@@ -330,9 +330,9 @@
   },
   {
     "name": "TOKO POJOK",
-    "stock": 216,
+    "stock": 215,
     "lastStock": 54,
-    "lastUpdate": "2026-04-24T13:17:06Z",
+    "lastUpdate": "2026-04-24T13:26:25Z",
     "cycle": 1
   },
   {
@@ -374,7 +374,7 @@
     "name": "ABDUL WAFI",
     "stock": 190,
     "lastStock": 0,
-    "lastUpdate": "2026-04-24T13:17:19Z",
+    "lastUpdate": "2026-04-24T13:26:31Z",
     "cycle": 1
   },
   {
@@ -400,9 +400,9 @@
   },
   {
     "name": "TK. MAJU",
-    "stock": 204,
+    "stock": 202,
     "lastStock": 0,
-    "lastUpdate": "2026-04-24T13:18:37Z",
+    "lastUpdate": "2026-04-24T13:27:03Z",
     "cycle": 1
   },
   {
@@ -414,10 +414,10 @@
   },
   {
     "name": "HARSININGSIH",
-    "stock": 23,
+    "stock": 22,
     "lastStock": 0,
-    "lastUpdate": "2026-04-24T13:20:15Z",
-    "cycle": 1
+    "lastUpdate": "2026-04-24T13:29:09Z",
+    "cycle": 2
   },
   {
     "name": "CAHYA HERAWATI",
