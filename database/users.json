@@ -3,8 +3,8 @@
     "name": "AKBAR RISQ",
     "stock": 149,
     "lastStock": 0,
-    "lastUpdate": "2026-04-24T08:29:34Z",
-    "cycle": 1
+    "lastUpdate": "2026-04-24T08:44:49Z",
+    "cycle": 2
   },
   {
     "name": "ATHI HANDAYANI",
@@ -29,9 +29,9 @@
   },
   {
     "name": "BINA MAKMUR",
-    "stock": 174,
+    "stock": 170,
     "lastStock": 0,
-    "lastUpdate": "2026-04-24T08:29:34Z",
+    "lastUpdate": "2026-04-24T08:44:49Z",
     "cycle": 1
   },
   {
@@ -43,16 +43,16 @@
   },
   {
     "name": "SUCIYONO",
-    "stock": 183,
+    "stock": 181,
     "lastStock": 0,
-    "lastUpdate": "2026-04-24T08:29:34Z",
+    "lastUpdate": "2026-04-24T08:44:49Z",
     "cycle": 1
   },
   {
     "name": "JAENAL",
-    "stock": 199,
+    "stock": 197,
     "lastStock": 13,
-    "lastUpdate": "2026-04-24T08:29:34Z",
+    "lastUpdate": "2026-04-24T08:44:49Z",
     "cycle": 1
   },
   {
@@ -64,16 +64,16 @@
   },
   {
     "name": "KARSONO",
-    "stock": 172,
+    "stock": 171,
     "lastStock": 0,
-    "lastUpdate": "2026-04-24T08:32:47Z",
+    "lastUpdate": "2026-04-24T08:48:11Z",
     "cycle": 1
   },
   {
     "name": "LUTFI A.",
-    "stock": 200,
+    "stock": 196,
     "lastStock": 0,
-    "lastUpdate": "2026-04-24T08:33:13Z",
+    "lastUpdate": "2026-04-24T08:48:15Z",
     "cycle": 1
   },
   {
@@ -94,7 +94,7 @@
     "name": "TOKO IIN",
     "stock": 197,
     "lastStock": 0,
-    "lastUpdate": "2026-04-24T08:33:43Z",
+    "lastUpdate": "2026-04-24T08:49:54Z",
     "cycle": 1
   },
   {
@@ -197,10 +197,10 @@
   },
   {
     "name": "YUSUF ISMAIL",
-    "stock": 24,
+    "stock": 21,
     "lastStock": 0,
-    "lastUpdate": "2026-04-24T08:34:27Z",
-    "cycle": 3
+    "lastUpdate": "2026-04-24T08:50:08Z",
+    "cycle": 4
   },
   {
     "name": "SUPARNI",
@@ -218,10 +218,10 @@
   },
   {
     "name": "ARIF FAUZI",
-    "stock": 0,
+    "stock": 18,
     "lastStock": 0,
-    "lastUpdate": "2026-04-24T03:01:53Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-24T08:51:52Z",
+    "cycle": 1
   },
   {
     "name": "MOH HAFIF",
