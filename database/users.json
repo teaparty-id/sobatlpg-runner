@@ -330,10 +330,10 @@
   },
   {
     "name": "TOKO POJOK",
-    "stock": 137,
-    "lastStock": 54,
-    "lastUpdate": "2026-04-26T17:26:42Z",
-    "cycle": 0
+    "stock": 1,
+    "lastStock": 0,
+    "lastUpdate": "2026-04-26T17:30:46Z",
+    "cycle": 1
   },
   {
     "name": "UD RAHMAT",
@@ -437,7 +437,7 @@
     "name": "ALFIAN DWI A.",
     "stock": 151,
     "lastStock": 63,
-    "lastUpdate": "2026-04-26T17:26:42Z",
+    "lastUpdate": "2026-04-26T17:30:46Z",
     "cycle": 0
   },
   {
@@ -500,7 +500,7 @@
     "name": "SUMBER REJEKI",
     "stock": 104,
     "lastStock": 1,
-    "lastUpdate": "2026-04-26T17:26:42Z",
+    "lastUpdate": "2026-04-26T17:30:46Z",
     "cycle": 0
   },
   {
