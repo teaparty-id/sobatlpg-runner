@@ -330,9 +330,9 @@
   },
   {
     "name": "TOKO POJOK",
-    "stock": 176,
+    "stock": 175,
     "lastStock": 54,
-    "lastUpdate": "2026-04-26T08:52:54Z",
+    "lastUpdate": "2026-04-26T08:55:27Z",
     "cycle": 0
   },
   {
@@ -400,9 +400,9 @@
   },
   {
     "name": "TK. MAJU",
-    "stock": 63,
+    "stock": 60,
     "lastStock": 0,
-    "lastUpdate": "2026-04-26T08:52:54Z",
+    "lastUpdate": "2026-04-26T08:55:27Z",
     "cycle": 0
   },
   {
@@ -435,10 +435,10 @@
   },
   {
     "name": "ALFIAN DWI A.",
-    "stock": 180,
-    "lastStock": 63,
-    "lastUpdate": "2026-04-26T08:52:54Z",
-    "cycle": 0
+    "stock": 1,
+    "lastStock": 0,
+    "lastUpdate": "2026-04-26T08:55:27Z",
+    "cycle": 1
   },
   {
     "name": "TOKO IRAWAN",
@@ -500,7 +500,7 @@
     "name": "SUMBER REJEKI",
     "stock": 141,
     "lastStock": 1,
-    "lastUpdate": "2026-04-26T08:52:54Z",
+    "lastUpdate": "2026-04-26T08:55:27Z",
     "cycle": 0
   },
   {
