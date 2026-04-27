@@ -43,10 +43,10 @@
   },
   {
     "name": "SUCIYONO",
-    "stock": 1,
+    "stock": 211,
     "lastStock": 0,
-    "lastUpdate": "2026-04-27T11:54:31Z",
-    "cycle": 1
+    "lastUpdate": "2026-04-27T11:55:08Z",
+    "cycle": 0
   },
   {
     "name": "JAENAL",
@@ -71,10 +71,10 @@
   },
   {
     "name": "LUTFI A.",
-    "stock": 1,
+    "stock": 294,
     "lastStock": 0,
-    "lastUpdate": "2026-04-27T11:54:31Z",
-    "cycle": 1
+    "lastUpdate": "2026-04-27T11:55:08Z",
+    "cycle": 0
   },
   {
     "name": "MOH SAID",
@@ -92,10 +92,10 @@
   },
   {
     "name": "TOKO IIN",
-    "stock": 1,
+    "stock": 295,
     "lastStock": 0,
-    "lastUpdate": "2026-04-27T11:54:31Z",
-    "cycle": 1
+    "lastUpdate": "2026-04-27T11:55:08Z",
+    "cycle": 0
   },
   {
     "name": "HJ LILIK LAILIYAH",
@@ -150,43 +150,43 @@
     "name": "YUDA",
     "stock": 12,
     "lastStock": 0,
-    "lastUpdate": "2026-04-27T11:52:40Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-27T11:55:08Z",
+    "cycle": 3
   },
   {
     "name": "BAMBANG HARTONO",
-    "stock": 1,
+    "stock": 47,
     "lastStock": 0,
-    "lastUpdate": "2026-04-27T11:52:41Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-27T11:58:48Z",
+    "cycle": 3
   },
   {
     "name": "NADIFATUS SOLEHA",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-24T19:28:53Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-27T11:58:52Z",
+    "cycle": 1
   },
   {
     "name": "SUROSO",
     "stock": 6,
     "lastStock": 0,
-    "lastUpdate": "2026-04-24T08:03:00Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-27T11:58:58Z",
+    "cycle": 1
   },
   {
     "name": "HADI SUTOYO",
-    "stock": 0,
+    "stock": 19,
     "lastStock": 0,
-    "lastUpdate": "2026-04-24T20:08:11Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-27T11:59:26Z",
+    "cycle": 1
   },
   {
     "name": "SRI HIDAYATI",
-    "stock": 0,
+    "stock": 47,
     "lastStock": 0,
-    "lastUpdate": "2026-04-24T20:08:11Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-27T11:59:46Z",
+    "cycle": 1
   },
   {
     "name": "ONG SWI GIOK",
