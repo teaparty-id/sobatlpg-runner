@@ -71,10 +71,10 @@
   },
   {
     "name": "LUTFI A.",
-    "stock": 1,
+    "stock": 281,
     "lastStock": 0,
-    "lastUpdate": "2026-04-27T13:22:07Z",
-    "cycle": 1
+    "lastUpdate": "2026-04-27T13:24:13Z",
+    "cycle": 0
   },
   {
     "name": "MOH SAID",
@@ -92,10 +92,10 @@
   },
   {
     "name": "TOKO IIN",
-    "stock": 1,
+    "stock": 279,
     "lastStock": 0,
-    "lastUpdate": "2026-04-27T13:22:07Z",
-    "cycle": 1
+    "lastUpdate": "2026-04-27T13:24:13Z",
+    "cycle": 0
   },
   {
     "name": "HJ LILIK LAILIYAH",
@@ -330,52 +330,52 @@
   },
   {
     "name": "TOKO POJOK",
-    "stock": 1,
-    "lastStock": 0,
-    "lastUpdate": "2026-04-27T13:22:07Z",
-    "cycle": 3
+    "stock": 172,
+    "lastStock": 54,
+    "lastUpdate": "2026-04-27T13:24:13Z",
+    "cycle": 4
   },
   {
     "name": "UD RAHMAT",
     "stock": 108,
     "lastStock": 0,
-    "lastUpdate": "2026-04-27T13:20:47Z",
-    "cycle": 1
+    "lastUpdate": "2026-04-27T13:24:13Z",
+    "cycle": 2
   },
   {
     "name": "ULFA MARIA",
-    "stock": 1,
+    "stock": 29,
     "lastStock": 0,
-    "lastUpdate": "2026-04-27T13:20:56Z",
-    "cycle": 1
+    "lastUpdate": "2026-04-27T13:26:13Z",
+    "cycle": 2
   },
   {
     "name": "TOKO SURYATI",
-    "stock": 75,
+    "stock": 207,
     "lastStock": 1,
-    "lastUpdate": "2026-04-24T12:39:55Z",
+    "lastUpdate": "2026-04-27T13:26:20Z",
     "cycle": 0
   },
   {
     "name": "SUDJIONO",
     "stock": 0,
     "lastStock": 7,
-    "lastUpdate": "2026-04-25T00:21:22Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-27T13:26:32Z",
+    "cycle": 1
   },
   {
     "name": "ANDRI HERU CAHYONO",
     "stock": 0,
     "lastStock": 0,
-    "lastUpdate": "2026-04-25T00:33:36Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-27T13:26:48Z",
+    "cycle": 1
   },
   {
     "name": "ABDUL WAFI",
-    "stock": 149,
+    "stock": 98,
     "lastStock": 0,
-    "lastUpdate": "2026-04-24T22:53:58Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-27T13:27:08Z",
+    "cycle": 1
   },
   {
     "name": "YUNIS WAHYUNI",
