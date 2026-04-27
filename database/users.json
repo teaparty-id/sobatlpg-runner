@@ -43,9 +43,9 @@
   },
   {
     "name": "SUCIYONO",
-    "stock": 206,
+    "stock": 203,
     "lastStock": 0,
-    "lastUpdate": "2026-04-27T12:16:43Z",
+    "lastUpdate": "2026-04-27T12:21:57Z",
     "cycle": 0
   },
   {
@@ -71,9 +71,9 @@
   },
   {
     "name": "LUTFI A.",
-    "stock": 288,
+    "stock": 287,
     "lastStock": 0,
-    "lastUpdate": "2026-04-27T12:16:43Z",
+    "lastUpdate": "2026-04-27T12:21:57Z",
     "cycle": 0
   },
   {
@@ -92,9 +92,9 @@
   },
   {
     "name": "TOKO IIN",
-    "stock": 290,
+    "stock": 289,
     "lastStock": 0,
-    "lastUpdate": "2026-04-27T12:16:43Z",
+    "lastUpdate": "2026-04-27T12:21:57Z",
     "cycle": 0
   },
   {
@@ -176,31 +176,31 @@
   },
   {
     "name": "HADI SUTOYO",
-    "stock": 11,
+    "stock": 9,
     "lastStock": 0,
-    "lastUpdate": "2026-04-27T12:16:43Z",
-    "cycle": 4
+    "lastUpdate": "2026-04-27T12:21:57Z",
+    "cycle": 5
   },
   {
     "name": "SRI HIDAYATI",
-    "stock": 44,
+    "stock": 42,
     "lastStock": 0,
-    "lastUpdate": "2026-04-27T12:19:06Z",
-    "cycle": 4
+    "lastUpdate": "2026-04-27T12:23:57Z",
+    "cycle": 5
   },
   {
     "name": "ONG SWI GIOK",
     "stock": 32,
     "lastStock": 0,
-    "lastUpdate": "2026-04-27T12:19:08Z",
-    "cycle": 3
+    "lastUpdate": "2026-04-27T12:24:19Z",
+    "cycle": 4
   },
   {
     "name": "YUSUF ISMAIL",
-    "stock": 13,
+    "stock": 12,
     "lastStock": 0,
-    "lastUpdate": "2026-04-27T12:19:43Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-27T12:24:51Z",
+    "cycle": 3
   },
   {
     "name": "SUPARNI",
@@ -218,17 +218,17 @@
   },
   {
     "name": "ARIF FAUZI",
-    "stock": 12,
+    "stock": 11,
     "lastStock": 0,
-    "lastUpdate": "2026-04-24T09:39:39Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-27T12:25:55Z",
+    "cycle": 1
   },
   {
     "name": "MOH HAFIF",
-    "stock": 25,
+    "stock": 21,
     "lastStock": 0,
-    "lastUpdate": "2026-04-24T10:15:37Z",
-    "cycle": 0
+    "lastUpdate": "2026-04-27T12:26:04Z",
+    "cycle": 1
   },
   {
     "name": "SAMSUL ARIFIN",
