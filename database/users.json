@@ -45,8 +45,8 @@
     "name": "SUCIYONO",
     "stock": 196,
     "lastStock": 0,
-    "lastUpdate": "2026-04-27T12:48:54Z",
-    "cycle": 4
+    "lastUpdate": "2026-04-27T12:55:23Z",
+    "cycle": 5
   },
   {
     "name": "JAENAL",
@@ -73,7 +73,7 @@
     "name": "LUTFI A.",
     "stock": 281,
     "lastStock": 0,
-    "lastUpdate": "2026-04-27T12:48:54Z",
+    "lastUpdate": "2026-04-27T12:55:23Z",
     "cycle": 0
   },
   {
@@ -94,7 +94,7 @@
     "name": "TOKO IIN",
     "stock": 281,
     "lastStock": 0,
-    "lastUpdate": "2026-04-27T12:48:54Z",
+    "lastUpdate": "2026-04-27T12:55:23Z",
     "cycle": 0
   },
   {
@@ -234,15 +234,15 @@
     "name": "SAMSUL ARIFIN",
     "stock": 11,
     "lastStock": 0,
-    "lastUpdate": "2026-04-27T12:51:32Z",
-    "cycle": 4
+    "lastUpdate": "2026-04-27T12:55:23Z",
+    "cycle": 5
   },
   {
     "name": "HERDIANA DIYAH S",
     "stock": 64,
     "lastStock": 0,
-    "lastUpdate": "2026-04-27T12:52:02Z",
-    "cycle": 4
+    "lastUpdate": "2026-04-27T12:56:39Z",
+    "cycle": 5
   },
   {
     "name": "BUDI",
@@ -253,10 +253,10 @@
   },
   {
     "name": "YULI SORAYA",
-    "stock": 19,
+    "stock": 1,
     "lastStock": 0,
-    "lastUpdate": "2026-04-27T12:52:46Z",
-    "cycle": 2
+    "lastUpdate": "2026-04-27T12:56:57Z",
+    "cycle": 3
   },
   {
     "name": "SUSILO",
